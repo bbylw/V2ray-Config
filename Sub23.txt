@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+               <p class="cf-error-description">
+               If you are owner of this website, prevent this from happening again by upgrading your plan on the <a href="https://dash.cloudflare.com/?account=workers/plans" target="_blank">Cloudflare Workers dashboard</a>.
+               </p>
+               
+               
+               <p>
+               <a
+                  href="https://developers.cloudflare.com/workers/about/limits/#number-of-requests-limit"
+                  target="_blank"
+                  rel="noopener noreferrer"
+               >
                   Learn more about this issue →
                </a>
                </p>
@@ -11,14 +22,14 @@
 
             <div class="cf-error-footer cf-wrapper">
     <p>
-      <span class="cf-footer-item">Cloudflare Ray ID: 8d094c78ef0d390b</span>
+      <span class="cf-footer-item">Cloudflare Ray ID: 8d09a27c0bf4c99b</span>
       <span class="cf-footer-separator">&bull;</span>
-      <span class="cf-footer-item">2024-10-10 20:18:17 UTC</span>
+      <span class="cf-footer-item">2024-10-10 21:17:00 UTC</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden">
         <span class="cf-footer-separator">&bull;</span>
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">20.75.95.167</span>
+        <span class="hidden" id="cf-footer-ip">20.55.214.160</span>
       </span>
       <span class="cf-footer-separator">&bull;</span>
       <span class="cf-footer-item"><span>Runs on </span><a rel="noopener noreferrer" href="https://workers.cloudflare.com?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare Workers</a></span>
@@ -592,14 +603,3 @@ vless://8899db73-3a64-4c1c-b8b1-7dc826b41caf@w3.org:443?encryption=none&security
       "settings": {
         "auth": "noauth",
         "udp": true,
-        "allowTransparent": false
-      }
-    }
-  ],
-  "outbounds": [
-    {
-      "tag": "proxy",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {

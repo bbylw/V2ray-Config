@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+        "allowTransparent": false
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
             "address": "nodejs.org",
             "port": 2053,
             "users": [
@@ -448,7 +459,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8d094c818f1e3817 &bull; 2024-10-10 20:18:18 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8d09a2834ae8c983 &bull; 2024-10-10 21:17:01 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -473,12 +484,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8d094c818f1e3817</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8d09a2834ae8c983</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.75.95.167</span>
+      <span class="hidden" id="cf-footer-ip">20.55.214.160</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -592,14 +603,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.174.138.220:443?path=tg%40zdyz2
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.179:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=lh.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.174.138.141:8443?path=%2F&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#👉🆔 @v2ray_configs_pool📡🇷🇺Russia`
 vless://34f9bcba-c27b-4009-b6ea-e648e620292c@141.147.62.249:443?path=%2F-----FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG-----%3Fed&security=tls&encryption=none&type=ws&sni=CHANNel-Id-FREeV2rNg.PAgeS.DEv#👉🆔 @v2ray_configs_pool📡🇩🇪Germany`
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.27:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ah.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://98f0c223-cb75-4faa-859e-47110b1f052b@209.208.227.61:2096?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed&security=tls&encryption=none&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.84:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=dh.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.39:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ah.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=ARCane-ROYAL.Pages.DEV&type=ws&sni=ARCane-ROYAL.Pages.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-vless://7daf6801-f3b9-4139-8394-2dd91723c26f@get-admin-upanel.poqpoq.cfd:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8443&security=tls&encryption=none&host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-vless://7daf6801-f3b9-4139-8394-2dd91723c26f@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-vless://7daf6801-f3b9-4139-8394-2dd91723c26f@104.17.234.114:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-vless://2752d4ae-8a46-4b24-9368-d6c4f7c4fe91@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-vless://7daf6801-f3b9-4139-8394-2dd91723c26f@speedtest.net:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D443&security=tls&encryption=none&host=VPNCUSTOMIZE.azmoon.net&fp=chrome&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?type=ws&host=119f3a0b.chikiy123w.pages.dev&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn/?ed%3D2048&security=tls&fp=randomized&sni=119f3a0b.chikiy123w.pages.dev#[🇺🇸]t.me/ConfigsHub`
-vless://c5049393-6f27-4265-9691-8c9d963fa32b@79.127.70.82:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub`
