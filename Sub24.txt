@@ -3,6 +3,53 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "nodejs.org",
+            "port": 2053,
+            "users": [
+              {
+                "id": "a2a2f587-7b4b-4186-ac59-8422f75afad4",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none",
+                "flow": ""
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "fRaG1.MaHSAamiNI.cc",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
+          "fingerprint": "chrome",
+          "show": false
+        },
+        "wsSettings": {
+          "path": "/da",
+          "headers": {
+            "Host": "fRaG1.MaHSAamiNI.cc"
+          }
+        },
+        "sockopt": {
+          "dialerProxy": "fragment",
+          "tcpKeepAliveIdle": 100,
+          "mark": 255,
+          "tcpNoDelay": true
+        }
+      }
+    },
+    {
       "tag": "fragment",
       "protocol": "freedom",
       "settings": {
@@ -405,7 +452,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8d04239a6f9dacae &bull; 2024-10-10 05:16:34 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8d048696f97e231d &bull; 2024-10-10 06:24:08 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -430,12 +477,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8d04239a6f9dacae</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8d048696f97e231d</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.183.51.123</span>
+      <span class="hidden" id="cf-footer-ip">172.183.132.21</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -459,13 +506,6 @@
 
 vmess://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FISB6gvC3mmVSWxzE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=joinmahdiseRver-Az7.pAgES.dev&fp=randomized&type=ws&sni=jOInmAHDiSERVer-AZ7.paGes.dEV#[🇺🇸]t.me/ConfigsHub`
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2096?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=JOInv2ngFaSt-2mM.pAges.DeV&type=ws&sni=JoinV2nGFaSt-2MM.pAges.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-vmess://eyJhZGQiOiAiYmUuYW5hdmlyaXRpLmluZm8iLCAiYWlkIjogIjEiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYmUuYW5hdmlyaXRpLmluZm8iLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImxpbmt2d3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImJlLmFuYXZpcml0aS5pbmZvIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=`
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.61.8:443?path=%2Fcurrent_time&security=tls&encryption=none&alpn=http/1.1&host=ahmedquran19.xyz&type=ws&sni=ahmedquran19.xyz#[🇺🇸]t.me/ConfigsHub`
-vless://dacd12ee-d990-499a-bc96-9396c9635ff8@151.101.128.223:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=hostiran.ir&fp=randomized&type=ws&sni=python.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://590cdf91-08c0-467a-eede-54633413589a@172.67.132.209:2095?path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.Jaricopen.Shop.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-vless://1354fa1b-56bd-43f4-9379-b9544613f6b0@167.82.79.0:443?encryption=none&security=tls&sni=live.skornorth.com&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=Telegram-Daily-Configs.com&path=%2FJoin%2FTelegram%3A%40Daily_Configs%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub`
 vless://1354fa1b-56bd-43f4-9379-b9544613f6b0@199.232.201.0:443?encryption=none&security=tls&sni=Telegram-Daily-Configs.com&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=Telegram-Daily-Configs.com&path=%2FJoin%2FTelegram%3A%40Daily_Configs%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub`
 vless://0ccce1b6-e255-439a-a968-5a1a2ac7c04d@151.101.130.133:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=Telegram-falcunargo.ir&fp=random&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
 vless://7a88516b-2194-42e8-b0d5-77594b35da9d@live.wkrq.com:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=tls&encryption=none&host=barkatc1.ir&type=ws&sni=live.wkrq.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
@@ -563,43 +603,3 @@ vless://98f0c223-cb75-4faa-859e-47110b1f052b@45.194.53.81:2096?path=%2FTelegram-
 vless://34f9bcba-c27b-4009-b6ea-e648e620292c@138.3.250.58:443?path=%2F-----FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG-----%3Fed&security=tls&encryption=none&type=ws&sni=CHANNel-Id-FREeV2rNg.PAgeS.DEv#👉🆔 @v2ray_configs_pool📡🇩🇪Germany`
 vless://34f9bcba-c27b-4009-b6ea-e648e620292c@208.86.168.210:443?path=%2F-----FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG-----%3Fed&security=tls&encryption=none&type=ws&sni=CHANNel-Id-FREeV2rNg.PAgeS.DEv#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@152.70.249.67:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=ah.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea`
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.185.161.149:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.93:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=lh.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@91.193.58.98:2096?path=TG%40ZDYZ2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom`
-vless://34f9bcba-c27b-4009-b6ea-e648e620292c@141.147.11.251:443?path=%2F-----FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG-----%3Fed&security=tls&encryption=none&type=ws&sni=CHANNel-Id-FREeV2rNg.PAgeS.DEv#👉🆔 @v2ray_configs_pool📡🇩🇪Germany`
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.165:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ah.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.127:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=lh.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://34f9bcba-c27b-4009-b6ea-e648e620292c@205.233.181.184:443?path=%2F-----FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG-----%3Fed&security=tls&encryption=none&type=ws&sni=CHANNel-Id-FREeV2rNg.PAgeS.DEv#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://34f9bcba-c27b-4009-b6ea-e648e620292c@130.162.163.77:443?path=%2F-----FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG-----%3Fed&security=tls&encryption=none&type=ws&sni=CHANNel-Id-FREeV2rNg.PAgeS.DEv#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.16:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=lh.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.33:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=lh.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.70:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=dh.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://34f9bcba-c27b-4009-b6ea-e648e620292c@199.34.228.174:443?path=%2F-----FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG-----%3Fed&security=tls&encryption=none&type=ws&sni=CHANNel-Id-FREeV2rNg.PAgeS.DEv#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.233:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ch.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@61.81.181.169:14985?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ag.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.81:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ch.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.141:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=dh.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.15:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool📡🇷🇺Russia`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.0.63.143:443?path=%2Fbluehttps%3A%2F%2Fvless.fxxk.dedyn.io%2Fsub%3Fhost&security=tls&encryption=none&type=ws&sni=cg.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.116:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=lh.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://34f9bcba-c27b-4009-b6ea-e648e620292c@208.86.168.178:443?path=%2F-----FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG-----%3Fed&security=tls&encryption=none&type=ws&sni=CHANNel-Id-FREeV2rNg.PAgeS.DEv#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.88:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=dh.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore`
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.0.54.48:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=ah.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.27:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=lg.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.145:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=lh.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.247:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=dh.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://34f9bcba-c27b-4009-b6ea-e648e620292c@130.61.83.174:443?path=%2F-----FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG-----%3Fed&security=tls&encryption=none&type=ws&sni=CHANNel-Id-FREeV2rNg.PAgeS.DEv#👉🆔 @v2ray_configs_pool📡🇩🇪Germany`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.91:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=dg.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.151:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=lh.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.116.134.16:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.18.250.185:2053?path=%2F&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland`
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.176.24.2:2096?path=%2FwNSpx3ZULFCewpVS%3Fed&security=tls&encryption=none&type=ws&sni=403B3611-99bC-43b7-88d7-26Ed5d0825a9-3.paGEs.deV#👉🆔 @v2ray_configs_pool📡🇷🇺Russia`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.29:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=lh.ylka.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.177:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=dh.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.172:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ah.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.75:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=lh.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://98f0c223-cb75-4faa-859e-47110b1f052b@205.233.181.199:2096?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed&security=tls&encryption=none&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.15:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=dh.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@59.3.3.161:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ah.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea`
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.174.138.217:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool📡🇷🇺Russia`
-vless://34f9bcba-c27b-4009-b6ea-e648e620292c@130.162.212.225:443?path=%2F-----FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG-----%3Fed&security=tls&encryption=none&type=ws&sni=CHANNel-Id-FREeV2rNg.PAgeS.DEv#👉🆔 @v2ray_configs_pool📡🇩🇪Germany`
