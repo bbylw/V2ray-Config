@@ -3,30 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-      "reserved": [205,184,52],  
-
-      "mtu": 1120
-    },{
-      "type": "wireguard",
-      "tag": "Warp-IR9",
-      "server": "162.159.192.18",
-      "server_port": 946,
-
-      "local_address": [
-        "172.16.0.2/32",
-        "2606:4700:110:8bfe:9ee3:bc8e:8274:cf86/128"
-      ],
-      "private_key": "eCb5hevZFkPV/S8ppLuwVfiQuBTCPCUKih0hjwM7Rm8=",
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [19,45,7],
-
-      "mtu": 1280,
-      "fake_packets": "5-10"
-    },
-    {
-      "type": "wireguard",
-      "tag": "Warp-Main9",
-      "detour": "Warp-IR9",
       "server": "162.159.192.18",
       "server_port": 946,
       
@@ -115,7 +91,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8d0dc2bcb8a782e4 &bull; 2024-10-11 09:18:04 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8d0e19a70e482d3a &bull; 2024-10-11 10:17:24 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -140,12 +116,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8d0dc2bcb8a782e4</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8d0e19a70e482d3a</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.161.78.38</span>
+      <span class="hidden" id="cf-footer-ip">172.183.131.136</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -169,24 +145,6 @@
 
 vmess://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.245:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=lh.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@194.36.55.198:8443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.251:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=lg.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://98f0c223-cb75-4faa-859e-47110b1f052b@199.34.228.171:2096?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed&security=tls&encryption=none&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://98f0c223-cb75-4faa-859e-47110b1f052b@199.34.228.178:2096?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed&security=tls&encryption=none&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.110:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=ag.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.92:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ah.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://98f0c223-cb75-4faa-859e-47110b1f052b@209.208.227.218:2096?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed&security=tls&encryption=none&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@89.116.161.250:8443?path=%2Ftg%40zdyz2security&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania`
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.153.103.203:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.185:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates`
-vless://34f9bcba-c27b-4009-b6ea-e648e620292c@208.86.168.45:443?path=%2F-----FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG-----%3Fed&security=tls&encryption=none&type=ws&sni=CHANNel-Id-FREeV2rNg.PAgeS.DEv#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.22:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=dh.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.86:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=lh.ylka.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.244.122.85:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool📡🇩🇪Germany`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.215:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=dh.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.134:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=lh.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.254:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.88:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ah.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.52:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=lh.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
 vless://34f9bcba-c27b-4009-b6ea-e648e620292c@199.34.228.177:443?path=%2F-----FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG-----%3Fed&security=tls&encryption=none&type=ws&sni=CHANNel-Id-FREeV2rNg.PAgeS.DEv#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
@@ -369,6 +327,24 @@ vless://00463b86-b6fb-4c20-b716-f5a700ab7800@www.speedtest.net:80/?type=ws&path=
 vmess://eyJhZGQiOiAiSGdSZEZhZWxWdHlwanhjVHhtdmRmdU1uSlBieFVTSW5FaE5DYy5yb3hpZmEuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICJoMiIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNjNhZjNiZjQtODAzYy00ZDc3LTlkZTEtODM1ZjBiNTRmOWYzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9yYWZhP2VkPTIwNDgiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImxnR3lwRFVjTWFuV0Z6QVFiZVBmWUVpQ3VqdEhLeC5yb3hpZmEuaXIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDYW5hZGEifQ==`
 vless://0c817786-d73b-461e-99e7-b96eb9025781@www.speedtest.net:80/?type=ws&path=%2F%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol&host=www.speedtest.net-metreeff-ary-kur-d-newff.vmessprotocol.ggff.net&security=none#%40v2rayprotocol%201%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86%20%D9%85%D8%B1%D8%AC%D8%B9%20%D8%B3%D8%B1%D9%88%D8%B1%20%F0%9F%AA%B8```
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.75.239.115:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮`
+vless://2c0ad808-7251-4db7-8891-77b49e6e1e4d@104.20.7.194:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D2048&host=aestingdownload.pages.dev&encryption=none#[🇺🇸]t.me/ConfigsHub`
+vless://2c0ad808-7251-4db7-8891-77b49e6e1e4d@104.17.255.198:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D2048&host=aestingdownload.pages.dev&encryption=none#[🇺🇸]t.me/ConfigsHub`
+vless://2c0ad808-7251-4db7-8891-77b49e6e1e4d@172.66.44.56:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D2048&host=aestingdownload.pages.dev&encryption=none#[🇨🇦]t.me/ConfigsHub`
+vless://2c0ad808-7251-4db7-8891-77b49e6e1e4d@zula.ir:443?security=tls&sni=aestingdownload.pages.dev&fp=chrome&type=ws&path=/?ed%3D2048&host=aestingdownload.pages.dev&encryption=none#[🇨🇦]t.me/ConfigsHub`
+vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=%2FTELEGRAM-NUFiLTER%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg48.pages.dev&fp=random&type=ws&sni=pardazeshvpn-tg48.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
+vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443?path=%2FYE8wFQQnzARDsNUP%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&encryption=none&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=randomized&type=ws&sni=BPb-WOrKeR-paneL1-e4P.PAGES.DEV#[🇨🇦]t.me/ConfigsHub`
+vless://a62dea94-e327-4666-a4eb-ac6933f63dfc@151.101.2.219:80?path=%2FAOagIIfbJJ0hbXIwCE6mq&security=none&encryption=none&host=www.visualcapitalist.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
+vless://22e04978-3204-4e54-ac3d-77b987d9dfb4@client.falixnodes.net:2095?path=%2Fc4iRINukgftb1QoO%2Fc29mdDk4Lmly%3Fed%3D2560&security=none&encryption=none&host=amoxesh-shokhmi.moradibarzan032.workers.dev&type=ws#[🇺🇸]t.me/ConfigsHub`
+vless://57665398-8879-4120-9999-cbe53a537e81@104.21.11.130:443?path=%2FVLESS%2Fde-full.privateip.net&security=tls&encryption=none&alpn=http/1.1&host=yelan.eula.cloudns.org&fp=random&type=ws&sni=yel9f9f9foan.eula.cloudns.org#[🇺🇸]t.me/ConfigsHub`
+vless://e43e06ff-6a94-4383-adb8-ff7116a9a518@146.75.54.133:443?hiddify=1&sni=unternehmen.rossmann.de&type=ws&alpn=http/1.1&path=/AOagIIfbJJ0hbXIwCE6mq&host=tara.ir&encryption=none&fp=firefox&headerType=None&security=tls#[🏁]t.me/ConfigsHub`
+vless://e43e06ff-6a94-4383-adb8-ff7116a9a518@www.speedtest.net:80?hiddify=1&sni=17.v.v2.www.speedtest.net.g.debian.org.2.nanvaiiisaeed.ir&type=ws&alpn=http/1.1&path=/AOagIIfbJJ0hbXIwCE6mq&host=17.v.v2.www.speedtest.net.g.debian.org.2.nanvaiiisaeed.ir&encryption=none&fp=firefox&headerType=None&security=none#[🇺🇸]t.me/ConfigsHub`
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@184.72.231.74:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸`
+vless://07f497b8-7e85-4036-ae6d-273815247212@zmaoz.faculty.ucdavis.edu:443?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8880&security=tls&encryption=none&host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&fp=firefox&type=ws&sni=zmaoz.faculty.ucdavis.edu#[🇫🇷]t.me/ConfigsHub`
+vless://5170ec7f-5f4d-4b98-8f19-48d829a4da78@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2560&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.&encryption=none#[🇺🇸]t.me/ConfigsHub`
+vless://8342752e-6964-4fd5-946d-383887d0bb2a@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedee.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
+vmess://eyJhZGQiOiAibXJjb25maWctNzYuc2VjcmV0dnBzMS50b3AiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICJoMiIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICJtcmNvbmZpZy03Ni5zZWNyZXR2cHMxLnRvcCIsICJpZCI6ICIwYTNlZTMxYS0xNzU2LTQ4ZDItYjI5NS1lOTE0MGE0ZWM0MzMiLCAibmV0IjogImdycGMiLCAicGF0aCI6ICJyTUZnZUh6NGhMSzU5WnZCOUVZcnFRMyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAibXJjb25maWctNzYuc2VjcmV0dnBzMS50b3AiLCAidGxzIjogInRscyIsICJ0eXBlIjogImd1biIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmFSdXNzaWEifQ==`
+vless://96171d5a-53a3-4259-9149-168424da0094@34.244.123.171:8888?type=ws&path=%2F%40avandvpn&host=Telewebion.avandsecurity.sbs&security=none#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland`
+vless://8e6fd475-0348-4cac-85bf-b174728db8f7@34.244.123.171:9999?type=tcp&path=%2F%40avandvpn&host=Telewebion.avandsecurity.sbs&headerType=http&security=none#[🇮🇪]t.me/ConfigsHub`
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.147:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.147-098
 vmess://ewogICAgImFkZCI6ICIxMDQuMjEuNzQuMjM5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiYWZyaG1zMDcueGZpeGVkZmxvYXQuY2ZkIiwKICAgICJpZCI6ICJhMTY1NWY1MS0xZTIwLTRhOTItOGExMS1iN2NhMzBhN2EzNTMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3dzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuNzQuMjM5LTA1NyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImFmcmhtczA3LnhmaXhlZGZsb2F0LmNmZCIKfQ==
@@ -603,3 +579,27 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7002#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-232
 vmess://ewogICAgImFkZCI6ICIxNzIuMjM0Ljk0LjE2MyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjE3Mi4yMzQuOTQuMTYzIiwKICAgICJpZCI6ICI3YWQ4ZGEwYy1mZGE1LTQxNmItOWU3Mi00N2NjNjgzMTNmZmUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvZmtQYVFoUFQiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC0xNzIuMjM0Ljk0LjE2My0wMDciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICIxNzIuMjM0Ljk0LjE2MyIKfQ==
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:4444#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-224
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#%F0%9F%87%BB%F0%9F%87%B3VN-103.163.218.2-204
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-223
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.69:5601#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-222
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.49.84:5004#%F0%9F%87%BA%F0%9F%87%B8US-142.202.49.84-645
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.157:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.157-149
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@185.24.151.214:52952#%F0%9F%87%AE%F0%9F%87%B7IR-185.24.151.214-670
+vmess://ewogICAgImFkZCI6ICIxNzIuNjQuMTY2LjMzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiaXAyLjYwMTY3MjUueHl6IiwKICAgICJpZCI6ICIxOGQ5NjE5MC1jMTBmLTQ0OGYtYTgyYS0yZDM2ZGY1YzNjZGUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjA5NSwKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY0LjE2Ni4zMy0xOTAiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+trojan://pjdnqv@aws-us-nyc-1.f1rocketnode.com:443?security=tls&sni=aws-us-nyc-1.f1rocketnode.com#%F0%9F%87%BA%F0%9F%87%B8US-15.181.162.90-479
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJVlFVMzR6TUZO@52.79.183.104:6313#%F0%9F%87%B0%F0%9F%87%B7KR-52.79.183.104-274
+vmess://ewogICAgImFkZCI6ICI5NC4xMzEuMTQuMTc3IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICIyYzVmZWUxMy1mMDhiLTRiYTgtODZkYi0yN2RkNTFjYjk3ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdm1lc3MiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4ex8J+HuUxULTk0LjEzMS4xNC4xNzctMjc1IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+vmess://ewogICAgImFkZCI6ICIxMDMuMTEzLjY4LjIzMyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZmRkYjM3ODEtN2UxNS00NzMxLWE5MzMtOTRkYjExMGI0YmJjIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3ZtZXNzIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+Ht/Cfh7pSVS0xMDMuMTEzLjY4LjIzMy0yNzYiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vmess://ewogICAgImFkZCI6ICIxMDQuMTcuMTAxLjM1IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAic2FuZC5ibGFua3UubWUiLAogICAgImlkIjogImM4YWJmNjZhLTE5MDMtNDYzOC1hNDQ4LTljODY3MzNlNDI1NCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi93c3MxMzQ4MCIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE3LjEwMS4zNS0yNzciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJzYW5kcC5ibGFua3UubWUiCn0=
+vmess://ewogICAgImFkZCI6ICIxNzYuMTIwLjY0Ljg2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI4MGQxN2MzNy01NzM5LTQ1OTctYTQxMi05NzQ3ZTA1MzJkNTIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdm1lc3MiLAogICAgInBvcnQiOiAyMDg2LAogICAgInBzIjogIvCfh6nwn4ewREstMTc2LjEyMC42NC44Ni0yNzgiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJkazEueHYycmF5Lm5ldCIKfQ==
+vmess://ewogICAgImFkZCI6ICIxODguNDIuODguMjI3IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAic2FuZC5ibGFua3UubWUiLAogICAgImlkIjogImM4YWJmNjZhLTE5MDMtNDYzOC1hNDQ4LTljODY3MzNlNDI1NCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi93c3MxMzQ4MCIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTg4LjQyLjg4LjIyNy0yNzkiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJzYW5kcC5ibGFua3UubWUiCn0=
+vmess://ewogICAgImFkZCI6ICIxMDQuMjEuOTQuMjUxIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZGUyLnh2MnJheS5uZXQiLAogICAgImlkIjogImM3NDIxYTM5LTAyMGQtNGEwMS05N2VkLTllYWNiY2UwYTdjYSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi92bWVzcyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuOTQuMjUxLTI4MCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICIxMDQuMTYuMTA5LjQ1IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiYi5iYXJtYXNpMi53b3JrZXJzLmRldiIsCiAgICAiaWQiOiAiRENFNzYwNjEtRUU2NS00OURCLTk5N0MtQTZBODgwREFERTNBIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3NwZWVkdGVzdC9LYW5zYXMua290aWNrLnNpdGUiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4xNi4xMDkuNDUtMjgxIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiYi5iYXJtYXNpMi53b3JrZXJzLmRldiIKfQ==
+vmess://ewogICAgImFkZCI6ICJybGhyd3RxdXNkLnNpdGUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJybGhyd3RxdXNkLnNpdGUiLAogICAgImlkIjogIjRmYTM1ZWE0LTY2OGUtNGQ3Yi05YmJjLWI4MzY4MTA2MDYxNyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9rd2htdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7rwn4e4VVMtMTk5LjU5LjI0My4yMjctMjgyIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+vmess://ewogICAgImFkZCI6ICIxMDQuMjQuMTc3LjciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJzYW5kLmJsYW5rdS5tZSIsCiAgICAiaWQiOiAiYzhhYmY2NmEtMTkwMy00NjM4LWE0NDgtOWM4NjczM2U0MjU0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3dzczEzNDgwIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjQuMTc3LjctMjgzIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAic2FuZHAuYmxhbmt1Lm1lIgp9
+vmess://ewogICAgImFkZCI6ICJydTEtdm1lc3Muc3NobWF4Lnh5eiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInJ1MS12bWVzcy5zc2htYXgueHl6IiwKICAgICJpZCI6ICJmZGRiMzc4MS03ZTE1LTQ3MzEtYTkzMy05NGRiMTEwYjRiYmMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdm1lc3MiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4e68J+HuFVTLTcyLjUyLjE3OC4yMy0yODQiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vmess://ewogICAgImFkZCI6ICIxODUuMTkzLjMxLjIwMSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInNhbmQuYmxhbmt1Lm1lIiwKICAgICJpZCI6ICJjOGFiZjY2YS0xOTAzLTQ2MzgtYTQ0OC05Yzg2NzMzZTQyNTQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvd3NzMTM0ODAiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE4NS4xOTMuMzEuMjAxLTI4NSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogInNhbmRwLmJsYW5rdS5tZSIKfQ==
+vmess://ewogICAgImFkZCI6ICI0NS44NS4xMTkuMjA3IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZGVsaWNhdGUtbWVhZG93LWI3MjgubWFoZGloYWppemFkZTEyMzA4MDAxOTYyNC53b3JrZXJzLmRldiIsCiAgICAiaWQiOiAiMkYwOTQ4NDUtRTJCRC1FQkY3LURFQjctOTk1OTkyNDM2RkFGIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL0thbnNhcy5rb3RpY2suc2l0ZS9zcGVlZHRlc3QiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTQ1Ljg1LjExOS4yMDctMjg2IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiZGVsaWNhdGUtbWVhZG93LWI3MjgubWFoZGloYWppemFkZTEyMzA4MDAxOTYyNC53b3JrZXJzLmRldiIKfQ==
+vmess://ewogICAgImFkZCI6ICIxMDQuMTYuOC4zIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAic2FuZC5ibGFua3UubWUiLAogICAgImlkIjogImM4YWJmNjZhLTE5MDMtNDYzOC1hNDQ4LTljODY3MzNlNDI1NCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi93c3MxMzQ4MCIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE2LjguMy0yODciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJzYW5kcC5ibGFua3UubWUiCn0=
+vmess://ewogICAgImFkZCI6ICJhbHZ2aW4uY2xpY2siLAogICAgImFpZCI6IDEsCiAgICAiaG9zdCI6ICJhbHZ2aW4uY2xpY2siLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImxpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HuvCfh7hVUy0xMy4yNDguMjUyLjExNC0yODgiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vmess://ewogICAgImFkZCI6ICJ6dHpoaGx1ai5zaXRlIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAienR6aGhsdWouc2l0ZSIsCiAgICAiaWQiOiAiNGZhMzVlYTQtNjY4ZS00ZDdiLTliYmMtYjgzNjgxMDYwNjE3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2t3aG12d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HuvCfh7hVUy0xOTkuNTkuMjQzLjIyNy0yODkiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
