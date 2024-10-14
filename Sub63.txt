@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - {"name":"feng1_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"046da250-d5ef-4867-9095-302477d54d20","tls":false,"servername":"feng.ipy29c99.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng.ipy29c99.workers.dev"}},"client-fingerprint":"randomized"}
   - {"name":"feng2_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"77f2d54c-f1bd-46ff-af4c-cc44c72fd25e","tls":false,"servername":"feng2.vfl83lnn.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng2.vfl83lnn.workers.dev"}},"client-fingerprint":"randomized"}
   - {"name":"feng3_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"318c375c-1f29-4b30-8875-2c4c54d7c38d","tls":false,"servername":"feng3.2n7y5pja.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng3.2n7y5pja.workers.dev"}},"client-fingerprint":"randomized"}
   - {"name":"feng4_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"d6ff33a6-03bf-4338-8a63-62ab284a9466","tls":false,"servername":"feng4.l1ut8bi9.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng4.l1ut8bi9.workers.dev"}},"client-fingerprint":"randomized"}
@@ -603,3 +602,4 @@ rules:
   - DOMAIN-SUFFIX,3xx.vip,🛑 全球拦截
   - DOMAIN-SUFFIX,51.la,🛑 全球拦截
   - DOMAIN-SUFFIX,51taifu.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,51yes.com,🛑 全球拦截
