@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+        "udp": true,
+        "allowTransparent": false
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "vless",
       "settings": {
         "vnext": [
           {
@@ -451,7 +460,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8d36a41a89c12f70 &bull; 2024-10-16 08:22:25 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8d36f700ee36cf2b &bull; 2024-10-16 09:19:01 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -476,12 +485,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8d36a41a89c12f70</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8d36f700ee36cf2b</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.172.46.70</span>
+      <span class="hidden" id="cf-footer-ip">13.83.123.176</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -594,12 +603,3 @@ vless://ab6ac91e-2e86-4f6b-99ac-dd1124a023c4@uigukjlgbkljguyfkjbk.pages.dev:443?
 vless://f06ac303-e626-451d-bcfc-ee825ee69398@noora.ir:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=azaDNEt-sEMEJ.PageS.Dev&type=ws&sni=AzADnet-semEj.PAGes.dEv#%40V2ray_Alpha_MCI_11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@w3.org:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=56897854.pAGES.dEv&fp=randomized&type=ws&sni=56897854.PaGeS.DEv#%40V2ray_Alpha_MCI_12
 vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.47.155:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazesh18.pages.dev&fp=chrome&type=ws&sni=pardazesh18.pages.dev#%40V2ray_Alpha_MCI_13
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.252:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=94391e80.uvPN-OrG.PAGes.Dev&type=ws&sni=94391e80.uvPN-OrG.PAGes.Dev#%40V2ray_Alpha_MCI_14
-vless://dfc79b00-a51a-45cf-9c0a-d061a01295b4@172.67.134.196:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PaHLAvi-184.PAgES.dEV&fp=randomized&type=ws&sni=pAHlAvi-184.pAGEs.DeV#%40V2ray_Alpha_MCI_15
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23spt.pages.dev:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=23spt.pages.dev&type=ws&sni=23sPT.pAGEs.dEV#%40V2ray_Alpha_MCI_16
-vless://38720105-063f-40f5-a5eb-f3198b9b617d@aksnmaioas.pages.dev:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=aksnmaioas.pages.dev&type=ws&sni=aksnmaioas.pages.dev#%40V2ray_Alpha_MCI_17
-vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=dc1bf227.vf-8co.pages.dev&fp=randomized&type=ws&sni=dc1bf227.vf-8co.pages.dev#%40V2ray_Alpha_MCI_18
-vless://2d01b0eb-91fd-4eae-9fb0-50c08856181d@172.66.44.57:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=e420ceed.aryoo-vpn-friends.pages.dev&type=ws&sni=e420ceed.aryoo-vpn-friends.pages.dev#%40V2ray_Alpha_MCI_19♾نامحدود
-vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=aksnmaioas.pages.dev&type=ws&sni=aksnmaioas.pages.dev#Wifi--%40V2ray_Alpha-12
-vless://91b41e65-a104-4fde-906b-4ed6bbb18424@104.19.189.152:443?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=ev2raydev.pages.dev&fp=firefox&type=ws&sni=PaGeS.DEV#Wifi--%40V2ray_Alpha-13
-vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@104.20.78.17:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=dc1bf227.vf-8co.pages.dev&fp=randomized&type=ws&sni=dc1bf227.vf-8co.pages.dev#Wifi--%40V2ray_Alpha-14
