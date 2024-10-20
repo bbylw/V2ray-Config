@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.71:443?allowInsecure=1&sni=lq.ylks01.eu.org&type=ws&host=lq.ylks01.eu.org&path=/freecodessecurity=tls#15%7CUS_speednode_0094
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.19:443?allowInsecure=1&sni=lr.kpcloud.eu.org&type=ws&host=lr.kpcloud.eu.org&path=/freecodessecurity=tls#15%7CUS_speednode_0095
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.68:443?allowInsecure=1&sni=cr.ylks.xyz&type=ws&host=cr.ylks.xyz&path=/freecodessecurity=tls#15%7CUS_speednode_0096
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.24:443?allowInsecure=1&sni=lr.ylks.us.kg&type=ws&host=lr.ylks.us.kg&path=/?ed=2560security=tls#15%7CUS_speednode_0097
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.63:443?allowInsecure=1&sni=lr.kpcloud.eu.org&type=ws&host=lr.kpcloud.eu.org&path=/freecodessecurity=tls#15%7CUS_speednode_0098
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.171:443?allowInsecure=1&sni=lr.ylka.us.kg&type=ws&host=lr.ylka.us.kg&path=/?ed=2560security=tls#15%7CUS_speednode_0099
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.59:443?allowInsecure=1&sni=aq.ylks.xyz&type=ws&host=aq.ylks.xyz&path=/?proxyip=proxyiq.us.fxxq.dedyq.iosecurity=tls#15%7CUS_speednode_0100
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.15:443?allowInsecure=1&sni=dq.ylks.xyz&type=ws&host=dq.ylks.xyz&path=/freecodessecurity=tls#15%7CUS_speednode_0101
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.141:443?allowInsecure=1&sni=dq.ylks.xyz&type=ws&host=dq.ylks.xyz&path=/freecodessecurity=tls#15%7CUS_speednode_0102
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.67:443?allowInsecure=1&sni=dq.ylks.xyz&type=ws&host=dq.ylks.xyz&path=/freecodessecurity=tls#15%7CUS_speednode_0103
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.161:443?allowInsecure=1&sni=lq.ylks01.eu.org&type=ws&host=lq.ylks01.eu.org&path=/freecodessecurity=tls#15%7CUS_speednode_0104
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@162.159.153.46:443?allowInsecure=1&sni=dr.ylks.xyz&type=ws&host=dr.ylks.xyz&path=/freecodessecurity=tls#15%7CUS_speednode_0105
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.221.214.50:443?allowInsecure=1&sni=lr.ylks01.eu.org&type=ws&host=lr.ylks01.eu.org&path=/freecodessecurity=tls#15%7CUS_speednode_0106
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.241:443?allowInsecure=1&sni=aq.ylks.xyz&type=ws&host=aq.ylks.xyz&path=/freecodessecurity=tls#15%7CUS_speednode_0107
@@ -592,14 +603,3 @@ proxies:
   - {"name":"feng1_5","type":"vless","server":"ip.sb","port":8080,"uuid":"046da250-d5ef-4867-9095-302477d54d20","tls":false,"servername":"feng.ipy29c99.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng.ipy29c99.workers.dev"}},"client-fingerprint":"randomized"}
   - {"name":"feng2_5","type":"vless","server":"ip.sb","port":8080,"uuid":"77f2d54c-f1bd-46ff-af4c-cc44c72fd25e","tls":false,"servername":"feng2.vfl83lnn.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng2.vfl83lnn.workers.dev"}},"client-fingerprint":"randomized"}
   - {"name":"feng3_5","type":"vless","server":"ip.sb","port":8080,"uuid":"318c375c-1f29-4b30-8875-2c4c54d7c38d","tls":false,"servername":"feng3.2n7y5pja.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng3.2n7y5pja.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng4_5","type":"vless","server":"ip.sb","port":8080,"uuid":"d6ff33a6-03bf-4338-8a63-62ab284a9466","tls":false,"servername":"feng4.l1ut8bi9.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng4.l1ut8bi9.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng5_5","type":"vless","server":"ip.sb","port":8080,"uuid":"365de7de-77b2-4a62-aec3-66a6bd41813e","tls":false,"servername":"feng5.ogazo8c3.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng5.ogazo8c3.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng6_5","type":"vless","server":"ip.sb","port":8080,"uuid":"89c21153-67d9-4505-a25c-cef293500eb8","tls":false,"servername":"feng6.4m-bq2ce.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng6.4m-bq2ce.workers.dev"}},"client-fingerprint":"randomized"}
-proxy-groups:
-  - name: 🚀 节点选择
-    type: select
-    proxies:
-      - ♻️ 自动选择
-      - DIRECT
-      - 901.dbodanwi.workers.dev_1
-      - 302.j4tccyw7.workers.dev_1
