@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
-<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
-<style>body{margin:0;padding:0}</style>
 
 
 <!--[if gte IE 10]><!-->
@@ -33,7 +26,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8d5a540f0a60c963 &bull; 2024-10-20 16:19:14 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8d5aa56b6bfa618e &bull; 2024-10-20 17:14:46 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -58,12 +51,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8d5a540f0a60c963</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8d5aa56b6bfa618e</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.161.78.230</span>
+      <span class="hidden" id="cf-footer-ip">172.183.132.86</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +596,10 @@ trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@23.227.39.18:443?security=tls&sni=
 trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@23.227.38.13:443?security=tls&sni=pjp1.pqjc.buzz#%F0%9F%8F%81RELAY-23.227.38.13-395
 trojan://xl87654321@199.59.243.225:443?security=tls&sni=stonebreak.online#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.225-396
 trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-148.113.141.99-397
+trojan://your_password@13.244.104.87:443?security=tls&sni=aws-za-capetown-1.f1rocketnode.com#%F0%9F%87%BF%F0%9F%87%A6ZA-13.244.104.87-398
+trojan://aef2ca33-b162-409f-8f16-4c736c338412@20.205.37.136:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.205.37.136-399
+trojan://5c5ceb40-902b-11eb-945a-1239d0255272@103.253.24.212:443?security=tls&sni=sg1-trojan.bonds.id#%F0%9F%87%B8%F0%9F%87%ACSG-103.253.24.212-400
+trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@23.227.38.108:443?security=tls&sni=sg1.pqjc.buzz#%F0%9F%8F%81RELAY-23.227.38.108-401
+trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@37.48.65.144:443?security=tls&sni=tt6.tjvpn.top#%F0%9F%87%B3%F0%9F%87%B1NL-37.48.65.144-402
+trojan://20210200-49c6-11ed-a9ef-1239d0255272@104.18.21.18:443?security=tls&sni=corona.jakarta.go.id#%F0%9F%8F%81RELAY-104.18.21.18-403
+trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.39.39:443?security=tls&sni=pus2.pqjc.buzz#%F0%9F%8F%81RELAY-23.227.39.39-404
