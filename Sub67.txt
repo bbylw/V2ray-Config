@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?security=tls&sni=mmdv2.pages.dev&fp=randomized&type=ws&path=/&host=mmdv2.pages.dev&encryption=none#%F0%9F%86%94Outline_Vpn%20%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US%2027ms
-vless://6cffb34f-2197-4037-8bbe-54cd90410922@jorum.toptechnonews.com:443?security=tls&sni=jorum.toptechnonews.com&type=ws&path=/nimws&encryption=none#SHERVIN%2052
 trojan://telegram-id-privatevpns@35.178.85.188:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[%F0%9F%87%AC%F0%9F%87%A7]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.163.53:989#[%F0%9F%8F%81]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxMDQuMjEuODMuMTA4IiwiYWlkIjoiMCIsImhvc3QiOiJobXMwMi5meGlhb21pLnNicyIsImlkIjoiNmMxNjhmY2MtMjIzMS00ZjNiLThjMWUtZjYzOTE2OTJkZjRhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmsiLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6ImhtczAyLmZ4aWFvbWkuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
@@ -603,3 +601,5 @@ proxy-groups:
   - name: 📲 电报信息
     type: select
     proxies:
+      - 🚀 节点选择
+      - 🎯 全球直连
