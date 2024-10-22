@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.59:443?allowInsecure=1&sni=aq.ylks.xyz&type=ws&host=aq.ylks.xyz&path=/?proxyip=proxyiq.us.fxxq.dedyq.iosecurity=tls#15%7CUS_speednode_0100
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.15:443?allowInsecure=1&sni=dq.ylks.xyz&type=ws&host=dq.ylks.xyz&path=/freecodessecurity=tls#15%7CUS_speednode_0101
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.141:443?allowInsecure=1&sni=dq.ylks.xyz&type=ws&host=dq.ylks.xyz&path=/freecodessecurity=tls#15%7CUS_speednode_0102
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.67:443?allowInsecure=1&sni=dq.ylks.xyz&type=ws&host=dq.ylks.xyz&path=/freecodessecurity=tls#15%7CUS_speednode_0103
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.161:443?allowInsecure=1&sni=lq.ylks01.eu.org&type=ws&host=lq.ylks01.eu.org&path=/freecodessecurity=tls#15%7CUS_speednode_0104
@@ -601,5 +603,3 @@ proxies:
 proxy-groups:
   - name: 🚀 节点选择
     type: select
-    proxies:
-      - ♻️ 自动选择
