@@ -3,6 +3,50 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - IP-CIDR,45.40.192.0/19,🎯 全球直连,no-resolve
+  - IP-CIDR,49.51.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,62.234.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,94.191.0.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,103.7.28.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,103.116.50.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,103.231.60.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,109.244.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,111.30.128.0/21,🎯 全球直连,no-resolve
+  - IP-CIDR,111.30.136.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,111.30.139.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,111.30.140.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,115.159.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,119.28.0.0/15,🎯 全球直连,no-resolve
+  - IP-CIDR,120.88.56.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,121.51.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,129.28.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,129.204.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,129.211.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,132.232.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,134.175.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,146.56.192.0/18,🎯 全球直连,no-resolve
+  - IP-CIDR,148.70.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,150.109.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,152.136.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,162.14.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,162.62.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,170.106.130.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,182.254.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,188.131.128.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,203.195.128.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,203.205.128.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,210.4.138.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,211.152.128.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,211.152.132.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,211.152.148.0/23,🎯 全球直连,no-resolve
+  - IP-CIDR,212.64.0.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,212.129.128.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,45.113.192.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,63.217.23.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,63.243.252.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,103.235.44.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,104.193.88.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,106.12.0.0/15,🎯 全球直连,no-resolve
   - IP-CIDR,114.28.224.0/20,🎯 全球直连,no-resolve
   - IP-CIDR,119.63.192.0/21,🎯 全球直连,no-resolve
   - IP-CIDR,180.76.0.0/24,🎯 全球直连,no-resolve
@@ -559,47 +603,3 @@ ss://8c8bb03a-0476-4f47-94c9-5f25f97f22ba@49.13.113.114:8443?security=reality&am
 ss://801033cb-b1c6-441b-aa4c-955e3f9bf2a0@zula.ir:8880?path=/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Www.Speedtest.net.VVV.Backup.Digikala.Com.Zula.ir.CodePhPpluS13.Ir.&amp;type=httpupgrade#@LOCKEY_VPN
 ss://telegram-id-ArV2ray@188.245.65.59:443?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=&amp;pbk=L9bSYVGhk9ZTB__8Ue_yfkIJ4nANnYpqtlFljBhRiG8&amp;fp=firefox&amp;type=grpc&amp;serviceName=telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray&amp;sni=www.speedtest.net&amp;sid=d7d4b0f4#Reality-Irancell-@ArV2ray
 ss://265ad2b9-edc8-452a-e0d2-aaf38f005cdd@tgju.org:2082?type=httpupgrade&amp;path=%2F%3Fed%3D2082%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2C%3Fed%3D2082&amp;host=1S3-0MH-HJ1JAR06--BPKV6G4V--sWZW5eMD_QKJ__ZWB4FRTV7_KA7A.0912.ORG.&amp;security=none#exs3drmqo
-ss://9cbdc595-1d8d-4443-af07-99149153d025@chat.openai.com:443?path=%2Fabcdews&amp;security=tls&amp;encryption=none&amp;host=dc23b72edf0546bfa751.dasvako-wadoe.rest&amp;fp=chrome&amp;type=ws&amp;sni=dc23b72edf0546bfa751.dasvako-wadoe.rest#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-ss://Joinin--ZEDMODEON@speedtest.net:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=snapp.taxi&amp;type=ws&amp;sni=speedtest.net#all4%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29+85
-ss://Parsashonam-78@[2a01:4f8:1c1b:26eb::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Parsashonam
-ss://<code>9a3a9f06-5708-4618-9936-6bb9862be713@199.232.230.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=barkatc2.ir&amp;type=ws&amp;sni=live.wkrq.com#TLS2-Config
-ss://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443?path=%2FTelegram%40Linkvws%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=bpb-worker-panel1-e4p.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=BPb-WOrKeR-paneL1-e4P.PAGES.DEV#%40IrV2rey
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.58.3:8443?security=tls&amp;sni=Join-ELiV2RaY-Join-ELiV2RaY.paGEs.DEV&amp;type=ws&amp;host=join-ELiV2RaY-join-ELiV2RaY.pages.dev&amp;path=%2FJoinBede%2C%40ELiV2RaY-%40ELiV2RaY%3Fed%3D2560&amp;fp=randomized&amp;alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
-ss://19291fa2-8c3b-4891-bfb5-ef8cb1c2c20b@www.speedtest.net:8080?path=%2F%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=p3.wWw.speedtest.net.6.7.8.9.cloudflare.cOm.sandycovebeach.cOm.&amp;type=httpupgrade#%40V2ray1_Ng+ALL
-ss://5d0ba2f0-be35-403d-8cb5-460b38b3384f@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitT.CoM#telegram
-ss://86795c84-2287-4198-9df3-2760926ef431@www.speedtest.net:2082?path=%2Fnazan%2Fpedar%2Fsag&amp;security=none&amp;encryption=none&amp;host=www.dash.cloudflare.com.www.speedtest.net.301.Meysaam.com.&amp;type=httpupgrade#%D8%AA…
-ss://Parsashonam-80@185.146.173.39:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#@Parsashonam
-ss://0a1d7a11-6b5e-4b69-9c17-be6cb1b9669b@www.speedtest.net:8880?path=/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Www.Speedtest.net.VVV.Backup.Digikala.Com.Zula.ir.CodePhPpluS13.Ir.&amp;type=httpupgrade#@LOCKEY_VPN
-ss://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?path=%2FTelegram-%40Azarakhsh_Proxy%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5c53ca21.vpn-aryoo.pages.dev&amp;type=ws&amp;sni=5c53ca21.vpn-aryoo.pages.dev#%F0%9F%9F%A3%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%B3%D8%B1%D9%88%D8%B1+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C+%D8%A8%D8%A7+%D8%B3%D8%B1%D8%B9%D8%AA+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C+%40Outlinev_2rayNG
-ss://71fb34e0-472a-42cc-9c62-37a00f6b6f25@162.159.138.178:8080/?type=httpupgrade&amp;path=%2F%3Fed%3D8080&amp;host=2sedkfjeuixijd0ew9d3.2sedkfjeuixijd0ew9dvkcxoisiek11.blog&amp;security=none#%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%7C%20%40fnet00
-ss://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@icloud.wlftest.xyz:443?type=tcp&amp;security=reality&amp;pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&amp;fp=ios&amp;sni=www.icloud.com&amp;sid=ce&amp;spx=%2F&amp;flow=xtls-rprx-vision#%40WomanLifeFreedomVPN
-ss://tel--ZEDMODEON@live.skornorth.com:443?path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=okala.com&amp;type=ws&amp;sni=live.skornorth.com#all+4%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29+83
-ss://c8951426-a5a8-5fcb-884f-0a253f771dfd@zula.ir:443?path=%2Fvless&amp;security=tls&amp;encryption=none&amp;host=fr1.vless.site&amp;type=ws&amp;sni=fr1.vless.site#%40hopev2ray%F0%9F%92%9C
-ss://Parsashonam-81@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=Parsashonam0.com&amp;fp=firefox&amp;type=ws&amp;sni=Zmaoz.Faculty.Ucdavis.Edu.#@Parsashonam
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2F9U5M5dY6sepIb4Up%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=20fb0424.bpb-worker-panel-1xd.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=20Fb0424.bpb-WoRker-PaNeL-1xD.pAges.DEv#nofiltering2
-ss://9cbdc595-1d8d-4443-af07-99149153d025@chat.openai.com:443?path=%2Fabcdews&amp;security=tls&amp;encryption=none&amp;host=9382dcdf63d64c1aa5a1.dasvako-wadoe.rest&amp;fp=chrome&amp;type=ws&amp;sni=9382dcdf63d64c1aa5a1.dasvako-wadoe.rest#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-ss://9cbdc595-1d8d-4443-af07-99149153d025@whatismyipaddress.com:443?path=%2Fabcdews&amp;security=tls&amp;encryption=none&amp;host=14eea073205c4f7aab48.dasvako-wadoe.rest&amp;fp=chrome&amp;type=ws&amp;sni=14eea073205c4f7aab48.dasvako-wadoe.rest#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40Vpn_Tehran+%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-ss://Parsashonam-79@[2a01:4f8:1c1b:26eb::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Parsashonam
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?encryption=none&amp;security=tls&amp;sni=pPal03.sahAL-Holten.WoRKErs.dEV&amp;alpn=h2%2Chttp%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=PpAL03.SAHAL-HOlTeN.WORkerS.DeV&amp;path=%2F1Qd9ixMFgkaLSan5%3Fed%3D2560#%E2%9A%A1@DeamNet_Proxy+%F0%9F%94%BB+%F0%9F%94%BA%F0%9F%87%A9%F0%9F%87%AADE+%E2%98%91ADSL
-ss://110ef14f-276f-451f-9fe5-65b4c1898d55@104.17.234.114:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&amp;fp=chrome&amp;type=ws&amp;sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de#%40prox_kafee+%7C+ALL+%28%D9%85%D8%B4+%D8%A2%D8%B1%D9%85%DB%8C%D9%86%29
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?encryption=none&amp;security=tls&amp;sni=pPal03.PagES.deV&amp;alpn=h2%2Chttp%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=PPAl03.PAGEs.Dev&amp;path=%2F6T2yuZJ5x0Ut1W01%3Fed%3D2560#%E2%9A%A1@DeamNet_Proxy+%F0%9F%94%BB%F0%9F%87%BA%F0%9F%87%B8US+%F0%9F%94%BA%F0%9F%87%A9%F0%9F%87%AADE+%E2%98%91ADSL
-ss://12959e76-3f23-40a3-b94b-848b64c6a234@178.62.76.106:20248/?type=grpc&amp;encryption=none&amp;serviceName=%40proxyforopeta&amp;sni=www.google.com&amp;fp=firefox&amp;security=reality&amp;pbk=2Lxke5-99aKfEtI4_UiNhAB0CJYs4CA_8r-376g2ZWQ&amp;sid=0b03c417#@Capital_NET
-ss://a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5c53ca21.vpn-aryoo.pages.dev&amp;type=ws&amp;sni=5c53ca21.vpn-aryoo.pages.dev#%40Vpn_Tehran+%E2%9C%85%EF%B8%8F+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2096?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=JOInv2ngFaSt-2mM.pAges.DeV&amp;type=ws&amp;sni=JoinV2nGFaSt-2MM.pAges.DEV#%40Vpn_Tehran+%E2%9D%A4%EF%B8%8F+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-ss://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?encryption=none&amp;security=tls&amp;type=ws&amp;path=%2F#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Vpn_Tehran+%F0%9F%92%96+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-ss://cd9bf18f-e7f1-457d-aa48-59f8ae9a2309@l-mi.mrmax2.sbs:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=booking.com&amp;fp=chrome&amp;security=reality&amp;pbk=keFsya_-stbGVSvWfpNjwB5SM2iFfwoQT0eToV88shM&amp;sid=2a87bdca#@Capital_NET
-ss://3eef6f0a-d63e-4a29-af16-494154a2a4ae@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.TzZLiMitT.CoM#telegram
-ss://telegram-id-ArV2ray@www.speedtest.net:2052?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D2052&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.5.T.mehpow.iR.&amp;type=ws#WS5-Irancell+%7C+%40ArV2ray
-ss://a8629b56-ea3f-41d9-8e42-e8ad84baaef6@all.vipxali.cfd:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1,h2&amp;fp=safari&amp;type=grpc&amp;serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray&amp;sni=dm.XsV2ray.cfd#%40
-ss://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=Noshteri.hooplnqpb.ir&amp;fp=chrome&amp;type=ws&amp;sni=Noshteri.hooplnqpb.ir#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-ss://98f0c223-cb75-4faa-859e-47110b1f052b@zula.ir:2096?path=%2FTelegram-MARAMBASHI%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=internet4everieone7.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=iNTeRnET4EVERIeONe7.PaGes.DeV#%F0%9F%87%B7%F0%9F%87%B4%F0%9F%8C%8F+%40customv2ray+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40Vpn_Tehran+%E2%9D%A4%EF%B8%8F+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-ss://698a1505-b335-4ce2-97bc-8a4ffd67da4b@195.201.130.7:57706/?type=tcp&amp;encryption=none&amp;sni=google.com&amp;fp=chrome&amp;security=reality&amp;pbk=F6wV-NlEVPipP6-0IXq4gM9UEbXB2XAUCrGyFS0_1wU&amp;sid=fdc11189#@Capital_NET
-ss://6f55b6b5-5a18-4b15-e0fe-a8408b7b6d86@www.speedtest.net:80?type=ws&amp;path=%2F%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol&amp;host=www.speedtest.net-metreeff-ary-kur-d-newff.vmessprotocol.ggff.net&amp;security=none#%20-%20Cloned-%F0%9F%8C%B8%20%40vmessprotcol%20%D8%AC%D9%88%DB%8C%D9%8671
-ss://4a558a86-6f4a-4776-a4c5-55e510662095@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.TzZLiMitT.CoM#telegram
-ss://c3d41415-59cb-40eb-b721-ffa87f95e454@web.bbv2ry.pics:443?type=ws&amp;path=%2F&amp;host=Skyy.bbv2ry.pics&amp;security=tls&amp;fp=chrome&amp;alpn=http%2F1.1%2Ch2&amp;sni=Skyy.bbv2ry.pics#sky%40%40vpnskyy%20%40vpnskyy%20%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-ss://2e3e0e35-3fd0-4f1b-8cce-4781575da1f5@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.TzZLiMitT.CoM#telegram
-ss://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=best.configforvpn.fun#%40ConfigforVPN…
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTkx5RGFvYmlxSHpXQTJ6WnJiQTB2@92.243.27.51:9802#%40daredevill_404
