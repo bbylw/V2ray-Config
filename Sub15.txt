@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://azadnet-trojan@104.21.36.165:443?security=tls&sni=XN----PmCnaaC0dKn0Rb71NdA.PagES.DeV&type=ws&host=xn----pmcnaac0dkn0rb71nda.pages.dev&path=%2FtrbRb6rQQHUXO1sk03%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#RELAY🚩 | XN----PmCnaaC0dKn0Rb71NdA.PagES.DeV-443 | 11.98ms
-trojan://auto@188.114.99.222:443?security=tls&type=ws&sni=migekehcode27.kiwaja6458.workers.dev&path=%2F&host=migekehcode27.kiwaja6458.workers.dev#RELAY🚩 | migekehcode27.kiwaja6458.workers.dev-443 | 50.28ms
-trojan://auto@162.159.135.232:8443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-8443 | 12.71ms
-trojan://NISHIKUITAN222@158.178.192.221:443#FR🇫🇷 | 158.178.192.221-443 | 84.43ms
 trojan://FLorg@176.97.70.65:8443?security=tls&sni=trojan.tcorg.filegear-sg.me&type=ws&host=trojan.tcorg.filegear-sg.me&path=%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#RELAY🚩 | trojan.tcorg.filegear-sg.me-8443 | 1585.4ms
 trojan://4aa9ee7a-ffee-4ca4-a588-f5fa9e979c38@jp008.421421.xyz:20230?allowInsecure=0#JP🇯🇵 | jp008.421421.xyz-20230 | 167.44ms
 trojan://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?security=tls&type=ws&sni=aksnmaioas.pages.dev&path=%2FTelegram%40Linkvws%3Fed%3D2048&host=aksnmaioas.pages.dev#RELAY🚩 | aksnmaioas.pages.dev-443 | 11.11ms
@@ -603,3 +599,7 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@146.59.71.221:443#%F0%9F%92%BB%20Chann
 trojan://1884f180-94eb-11ee-8c46-1239d0255272@104.16.122.175:443?security=tls&sni=de1.test3.net&type=ws&path=/howdy&host=de1.test3.net#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@146.59.111.181:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vmess://eyJhZGQiOiIxMDQuMTcuNDUuNTEiLCJhaWQiOiIwIiwiaG9zdCI6IkthbnNhcy5ib2JieWtvdGljay5yaXAiLCJpZCI6IkYzRTM2QjUzLUU3NUUtNDhDMC1COUYxLUY5MThGMzk3RTk5NiIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6IkthbnNhcy5ib2JieWtvdGljay5yaXAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJpczIueHYycmF5Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoiaXMyLnh2MnJheS5uZXQiLCJpZCI6IjNmOTQ2MWFjLTUxZGMtNDExNC05ODhmLWY2NWY3MjYwZWRmNyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7307#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8882#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+vless://a646b695-f10c-42ef-8288-9021ded98927@104.21.69.44:8080?security=&type=ws&path=@v2box&host=v2box1.aaaaa1.sbs&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
