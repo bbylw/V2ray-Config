@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - IP-CIDR,116.71.128.0/21,🎯 全球直连,no-resolve
-  - IP-CIDR,116.71.136.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,116.71.141.0/24,🎯 全球直连,no-resolve
-  - IP-CIDR,116.71.142.0/24,🎯 全球直连,no-resolve
-  - IP-CIDR,116.71.243.0/24,🎯 全球直连,no-resolve
-  - IP-CIDR,116.71.244.0/24,🎯 全球直连,no-resolve
-  - IP-CIDR,116.71.251.0/24,🎯 全球直连,no-resolve
-  - IP-CIDR,117.78.0.0/18,🎯 全球直连,no-resolve
-  - IP-CIDR,119.3.0.0/16,🎯 全球直连,no-resolve
   - IP-CIDR,119.8.0.0/21,🎯 全球直连,no-resolve
   - IP-CIDR,119.8.32.0/19,🎯 全球直连,no-resolve
   - IP-CIDR,121.36.0.0/17,🎯 全球直连,no-resolve
@@ -603,3 +594,12 @@ ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.45.4:443?encryption=none&amp;se
 ss://Parsashonam-83@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=Parsashonam0.com&amp;fp=firefox&amp;type=ws&amp;sni=Zmaoz.Faculty.Ucdavis.Edu.#%40prox_kafee+%7C+ALL+%28%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84+%D8%B1%D8%A7+%D9%85%D8%AA%D9%88%D9%82%D9%81+%DA%A9%D9%86%DB%8C%D8%AF%29
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.209.247:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 ss://c8951426-a5a8-5fcb-884f-0a253f771dfd@172.67.171.39:80?path=%2Fvless&amp;security=none&amp;encryption=none&amp;host=Fr1.vless.site.&amp;type=ws#%40hopev2ray%F0%9F%92%97
+ss://21a78493-40c9-4a44-9b03-9c45f41d1845@all.vipxali.cfd:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1,h2&amp;fp=safari&amp;type=grpc&amp;serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray&amp;sni=dm.XsV2ray.cfd#%40MTConfig
+ss://1aaf4535-9817-420a-bc34-1c9c2b3364a9@172.67.171.49:443?path=%2Fvless&amp;security=tls&amp;encryption=none&amp;host=ua1.v2vless.site&amp;type=ws&amp;sni=ua1.v2vless.site#%40hopev2ray%F0%9F%92%97
+ss://e95af615-8093-4b2e-ad3e-fbf9eaaab25c@www.speedtest.net:8880?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.B.lightning-6.LiVE.&amp;type=ws#tm%E2%9A%A1%7C%40lightning6
+ss://4fca2ae2-e6c3-437d-8cdb-39563e601334@www.canva.com:8880?path=%2F%3Fed%3D2048;security=none;encryption=none;host=confignginxV2rayng.vpncustomize.Website;type=ws#%40proxyymeliii
+ss://d3a12e79-ef42-4268-b367-42eeb3494e60@hagh.pages.dev:443?encryption=none&amp;security=tls&amp;sni=Hagh.PaGes.DEv&amp;fp=chrome&amp;type=ws&amp;host=&amp;path=%2F%3Fed%3D2048#%E2%9A%A1@DeamNet_Proxy+%F0%9F%94%BB%F0%9F%87%A8%F0%9F%87%A6CA+%F0%9F%94%BA%F0%9F%87%AB%F0%9F%87%B7FR+%E2%98%91ADSL
+ss://ef9237fa-eead-42a0-8b12-59babf3fd7a7@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc67.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+1
+ss://24f6cf45-67ef-493c-8db8-5cad032bf123@159.223.4.137:38915?security=reality&amp;encryption=none&amp;pbk=V7PuAOITOyH7RZ-PRJndYVA5udmu-DqAp7LdjpNYwUQ&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;sni=sourceforge.net&amp;sid=33c38f16#@Capital_NET
+ss://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&amp;path=%2F&amp;host=Sky2.bbv2ry.pics&amp;security=tls&amp;fp=chrome&amp;alpn=http%2F1.1%2Ch2&amp;sni=Sky2.bbv2ry.pics#%40vpnskyy%20%40vpnskyy%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+ss://telegram-id-ArV2ray@185.146.173.158:80?path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=8.v.v.V-_-_-V2ray-_-_-V.v.v.v.www.speedtest.net.Zula.ir.cloudflare.com.mehpow.IR.&amp;type=ws#WS8-Irancell+%7C+%40ArV2ray
