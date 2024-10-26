@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443?hiddify=1&sni=de-02.tradex2080.com&type=grpc&alpn=h2&path=gPGhgE3kwHBXqebAryGsQ&host=de-02.tradex2080.com&serviceName=gPGhgE3kwHBXqebAryGsQ&mode=gun&encryption=none&fp=chrome&headerType=None&security=tls#AKB 🕊️ 343
 vless://7c7af2de-bb97-429f-ac3c-8ef849717491@172.66.40.175:443?path=%2FBQV6vAwQzmCFpMcdx&security=tls&encryption=none&alpn=http/1.1&host=tr2.tradex2080.com&fp=chrome&type=httpupgrade&sni=tr2.tradex2080.com#AKB 🕊️ 853
 vless://f533e37c-9da5-4955-a218-a7886e5719b6@172.66.213.38:443?path=%2FpURR7fXWnkIMyATWmx5f6MblN&security=tls&encryption=none&alpn=http/1.1&host=nl88.tradex2080.com&fp=chrome&type=ws&sni=nl88.tradex2080.com#AKB 🕊️ 574
 vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@172.67.77.67:443?path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&security=tls&encryption=none&alpn=h2&host=de01.tradex2080.com&fp=chrome&type=ws&sni=de01.tradex2080.com#AKB 🕊️ 742
@@ -602,4 +603,3 @@ vless://c8e8e02a-462a-4eaf-9cfa-d3d97fdcc891@www.speedtest.net:443?path=%2FTeleg
 vless://98f0c223-cb75-4faa-859e-47110b1f052b@zula.ir:2096?path=%2FTelegram-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=internet4everieone7.pages.dev&fp=randomized&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV#[🇨🇦]t.me/ConfigsHub`
 vless://23aa88a0-cdc6-4a62-998b-30ef72f9b321@2.189.175.126:2052?security=none&encryption=none&host=idem.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub`
 vless://c5049393-6f27-4265-9691-8c9d963fa32b@79.127.70.82:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub`
-vless://3080f4e4-a258-4ca7-933e-c330b176bd83@79.127.70.114:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub`
