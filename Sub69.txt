@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.110.1.35:7306#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.51:8091#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.110.1.46:6679#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.110.1.105:7307#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.203:5600#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.203:8000#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.122:8090#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.107:5000#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
@@ -603,3 +598,8 @@ vmess://eyJhZGQiOiIxNzIuNjcuMjA0Ljg0IiwiYWlkIjoiMCIsImhvc3QiOiJqYWhma2poYS5jZmQi
 vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@172.67.198.111:443?security=tls&sni=3e8B07A5.PUb000bpB.PAGes.Dev&type=ws&path=/ZYgm9Gg9QBkAXfbG?ed%3D2560&host=3e8B07A5.PUb000bpB.PAGes.Dev&encryption=none#[%F0%9F%87%A8%F0%9F%87%A6]t.me/ConfigsHub
 vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@irancell.zafarinocrm.ir:80?security=&type=ws&path=/&host=2.fruitsstore.ir&encryption=none#%F0%9F%86%94v2ray1_ng%20%F0%9F%94%93%20VL-WS-N/A%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20264ms
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.249.112:443?security=tls&sni=EA6530e9.nXZu-61iuaN-xD.PageS.DEV&alpn=h2,http/1.1&fp=randomized&type=ws&path=/TELEGRAM-MARAMBASHI-MARAMBASHI/?ed%3D2048&host=EA6530e9.nXzu-61iuAn-XD.PaGEs.dEV&encryption=none#%F0%9F%86%94Hope_Net%20%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US%202ms
+trojan://telegram-id-privatevpns@13.50.210.214:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[%F0%9F%87%B8%F0%9F%87%AA]t.me/ConfigsHub
+vless://34208027-101c-4e79-a0e3-87f62ef214e6@188.114.96.3:2083?security=tls&sni=MoRTEZA865.Pages.deV&alpn=h2,http/1.1&fp=randomized&type=ws&path=/0gwf2al5WC4FuTAA?ed%3D2560&host=MortEzA865.pAgES.dev&encryption=none#%F0%9F%86%94Hope_Net%20%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US%202ms
+vless://4e13adab-42b3-449c-9584-a106ef810c0b@77.221.159.117:443?security=reality&sni=discord.com&fp=randomized&pbk=0TvaFIY1H_B9x7sARokeTPD7ZO2IhtxviQMLwq5CSXA&sid=c6ea5f56&type=grpc&serviceName=@set_v2ray&encryption=none#%F0%9F%86%94oneclickvpnkeys%20%F0%9F%94%92%20VL-GRPC-%20%F0%9F%87%AB%F0%9F%87%AE%20FI%20147ms
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.67.161.104:2096?security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=tnetplus.pages.dev&encryption=none#[%F0%9F%87%A8%F0%9F%87%A6]t.me/ConfigsHub
+trojan://dba20dcb635e430fa4d3bfc303a149d2@190.93.246.247:443?security=tls&sni=jobscareerforlawyers.com&type=ws&path=6b777a91&host=jobscareerforlawyers.com#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%87%A8%F0%9F%87%B7%20CR-190.93.246.247:443%20%F0%9F%93%A1%20PING-001.81-MS
