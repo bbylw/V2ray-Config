@@ -3,22 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - IP-CIDR,119.63.192.0/21,🎯 全球直连,no-resolve
-  - IP-CIDR,180.76.0.0/24,🎯 全球直连,no-resolve
-  - IP-CIDR,180.76.0.0/16,🎯 全球直连,no-resolve
-  - IP-CIDR,182.61.0.0/16,🎯 全球直连,no-resolve
-  - IP-CIDR,185.10.104.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,202.46.48.0/20,🎯 全球直连,no-resolve
-  - IP-CIDR,203.90.238.0/24,🎯 全球直连,no-resolve
-  - IP-CIDR,43.254.0.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,45.249.212.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,49.4.0.0/17,🎯 全球直连,no-resolve
-  - IP-CIDR,78.101.192.0/19,🎯 全球直连,no-resolve
-  - IP-CIDR,78.101.224.0/20,🎯 全球直连,no-resolve
-  - IP-CIDR,81.52.161.0/24,🎯 全球直连,no-resolve
-  - IP-CIDR,85.97.220.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,103.31.200.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,103.69.140.0/23,🎯 全球直连,no-resolve
   - IP-CIDR,103.218.216.0/22,🎯 全球直连,no-resolve
   - IP-CIDR,114.115.128.0/17,🎯 全球直连,no-resolve
   - IP-CIDR,114.116.0.0/16,🎯 全球直连,no-resolve
@@ -603,3 +587,19 @@ ss://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@cfpage-39t.pages.dev:443?path=%2FTeleg
 ss://78edeb01-1bc6-4299-9ef8-a91be2a805aa@www.parsvds.ir:8080?type=ws&amp;path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy&amp;host=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net&amp;security=none#Ws%20-%20%40Vpnmasi-ne3179tw
 ss://9c18b0f0-0a6d-59ed-9caa-05ed01db072e@185.146.173.49:443?path=%2Fvless&amp;security=tls&amp;encryption=none&amp;host=no2.vless.site&amp;type=ws&amp;sni=no2.vless.site#%40hopev2ray%F0%9F%A6%8B
 ss://Parsashonam-82@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=Parsashonam0.com&amp;fp=firefox&amp;type=ws&amp;sni=Zmaoz.Faculty.Ucdavis.Edu.#@Parsashonam
+ss://77540057-4504-43f7-b229-765f9b7bf35d@situnes.wlftest.xyz:443?type=tcp&amp;security=reality&amp;pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&amp;fp=ios&amp;sni=search.itunes.apple.com&amp;sid=ce&amp;spx=%2FWebObjects%2FMZSearchHints.woa%2Fwa%2Fhints%3Fmedia%3Dmusic%26term%3Dgmail&amp;flow=xtls-rprx-vision#%40WomanLifeFreedomVPN
+ss://0fb7a7c5-b82a-49ba-89a8-fc2e3f213a35@94.228.169.211:10565/?type=grpc&amp;encryption=none&amp;sni=aws.amazon.com&amp;fp=chrome&amp;security=reality&amp;pbk=NLmLDtMcz9aKs3JXtuM0O3hw_4d7r4eEULHlezwLRG0&amp;sid=ea05036f#@Capital_NET
+ss://Join--ZE%44MO%44EON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON%40ZE%44MO%44EON-TEL-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-%40ZE%44MO%44EON%3Fed%3D2052&amp;security=tls&amp;encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&amp;host=snapp.express&amp;type=ws&amp;sni=zmaoz.faculty.ucdavis.edu#%40mehrosaboran
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDEwOS4xMDQuMTUyLjI3OjEyMzQ1#%F0%9F%87%A6%F0%9F%87%B1_AL_%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E4%BA%9A_11
+ss://telegram-id-ArV2ray@Arv2ry.fastly80.hosting-ip.com:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=Cdiuw20.net&amp;type=ws#WS-All+%7C+%40ArV2ray
+ss://9b5dd301-e7f0-45d9-b098-5d8da184664f@all.vipxali.cfd:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1,h2&amp;fp=safari&amp;type=grpc&amp;serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray&amp;sni=fe.XsV2ray.cfd#%40
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOWRJWGhQQXVTRENLVVBV@135.148.67.88:2087#%F0%9F%87%BA%F0%9F%87%B8US-135.148.67.88-0201
+ss://b4f08f28-1049-443e-846b-0e14b7c9a332@185.146.173.58:8880?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc70.lebasnoo.ir.&amp;type=ws#%40V2ray1_Ng+MTN+RTL+WIFI
+ss://telegram-id-ArV2ray@ArV2ry.fastly80.hosting-ip.com:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=Fer13sowk.net&amp;type=ws#WS3-All+%7C+%40ArV2ray
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#Japan+Datacamp
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.58.3:8443?path=%2FJoinBede%2C%40ELiV2RaY-%40ELiV2RaY%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=join-ELiV2RaY-join-ELiV2RaY.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=Join-ELiV2RaY-Join-ELiV2RaY.paGEs.DEV#%F0%9F%87%AB%F0%9F%87%AE%40nofiltering2
+ss://68c421f0-278b-4fa4-9115-d86ee41d8798@ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM:80?path=/CUSTOMVPNSERVER-CUSTOMVPNSERVER-CUSTOMVPNSERVER-CUSTOMVPNSERVER&amp;security=none&amp;encryption=none&amp;host=V2ray-_-_-_-_-_-CUSTOMVPNSERVER.oNlineDoWnloaderFIle.com.&amp;type=ws#ALL+@CUSTOMVPNSERVER
+ss://9c026691-b79d-4e6d-b408-6a1ef928855f@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v16.TzZLiMitTNeW.CoM#telegram
+ss://707acaea-2ea6-44db-ad00-b195badd1aae@104.17.234.114:443?security=tls&amp;sni=UNLIMITEDDEV.unlimiteddev-vpn.com&amp;fp=chrome&amp;type=ws&amp;path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D8080&amp;host=UNLIMITEDDEV.unlimiteddev-vpn.com&amp;encryption=none#@UnlimitedDev-Link2
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.49.120.112:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#Telegram
+ss://4ee50f98-d646-4491-b5a5-339fd79153a4@www.speedtest.net:8080?path=%2Fspeedtest.net%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=h17.Xn--gmq282ekfhyys3gs.Com.&amp;type=httpupgrade#%5B+%F0%9F%87%AE%F0%9F%87%B9+%5D+Channel+%3A+%40HELIX_ServerS

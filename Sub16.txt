@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-            }
 
             #cf-wrapper {
                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
@@ -74,14 +73,14 @@
 
             <div class="cf-error-footer cf-wrapper">
     <p>
-      <span class="cf-footer-item">Cloudflare Ray ID: 8d9560290ebdce60</span>
+      <span class="cf-footer-item">Cloudflare Ray ID: 8d95b25cde0b3aff</span>
       <span class="cf-footer-separator">&bull;</span>
-      <span class="cf-footer-item">2024-10-27 20:18:29 UTC</span>
+      <span class="cf-footer-item">2024-10-27 21:14:36 UTC</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden">
         <span class="cf-footer-separator">&bull;</span>
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">13.87.243.32</span>
+        <span class="hidden" id="cf-footer-ip">20.75.95.200</span>
       </span>
       <span class="cf-footer-separator">&bull;</span>
       <span class="cf-footer-item"><span>Runs on </span><a rel="noopener noreferrer" href="https://workers.cloudflare.com?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare Workers</a></span>
@@ -603,3 +602,4 @@ vless://bc280439-2732-493a-8e60-f0607be2b295@bluehost.com:443?encryption=none&se
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [205,184,52],  
 
+      "mtu": 1120
