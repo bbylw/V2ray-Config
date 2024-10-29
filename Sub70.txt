@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.24.142:443?encryption=auto&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome&type=ws&path=/linkvws&host=harriscity.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20VM-WS-TLS%204%E2%83%A3
-vmess://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:443?encryption=chacha20-poly1305&security=tls&sni=hdfy8d1.cpi1.eu.org&allowInsecure=1&fp=chrome&type=grpc&serviceName=Av8czorIlYC5KffvrsN6rqb#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20VM-GRPC-TLS%204%E2%83%A3
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@68.168.31.242:443?encryption=auto&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome&type=ws&path=/linkvws&host=vk.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20Canary%20Wharf%20%F0%9F%8C%8D%20VM-WS-TLS%204%E2%83%A3
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@149.7.16.248:443?encryption=auto&security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&allowInsecure=1&fp=chrome&type=ws&path=linkvws#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20VM-WS-TLS%204%E2%83%A3
 vmess://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:443?encryption=chacha20-poly1305&security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&allowInsecure=1&fp=chrome&type=ws&path=/Av8czorIlYicU6D349brWUw6a&host=viber.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20VM-WS-TLS%204%E2%83%A3
@@ -603,3 +601,5 @@ vless://7970bcc0-7de7-4c55-9f8f-e2b849eab2e1@74.119.194.66:8443?security=tls&sni
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.119:9090#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Ashburn%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.86.135.117:9101#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Washington%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@23.154.136.2:443?encryption=auto&security=tls&sni=jader.fun&allowInsecure=1&fp=chrome&type=ws&path=/linkvws&host=jader.fun#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Washington%20%F0%9F%8C%8E%20VM-WS-TLS%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Montreal%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.49.119:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Ashburn%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
