@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NmR6ZTA5Z1FFdnFTX2pPdW8=@144.202.112.106:3913#20%7C%F0%9F%87%BA%F0%9F%87%B8US-144.202.112.106-55
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#20%7CGB-141.98.101.180-56
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMjAsMjF85Lit5Zu9ICMxMyIsICJhZGQiOiAiejYuZnJhZ3JhbmNlbmluamEuY29tIiwgInBvcnQiOiAiMTI5MjgiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiYTMyMzEzYWQtNWUzOS00ZjlhLTljYWQtNTEyMDQxNzkwMDUwIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#20%7CHK-203.23.128.33-58
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMjB88J+PgVJFTEFZLTE3Mi42Ni4wLjIxOC01OSIsICJhZGQiOiAic3BlZWQuY2xvdWRmbGFyZS5jb20iLCAicG9ydCI6IDgwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIifQ==
@@ -601,5 +603,3 @@ trojan://telegram-id-privatevpns@13.50.181.6:22222/?type=tcp&security=tls&sni=tr
         display: flex;
         flex-direction: column;
         justify-content: center;
-        height: 100vh;
-        background-color: #f8f8f8;
