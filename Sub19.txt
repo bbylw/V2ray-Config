@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-
-      "mtu": 1280,
-      "fake_packets": "5-10"
-    },
-    {
-      "type": "wireguard",
-      "tag": "Warp-Main8",
-      "detour": "Warp-IR8",
-      "server": "188.114.98.241",
-      "server_port": 5956,
       
       "local_address": [
           "172.16.0.2/32",
@@ -132,7 +122,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8daafaf7ea913b5f &bull; 2024-10-30 11:14:11 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8dab6fe3da82f9e4 &bull; 2024-10-30 12:34:00 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -157,12 +147,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8daafaf7ea913b5f</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8dab6fe3da82f9e4</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.102.46.16</span>
+      <span class="hidden" id="cf-footer-ip">13.88.100.234</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +593,13 @@ ss://TD7FKA3CZSyRgCeXp60xjaEa3uSzFaS5BOpC2lY3y9cYRA884qZOI3wxlNDneD@enfuego.miss
 ss://DxuCRlZS3aq5pgI8YYcBCZFln7e83XDONSROjAepSK3CaFyATz0aw3DyE6294x@starfish.missionsec.io:28331?security=tls&headerType=none&type=tcp&sni=starfish.missionsec.io#IR-%40V2ray_Alpha-4
 ss://8DAzZXOSwYcDlgOej2lC3AYypa30F4pxnqCSEZKR7yD3Sx89RuNa6aCBeFT35I@penguin.missionsec.io:28332?security=tls&headerType=none&type=tcp&sni=penguin.missionsec.io#IR-%40V2ray_Alpha-5
 ss://Y4O3x7D8RSepyNXDA8ZOZEaKB3F9Y35Ca3TpuxlR6aCAeygSDl0IwcjCz2nSqF@training.freetrade.link:18333?security=tls&headerType=none&type=tcp&sni=training.freetrade.link#IR-%40V2ray_Alpha-6
+ss://ASRpD3DYlZTNagqjxKS2BcF39y3y8DO30e85zCZXaCau6EO7RwxF4YAIenplSC@tobster.freetrade.link:28343?security=tls&headerType=none&type=tcp&sni=tobster.freetrade.link#IR-%40V2ray_Alpha-7
+ss://edcfbd77-d607-53a9-842c-32592c2504b2@104.19.209.229:2052?path=%2Fhttpupgrade%3Fed%3DTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=www-domain.uk1.vless.sitespeedtest.net&type=httpupgrade#IR-%40V2ray_Alpha-8
+ss://4b0915d7-8544-5d48-946a-a708d7288447@www.speedtest.net:2052?path=%2Fhttpupgrade%3Fed%3DTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=www-domain.ua1.vless.sitespeedtest.net&type=httpupgrade#IR-%40V2ray_Alpha-9
+ss://572e7789-76af-51c8-928b-e327d862f16c@190.93.247.152:80?path=%2Fvless&security=none&encryption=none&host=Uk1.vless.site.&type=ws#IR-%40V2ray_Alpha-10
+ss://23b41d65-d0b2-4a50-f94d-ae187e0bd456@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#IR-%40V2ray_Alpha-11
+ss://9a4bc15d-a7d4-4181-9485-405629c36894@185.146.173.115:443?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&host=king-ae1.pages.dev&type=ws&sni=king-ae1.pages.dev#IR-%40V2ray_Alpha-12
+ss://eyJhZGQiOiJoa3QyLmJpa2EuaGsiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWU4OGExMGItNjU1Yy01MTIwLTg5ZDAtNDA4NjM0MTY5NTYxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMDI1MSIsInBzIjoiSVItQFYycmF5X0FscGhhLTEzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==♾نامحدود
+ss://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@www.animo-shop.com:80?path=ws%2F%3Fed%3D2048&security=none&encryption=none&host=befreewithus.com&type=ws#WiFi-%40V2ray_Alpha-02
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.95.123:80?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=sara193.ir&type=ws#WiFi-%40V2ray_Alpha-03
+ss://cf43996d-cc45-458e-87ac-c9c933c9ed3e@104.17.147.22:2052?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=www-domain.fi2.v2vless.sitespeedtest.net&type=ws#WiFi-%40V2ray_Alpha-04
