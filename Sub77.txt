@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-# AppleTV
-# BBCiPlayer
-# Bahamut
-# DAZN
 # Deezer
 # DiscoveryPlus
 # DisneyPlus
@@ -603,3 +599,7 @@
   - DOMAIN-KEYWORD,uk-live,🚀 节点选择
   - DOMAIN-SUFFIX,bbc.co,🚀 节点选择
   - DOMAIN-SUFFIX,bbc.com,🚀 节点选择
+  - DOMAIN-SUFFIX,apache.org,🚀 节点选择
+  - DOMAIN-SUFFIX,docker.com,🚀 节点选择
+  - DOMAIN-SUFFIX,elastic.co,🚀 节点选择
+  - DOMAIN-SUFFIX,elastic.com,🚀 节点选择
