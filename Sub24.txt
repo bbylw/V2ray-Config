@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+    },
     {
       "type": "wireguard",
       "tag": "Warp-Main2",
@@ -326,7 +327,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8ddac1d50f882519 &bull; 2024-11-05 06:23:48 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8ddb0dbd5c55118f &bull; 2024-11-05 07:15:37 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -351,12 +352,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8ddac1d50f882519</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8ddb0dbd5c55118f</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">13.83.123.150</span>
+      <span class="hidden" id="cf-footer-ip">172.183.53.140</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -602,4 +603,3 @@ vless://eyJhZGQiOiJoa3QyLmJpa2EuaGsiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vless://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@www.animo-shop.com:80?path=ws%2F%3Fed%3D2048&security=none&encryption=none&host=befreewithus.com&type=ws#WiFi-%40V2ray_Alpha-02
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.95.123:80?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=sara193.ir&type=ws#WiFi-%40V2ray_Alpha-03
 vless://cf43996d-cc45-458e-87ac-c9c933c9ed3e@104.17.147.22:2052?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=www-domain.fi2.v2vless.sitespeedtest.net&type=ws#WiFi-%40V2ray_Alpha-04
-vless://90cd4a77-141a-43c9-991b-08263cfe9c10@172.66.46.249:443?path=%2FTelegram%40Linkvws%3Fed%3D2048&security=tls&encryption=none&host=79193c43.aryoovpn-5fr.pages.dev&type=ws&sni=79193c43.aryoovpn-5fr.pages.dev#WiFi-%40V2ray_Alpha-05
