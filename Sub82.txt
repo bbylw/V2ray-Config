@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.49.84:6679#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Ashburn%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.49.119:8000#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Ashburn%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@23.154.136.47:443?encryption=auto&security=tls&sni=23.154.136.47&allowInsecure=1&fp=chrome&type=ws&path=linkvws&host=23.154.136.47#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Washington%20%F0%9F%8C%8E%20VM-WS-TLS%204%E2%83%A3
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@134.195.198.147:443?encryption=auto&security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&allowInsecure=1&fp=chrome&type=ws&path=/linkvws&host=inna.cfd#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Montreal%20%F0%9F%8C%8E%20VM-WS-TLS%204%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Washington%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.49.75:8000#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Ashburn%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
 trojan://cf59b41b-6ffc-4c95-9caf-7a772ffd88d1@95.164.46.235:443?security=tls&sni=it-full.privateip.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20-%20Rome%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -599,7 +603,3 @@ dns:
     - time.*.gov
     - time.*.edu.cn
     - time.*.apple.com
-    - time1.*.com
-    - time2.*.com
-    - time3.*.com
-    - time4.*.com
