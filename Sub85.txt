@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,ad-brix.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,ad-delivery.net,🛑 全球拦截
   - DOMAIN-SUFFIX,ad-locus.com,🛑 全球拦截
   - DOMAIN-SUFFIX,ad-plus.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,ad7.com,🛑 全球拦截
@@ -601,5 +603,3 @@
 # QQ Live
 # Youku & Tudou
 # Youtube
-# Others ads in Video apps
-# Ads in Video apps end 上面都是 ********************

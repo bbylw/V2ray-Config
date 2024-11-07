@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,bbc.co,🚀 节点选择
+  - DOMAIN-SUFFIX,bbc.com,🚀 节点选择
   - DOMAIN-SUFFIX,apache.org,🚀 节点选择
   - DOMAIN-SUFFIX,docker.com,🚀 节点选择
   - DOMAIN-SUFFIX,elastic.co,🚀 节点选择
@@ -601,5 +603,3 @@
   - DOMAIN-SUFFIX,kanimg.com,🎯 全球直连
   - DOMAIN-SUFFIX,kankan.com,🎯 全球直连
   - DOMAIN-SUFFIX,p2cdn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,sandai.net,🎯 全球直连
-  - DOMAIN-SUFFIX,thundercdn.com,🎯 全球直连
