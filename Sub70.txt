@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.103:6679#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5000#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.47:3389#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:3389#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
+vmess://1052f24e-7b09-45eb-b0c5-d858eb124192@104.16.68.38:2096?encryption=auto&security=tls&sni=freevpn878.hamidimorteza680.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/glweidf.cfd/linkws&host=freevpn878.hamidimorteza680.workers.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VM-WS-TLS%204%E2%83%A3
+vmess://76221bfb-e92f-4e80-81c5-6fe48f50ac0b@104.16.68.38:443?encryption=auto&security=tls&sni=curly-glade-71dd.hite-nomade.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/glweidf.sbs/linkws&host=curly-glade-71dd.hite-nomade.workers.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VM-WS-TLS%204%E2%83%A3
 trojan://81e99690-a036-11ee-b06d-1239d0255272@172.64.138.167:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=ws&path=/howdy&host=fr1.test3.net#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 vmess://441da342-ce90-441e-bff9-d2ceb55e68ca@104.16.68.38:2053?encryption=auto&security=tls&sni=vmess.taxar71054.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/ivideos.sbs/linkws&host=vmess.taxar71054.workers.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VM-WS-TLS%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.103:8882#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
@@ -597,9 +603,3 @@ trojan://fdea6ca7-4aac-4aab-82e0-d18b35c02591@103.224.212.214:443?security=tls&s
 trojan://3ddbffcb-bdbb-49c0-a7fe-5c3b0c58e9be@103.224.182.208:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Diego%20%F0%9F%8C%8E%20TR-TCP-NA%204%E2%83%A3
 trojan://18e513fe-f7f4-353d-84ca-bc9646fb2528mielink@172.234.25.151:443?security=tls&sni=kaizen-hk-2.cn0.me&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Chicago%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
 trojan://dc21bdbf-04c0-4a7e-8cb4-3d5af39ddf13@172.234.25.151:443?security=tls&sni=t1.teslacdn1.live&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Chicago%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
-trojan://pjdnqv@188.114.97.1:443?security=tls&sni=aws-us-nyc-1.f1cflinec.com&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/f1rocket&host=aws-us-nyc-1.f1cflinec.com#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
-trojan://pjdnqv@188.114.97.3:443?security=tls&sni=aws-ca-central-1.f1cflinec.com&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/f1rocket&host=aws-ca-central-1.f1cflinec.com#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
-trojan://c68e3c20-da73-4791-b4d8-7011a98ba06b@103.224.182.208:443?security=tls&sni=kbawsjp1.aiopen.cfd&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Diego%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
-trojan://38541d74-6ffd-4352-988d-715ee989947c@18.140.153.76:443?security=tls&sni=fschk.fscloud123456789.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://51eebef7-beaa-417b-9584-2794d10377c9@103.224.212.211:443?security=tls&sni=microsoft-hk03.syjd.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://c6c74465-9600-4462-933c-bd0b2494f188@18.140.153.76:443?security=tls&sni=fscsg.fscloud123456789.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
