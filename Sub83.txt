@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://8bf964b0-420a-11ee-b4a1-1239d0255272@51.158.146.183:443?security=tls&sni=tlc.ir&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://your_password@16.62.65.57:443?security=tls&sni=aws-ch-zurich-1.f1rocketnode.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20-%20Zurich%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+vmess://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:80?encryption=chacha20-poly1305&security=none&allowInsecure=1&fp=chrome&type=ws&path=/Av8czorIlYicU6D349brWUw6a&host=hdfy8d1.foriran.me#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20VM-WS-NA%204%E2%83%A3
+trojan://ef4ce270-25ce-11ee-ab08-1239d0255272@51.158.146.183:443?security=tls&sni=tci.ir&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://76b7f620-420a-11ee-be80-1239d0255272@51.158.146.183:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+vmess://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:443?encryption=chacha20-poly1305&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome&type=ws&path=/Av8czorIlYicU6D349brWUw6a&host=vk.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20VM-WS-TLS%204%E2%83%A3
+trojan://0dd0ae16-4081-4530-a925-c3c34ca07d57@217.79.184.18:443?security=tls&sni=download.xn--mes358a9urctx.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://2990c2a0-e8ed-11ed-9c1f-1239d0255272@51.158.146.183:443?security=tls&sni=yahoo.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://6fbf3b90-c607-11ed-9dbc-1239d0255272@163.172.211.74:443?security=tls&sni=yahoo.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://d6cbceb1-901e-44e1-b68e-0199063eb35f@141.95.74.53:443?security=tls&sni=google.com.progt.cf&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://6bca9bf0-6c8a-42a3-a04a-cd8554ac1c9c@99.83.138.213:443?security=tls&sni=t2.teslacdn2.live&alpn=http/1.1&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
@@ -594,12 +603,3 @@ vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.17.147.22:80?allowInsecure=0&sn
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.37.15:80?allowInsecure=0&sni=sara193.ir&type=ws&host=sara193.ir&path=/BCXzvAcvSB7JzMWj?ed=2560fp=chromefp=chrome#15%7CUS_speednode_0067
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.37.15:80?allowInsecure=0&sni=sara193.ir&type=ws&host=sara193.ir&path=/BCXzvAcvSB7JzMWj?ed=2560fp=chromefp=chromefp=chromefp=chrome#15%7CUS_speednode_0068
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@www.speedtest.net:80?allowInsecure=0&sni=www.speedtest.net.nl1.72.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&type=ws&host=www.speedtest.net.nl1.72.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&path=/Telegram-Xv2ry2?ed=512fp=chromefp=chrome#15%7CUS_speednode_0069
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@157.254.227.37:587?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chrome&security=tls#15%7CUS_speednode_0070
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@157.254.227.37:587?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chromefp=chrome&security=tls#15%7CUS_speednode_0072
-vless://bd51708b-07de-561f-9053-d2e90ca4ee20@www.speedtest.net:2052?allowInsecure=0&sni=www.digikala.com.joinTelegram.mosiv2.pl1.vless.Sitespeedtest.net.&type=ws&host=www.digikala.com.joinTelegram.mosiv2.pl1.vless.Sitespeedtest.net.&path=/join-fp=chrome#15%7CUS_speednode_0073
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTZ8ZCoqKioqKioqKmcuY29tXzIgIzMiLCAiYWRkIjogIjQyLjIzNi43My43MiIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwNDRmMDE3Ny0wNjc1LTRkY2YtODlkNC04MDRiNjc4OGU1MTgiLCAic25pIjogInd3dy56aXRpYW4uY24ifQ==
-vless://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1&fp=chrome&security=tls#16%7Cd%2A%2A%2A%2A%2A%2A%2A%2A%2Ag.com_6
-trojan://fuck@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1#16%7Cd%2A%2A%2A%2A%2A%2A%2A%2A%2Ag.com_3%20%233
-https://w6KITo.mcsslk.xyz/2cfb7097547d64203494a6a2c744c17d
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A6%F0%9F%87%AAUnited%20Arab%20Emirates
