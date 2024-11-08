@@ -3,20 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - IP-CIDR,78.101.192.0/19,🎯 全球直连,no-resolve
-  - IP-CIDR,78.101.224.0/20,🎯 全球直连,no-resolve
-  - IP-CIDR,81.52.161.0/24,🎯 全球直连,no-resolve
-  - IP-CIDR,85.97.220.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,103.31.200.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,103.69.140.0/23,🎯 全球直连,no-resolve
-  - IP-CIDR,103.218.216.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,114.115.128.0/17,🎯 全球直连,no-resolve
-  - IP-CIDR,114.116.0.0/16,🎯 全球直连,no-resolve
-  - IP-CIDR,116.63.128.0/18,🎯 全球直连,no-resolve
-  - IP-CIDR,116.66.184.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,116.71.96.0/20,🎯 全球直连,no-resolve
-  - IP-CIDR,116.71.128.0/21,🎯 全球直连,no-resolve
-  - IP-CIDR,116.71.136.0/22,🎯 全球直连,no-resolve
   - IP-CIDR,116.71.141.0/24,🎯 全球直连,no-resolve
   - IP-CIDR,116.71.142.0/24,🎯 全球直连,no-resolve
   - IP-CIDR,116.71.243.0/24,🎯 全球直连,no-resolve
@@ -603,3 +589,17 @@ ss://TELEGRAM-NUFiLTER@151.101.3.8:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiL
 ss://TeLeGram-SVNTEAM2@speedtest.net:443?path=%2FS%2FV%2FN%2FT%2FE%2FA%2FM%3Fed%3D8880&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=http.www.speedtest.net.fast.com.life.ir.&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#JOIN:@free_v2rayyy
 ss://d113cd5c-80c9-43e2-a567-107819004a12@all.vipxali.cfd:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1,h2&amp;fp=safari&amp;type=grpc&amp;servicename=@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray&amp;sni=dm.xsv2ray.cfd#%40mtconfig
 ss://ae0a556c-43df-438d-ba8e-a451db675b21@190.93.247.155:443?path=%2Fvless&amp;security=tls&amp;encryption=none&amp;host=it1.v2vless.site&amp;type=ws&amp;sni=it1.v2vless.site#%40hopev2ray%E2%9D%A4%EF%B8%8F
+ss://0e834419-e72d-49cd-83e6-d149f673481d@89.105.223.195:38987?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40kingofilter
+ss://03f64bac-c12e-4bdd-8b06-345400ba1eb0@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=2sibnaaana.net&amp;type=ws#%40nofiltering2
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDEwOS4xMDQuMTUyLjI3OjEyMzQ1#%F0%9F%87%A6%F0%9F%87%B1_AL_%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E4%BA%9A_11
+ss://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@cfpage-39t.pages.dev:443?path=%2FTelegram-%40proxy_mtm-%40proxy_mtm-%40proxy_mtm-%40proxy_mtm-%40proxy_mtm-%40proxy_mtm%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=cfpage-39t.pages.dev&amp;fp=random&amp;type=ws&amp;sni=cfpage-39t.pages.dev#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%8D%A6%40Outline_ir
+ss://9e8aad0e-5ba2-4005-b5fb-03521dc00345@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.TzZLiMitTNeW.NeT#telegram
+ss://316a0817-ecec-41bd-9e69-b20222153461@87.121.113.52:80?mode=multi&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=@bypass_filter#%40bypass_filter
+ss://5fecde22-247a-462d-aab0-ce945f5616dc@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.TzZLiMitTNeW.NeT#telegram
+ss://2d6c7be7-a5c6-5da6-afa2-d3f5e59281dd@185.146.173.26:80?path=%2Fvless&amp;security=none&amp;encryption=none&amp;host=Fi1.vless.site.&amp;type=ws#%40hopev2ray%F0%9F%94%A5
+ss://f534cc65-bb91-46ec-9b59-cbb4eaeb038d@151.101.2.228:80?security=none&amp;sni=bwdraper.faculty.ucdavis.edu&amp;type=ws&amp;host=onlineshoppardis.com&amp;path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray%3Fed%3D2048&amp;fp=chrome&amp;alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
+ss://5fecde22-247a-462d-aab0-ce945f5616dc@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.TzZLiMitTNeW.NeT#telegram
+ss://TELEGRAM-ServerNett@[2a01:4f8:c010:7c82::1]:59493?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
+ss://80943f32-cdc8-44b4-b058-b0126e8daa39@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.TzZLiMitTNeW.CoM#telegram
+ss://0a4acf58-cc3c-4f99-89c1-70d7ca3fbd92@all.vipxali.cfd:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1,h2&amp;type=grpc&amp;serviceName=@XsV2ray,@XsV2ray&amp;sni=mx.XsV2ray.cfd#%40MTConfig
+ss://818442ff-0214-435f-9b40-10d6ab7d4f4d@185.146.173.58:23495?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc73.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+WIFI+2

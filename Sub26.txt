@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-    {
-      "type": "wireguard",
       "tag": "Warp-IR2",
       "server": "188.114.99.186",
       "server_port": 5956,
@@ -343,7 +341,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8df2c46acb662b3f &bull; 2024-11-08 04:19:52 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8df317cdbdaf86e1 &bull; 2024-11-08 05:16:47 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -368,12 +366,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8df2c46acb662b3f</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8df317cdbdaf86e1</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.183.121.28</span>
+      <span class="hidden" id="cf-footer-ip">172.183.107.31</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +601,5 @@ vless://012116a8-7d92-4c5f-b3f2-13a0e9b37ba9@www.speedtest.net:2052?path=%2FTele
 vless://c05ffb1d-e27c-48e5-92e1-f00dedf23013@www.speedtest.net:2052?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=sm.zula.ir.g.varzeshi3.ir.fgil.hm.deba.ka.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95maxsskllppae.plakrovel.melocvo.zmaxer.napovafoodka.com.se1.v2vless.sitespeedtest.net&type=ws#MCI--%40V2ray_Alpha-7
 vless://93d2ef40-6d50-4844-87d1-15e3c8257dba@www.speedtest.net:2052?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=www-domain.de3.v2vless.sitespeedtest.net&type=ws#MCI--%40V2ray_Alpha-8
 vless://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&host=xn----pmcnaac0dkn0rb71nda.pages.dev&type=ws&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev#MCI-%40V2ray_Alpha-9
+vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?path=%2FTelegram%40Linkvws%3Fed%3D2048&security=tls&encryption=none&host=dc1bf227.vf-8co.pages.dev&type=ws&sni=dc1bf227.vf-8co.pages.dev#MCI-%40V2ray_Alpha-10
+vless://90cd4a77-141a-43c9-991b-08263cfe9c10@172.66.46.249:443?path=%2FTelegram%40Linkvws%3Fed%3D2048&security=tls&encryption=none&host=79193c43.aryoovpn-5fr.pages.dev&type=ws&sni=79193c43.aryoovpn-5fr.pages.dev#WiFi-%40V2ray_Alpha-11
