@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - IP-CIDR,180.76.0.0/24,🎯 全球直连,no-resolve
-  - IP-CIDR,180.76.0.0/16,🎯 全球直连,no-resolve
-  - IP-CIDR,182.61.0.0/16,🎯 全球直连,no-resolve
-  - IP-CIDR,185.10.104.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,202.46.48.0/20,🎯 全球直连,no-resolve
-  - IP-CIDR,203.90.238.0/24,🎯 全球直连,no-resolve
-  - IP-CIDR,43.254.0.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,45.249.212.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,49.4.0.0/17,🎯 全球直连,no-resolve
   - IP-CIDR,78.101.192.0/19,🎯 全球直连,no-resolve
   - IP-CIDR,78.101.224.0/20,🎯 全球直连,no-resolve
   - IP-CIDR,81.52.161.0/24,🎯 全球直连,no-resolve
@@ -603,3 +594,12 @@ ss://c12157ee-a46a-4244-a33e-dfcee356990f@www.parsvds.ir:8080?type=ws&amp;path=%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#%40Vpn_Tehran+%E2%9D%A4%EF%B8%8F+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 ss://c1beaf03-ea91-552e-a914-694d35060b3d@185.146.173.42:80?path=%2Fvless&amp;security=none&amp;encryption=none&amp;host=Nl2.vless.site.&amp;type=ws#%40hopev2ray%E2%AD%90
 ss://d810397a-f423-45f4-b0fd-41fd8ecd28ee@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=barkatc2.ir&amp;type=ws#%40V2ray1_Ng+ALL+NET
+ss://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#%40configforVPN
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.217.32:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#Telegram
+ss://17caf9e8-4d17-5c67-9544-b2b05412e3a8@104.21.25.32:443?path=%2Fvless&amp;security=tls&amp;encryption=none&amp;host=nl2.vless.site&amp;type=ws&amp;sni=nl2.vless.site#%40hopev2ray%E2%9D%A4%EF%B8%8F
+ss://5f676d84-c151-48c2-bc09-63017f4a822a@104.21.48.53:8443?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2087&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=yEchIv2raY-x-CGyGFXdDeWaW345556.PageS.deV&amp;fp=chrome&amp;type=ws&amp;sni=pAgES.DEV#%40Vpn_Tehran+%E2%9C%85%EF%B8%8F+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+ss://Parsashonam-94@[2a01:4f8:1c1b:26eb::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Parsashonam
+ss://TELEGRAM-NUFiLTER@151.101.3.8:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=2sibalabalo.net&amp;type=ws#%40nofiltering2
+ss://TeLeGram-SVNTEAM2@speedtest.net:443?path=%2FS%2FV%2FN%2FT%2FE%2FA%2FM%3Fed%3D8880&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=http.www.speedtest.net.fast.com.life.ir.&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#JOIN:@free_v2rayyy
+ss://d113cd5c-80c9-43e2-a567-107819004a12@all.vipxali.cfd:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1,h2&amp;fp=safari&amp;type=grpc&amp;servicename=@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray,@xsv2ray&amp;sni=dm.xsv2ray.cfd#%40mtconfig
+ss://ae0a556c-43df-438d-ba8e-a451db675b21@190.93.247.155:443?path=%2Fvless&amp;security=tls&amp;encryption=none&amp;host=it1.v2vless.site&amp;type=ws&amp;sni=it1.v2vless.site#%40hopev2ray%E2%9D%A4%EF%B8%8F
