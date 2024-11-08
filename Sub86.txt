@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN-SUFFIX,inmobi.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,inner-active.mobi,🛑 全球拦截
   - DOMAIN-SUFFIX,intentiq.com,🛑 全球拦截
   - DOMAIN-SUFFIX,inter1ads.com,🛑 全球拦截
   - DOMAIN-SUFFIX,ipredictive.com,🛑 全球拦截
@@ -603,3 +601,5 @@
   - DOMAIN-SUFFIX,kgmobilestat.kugou.com,🍃 应用净化
   - DOMAIN-SUFFIX,kuaikaiapp.com,🍃 应用净化
   - DOMAIN-SUFFIX,log.stat.kugou.com,🍃 应用净化
+  - DOMAIN-SUFFIX,log.web.kugou.com,🍃 应用净化
+  - DOMAIN-SUFFIX,minidcsc.kugou.com,🍃 应用净化
