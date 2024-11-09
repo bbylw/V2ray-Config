@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://telegram-id-privatevpns@18.132.158.128:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
-trojan://auto@172.67.49.134:443?path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&amp;security=tls&amp;host=trojanfree-76s.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=trojanfree-76s.pages.dev#%40V2ray1_Ng
 trojan://telegram-id-directvpn@35.179.224.246:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
 trojan://telegram-id-directvpn@15.157.237.18:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
 trojan://telegram-id-privatevpns@52.18.228.25:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
@@ -603,3 +601,5 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.9.237.203:587?encryption=none&s
 vless://4785f3ca-8fa3-4717-8c81-9d19087c73a3@172.66.47.85:443?encryption=none&security=tls&sni=pardazeshvpn-tg104.pages.dev&type=ws&host=pardazeshvpn-tg104.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048#t.me%2Fpeterjest
 trojan://auto@104.20.22.232:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#t.me%2Fpeterjest
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5000#t.me%2Fpeterjest
+vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@208.86.168.45:443?encryption=none&security=tls&sni=BPb005.pAgeS.Dev&type=ws&host=BPb005.pAgeS.Dev&path=%2F81eqvt6gwdd8gwo8%2Fmtuyljy3ljiznc40oq#t.me%2Fpeterjest
+vless://40918498-0eb5-46ad-8706-f9813f96552b@172.67.138.69:8080?encryption=none&security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy#t.me%2Fpeterjest

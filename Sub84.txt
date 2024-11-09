@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@152.53.13.241:2003?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chrome&security=tls#15%7CDE_speednode_0040
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@91.107.191.214:8080?sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560security=tls#15%7CDE_speednode_0045
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@91.107.151.202:1001?sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560security=tls#15%7CDE_speednode_0041
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@168.119.169.14:8087?sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560security=tls#15%7CDE_speednode_0043
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@91.107.149.67:8080?sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560security=tls#15%7CDE_speednode_0044
@@ -603,3 +601,5 @@ proxy-groups:
   - name: 📲 电报信息
     type: select
     proxies:
+      - 🚀 节点选择
+      - 🎯 全球直连

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vmess://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:443?encryption=chacha20-poly1305&security=tls&sni=hdfy8d1.foriran.me&allowInsecure=1&fp=chrome&type=ws&path=/Av8czorIlYicU6D349brWUw6a&host=hdfy8d1.foriran.me#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20VM-WS-TLS%204%E2%83%A3
-vmess://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:443?encryption=chacha20-poly1305&security=tls&sni=hdfy8d1.cpi1.eu.org&allowInsecure=1&fp=chrome&type=ws&path=/Av8czorIlYicU6D349brWUw6a&host=hdfy8d1.cpi1.eu.org#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20VM-WS-TLS%204%E2%83%A3
 vmess://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:443?encryption=chacha20-poly1305&security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&allowInsecure=1&fp=chrome&type=ws&path=/Av8czorIlYicU6D349brWUw6a&host=hdfy8d1.cpi1.eu.org#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20VM-WS-TLS%204%E2%83%A3
 trojan://c378f9c9-733c-4a28-af47-cfa8b063a7f6@176.126.113.161:443?security=tls&sni=nl2-full.privateip.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Meppel%20%F0%9F%8C%8D%20TR-TCP-NA%204%E2%83%A3
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?security=tls&sni=ftp.debian.org&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Meppel%20%F0%9F%8C%8D%20TR-TCP-NA%204%E2%83%A3
@@ -603,3 +601,5 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@139.64.165.144:8080#%F0%9F%87%BA%F
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.95.218:5004#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Denver%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.95.218:2375#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Denver%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.95.152:2375#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Denver%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.53:8882#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Denver%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.103:8008#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Denver%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
