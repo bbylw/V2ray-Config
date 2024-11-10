@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://TELEGRAM-ServerNett@[2a01:4f8:c17:eaf8::1]:31407/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829/?encryption=none&host=fast.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://49fc52a8-64d5-4fbe-8049-97e9173b2937@185.146.173.58:8080/?type=ws&encryption=none&host=lc4.lebasnoo.ir.&path=%2Fservernett#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://34b7b2fe-f375-4e8e-810b-b6d7891e18db@190.93.247.56:8080/?type=ws&encryption=none&host=legendaryking.ir.www.speedtest.net.www.zula.ir.cloudflare.com.mozdozari.bUzz.&path=%2Ftelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%3Fed%3D2560#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@162.159.60.173:2082/?type=ws&encryption=none&host=UuOxTfVv27.eJaZeMaDaStE-KhOdScH.OrG&path=%2F#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
@@ -203,7 +201,7 @@ vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:501
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8e06a4c24e7d1167 &bull; 2024-11-10 14:13:30 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8e06ff64cbaf9c73 &bull; 2024-11-10 15:15:23 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -228,12 +226,12 @@ vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:501
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e06a4c24e7d1167</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e06ff64cbaf9c73</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.183.162.209</span>
+      <span class="hidden" id="cf-footer-ip">172.190.111.144</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -368,14 +366,14 @@ hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@54.38.225.47:4380?obfs=salama
 
             <div class="cf-error-footer cf-wrapper">
     <p>
-      <span class="cf-footer-item">Cloudflare Ray ID: 8e06a4d62ee210a1</span>
+      <span class="cf-footer-item">Cloudflare Ray ID: 8e06ff743d9b8205</span>
       <span class="cf-footer-separator">&bull;</span>
-      <span class="cf-footer-item">2024-11-10 14:13:33 UTC</span>
+      <span class="cf-footer-item">2024-11-10 15:15:25 UTC</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden">
         <span class="cf-footer-separator">&bull;</span>
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">172.183.162.209</span>
+        <span class="hidden" id="cf-footer-ip">172.190.111.144</span>
       </span>
       <span class="cf-footer-separator">&bull;</span>
       <span class="cf-footer-item"><span>Runs on </span><a rel="noopener noreferrer" href="https://workers.cloudflare.com?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare Workers</a></span>
@@ -603,3 +601,5 @@ vless://f2b3219c-215f-4b7e-96d8-25b751d79988@175.211.202.63:30001?path=Telegram%
 vless://f2b3219c-215f-4b7e-96d8-25b751d79988@168.126.205.5:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
 vless://f2b3219c-215f-4b7e-96d8-25b751d79988@125.134.172.40:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
 vless://f2b3219c-215f-4b7e-96d8-25b751d79988@112.164.28.162:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@220.81.50.93:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@165.154.43.92:35181?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
