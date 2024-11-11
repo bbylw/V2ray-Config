@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://28d98f761aca9d636f44db62544628eb@184.168.127.50:443?security=none&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20TR-TCP-NA%204%E2%83%A3
+trojan://c33883045c@172.234.25.151:443?security=tls&sni=uk1.connecton.surf&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Chicago%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
 trojan://e5c65270-bef7-4d38-b8c1-03274edf545f@167.172.216.61:443?security=tls&sni=13-231-155-134.nhost.00cdn.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
 vmess://ac8e26fe-8150-4b60-ae64-82fc77eba2cf@152.69.197.60:1069?encryption=auto&security=none&sni=download.xn--mes358a9urctx.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Osaka%20%F0%9F%8C%8F%20VM-TCP-NA%204%E2%83%A3
 trojan://xxoo@172.234.25.151:443?security=tls&sni=v2line.telegram.channel.1331.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Chicago%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
@@ -601,5 +603,3 @@ trojan://b26e31e5-eac1-45b0-9069-83830bd69521@4.215.250.239:443?security=tls&sni
 trojan://e785e5d2-a05e-486c-8b4f-78b205382b4e@4.215.250.239:443?security=tls&sni=ar.iamnotagoodman.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://969ade8a-94fc-4a5a-b448-70a8154fb47b@74.226.136.204:443?security=tls&sni=tw02.trojanyyds.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-NA%204%E2%83%A3
 trojan://2f31805a-b9e0-4b7b-808f-c7971332d068@4.215.250.239:443?security=tls&sni=vn.mjt001.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@74.226.136.204:443?security=tls&sni=sg01.trojanyyds.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://mnk8fd@104.18.202.232:443?security=tls&sni=free.fnet00.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/aws-us-oregon-1.f1cflinec.com/f1rocket&host=free.fnet00.workers.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
