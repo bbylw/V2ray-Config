@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - IP-CIDR,200.32.52.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,200.32.54.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,200.32.57.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,203.135.0.0/22,🎯 全球直连,no-resolve
   - IP-CIDR,203.135.4.0/23,🎯 全球直连,no-resolve
   - IP-CIDR,203.135.8.0/23,🎯 全球直连,no-resolve
   - IP-CIDR,203.135.11.0/24,🎯 全球直连,no-resolve
@@ -599,7 +603,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.243:443#Channel%20id%3A%20%40S
 ss://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.171:80?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=late-tooth.granzinhannah.workers.dev&amp;type=ws#%F0%9F%94%92++%F0%9F%87%B8%F0%9F%87%AC+SG-%40V2RAYPROTOCOL
 ss://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@cfpage-39t.pages.dev:443?path=%2F%54E%4cE%47R%52M-M%41R%41M%42%41S%48I%2F%3Fed%3D2560&amp;serviceName=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&amp;security=tls&amp;encryption=none&amp;host=cfpage-39t.pages.dev&amp;fp=random&amp;type=ws&amp;sni=cfpage-39t.pages.dev#@mehrosaboran
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@162.251.82.187:2096?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&amp;host=joiNv2ngfasT.PAgeS.DEV&amp;type=ws&amp;sni=JoiNV2ngfAsT.PAgeS.dev#%40mehrosaboran
-ss://915773aa-b54f-43b7-8206-456bb4dff914@webshecan.webredirect.org:2087?type=tcp&amp;security=reality&amp;fp=chrome&amp;pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&amp;sni=www.speedtest.net&amp;flow=xtls-rprx-vision&amp;sid=53242a95&amp;spx=%2F#%40WebShecan-27Mordad-Night
-ss://79960dd8-ec33-5445-814b-a827dcc533bf@185.146.173.88:80?path=%2Fvless&amp;security=none&amp;encryption=none&amp;host=Nl2.vless.site.&amp;type=ws#%40hopev2ray%F0%9F%A4%8E
-ss://8cccccc9-6eee-4fff-abbb-5c079999a733@49.12.33.185:443?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;authority=&amp;fp=firefox&amp;type=grpc&amp;serviceName=grpc&amp;sni=www.speedtest.net#%40v2rayng_vpnn+%28+%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86+%29
-ss://Parsashonam-99@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=Parsashonam0.com&amp;fp=firefox&amp;type=ws&amp;sni=Zmaoz.Faculty.Ucdavis.Edu.#@Parsashonam
