@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.114:443?allowInsecure=0&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=/?ed=2048security=tls#15%7CCR_speednode_0010
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.247.34:443?allowInsecure=0&sni=av.ylks.xyz&type=ws&host=av.ylks.xyz&path=/?ed=2048security=tls#15%7CCR_speednode_0011
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.34:443?allowInsecure=0&sni=ax.ylks.xyz&type=ws&host=ax.ylks.xyz&path=/?ed=2048security=tls#15%7CCR_speednode_0012
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.95:443?allowInsecure=0&sni=lw.kpcloud.eu.org&type=ws&host=lw.kpcloud.eu.org&path=/?ed=2048security=tls#15%7CCR_speednode_0013
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.245.244:443?allowInsecure=0&sni=lx.kpcloud.eu.org&type=ws&host=lx.kpcloud.eu.org&path=/?ed=2048security=tls#15%7CCR_speednode_0014
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.18:443?allowInsecure=0&sni=lw.kpcloud.eu.org&type=ws&host=lw.kpcloud.eu.org&path=/?ed=2048security=tls#15%7CCR_speednode_0015
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.246.60:443?allowInsecure=0&sni=lw.kpcloud.eu.org&type=ws&host=lw.kpcloud.eu.org&path=/?ed=2048security=tls#15%7CCR_speednode_0016
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@190.93.246.152:8880?allowInsecure=1&sni=late-tooth.granzinhannah.workers.dev&type=ws&host=late-tooth.granzinhannah.workers.dev&path=/@AZARBAYJAB1@AZARBAYJAB1?ed=2560fp=chrome#15%7CCR_speednode_0017
@@ -130,7 +125,7 @@ vless://01a02f23-2b46-5456-9892-dd49a8d79ac2@151.101.2.219:80?allowInsecure=0&sn
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTZ8ZCoqKioqKioqKmcuY29tXzIgIzMiLCAiYWRkIjogIjQyLjIzNi43My43MiIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwNDRmMDE3Ny0wNjc1LTRkY2YtODlkNC04MDRiNjc4OGU1MTgiLCAic25pIjogInd3dy56aXRpYW4uY24ifQ==
 vless://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1&fp=chrome&security=tls#16%7Cd%2A%2A%2A%2A%2A%2A%2A%2A%2Ag.com_6
 trojan://fuck@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1#16%7Cd%2A%2A%2A%2A%2A%2A%2A%2A%2Ag.com_3%20%233
-https://44prMO.mcsslk.xyz/14839d00c545f513cfd54b741e500976
+https://yOW4HE.mcsslk.xyz/8ba9c6c8704e79114e6240fd52bafcc7
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A6%F0%9F%87%AAUnited%20Arab%20Emirates
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A6%F0%9F%87%AAUnited%20Arab%20Emirates
@@ -603,3 +598,8 @@ proxy-groups:
       - 302.j4tccyw7.workers.dev_3
       - 201.58vtg99l.workers.dev_3
       - 备1_3
+      - 备2_3
+      - 201.myhmyhhuang1980.workers.dev_3
+      - feng1_3
+      - feng2_3
+      - feng3_3
