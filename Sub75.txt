@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://5c0a9fc8-9b4f-430f-895a-f5242085679f@103.224.182.208:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Diego%20%F0%9F%8C%8E%20TR-TCP-NA%204%E2%83%A3
+trojan://c68e3c20-da73-4791-b4d8-7011a98ba06b@103.224.182.208:443?security=tls&sni=4-193-105-141.nhost.00cdn.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Diego%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
+trojan://254aa898-bc2a-4ec8-87d1-9f5d37658f6c@52.220.94.187:443?security=tls&sni=spkr.1234567890spcloud.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://61280f80-cd25-4c7b-8e5a-b1560617047a@172.234.25.151:443?security=tls&sni=wfi.sahnama.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Chicago%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
 trojan://17c0c3fe-0e7e-4d75-8011-ebb46fea532b@103.224.182.208:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Diego%20%F0%9F%8C%8E%20TR-TCP-NA%204%E2%83%A3
 trojan://fe5c139b-e3c2-4029-a783-b7f836557f6d@54.255.66.141:443?security=tls&sni=fschk.fscloud123456789.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://924745fa-8b63-458a-b6b5-1686e3701141@13.212.99.237:443?security=tls&sni=13-251-128-188.nhost.00cdn.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
@@ -599,7 +603,3 @@ trojan://9d3b1e0e-252a-4c67-9628-8b62e77197e7@4.215.250.239:443?security=tls&sni
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@74.226.156.85:443?security=tls&sni=tr.mjt001.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://fab16fff-d149-417c-bdef-4bfcf2333bbe@74.226.156.85:443?security=tls&sni=hkt.iamnotagoodman.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://0cdc54e5-c8e1-4350-a7b2-047e5f4c02f9@74.226.156.85:443?security=tls&sni=uk.mjt000.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://ab0b21ff-53d1-4b02-800b-9d7db3aed104@4.215.250.239:443?security=tls&sni=kz.mjt001.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://e785e5d2-a05e-486c-8b4f-78b205382b4e@4.215.250.239:443?security=tls&sni=hkt.iamnotagoodman.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://b00ac480-3e34-4ca9-8b3b-0b4515e4b75d@4.215.250.239:443?security=tls&sni=kz.mjt001.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://6ca86014-8d5b-45e4-ae7c-90994689037f@4.215.250.239:443?security=tls&sni=uk.mjt001.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
