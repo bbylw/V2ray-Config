@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.116:443?allowInsecure=0&sni=lw.kpcloud.eu.org&type=ws&host=lw.kpcloud.eu.org&path=/bluesecurity=tls#15%7CKZ_speednode_0021
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.22.239:2003?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chrome&security=tls#15%7CMD_speednode_0023
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.22.239:2003?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chromefp=chrome&security=tls#15%7CMD_speednode_0024
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@2.58.56.31:3001?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chrome&security=tls#15%7CNL_speednode_0025
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.246.81.62:2501?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chrome&security=tls#15%7CNL_speednode_0026
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@89.110.102.115:2501?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chrome&security=tls#15%7CNL_speednode_0027
-vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?allowInsecure=0&sni=VIrgiNiavPn-nL.pagEs.dEv&type=ws&host=VIrgiNiavPn-nL.pagEs.dEv&path=/fp=chrome&security=tls#15%7CRU_speednode_0028
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.208:443?allowInsecure=0&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=/bluesecurity=tls#15%7CRU_speednode_0029
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@91.219.150.221:8080?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chrome&security=tls#15%7CRU_speednode_0030
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.51.24:2501?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chrome&security=tls#15%7CSE_speednode_0031
@@ -603,3 +596,10 @@ proxy-groups:
       - feng1_1
       - feng2_1
       - feng3_1
+      - feng4_1
+      - feng5_1
+      - feng6_1
+      - 901.dbodanwi.workers.dev_2
+      - 302.j4tccyw7.workers.dev_2
+      - 201.58vtg99l.workers.dev_2
+      - 备1_2
