@@ -3,603 +3,603 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-# 节点数量：60
-####################################
-# !!当前配置文件请使用基于 Clash.Meta 内核程序
-mixed-port: 7890
-allow-lan: true
-log-level: info
-external-controller: 0.0.0.0:9090
-dns:
-  enabled: true
-  listen: 0.0.0.0:1053
-  ipv6: true
-  default-nameserver:
-    - 223.5.5.5
-    - 114.114.114.114
-  enhanced-mode: fake-ip
-  fake-ip-range: 198.18.0.1/16
-  fake-ip-filter:
-    - '*.lan'
-    - '*.linksys.com'
-    - '*.linksyssmartwifi.com'
-    - swscan.apple.com
-    - mesu.apple.com
-    - '*.msftconnecttest.com'
-    - '*.msftncsi.com'
-    - time.*.com
-    - time.*.gov
-    - time.*.edu.cn
-    - time.*.apple.com
-    - time1.*.com
-    - time2.*.com
-    - time3.*.com
-    - time4.*.com
-    - time5.*.com
-    - time6.*.com
-    - time7.*.com
-    - ntp.*.com
-    - ntp.*.com
-    - ntp1.*.com
-    - ntp2.*.com
-    - ntp3.*.com
-    - ntp4.*.com
-    - ntp5.*.com
-    - ntp6.*.com
-    - ntp7.*.com
-    - '*.time.edu.cn'
-    - '*.ntp.org.cn'
-    - +.pool.ntp.org
-    - time1.cloud.tencent.com
-    - +.music.163.com
-    - '*.126.net'
-    - musicapi.taihe.com
-    - music.taihe.com
-    - songsearch.kugou.com
-    - trackercdn.kugou.com
-    - '*.kuwo.cn'
-    - api-jooxtt.sanook.com
-    - api.joox.com
-    - joox.com
-    - +.y.qq.com
-    - +.music.tc.qq.com
-    - aqqmusic.tc.qq.com
-    - +.stream.qqmusic.qq.com
-    - '*.xiami.com'
-    - +.music.migu.cn
-    - +.srv.nintendo.net
-    - +.stun.playstation.net
-    - xbox.*.microsoft.com
-    - +.xboxlive.com
-    - localhost.ptlogin2.qq.com
-    - proxy.golang.org
-    - stun.*.*
-    - stun.*.*.*
-    - '*.mcdn.bilivideo.cn'
-  nameserver:
-    - https://doh.pub/dns-query
-    - https://dns.alidns.com/dns-query
-  fallback-filter:
-    geoip: false
-    ipcidr:
-      - 240.0.0.0/4
-      - 0.0.0.0/32
-
-proxies:
-  - {"name":"901.dbodanwi.workers.dev_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"6f183280-b258-437a-a216-e83f7dece776","tls":false,"servername":"901.dbodanwi.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"901.dbodanwi.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"302.j4tccyw7.workers.dev_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"b6cdbcb4-fccd-4237-b055-345a06eaa08e","tls":false,"servername":"302.j4tccyw7.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"302.j4tccyw7.workers.dev"}},"client-fingerprint":"随机"}
-  - {"name":"201.58vtg99l.workers.dev_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"4c9541c7-5fa1-403c-84af-175e3b25a27f","tls":false,"servername":"201.58vtg99l.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"201.58vtg99l.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"备1_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"464d644c-9c10-4c02-9117-4c75b0c347cd","tls":false,"servername":"wwwvisacomsg.mshcgb8q.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"wwwvisacomsg.mshcgb8q.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"备2_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"b6cea380-cc8c-4e33-ab32-fc4d284ab5db","tls":false,"servername":"bei2.8l-0dfay.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"bei2.8l-0dfay.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"201.myhmyhhuang1980.workers.dev_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"6af03153-ee0a-4ec7-93d4-89b4debc3c07","tls":false,"servername":"201.myhmyhhuang1980.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"201.myhmyhhuang1980.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng1_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"046da250-d5ef-4867-9095-302477d54d20","tls":false,"servername":"feng.ipy29c99.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng.ipy29c99.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng2_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"77f2d54c-f1bd-46ff-af4c-cc44c72fd25e","tls":false,"servername":"feng2.vfl83lnn.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng2.vfl83lnn.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng3_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"318c375c-1f29-4b30-8875-2c4c54d7c38d","tls":false,"servername":"feng3.2n7y5pja.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng3.2n7y5pja.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng4_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"d6ff33a6-03bf-4338-8a63-62ab284a9466","tls":false,"servername":"feng4.l1ut8bi9.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng4.l1ut8bi9.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng5_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"365de7de-77b2-4a62-aec3-66a6bd41813e","tls":false,"servername":"feng5.ogazo8c3.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng5.ogazo8c3.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng6_1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"89c21153-67d9-4505-a25c-cef293500eb8","tls":false,"servername":"feng6.4m-bq2ce.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng6.4m-bq2ce.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"901.dbodanwi.workers.dev_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"6f183280-b258-437a-a216-e83f7dece776","tls":false,"servername":"901.dbodanwi.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"901.dbodanwi.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"302.j4tccyw7.workers.dev_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"b6cdbcb4-fccd-4237-b055-345a06eaa08e","tls":false,"servername":"302.j4tccyw7.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"302.j4tccyw7.workers.dev"}},"client-fingerprint":"随机"}
-  - {"name":"201.58vtg99l.workers.dev_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"4c9541c7-5fa1-403c-84af-175e3b25a27f","tls":false,"servername":"201.58vtg99l.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"201.58vtg99l.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"备1_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"464d644c-9c10-4c02-9117-4c75b0c347cd","tls":false,"servername":"wwwvisacomsg.mshcgb8q.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"wwwvisacomsg.mshcgb8q.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"备2_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"b6cea380-cc8c-4e33-ab32-fc4d284ab5db","tls":false,"servername":"bei2.8l-0dfay.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"bei2.8l-0dfay.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"201.myhmyhhuang1980.workers.dev_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"6af03153-ee0a-4ec7-93d4-89b4debc3c07","tls":false,"servername":"201.myhmyhhuang1980.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"201.myhmyhhuang1980.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng1_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"046da250-d5ef-4867-9095-302477d54d20","tls":false,"servername":"feng.ipy29c99.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng.ipy29c99.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng2_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"77f2d54c-f1bd-46ff-af4c-cc44c72fd25e","tls":false,"servername":"feng2.vfl83lnn.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng2.vfl83lnn.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng3_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"318c375c-1f29-4b30-8875-2c4c54d7c38d","tls":false,"servername":"feng3.2n7y5pja.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng3.2n7y5pja.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng4_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"d6ff33a6-03bf-4338-8a63-62ab284a9466","tls":false,"servername":"feng4.l1ut8bi9.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng4.l1ut8bi9.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng5_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"365de7de-77b2-4a62-aec3-66a6bd41813e","tls":false,"servername":"feng5.ogazo8c3.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng5.ogazo8c3.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng6_2","type":"vless","server":"www.ipget.net","port":8080,"uuid":"89c21153-67d9-4505-a25c-cef293500eb8","tls":false,"servername":"feng6.4m-bq2ce.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng6.4m-bq2ce.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"901.dbodanwi.workers.dev_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"6f183280-b258-437a-a216-e83f7dece776","tls":false,"servername":"901.dbodanwi.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"901.dbodanwi.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"302.j4tccyw7.workers.dev_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"b6cdbcb4-fccd-4237-b055-345a06eaa08e","tls":false,"servername":"302.j4tccyw7.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"302.j4tccyw7.workers.dev"}},"client-fingerprint":"随机"}
-  - {"name":"201.58vtg99l.workers.dev_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"4c9541c7-5fa1-403c-84af-175e3b25a27f","tls":false,"servername":"201.58vtg99l.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"201.58vtg99l.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"备1_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"464d644c-9c10-4c02-9117-4c75b0c347cd","tls":false,"servername":"wwwvisacomsg.mshcgb8q.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"wwwvisacomsg.mshcgb8q.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"备2_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"b6cea380-cc8c-4e33-ab32-fc4d284ab5db","tls":false,"servername":"bei2.8l-0dfay.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"bei2.8l-0dfay.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"201.myhmyhhuang1980.workers.dev_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"6af03153-ee0a-4ec7-93d4-89b4debc3c07","tls":false,"servername":"201.myhmyhhuang1980.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"201.myhmyhhuang1980.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng1_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"046da250-d5ef-4867-9095-302477d54d20","tls":false,"servername":"feng.ipy29c99.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng.ipy29c99.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng2_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"77f2d54c-f1bd-46ff-af4c-cc44c72fd25e","tls":false,"servername":"feng2.vfl83lnn.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng2.vfl83lnn.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng3_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"318c375c-1f29-4b30-8875-2c4c54d7c38d","tls":false,"servername":"feng3.2n7y5pja.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng3.2n7y5pja.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng4_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"d6ff33a6-03bf-4338-8a63-62ab284a9466","tls":false,"servername":"feng4.l1ut8bi9.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng4.l1ut8bi9.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng5_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"365de7de-77b2-4a62-aec3-66a6bd41813e","tls":false,"servername":"feng5.ogazo8c3.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng5.ogazo8c3.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng6_3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"89c21153-67d9-4505-a25c-cef293500eb8","tls":false,"servername":"feng6.4m-bq2ce.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng6.4m-bq2ce.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"901.dbodanwi.workers.dev_4","type":"vless","server":"www.gov.ua","port":8080,"uuid":"6f183280-b258-437a-a216-e83f7dece776","tls":false,"servername":"901.dbodanwi.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"901.dbodanwi.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"302.j4tccyw7.workers.dev_4","type":"vless","server":"www.gov.ua","port":8080,"uuid":"b6cdbcb4-fccd-4237-b055-345a06eaa08e","tls":false,"servername":"302.j4tccyw7.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"302.j4tccyw7.workers.dev"}},"client-fingerprint":"随机"}
-  - {"name":"201.58vtg99l.workers.dev_4","type":"vless","server":"www.gov.ua","port":8080,"uuid":"4c9541c7-5fa1-403c-84af-175e3b25a27f","tls":false,"servername":"201.58vtg99l.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"201.58vtg99l.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"备1_4","type":"vless","server":"www.gov.ua","port":8080,"uuid":"464d644c-9c10-4c02-9117-4c75b0c347cd","tls":false,"servername":"wwwvisacomsg.mshcgb8q.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"wwwvisacomsg.mshcgb8q.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"备2_4","type":"vless","server":"www.gov.ua","port":8080,"uuid":"b6cea380-cc8c-4e33-ab32-fc4d284ab5db","tls":false,"servername":"bei2.8l-0dfay.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"bei2.8l-0dfay.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"201.myhmyhhuang1980.workers.dev_4","type":"vless","server":"www.gov.ua","port":8080,"uuid":"6af03153-ee0a-4ec7-93d4-89b4debc3c07","tls":false,"servername":"201.myhmyhhuang1980.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"201.myhmyhhuang1980.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng1_4","type":"vless","server":"www.gov.ua","port":8080,"uuid":"046da250-d5ef-4867-9095-302477d54d20","tls":false,"servername":"feng.ipy29c99.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng.ipy29c99.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng2_4","type":"vless","server":"www.gov.ua","port":8080,"uuid":"77f2d54c-f1bd-46ff-af4c-cc44c72fd25e","tls":false,"servername":"feng2.vfl83lnn.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng2.vfl83lnn.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng3_4","type":"vless","server":"www.gov.ua","port":8080,"uuid":"318c375c-1f29-4b30-8875-2c4c54d7c38d","tls":false,"servername":"feng3.2n7y5pja.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng3.2n7y5pja.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng4_4","type":"vless","server":"www.gov.ua","port":8080,"uuid":"d6ff33a6-03bf-4338-8a63-62ab284a9466","tls":false,"servername":"feng4.l1ut8bi9.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng4.l1ut8bi9.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng5_4","type":"vless","server":"www.gov.ua","port":8080,"uuid":"365de7de-77b2-4a62-aec3-66a6bd41813e","tls":false,"servername":"feng5.ogazo8c3.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng5.ogazo8c3.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng6_4","type":"vless","server":"www.gov.ua","port":8080,"uuid":"89c21153-67d9-4505-a25c-cef293500eb8","tls":false,"servername":"feng6.4m-bq2ce.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng6.4m-bq2ce.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"901.dbodanwi.workers.dev_5","type":"vless","server":"ip.sb","port":8080,"uuid":"6f183280-b258-437a-a216-e83f7dece776","tls":false,"servername":"901.dbodanwi.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"901.dbodanwi.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"302.j4tccyw7.workers.dev_5","type":"vless","server":"ip.sb","port":8080,"uuid":"b6cdbcb4-fccd-4237-b055-345a06eaa08e","tls":false,"servername":"302.j4tccyw7.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"302.j4tccyw7.workers.dev"}},"client-fingerprint":"随机"}
-  - {"name":"201.58vtg99l.workers.dev_5","type":"vless","server":"ip.sb","port":8080,"uuid":"4c9541c7-5fa1-403c-84af-175e3b25a27f","tls":false,"servername":"201.58vtg99l.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"201.58vtg99l.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"备1_5","type":"vless","server":"ip.sb","port":8080,"uuid":"464d644c-9c10-4c02-9117-4c75b0c347cd","tls":false,"servername":"wwwvisacomsg.mshcgb8q.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"wwwvisacomsg.mshcgb8q.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"备2_5","type":"vless","server":"ip.sb","port":8080,"uuid":"b6cea380-cc8c-4e33-ab32-fc4d284ab5db","tls":false,"servername":"bei2.8l-0dfay.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"bei2.8l-0dfay.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"201.myhmyhhuang1980.workers.dev_5","type":"vless","server":"ip.sb","port":8080,"uuid":"6af03153-ee0a-4ec7-93d4-89b4debc3c07","tls":false,"servername":"201.myhmyhhuang1980.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"201.myhmyhhuang1980.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng1_5","type":"vless","server":"ip.sb","port":8080,"uuid":"046da250-d5ef-4867-9095-302477d54d20","tls":false,"servername":"feng.ipy29c99.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng.ipy29c99.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng2_5","type":"vless","server":"ip.sb","port":8080,"uuid":"77f2d54c-f1bd-46ff-af4c-cc44c72fd25e","tls":false,"servername":"feng2.vfl83lnn.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng2.vfl83lnn.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng3_5","type":"vless","server":"ip.sb","port":8080,"uuid":"318c375c-1f29-4b30-8875-2c4c54d7c38d","tls":false,"servername":"feng3.2n7y5pja.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng3.2n7y5pja.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng4_5","type":"vless","server":"ip.sb","port":8080,"uuid":"d6ff33a6-03bf-4338-8a63-62ab284a9466","tls":false,"servername":"feng4.l1ut8bi9.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng4.l1ut8bi9.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng5_5","type":"vless","server":"ip.sb","port":8080,"uuid":"365de7de-77b2-4a62-aec3-66a6bd41813e","tls":false,"servername":"feng5.ogazo8c3.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng5.ogazo8c3.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"feng6_5","type":"vless","server":"ip.sb","port":8080,"uuid":"89c21153-67d9-4505-a25c-cef293500eb8","tls":false,"servername":"feng6.4m-bq2ce.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"feng6.4m-bq2ce.workers.dev"}},"client-fingerprint":"randomized"}
-proxy-groups:
-  - name: 🚀 节点选择
-    type: select
-    proxies:
-      - ♻️ 自动选择
-      - DIRECT
-      - 901.dbodanwi.workers.dev_1
-      - 302.j4tccyw7.workers.dev_1
-      - 201.58vtg99l.workers.dev_1
-      - 备1_1
-      - 备2_1
-      - 201.myhmyhhuang1980.workers.dev_1
-      - feng1_1
-      - feng2_1
-      - feng3_1
-      - feng4_1
-      - feng5_1
-      - feng6_1
-      - 901.dbodanwi.workers.dev_2
-      - 302.j4tccyw7.workers.dev_2
-      - 201.58vtg99l.workers.dev_2
-      - 备1_2
-      - 备2_2
-      - 201.myhmyhhuang1980.workers.dev_2
-      - feng1_2
-      - feng2_2
-      - feng3_2
-      - feng4_2
-      - feng5_2
-      - feng6_2
-      - 901.dbodanwi.workers.dev_3
-      - 302.j4tccyw7.workers.dev_3
-      - 201.58vtg99l.workers.dev_3
-      - 备1_3
-      - 备2_3
-      - 201.myhmyhhuang1980.workers.dev_3
-      - feng1_3
-      - feng2_3
-      - feng3_3
-      - feng4_3
-      - feng5_3
-      - feng6_3
-      - 901.dbodanwi.workers.dev_4
-      - 302.j4tccyw7.workers.dev_4
-      - 201.58vtg99l.workers.dev_4
-      - 备1_4
-      - 备2_4
-      - 201.myhmyhhuang1980.workers.dev_4
-      - feng1_4
-      - feng2_4
-      - feng3_4
-      - feng4_4
-      - feng5_4
-      - feng6_4
-      - 901.dbodanwi.workers.dev_5
-      - 302.j4tccyw7.workers.dev_5
-      - 201.58vtg99l.workers.dev_5
-      - 备1_5
-      - 备2_5
-      - 201.myhmyhhuang1980.workers.dev_5
-      - feng1_5
-      - feng2_5
-      - feng3_5
-      - feng4_5
-      - feng5_5
-      - feng6_5
-  - name: ♻️ 自动选择
-    type: url-test
-    url: http://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - 901.dbodanwi.workers.dev_1
-      - 302.j4tccyw7.workers.dev_1
-      - 201.58vtg99l.workers.dev_1
-      - 备1_1
-      - 备2_1
-      - 201.myhmyhhuang1980.workers.dev_1
-      - feng1_1
-      - feng2_1
-      - feng3_1
-      - feng4_1
-      - feng5_1
-      - feng6_1
-      - 901.dbodanwi.workers.dev_2
-      - 302.j4tccyw7.workers.dev_2
-      - 201.58vtg99l.workers.dev_2
-      - 备1_2
-      - 备2_2
-      - 201.myhmyhhuang1980.workers.dev_2
-      - feng1_2
-      - feng2_2
-      - feng3_2
-      - feng4_2
-      - feng5_2
-      - feng6_2
-      - 901.dbodanwi.workers.dev_3
-      - 302.j4tccyw7.workers.dev_3
-      - 201.58vtg99l.workers.dev_3
-      - 备1_3
-      - 备2_3
-      - 201.myhmyhhuang1980.workers.dev_3
-      - feng1_3
-      - feng2_3
-      - feng3_3
-      - feng4_3
-      - feng5_3
-      - feng6_3
-      - 901.dbodanwi.workers.dev_4
-      - 302.j4tccyw7.workers.dev_4
-      - 201.58vtg99l.workers.dev_4
-      - 备1_4
-      - 备2_4
-      - 201.myhmyhhuang1980.workers.dev_4
-      - feng1_4
-      - feng2_4
-      - feng3_4
-      - feng4_4
-      - feng5_4
-      - feng6_4
-      - 901.dbodanwi.workers.dev_5
-      - 302.j4tccyw7.workers.dev_5
-      - 201.58vtg99l.workers.dev_5
-      - 备1_5
-      - 备2_5
-      - 201.myhmyhhuang1980.workers.dev_5
-      - feng1_5
-      - feng2_5
-      - feng3_5
-      - feng4_5
-      - feng5_5
-      - feng6_5
-  - name: 🌍 国外媒体
-    type: select
-    proxies:
-      - 🚀 节点选择
-      - ♻️ 自动选择
-      - 🎯 全球直连
-      - 901.dbodanwi.workers.dev_1
-      - 302.j4tccyw7.workers.dev_1
-      - 201.58vtg99l.workers.dev_1
-      - 备1_1
-      - 备2_1
-      - 201.myhmyhhuang1980.workers.dev_1
-      - feng1_1
-      - feng2_1
-      - feng3_1
-      - feng4_1
-      - feng5_1
-      - feng6_1
-      - 901.dbodanwi.workers.dev_2
-      - 302.j4tccyw7.workers.dev_2
-      - 201.58vtg99l.workers.dev_2
-      - 备1_2
-      - 备2_2
-      - 201.myhmyhhuang1980.workers.dev_2
-      - feng1_2
-      - feng2_2
-      - feng3_2
-      - feng4_2
-      - feng5_2
-      - feng6_2
-      - 901.dbodanwi.workers.dev_3
-      - 302.j4tccyw7.workers.dev_3
-      - 201.58vtg99l.workers.dev_3
-      - 备1_3
-      - 备2_3
-      - 201.myhmyhhuang1980.workers.dev_3
-      - feng1_3
-      - feng2_3
-      - feng3_3
-      - feng4_3
-      - feng5_3
-      - feng6_3
-      - 901.dbodanwi.workers.dev_4
-      - 302.j4tccyw7.workers.dev_4
-      - 201.58vtg99l.workers.dev_4
-      - 备1_4
-      - 备2_4
-      - 201.myhmyhhuang1980.workers.dev_4
-      - feng1_4
-      - feng2_4
-      - feng3_4
-      - feng4_4
-      - feng5_4
-      - feng6_4
-      - 901.dbodanwi.workers.dev_5
-      - 302.j4tccyw7.workers.dev_5
-      - 201.58vtg99l.workers.dev_5
-      - 备1_5
-      - 备2_5
-      - 201.myhmyhhuang1980.workers.dev_5
-      - feng1_5
-      - feng2_5
-      - feng3_5
-      - feng4_5
-      - feng5_5
-      - feng6_5
-  - name: 📲 电报信息
-    type: select
-    proxies:
-      - 🚀 节点选择
-      - 🎯 全球直连
-      - 901.dbodanwi.workers.dev_1
-      - 302.j4tccyw7.workers.dev_1
-      - 201.58vtg99l.workers.dev_1
-      - 备1_1
-      - 备2_1
-      - 201.myhmyhhuang1980.workers.dev_1
-      - feng1_1
-      - feng2_1
-      - feng3_1
-      - feng4_1
-      - feng5_1
-      - feng6_1
-      - 901.dbodanwi.workers.dev_2
-      - 302.j4tccyw7.workers.dev_2
-      - 201.58vtg99l.workers.dev_2
-      - 备1_2
-      - 备2_2
-      - 201.myhmyhhuang1980.workers.dev_2
-      - feng1_2
-      - feng2_2
-      - feng3_2
-      - feng4_2
-      - feng5_2
-      - feng6_2
-      - 901.dbodanwi.workers.dev_3
-      - 302.j4tccyw7.workers.dev_3
-      - 201.58vtg99l.workers.dev_3
-      - 备1_3
-      - 备2_3
-      - 201.myhmyhhuang1980.workers.dev_3
-      - feng1_3
-      - feng2_3
-      - feng3_3
-      - feng4_3
-      - feng5_3
-      - feng6_3
-      - 901.dbodanwi.workers.dev_4
-      - 302.j4tccyw7.workers.dev_4
-      - 201.58vtg99l.workers.dev_4
-      - 备1_4
-      - 备2_4
-      - 201.myhmyhhuang1980.workers.dev_4
-      - feng1_4
-      - feng2_4
-      - feng3_4
-      - feng4_4
-      - feng5_4
-      - feng6_4
-      - 901.dbodanwi.workers.dev_5
-      - 302.j4tccyw7.workers.dev_5
-      - 201.58vtg99l.workers.dev_5
-      - 备1_5
-      - 备2_5
-      - 201.myhmyhhuang1980.workers.dev_5
-      - feng1_5
-      - feng2_5
-      - feng3_5
-      - feng4_5
-      - feng5_5
-      - feng6_5
-  - name: Ⓜ️ 微软服务
-    type: select
-    proxies:
-      - 🎯 全球直连
-      - 🚀 节点选择
-      - 901.dbodanwi.workers.dev_1
-      - 302.j4tccyw7.workers.dev_1
-      - 201.58vtg99l.workers.dev_1
-      - 备1_1
-      - 备2_1
-      - 201.myhmyhhuang1980.workers.dev_1
-      - feng1_1
-      - feng2_1
-      - feng3_1
-      - feng4_1
-      - feng5_1
-      - feng6_1
-      - 901.dbodanwi.workers.dev_2
-      - 302.j4tccyw7.workers.dev_2
-      - 201.58vtg99l.workers.dev_2
-      - 备1_2
-      - 备2_2
-      - 201.myhmyhhuang1980.workers.dev_2
-      - feng1_2
-      - feng2_2
-      - feng3_2
-      - feng4_2
-      - feng5_2
-      - feng6_2
-      - 901.dbodanwi.workers.dev_3
-      - 302.j4tccyw7.workers.dev_3
-      - 201.58vtg99l.workers.dev_3
-      - 备1_3
-      - 备2_3
-      - 201.myhmyhhuang1980.workers.dev_3
-      - feng1_3
-      - feng2_3
-      - feng3_3
-      - feng4_3
-      - feng5_3
-      - feng6_3
-      - 901.dbodanwi.workers.dev_4
-      - 302.j4tccyw7.workers.dev_4
-      - 201.58vtg99l.workers.dev_4
-      - 备1_4
-      - 备2_4
-      - 201.myhmyhhuang1980.workers.dev_4
-      - feng1_4
-      - feng2_4
-      - feng3_4
-      - feng4_4
-      - feng5_4
-      - feng6_4
-      - 901.dbodanwi.workers.dev_5
-      - 302.j4tccyw7.workers.dev_5
-      - 201.58vtg99l.workers.dev_5
-      - 备1_5
-      - 备2_5
-      - 201.myhmyhhuang1980.workers.dev_5
-      - feng1_5
-      - feng2_5
-      - feng3_5
-      - feng4_5
-      - feng5_5
-      - feng6_5
-  - name: 🍎 苹果服务
-    type: select
-    proxies:
-      - 🚀 节点选择
-      - 🎯 全球直连
-      - 901.dbodanwi.workers.dev_1
-      - 302.j4tccyw7.workers.dev_1
-      - 201.58vtg99l.workers.dev_1
-      - 备1_1
-      - 备2_1
-      - 201.myhmyhhuang1980.workers.dev_1
-      - feng1_1
-      - feng2_1
-      - feng3_1
-      - feng4_1
-      - feng5_1
-      - feng6_1
-      - 901.dbodanwi.workers.dev_2
-      - 302.j4tccyw7.workers.dev_2
-      - 201.58vtg99l.workers.dev_2
-      - 备1_2
-      - 备2_2
-      - 201.myhmyhhuang1980.workers.dev_2
-      - feng1_2
-      - feng2_2
-      - feng3_2
-      - feng4_2
-      - feng5_2
-      - feng6_2
-      - 901.dbodanwi.workers.dev_3
-      - 302.j4tccyw7.workers.dev_3
-      - 201.58vtg99l.workers.dev_3
-      - 备1_3
-      - 备2_3
-      - 201.myhmyhhuang1980.workers.dev_3
-      - feng1_3
-      - feng2_3
-      - feng3_3
-      - feng4_3
-      - feng5_3
-      - feng6_3
-      - 901.dbodanwi.workers.dev_4
-      - 302.j4tccyw7.workers.dev_4
-      - 201.58vtg99l.workers.dev_4
-      - 备1_4
-      - 备2_4
-      - 201.myhmyhhuang1980.workers.dev_4
-      - feng1_4
-      - feng2_4
-      - feng3_4
-      - feng4_4
-      - feng5_4
-      - feng6_4
-      - 901.dbodanwi.workers.dev_5
-      - 302.j4tccyw7.workers.dev_5
-      - 201.58vtg99l.workers.dev_5
-      - 备1_5
-      - 备2_5
-      - 201.myhmyhhuang1980.workers.dev_5
-      - feng1_5
-      - feng2_5
-      - feng3_5
-      - feng4_5
-      - feng5_5
-      - feng6_5
-  - name: 🎯 全球直连
-    type: select
-    proxies:
-      - DIRECT
-      - 🚀 节点选择
-      - ♻️ 自动选择
-  - name: 🛑 全球拦截
-    type: select
-    proxies:
-      - REJECT
-      - DIRECT
-  - name: 🍃 应用净化
-    type: select
-    proxies:
-      - REJECT
-      - DIRECT
-  - name: 🐟 漏网之鱼
-    type: select
-    proxies:
-      - 🚀 节点选择
-      - 🎯 全球直连
-      - ♻️ 自动选择
-      - 901.dbodanwi.workers.dev_1
-      - 302.j4tccyw7.workers.dev_1
-      - 201.58vtg99l.workers.dev_1
-      - 备1_1
-      - 备2_1
-      - 201.myhmyhhuang1980.workers.dev_1
-      - feng1_1
-      - feng2_1
-      - feng3_1
-      - feng4_1
-      - feng5_1
-      - feng6_1
-      - 901.dbodanwi.workers.dev_2
-      - 302.j4tccyw7.workers.dev_2
-      - 201.58vtg99l.workers.dev_2
-      - 备1_2
-      - 备2_2
-      - 201.myhmyhhuang1980.workers.dev_2
-      - feng1_2
-      - feng2_2
-      - feng3_2
-      - feng4_2
-      - feng5_2
-      - feng6_2
-      - 901.dbodanwi.workers.dev_3
-      - 302.j4tccyw7.workers.dev_3
-      - 201.58vtg99l.workers.dev_3
-      - 备1_3
-      - 备2_3
-      - 201.myhmyhhuang1980.workers.dev_3
-      - feng1_3
-      - feng2_3
-      - feng3_3
-      - feng4_3
-      - feng5_3
-      - feng6_3
-      - 901.dbodanwi.workers.dev_4
-      - 302.j4tccyw7.workers.dev_4
-      - 201.58vtg99l.workers.dev_4
-      - 备1_4
-      - 备2_4
-      - 201.myhmyhhuang1980.workers.dev_4
+# Github
+# Google
+# GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
+# Instagram
+# Kakao Talk
+# Line
+# OneDrive
+#DOMAIN-SUFFIX,aria.microsoft.com
+# Porn
+# Pixiv
+# Spark
+# Steam
+# TapTap
+# Twitch
+# Twitter
+# Telegram
+# TeraBox
+# Whatsapp
+# Wikipedia 维基相关域名
+#飞流直播
+#华文电视
+# VikACG
+  - DOMAIN-SUFFIX,1password.com,🚀 节点选择
+  - DOMAIN-SUFFIX,adguard.org,🚀 节点选择
+  - DOMAIN-SUFFIX,bit.no.com,🚀 节点选择
+  - DOMAIN-SUFFIX,btlibrary.me,🚀 节点选择
+  - DOMAIN-SUFFIX,chat.openai.com,🚀 节点选择
+  - DOMAIN-SUFFIX,cloudcone.com,🚀 节点选择
+  - DOMAIN-SUFFIX,dubox.com,🚀 节点选择
+  - DOMAIN-SUFFIX,gameloft.com,🚀 节点选择
+  - DOMAIN-SUFFIX,garena.com,🚀 节点选择
+  - DOMAIN-SUFFIX,hoyolab.com,🚀 节点选择
+  - DOMAIN-SUFFIX,inoreader.com,🚀 节点选择
+  - DOMAIN-SUFFIX,ip138.com,🚀 节点选择
+  - DOMAIN-SUFFIX,linkedin.com,🚀 节点选择
+  - DOMAIN-SUFFIX,myteamspeak.com,🚀 节点选择
+  - DOMAIN-SUFFIX,notion.so,🚀 节点选择
+  - DOMAIN-SUFFIX,openai.com,🚀 节点选择
+  - DOMAIN-SUFFIX,ping.pe,🚀 节点选择
+  - DOMAIN-SUFFIX,reddit.com,🚀 节点选择
+  - DOMAIN-SUFFIX,teddysun.com,🚀 节点选择
+  - DOMAIN-SUFFIX,tumbex.com,🚀 节点选择
+  - DOMAIN-SUFFIX,twdvd.com,🚀 节点选择
+  - DOMAIN-SUFFIX,unsplash.com,🚀 节点选择
+  - DOMAIN-SUFFIX,eu,🚀 节点选择
+  - DOMAIN-SUFFIX,hk,🚀 节点选择
+  - DOMAIN-SUFFIX,jp,🚀 节点选择
+  - DOMAIN-SUFFIX,kr,🚀 节点选择
+  - DOMAIN-SUFFIX,sg,🚀 节点选择
+  - DOMAIN-SUFFIX,tw,🚀 节点选择
+  - DOMAIN-SUFFIX,uk,🚀 节点选择
+  - DOMAIN-SUFFIX,us,🚀 节点选择
+  - DOMAIN-KEYWORD,1e100,🚀 节点选择
+  - DOMAIN-KEYWORD,abema,🚀 节点选择
+  - DOMAIN-KEYWORD,appledaily,🚀 节点选择
+  - DOMAIN-KEYWORD,avtb,🚀 节点选择
+  - DOMAIN-KEYWORD,beetalk,🚀 节点选择
+  - DOMAIN-KEYWORD,blogspot,🚀 节点选择
+  - DOMAIN-KEYWORD,dropbox,🚀 节点选择
+  - DOMAIN-KEYWORD,facebook,🚀 节点选择
+  - DOMAIN-KEYWORD,fbcdn,🚀 节点选择
+  - DOMAIN-KEYWORD,github,🚀 节点选择
+  - DOMAIN-KEYWORD,gmail,🚀 节点选择
+  - DOMAIN-KEYWORD,google,🚀 节点选择
+  - DOMAIN-KEYWORD,instagram,🚀 节点选择
+  - DOMAIN-KEYWORD,porn,🚀 节点选择
+  - DOMAIN-KEYWORD,sci-hub,🚀 节点选择
+  - DOMAIN-KEYWORD,spotify,🚀 节点选择
+  - DOMAIN-KEYWORD,telegram,🚀 节点选择
+  - DOMAIN-KEYWORD,twitter,🚀 节点选择
+  - DOMAIN-KEYWORD,whatsapp,🚀 节点选择
+  - DOMAIN-KEYWORD,youtube,🚀 节点选择
+  - DOMAIN-SUFFIX,4sqi.net,🚀 节点选择
+  - DOMAIN-SUFFIX,a248.e.akamai.net,🚀 节点选择
+  - DOMAIN-SUFFIX,adobedtm.com,🚀 节点选择
+  - DOMAIN-SUFFIX,ampproject.org,🚀 节点选择
+  - DOMAIN-SUFFIX,android.com,🚀 节点选择
+  - DOMAIN-SUFFIX,aolcdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,apkmirror.com,🚀 节点选择
+  - DOMAIN-SUFFIX,apkpure.com,🚀 节点选择
+  - DOMAIN-SUFFIX,app-measurement.com,🚀 节点选择
+  - DOMAIN-SUFFIX,appspot.com,🚀 节点选择
+  - DOMAIN-SUFFIX,archive.org,🚀 节点选择
+  - DOMAIN-SUFFIX,armorgames.com,🚀 节点选择
+  - DOMAIN-SUFFIX,aspnetcdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,awsstatic.com,🚀 节点选择
+  - DOMAIN-SUFFIX,azureedge.net,🚀 节点选择
+  - DOMAIN-SUFFIX,azurewebsites.net,🚀 节点选择
+  - DOMAIN-SUFFIX,bandwagonhost.com,🚀 节点选择
+  - DOMAIN-SUFFIX,bing.com,🚀 节点选择
+  - DOMAIN-SUFFIX,bkrtx.com,🚀 节点选择
+  - DOMAIN-SUFFIX,blogcdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,blogger.com,🚀 节点选择
+  - DOMAIN-SUFFIX,blogsmithmedia.com,🚀 节点选择
+  - DOMAIN-SUFFIX,blogspot.com,🚀 节点选择
+  - DOMAIN-SUFFIX,blogspot.hk,🚀 节点选择
+  - DOMAIN-SUFFIX,blogspot.jp,🚀 节点选择
+  - DOMAIN-SUFFIX,bloomberg.cn,🚀 节点选择
+  - DOMAIN-SUFFIX,bloomberg.com,🚀 节点选择
+  - DOMAIN-SUFFIX,box.com,🚀 节点选择
+  - DOMAIN-SUFFIX,cachefly.net,🚀 节点选择
+  - DOMAIN-SUFFIX,cdnst.net,🚀 节点选择
+  - DOMAIN-SUFFIX,cloudfront.net,🚀 节点选择
+  - DOMAIN-SUFFIX,comodoca.com,🚀 节点选择
+  - DOMAIN-SUFFIX,daum.net,🚀 节点选择
+  - DOMAIN-SUFFIX,deskconnect.com,🚀 节点选择
+  - DOMAIN-SUFFIX,disqus.com,🚀 节点选择
+  - DOMAIN-SUFFIX,disquscdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,dropbox.com,🚀 节点选择
+  - DOMAIN-SUFFIX,dropboxapi.com,🚀 节点选择
+  - DOMAIN-SUFFIX,dropboxstatic.com,🚀 节点选择
+  - DOMAIN-SUFFIX,dropboxusercontent.com,🚀 节点选择
+  - DOMAIN-SUFFIX,duckduckgo.com,🚀 节点选择
+  - DOMAIN-SUFFIX,edgecastcdn.net,🚀 节点选择
+  - DOMAIN-SUFFIX,edgekey.net,🚀 节点选择
+  - DOMAIN-SUFFIX,edgesuite.net,🚀 节点选择
+  - DOMAIN-SUFFIX,eurekavpt.com,🚀 节点选择
+  - DOMAIN-SUFFIX,fastmail.com,🚀 节点选择
+  - DOMAIN-SUFFIX,firebaseio.com,🚀 节点选择
+  - DOMAIN-SUFFIX,flickr.com,🚀 节点选择
+  - DOMAIN-SUFFIX,flipboard.com,🚀 节点选择
+  - DOMAIN-SUFFIX,gfx.ms,🚀 节点选择
+  - DOMAIN-SUFFIX,gongm.in,🚀 节点选择
+  - DOMAIN-SUFFIX,hulu.com,🚀 节点选择
+  - DOMAIN-SUFFIX,id.heroku.com,🚀 节点选择
+  - DOMAIN-SUFFIX,io.io,🚀 节点选择
+  - DOMAIN-SUFFIX,issuu.com,🚀 节点选择
+  - DOMAIN-SUFFIX,ixquick.com,🚀 节点选择
+  - DOMAIN-SUFFIX,jtvnw.net,🚀 节点选择
+  - DOMAIN-SUFFIX,kat.cr,🚀 节点选择
+  - DOMAIN-SUFFIX,kik.com,🚀 节点选择
+  - DOMAIN-SUFFIX,kobo.com,🚀 节点选择
+  - DOMAIN-SUFFIX,kobobooks.com,🚀 节点选择
+  - DOMAIN-SUFFIX,licdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,live.net,🚀 节点选择
+  - DOMAIN-SUFFIX,livefilestore.com,🚀 节点选择
+  - DOMAIN-SUFFIX,llnwd.net,🚀 节点选择
+  - DOMAIN-SUFFIX,macrumors.com,🚀 节点选择
+  - DOMAIN-SUFFIX,medium.com,🚀 节点选择
+  - DOMAIN-SUFFIX,mega.nz,🚀 节点选择
+  - DOMAIN-SUFFIX,megaupload.com,🚀 节点选择
+  - DOMAIN-SUFFIX,messenger.com,🚀 节点选择
+  - DOMAIN-SUFFIX,netdna-cdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,nintendo.net,🚀 节点选择
+  - DOMAIN-SUFFIX,nsstatic.net,🚀 节点选择
+  - DOMAIN-SUFFIX,nytstyle.com,🚀 节点选择
+  - DOMAIN-SUFFIX,overcast.fm,🚀 节点选择
+  - DOMAIN-SUFFIX,openvpn.net,🚀 节点选择
+  - DOMAIN-SUFFIX,periscope.tv,🚀 节点选择
+  - DOMAIN-SUFFIX,pinimg.com,🚀 节点选择
+  - DOMAIN-SUFFIX,pinterest.com,🚀 节点选择
+  - DOMAIN-SUFFIX,potato.im,🚀 节点选择
+  - DOMAIN-SUFFIX,prfct.co,🚀 节点选择
+  - DOMAIN-SUFFIX,pscp.tv,🚀 节点选择
+  - DOMAIN-SUFFIX,quora.com,🚀 节点选择
+  - DOMAIN-SUFFIX,resilio.com,🚀 节点选择
+  - DOMAIN-SUFFIX,sfx.ms,🚀 节点选择
+  - DOMAIN-SUFFIX,shadowsocks.org,🚀 节点选择
+  - DOMAIN-SUFFIX,slack-edge.com,🚀 节点选择
+  - DOMAIN-SUFFIX,smartdnsproxy.com,🚀 节点选择
+  - DOMAIN-SUFFIX,sndcdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,soundcloud.com,🚀 节点选择
+  - DOMAIN-SUFFIX,startpage.com,🚀 节点选择
+  - DOMAIN-SUFFIX,staticflickr.com,🚀 节点选择
+  - DOMAIN-SUFFIX,symauth.com,🚀 节点选择
+  - DOMAIN-SUFFIX,symcb.com,🚀 节点选择
+  - DOMAIN-SUFFIX,symcd.com,🚀 节点选择
+  - DOMAIN-SUFFIX,textnow.com,🚀 节点选择
+  - DOMAIN-SUFFIX,textnow.me,🚀 节点选择
+  - DOMAIN-SUFFIX,thefacebook.com,🚀 节点选择
+  - DOMAIN-SUFFIX,thepiratebay.org,🚀 节点选择
+  - DOMAIN-SUFFIX,torproject.org,🚀 节点选择
+  - DOMAIN-SUFFIX,trustasiassl.com,🚀 节点选择
+  - DOMAIN-SUFFIX,tumblr.co,🚀 节点选择
+  - DOMAIN-SUFFIX,tumblr.com,🚀 节点选择
+  - DOMAIN-SUFFIX,tvb.com,🚀 节点选择
+  - DOMAIN-SUFFIX,txmblr.com,🚀 节点选择
+  - DOMAIN-SUFFIX,v2ex.com,🚀 节点选择
+  - DOMAIN-SUFFIX,vimeo.com,🚀 节点选择
+  - DOMAIN-SUFFIX,vine.co,🚀 节点选择
+  - DOMAIN-SUFFIX,vox-cdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,amazon.co.jp,🚀 节点选择
+  - DOMAIN-SUFFIX,amazon.com,🚀 节点选择
+  - DOMAIN-SUFFIX,amazonaws.com,🚀 节点选择
+  - IP-CIDR,13.32.0.0/15,🚀 节点选择,no-resolve
+  - IP-CIDR,13.35.0.0/17,🚀 节点选择,no-resolve
+  - IP-CIDR,18.184.0.0/15,🚀 节点选择,no-resolve
+  - IP-CIDR,18.194.0.0/15,🚀 节点选择,no-resolve
+  - IP-CIDR,18.208.0.0/13,🚀 节点选择,no-resolve
+  - IP-CIDR,18.232.0.0/14,🚀 节点选择,no-resolve
+  - IP-CIDR,52.58.0.0/15,🚀 节点选择,no-resolve
+  - IP-CIDR,52.74.0.0/16,🚀 节点选择,no-resolve
+  - IP-CIDR,52.77.0.0/16,🚀 节点选择,no-resolve
+  - IP-CIDR,52.84.0.0/15,🚀 节点选择,no-resolve
+  - IP-CIDR,52.200.0.0/13,🚀 节点选择,no-resolve
+  - IP-CIDR,54.93.0.0/16,🚀 节点选择,no-resolve
+  - IP-CIDR,54.156.0.0/14,🚀 节点选择,no-resolve
+  - IP-CIDR,54.226.0.0/15,🚀 节点选择,no-resolve
+  - IP-CIDR,54.230.156.0/22,🚀 节点选择,no-resolve
+  - DOMAIN-KEYWORD,uk-live,🚀 节点选择
+  - DOMAIN-SUFFIX,bbc.co,🚀 节点选择
+  - DOMAIN-SUFFIX,bbc.com,🚀 节点选择
+  - DOMAIN-SUFFIX,apache.org,🚀 节点选择
+  - DOMAIN-SUFFIX,docker.com,🚀 节点选择
+  - DOMAIN-SUFFIX,elastic.co,🚀 节点选择
+  - DOMAIN-SUFFIX,elastic.com,🚀 节点选择
+  - DOMAIN-SUFFIX,gcr.io,🚀 节点选择
+  - DOMAIN-SUFFIX,gitlab.com,🚀 节点选择
+  - DOMAIN-SUFFIX,gitlab.io,🚀 节点选择
+  - DOMAIN-SUFFIX,jitpack.io,🚀 节点选择
+  - DOMAIN-SUFFIX,maven.org,🚀 节点选择
+  - DOMAIN-SUFFIX,medium.com,🚀 节点选择
+  - DOMAIN-SUFFIX,mvnrepository.com,🚀 节点选择
+  - DOMAIN-SUFFIX,quay.io,🚀 节点选择
+  - DOMAIN-SUFFIX,reddit.com,🚀 节点选择
+  - DOMAIN-SUFFIX,redhat.com,🚀 节点选择
+  - DOMAIN-SUFFIX,sonatype.org,🚀 节点选择
+  - DOMAIN-SUFFIX,sourcegraph.com,🚀 节点选择
+  - DOMAIN-SUFFIX,spring.io,🚀 节点选择
+  - DOMAIN-SUFFIX,spring.net,🚀 节点选择
+  - DOMAIN-SUFFIX,stackoverflow.com,🚀 节点选择
+  - DOMAIN-SUFFIX,discord.co,🚀 节点选择
+  - DOMAIN-SUFFIX,discord.com,🚀 节点选择
+  - DOMAIN-SUFFIX,discord.gg,🚀 节点选择
+  - DOMAIN-SUFFIX,discord.media,🚀 节点选择
+  - DOMAIN-SUFFIX,discordapp.com,🚀 节点选择
+  - DOMAIN-SUFFIX,discordapp.net,🚀 节点选择
+  - DOMAIN-SUFFIX,facebook.com,🚀 节点选择
+  - DOMAIN-SUFFIX,fb.com,🚀 节点选择
+  - DOMAIN-SUFFIX,fb.me,🚀 节点选择
+  - DOMAIN-SUFFIX,fbcdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,fbcdn.net,🚀 节点选择
+  - IP-CIDR,31.13.24.0/21,🚀 节点选择,no-resolve
+  - IP-CIDR,31.13.64.0/18,🚀 节点选择,no-resolve
+  - IP-CIDR,45.64.40.0/22,🚀 节点选择,no-resolve
+  - IP-CIDR,66.220.144.0/20,🚀 节点选择,no-resolve
+  - IP-CIDR,69.63.176.0/20,🚀 节点选择,no-resolve
+  - IP-CIDR,69.171.224.0/19,🚀 节点选择,no-resolve
+  - IP-CIDR,74.119.76.0/22,🚀 节点选择,no-resolve
+  - IP-CIDR,103.4.96.0/22,🚀 节点选择,no-resolve
+  - IP-CIDR,129.134.0.0/17,🚀 节点选择,no-resolve
+  - IP-CIDR,157.240.0.0/17,🚀 节点选择,no-resolve
+  - IP-CIDR,173.252.64.0/18,🚀 节点选择,no-resolve
+  - IP-CIDR,179.60.192.0/22,🚀 节点选择,no-resolve
+  - IP-CIDR,185.60.216.0/22,🚀 节点选择,no-resolve
+  - IP-CIDR,204.15.20.0/22,🚀 节点选择,no-resolve
+  - DOMAIN-SUFFIX,github.com,🚀 节点选择
+  - DOMAIN-SUFFIX,github.io,🚀 节点选择
+  - DOMAIN-SUFFIX,githubapp.com,🚀 节点选择
+  - DOMAIN-SUFFIX,githubassets.com,🚀 节点选择
+  - DOMAIN-SUFFIX,githubusercontent.com,🚀 节点选择
+  - DOMAIN-SUFFIX,1e100.net,🚀 节点选择
+  - DOMAIN-SUFFIX,2mdn.net,🚀 节点选择
+  - DOMAIN-SUFFIX,app-measurement.net,🚀 节点选择
+  - DOMAIN-SUFFIX,g.co,🚀 节点选择
+  - DOMAIN-SUFFIX,ggpht.com,🚀 节点选择
+  - DOMAIN-SUFFIX,goo.gl,🚀 节点选择
+  - DOMAIN-SUFFIX,googleapis.cn,🚀 节点选择
+  - DOMAIN-SUFFIX,googleapis.com,🚀 节点选择
+  - DOMAIN-SUFFIX,gstatic.cn,🚀 节点选择
+  - DOMAIN-SUFFIX,gstatic.com,🚀 节点选择
+  - DOMAIN-SUFFIX,gvt0.com,🚀 节点选择
+  - DOMAIN-SUFFIX,gvt1.com,🚀 节点选择
+  - DOMAIN-SUFFIX,gvt2.com,🚀 节点选择
+  - DOMAIN-SUFFIX,gvt3.com,🚀 节点选择
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🚀 节点选择
+  - DOMAIN-SUFFIX,youtu.be,🚀 节点选择
+  - DOMAIN-SUFFIX,youtube-nocookie.com,🚀 节点选择
+  - DOMAIN-SUFFIX,youtube.com,🚀 节点选择
+  - DOMAIN-SUFFIX,yt.be,🚀 节点选择
+  - DOMAIN-SUFFIX,ytimg.com,🚀 节点选择
+  - IP-CIDR,74.125.0.0/16,🚀 节点选择,no-resolve
+  - IP-CIDR,173.194.0.0/16,🚀 节点选择,no-resolve
+  - IP-CIDR,120.232.181.162/32,🚀 节点选择,no-resolve
+  - IP-CIDR,120.241.147.226/32,🚀 节点选择,no-resolve
+  - IP-CIDR,120.253.253.226/32,🚀 节点选择,no-resolve
+  - IP-CIDR,120.253.255.162/32,🚀 节点选择,no-resolve
+  - IP-CIDR,120.253.255.34/32,🚀 节点选择,no-resolve
+  - IP-CIDR,120.253.255.98/32,🚀 节点选择,no-resolve
+  - IP-CIDR,180.163.150.162/32,🚀 节点选择,no-resolve
+  - IP-CIDR,180.163.150.34/32,🚀 节点选择,no-resolve
+  - IP-CIDR,180.163.151.162/32,🚀 节点选择,no-resolve
+  - IP-CIDR,180.163.151.34/32,🚀 节点选择,no-resolve
+  - IP-CIDR,203.208.39.0/24,🚀 节点选择,no-resolve
+  - IP-CIDR,203.208.40.0/24,🚀 节点选择,no-resolve
+  - IP-CIDR,203.208.41.0/24,🚀 节点选择,no-resolve
+  - IP-CIDR,203.208.43.0/24,🚀 节点选择,no-resolve
+  - IP-CIDR,203.208.50.0/24,🚀 节点选择,no-resolve
+  - IP-CIDR,220.181.174.162/32,🚀 节点选择,no-resolve
+  - IP-CIDR,220.181.174.226/32,🚀 节点选择,no-resolve
+  - IP-CIDR,220.181.174.34/32,🚀 节点选择,no-resolve
+  - DOMAIN-SUFFIX,cdninstagram.com,🚀 节点选择
+  - DOMAIN-SUFFIX,instagram.com,🚀 节点选择
+  - DOMAIN-SUFFIX,instagr.am,🚀 节点选择
+  - DOMAIN-SUFFIX,kakao.com,🚀 节点选择
+  - DOMAIN-SUFFIX,kakao.co.kr,🚀 节点选择
+  - DOMAIN-SUFFIX,kakaocdn.net,🚀 节点选择
+  - IP-CIDR,1.201.0.0/24,🚀 节点选择,no-resolve
+  - IP-CIDR,27.0.236.0/22,🚀 节点选择,no-resolve
+  - IP-CIDR,103.27.148.0/22,🚀 节点选择,no-resolve
+  - IP-CIDR,103.246.56.0/22,🚀 节点选择,no-resolve
+  - IP-CIDR,110.76.140.0/22,🚀 节点选择,no-resolve
+  - IP-CIDR,113.61.104.0/22,🚀 节点选择,no-resolve
+  - DOMAIN-SUFFIX,lin.ee,🚀 节点选择
+  - DOMAIN-SUFFIX,line-apps.com,🚀 节点选择
+  - DOMAIN-SUFFIX,line-cdn.net,🚀 节点选择
+  - DOMAIN-SUFFIX,line-scdn.net,🚀 节点选择
+  - DOMAIN-SUFFIX,line.me,🚀 节点选择
+  - DOMAIN-SUFFIX,line.naver.jp,🚀 节点选择
+  - DOMAIN-SUFFIX,nhncorp.jp,🚀 节点选择
+  - IP-CIDR,103.2.28.0/24,🚀 节点选择,no-resolve
+  - IP-CIDR,103.2.30.0/23,🚀 节点选择,no-resolve
+  - IP-CIDR,119.235.224.0/24,🚀 节点选择,no-resolve
+  - IP-CIDR,119.235.232.0/24,🚀 节点选择,no-resolve
+  - IP-CIDR,119.235.235.0/24,🚀 节点选择,no-resolve
+  - IP-CIDR,119.235.236.0/23,🚀 节点选择,no-resolve
+  - IP-CIDR,147.92.128.0/17,🚀 节点选择,no-resolve
+  - IP-CIDR,203.104.128.0/19,🚀 节点选择,no-resolve
+  - DOMAIN-KEYWORD,1drv,🚀 节点选择
+  - DOMAIN-KEYWORD,onedrive,🚀 节点选择
+  - DOMAIN-KEYWORD,skydrive,🚀 节点选择
+  - DOMAIN-SUFFIX,livefilestore.com,🚀 节点选择
+  - DOMAIN-SUFFIX,oneclient.sfx.ms,🚀 节点选择
+  - DOMAIN-SUFFIX,onedrive.com,🚀 节点选择
+  - DOMAIN-SUFFIX,onedrive.live.com,🚀 节点选择
+  - DOMAIN-SUFFIX,photos.live.com,🚀 节点选择
+  - DOMAIN-SUFFIX,skydrive.wns.windows.com,🚀 节点选择
+  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net,🚀 节点选择
+  - DOMAIN-SUFFIX,storage.live.com,🚀 节点选择
+  - DOMAIN-SUFFIX,storage.msn.com,🚀 节点选择
+  - DOMAIN-KEYWORD,porn,🚀 节点选择
+  - DOMAIN-SUFFIX,8teenxxx.com,🚀 节点选择
+  - DOMAIN-SUFFIX,ahcdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,bcvcdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,bongacams.com,🚀 节点选择
+  - DOMAIN-SUFFIX,chaturbate.com,🚀 节点选择
+  - DOMAIN-SUFFIX,dditscdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,livejasmin.com,🚀 节点选择
+  - DOMAIN-SUFFIX,phncdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,phprcdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,pornhub.com,🚀 节点选择
+  - DOMAIN-SUFFIX,pornhubpremium.com,🚀 节点选择
+  - DOMAIN-SUFFIX,rdtcdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,redtube.com,🚀 节点选择
+  - DOMAIN-SUFFIX,sb-cd.com,🚀 节点选择
+  - DOMAIN-SUFFIX,spankbang.com,🚀 节点选择
+  - DOMAIN-SUFFIX,t66y.com,🚀 节点选择
+  - DOMAIN-SUFFIX,xhamster.com,🚀 节点选择
+  - DOMAIN-SUFFIX,xnxx-cdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,xnxx.com,🚀 节点选择
+  - DOMAIN-SUFFIX,xvideos-cdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,xvideos.com,🚀 节点选择
+  - DOMAIN-SUFFIX,ypncdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,pixiv.net,🚀 节点选择
+  - DOMAIN-SUFFIX,pximg.net,🚀 节点选择
+  - DOMAIN-SUFFIX,amplitude.com,🚀 节点选择
+  - DOMAIN-SUFFIX,firebaseio.com,🚀 节点选择
+  - DOMAIN-SUFFIX,hockeyapp.net,🚀 节点选择
+  - DOMAIN-SUFFIX,readdle.com,🚀 节点选择
+  - DOMAIN-SUFFIX,smartmailcloud.com,🚀 节点选择
+  - DOMAIN-SUFFIX,fanatical.com,🚀 节点选择
+  - DOMAIN-SUFFIX,humblebundle.com,🚀 节点选择
+  - DOMAIN-SUFFIX,underlords.com,🚀 节点选择
+  - DOMAIN-SUFFIX,valvesoftware.com,🚀 节点选择
+  - DOMAIN-SUFFIX,playartifact.com,🚀 节点选择
+  - DOMAIN-SUFFIX,steam-chat.com,🚀 节点选择
+  - DOMAIN-SUFFIX,steamcommunity.com,🚀 节点选择
+  - DOMAIN-SUFFIX,steamgames.com,🚀 节点选择
+  - DOMAIN-SUFFIX,steampowered.com,🚀 节点选择
+  - DOMAIN-SUFFIX,steamserver.net,🚀 节点选择
+  - DOMAIN-SUFFIX,steamstatic.com,🚀 节点选择
+  - DOMAIN-SUFFIX,steamstat.us,🚀 节点选择
+  - DOMAIN,steambroadcast.akamaized.net,🚀 节点选择
+  - DOMAIN,steamcdn-a.akamaihd.net,🚀 节点选择
+  - DOMAIN,steamcommunity-a.akamaihd.net,🚀 节点选择
+  - DOMAIN,steamstore-a.akamaihd.net,🚀 节点选择
+  - DOMAIN,steamusercontent-a.akamaihd.net,🚀 节点选择
+  - DOMAIN,steamuserimages-a.akamaihd.net,🚀 节点选择
+  - DOMAIN,steampipe.akamaized.net,🚀 节点选择
+  - DOMAIN-SUFFIX,tap.io,🚀 节点选择
+  - DOMAIN-SUFFIX,taptap.tw,🚀 节点选择
+  - DOMAIN-SUFFIX,twitch.tv,🚀 节点选择
+  - DOMAIN-SUFFIX,ttvnw.net,🚀 节点选择
+  - DOMAIN-SUFFIX,jtvnw.net,🚀 节点选择
+  - DOMAIN-KEYWORD,ttvnw,🚀 节点选择
+  - DOMAIN-SUFFIX,t.co,🚀 节点选择
+  - DOMAIN-SUFFIX,twimg.co,🚀 节点选择
+  - DOMAIN-SUFFIX,twimg.com,🚀 节点选择
+  - DOMAIN-SUFFIX,twimg.org,🚀 节点选择
+  - DOMAIN-SUFFIX,t.me,🚀 节点选择
+  - DOMAIN-SUFFIX,tdesktop.com,🚀 节点选择
+  - DOMAIN-SUFFIX,telegra.ph,🚀 节点选择
+  - DOMAIN-SUFFIX,telegram.me,🚀 节点选择
+  - DOMAIN-SUFFIX,telegram.org,🚀 节点选择
+  - DOMAIN-SUFFIX,telesco.pe,🚀 节点选择
+  - IP-CIDR,91.108.0.0/16,🚀 节点选择,no-resolve
+  - IP-CIDR,109.239.140.0/24,🚀 节点选择,no-resolve
+  - IP-CIDR,149.154.160.0/20,🚀 节点选择,no-resolve
+  - IP-CIDR6,2001:67c:4e8::/48,🚀 节点选择,no-resolve
+  - IP-CIDR6,2001:b28:f23d::/48,🚀 节点选择,no-resolve
+  - IP-CIDR6,2001:b28:f23f::/48,🚀 节点选择,no-resolve
+  - DOMAIN-SUFFIX,terabox.com,🚀 节点选择
+  - DOMAIN-SUFFIX,teraboxcdn.com,🚀 节点选择
+  - IP-CIDR,18.194.0.0/15,🚀 节点选择,no-resolve
+  - IP-CIDR,34.224.0.0/12,🚀 节点选择,no-resolve
+  - IP-CIDR,54.242.0.0/15,🚀 节点选择,no-resolve
+  - IP-CIDR,50.22.198.204/30,🚀 节点选择,no-resolve
+  - IP-CIDR,208.43.122.128/27,🚀 节点选择,no-resolve
+  - IP-CIDR,108.168.174.0/16,🚀 节点选择,no-resolve
+  - IP-CIDR,173.192.231.32/27,🚀 节点选择,no-resolve
+  - IP-CIDR,158.85.5.192/27,🚀 节点选择,no-resolve
+  - IP-CIDR,174.37.243.0/16,🚀 节点选择,no-resolve
+  - IP-CIDR,158.85.46.128/27,🚀 节点选择,no-resolve
+  - IP-CIDR,173.192.222.160/27,🚀 节点选择,no-resolve
+  - IP-CIDR,184.173.128.0/17,🚀 节点选择,no-resolve
+  - IP-CIDR,158.85.224.160/27,🚀 节点选择,no-resolve
+  - IP-CIDR,75.126.150.0/16,🚀 节点选择,no-resolve
+  - IP-CIDR,69.171.235.0/16,🚀 节点选择,no-resolve
+  - DOMAIN-SUFFIX,mediawiki.org,🚀 节点选择
+  - DOMAIN-SUFFIX,wikibooks.org,🚀 节点选择
+  - DOMAIN-SUFFIX,wikidata.org,🚀 节点选择
+  - DOMAIN-SUFFIX,wikileaks.org,🚀 节点选择
+  - DOMAIN-SUFFIX,wikimedia.org,🚀 节点选择
+  - DOMAIN-SUFFIX,wikinews.org,🚀 节点选择
+  - DOMAIN-SUFFIX,wikipedia.org,🚀 节点选择
+  - DOMAIN-SUFFIX,wikiquote.org,🚀 节点选择
+  - DOMAIN-SUFFIX,wikisource.org,🚀 节点选择
+  - DOMAIN-SUFFIX,wikiversity.org,🚀 节点选择
+  - DOMAIN-SUFFIX,wikivoyage.org,🚀 节点选择
+  - DOMAIN-SUFFIX,wiktionary.org,🚀 节点选择
+  - DOMAIN-SUFFIX,neulion.com,🚀 节点选择
+  - DOMAIN-SUFFIX,icntv.xyz,🚀 节点选择
+  - DOMAIN-SUFFIX,flzbcdn.xyz,🚀 节点选择
+  - DOMAIN-SUFFIX,ocnttv.com,🚀 节点选择
+  - DOMAIN-SUFFIX,vikacg.com,🚀 节点选择
+  - DOMAIN-SUFFIX,picjs.xyz,🚀 节点选择
+# 直连列表
+# MyList
+# CN域名直连(中国|公司|网络)
+# 中国国内常见域名关键词直连
+# 360
+# 4399
+# 58
+# Alibaba
+# Baidu
+# Bilibili
+# Blizzard
+# ByteDance
+# CCTV
+# ChinaNet
+# DiDi
+# Douyu 斗鱼
+# Epic
+# HuaWei
+# Iflytek 科大讯飞
+# Iqiyi
+# JD
+# Kingsoft
+# Kuaishou 快手
+# Meitu
+# LeTV 乐视
+# MGTV 芒果TV
+# MI
+# NetEase
+# PPTV、PPLive
+# PDD 拼多多
+# Sina
+# Sohu Sogo
+# Sony
+# SteamCN
+# Tencent
+# Vip 唯品会
+# Ximalaya 喜马拉雅
+# Xunlei 迅雷
+# YYeTs 人人影视
+# Private Tracker
+# TeamViewer
+# Public Direct CDN 公共直连
+#DOMAIN-SUFFIX,ajax.aspnetcdn.com
+#DOMAIN-SUFFIX,ajax.cloudflare.com
+#DOMAIN-SUFFIX,cdnjs.cloudflare.com
+#DOMAIN-SUFFIX,code.jquery.com
+# AccelerateDirectSites
+  - DOMAIN-SUFFIX,13th.tech,🎯 全球直连
+  - DOMAIN-SUFFIX,423down.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bokecc.com,🎯 全球直连
+  - DOMAIN-SUFFIX,chaipip.com,🎯 全球直连
+  - DOMAIN-SUFFIX,chinaplay.store,🎯 全球直连
+  - DOMAIN-SUFFIX,hrtsea.com,🎯 全球直连
+  - DOMAIN-SUFFIX,kaikeba.com,🎯 全球直连
+  - DOMAIN-SUFFIX,laomo.me,🎯 全球直连
+  - DOMAIN-SUFFIX,mpyit.com,🎯 全球直连
+  - DOMAIN-SUFFIX,msftconnecttest.com,🎯 全球直连
+  - DOMAIN-SUFFIX,msftncsi.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qupu123.com,🎯 全球直连
+  - DOMAIN-SUFFIX,pdfwifi.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zhenguanyu.biz,🎯 全球直连
+  - DOMAIN-SUFFIX,zhenguanyu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,cn,🎯 全球直连
+  - DOMAIN-SUFFIX,xn--fiqs8s,🎯 全球直连
+  - DOMAIN-SUFFIX,xn--55qx5d,🎯 全球直连
+  - DOMAIN-SUFFIX,xn--io0a7i,🎯 全球直连
+  - DOMAIN-KEYWORD,365-213.com,🎯 全球直连
+  - DOMAIN-KEYWORD,365365304.com,🎯 全球直连
+  - DOMAIN-KEYWORD,-cn,🎯 全球直连
+  - DOMAIN-KEYWORD,360buy,🎯 全球直连
+  - DOMAIN-KEYWORD,alicdn,🎯 全球直连
+  - DOMAIN-KEYWORD,alimama,🎯 全球直连
+  - DOMAIN-KEYWORD,alipay,🎯 全球直连
+  - DOMAIN-KEYWORD,appzapp,🎯 全球直连
+  - DOMAIN-KEYWORD,baidupcs,🎯 全球直连
+  - DOMAIN-KEYWORD,bilibili,🎯 全球直连
+  - DOMAIN-KEYWORD,ccgslb,🎯 全球直连
+  - DOMAIN-KEYWORD,chinacache,🎯 全球直连
+  - DOMAIN-KEYWORD,duobao,🎯 全球直连
+  - DOMAIN-KEYWORD,jdpay,🎯 全球直连
+  - DOMAIN-KEYWORD,moke,🎯 全球直连
+  - DOMAIN-KEYWORD,qhimg,🎯 全球直连
+  - DOMAIN-KEYWORD,vpimg,🎯 全球直连
+  - DOMAIN-KEYWORD,xiami,🎯 全球直连
+  - DOMAIN-KEYWORD,xiaomi,🎯 全球直连
+  - DOMAIN-SUFFIX,360.com,🎯 全球直连
+  - DOMAIN-SUFFIX,360kuai.com,🎯 全球直连
+  - DOMAIN-SUFFIX,360safe.com,🎯 全球直连
+  - DOMAIN-SUFFIX,dhrest.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qhres.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qhstatic.com,🎯 全球直连
+  - DOMAIN-SUFFIX,qhupdate.com,🎯 全球直连
+  - DOMAIN-SUFFIX,so.com,🎯 全球直连
+  - DOMAIN-SUFFIX,4399.com,🎯 全球直连
+  - DOMAIN-SUFFIX,4399pk.com,🎯 全球直连
+  - DOMAIN-SUFFIX,5054399.com,🎯 全球直连
+  - DOMAIN-SUFFIX,img4399.com,🎯 全球直连
+  - DOMAIN-SUFFIX,58.com,🎯 全球直连
+  - DOMAIN-SUFFIX,1688.com,🎯 全球直连
+  - DOMAIN-SUFFIX,aliapp.org,🎯 全球直连
+  - DOMAIN-SUFFIX,alibaba.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alibabacloud.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alibabausercontent.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alicdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alicloudccp.com,🎯 全球直连
+  - DOMAIN-SUFFIX,aliexpress.com,🎯 全球直连
+  - DOMAIN-SUFFIX,aliimg.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alikunlun.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alipay.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alipayobjects.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alisoft.com,🎯 全球直连
+  - DOMAIN-SUFFIX,aliyun.com,🎯 全球直连
+  - DOMAIN-SUFFIX,aliyuncdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,aliyuncs.com,🎯 全球直连
+  - DOMAIN-SUFFIX,aliyundrive.com,🎯 全球直连
+  - DOMAIN-SUFFIX,amap.com,🎯 全球直连
+  - DOMAIN-SUFFIX,autonavi.com,🎯 全球直连
+  - DOMAIN-SUFFIX,dingtalk.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ele.me,🎯 全球直连
+  - DOMAIN-SUFFIX,hichina.com,🎯 全球直连
+  - DOMAIN-SUFFIX,mmstat.com,🎯 全球直连
+  - DOMAIN-SUFFIX,mxhichina.com,🎯 全球直连
+  - DOMAIN-SUFFIX,soku.com,🎯 全球直连
+  - DOMAIN-SUFFIX,taobao.com,🎯 全球直连
+  - DOMAIN-SUFFIX,taobaocdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,tbcache.com,🎯 全球直连
+  - DOMAIN-SUFFIX,tbcdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,tmall.com,🎯 全球直连
+  - DOMAIN-SUFFIX,tmall.hk,🎯 全球直连
+  - DOMAIN-SUFFIX,ucweb.com,🎯 全球直连
+  - DOMAIN-SUFFIX,xiami.com,🎯 全球直连
+  - DOMAIN-SUFFIX,xiami.net,🎯 全球直连
+  - DOMAIN-SUFFIX,ykimg.com,🎯 全球直连
+  - DOMAIN-SUFFIX,youku.com,🎯 全球直连
+  - DOMAIN-SUFFIX,baidu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,baidubcr.com,🎯 全球直连
+  - DOMAIN-SUFFIX,baidupcs.com,🎯 全球直连
+  - DOMAIN-SUFFIX,baidustatic.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bcebos.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bdimg.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bdstatic.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bdurl.net,🎯 全球直连
+  - DOMAIN-SUFFIX,hao123.com,🎯 全球直连
+  - DOMAIN-SUFFIX,hao123img.com,🎯 全球直连
+  - DOMAIN-SUFFIX,jomodns.com,🎯 全球直连
+  - DOMAIN-SUFFIX,yunjiasu-cdn.net,🎯 全球直连
+  - DOMAIN-SUFFIX,acg.tv,🎯 全球直连
+  - DOMAIN-SUFFIX,acgvideo.com,🎯 全球直连
+  - DOMAIN-SUFFIX,b23.tv,🎯 全球直连
+  - DOMAIN-SUFFIX,bigfun.cn,🎯 全球直连
+  - DOMAIN-SUFFIX,bigfunapp.cn,🎯 全球直连
+  - DOMAIN-SUFFIX,biliapi.com,🎯 全球直连
+  - DOMAIN-SUFFIX,biliapi.net,🎯 全球直连
+  - DOMAIN-SUFFIX,bilibili.com,🎯 全球直连
+  - DOMAIN-SUFFIX,biligame.com,🎯 全球直连
+  - DOMAIN-SUFFIX,biligame.net,🎯 全球直连
+  - DOMAIN-SUFFIX,bilivideo.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bilivideo.cn,🎯 全球直连
+  - DOMAIN-SUFFIX,hdslb.com,🎯 全球直连
+  - DOMAIN-SUFFIX,im9.com,🎯 全球直连
+  - DOMAIN-SUFFIX,smtcdns.net,🎯 全球直连
+  - DOMAIN-SUFFIX,battle.net,🎯 全球直连
+  - DOMAIN-SUFFIX,battlenet.com,🎯 全球直连
+  - DOMAIN-SUFFIX,blizzard.com,🎯 全球直连
