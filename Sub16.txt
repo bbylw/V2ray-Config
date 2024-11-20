@@ -7,19 +7,6 @@
                                                     <g>
                                                         <g>
                                                             
-                                                                <rect x="356.5" y="246.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -66.7906 333.7981)" class="st24" width="26" height="2.1"/>
-                                                        </g>
-                                                    </g>
-                                                </g>
-                                                <g>
-                                                    <g>
-                                                        <g>
-                                                            <path class="st24" d="M379.8,276.2h-20.5v-20.5h20.5V276.2z M361.4,274.1h16.3v-16.3h-16.3V274.1z"/>
-                                                        </g>
-                                                    </g>
-                                                    <g>
-                                                        <g>
-                                                            
                                                                 <rect x="368.5" y="252.9" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -79.8063 339.1672)" class="st24" width="2.1" height="26"/>
                                                         </g>
                                                     </g>
@@ -603,3 +590,16 @@ vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:501
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
+          <small class="heading-ray-id">Ray ID: 8e596b483872175e &bull; 2024-11-20 15:19:34 UTC</small>
+        </h1>
+        <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
+      </div><!-- /.header -->
+
+      <section></section><!-- spacer -->
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="what_happened">What happened?</h2>
+            <p>You've requested a page on a website (branch.blanku.me) that is on the <a href="https://www.cloudflare.com/5xx-error-landing/" target="_blank">Cloudflare</a> network. An unknown error occurred while rendering the page.</p>
+          </div>
