@@ -7,12 +7,6 @@
                                                     <g>
                                                         <g>
                                                             
-                                                                <rect x="368.5" y="252.9" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -79.8063 339.1672)" class="st24" width="2.1" height="26"/>
-                                                        </g>
-                                                    </g>
-                                                    <g>
-                                                        <g>
-                                                            
                                                                 <rect x="356.5" y="264.9" transform="matrix(0.7072 -0.707 0.707 0.7072 -79.8194 339.0869)" class="st24" width="26" height="2.1"/>
                                                         </g>
                                                     </g>
@@ -590,7 +584,7 @@ vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:501
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8e596b483872175e &bull; 2024-11-20 15:19:34 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8e59c8581ae9d663 &bull; 2024-11-20 16:23:06 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -602,4 +596,10 @@ vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:501
           <div class="cf-column">
             <h2 data-translate="what_happened">What happened?</h2>
             <p>You've requested a page on a website (branch.blanku.me) that is on the <a href="https://www.cloudflare.com/5xx-error-landing/" target="_blank">Cloudflare</a> network. An unknown error occurred while rendering the page.</p>
+          </div>
+
+          
+          <div class="cf-column">
+            <h2 data-translate="what_can_i_do">What can I do?</h2>
+            <p><strong>If you are the owner of this website:</strong><br />you should <a href="https://www.cloudflare.com/login?utm_source=error_100x" target="_blank">login to Cloudflare</a> and check the error logs for branch.blanku.me.</p>
           </div>
