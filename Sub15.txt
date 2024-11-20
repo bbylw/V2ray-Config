@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vmess://eyJhZGQiOiJ1cy0wMi5qaWt1YWkueHl6IiwiYWlkIjoiMCIsImhvc3QiOiJ1cy0wMi5qaWt1YWkueHl6IiwiaWQiOiI3MDY2Njc3Ni00ZTlmLTQzNTAtYjNmMC1hZmFmZjZhNzBkYjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwODIiLCJwcyI6IvCfkrsgQ2hhbm5lbCDwn4aUIDogQEFsaWVuVlBONDAyIPCfkb0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMzYuMC45LjIzIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImQ4ZGVlNDAwLTY2MzMtNDgwMS05OTFiLWNmYjA3ZjVmNzY4MCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDg4MjEiLCJwcyI6IvCfkrsgQ2hhbm5lbCDwn4aUIDogQEFsaWVuVlBONDAyIPCfkb0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+
+<!DOCTYPE html>
 <html>
   <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -590,7 +594,7 @@ vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:501
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8e5709ca684b0fb3 &bull; 2024-11-20 08:23:29 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8e575bf0b953d6b3 &bull; 2024-11-20 09:19:34 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -599,7 +603,3 @@ vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:501
 
       <div class="cf-section cf-wrapper">
         <div class="cf-columns two">
-          <div class="cf-column">
-            <h2 data-translate="what_happened">What happened?</h2>
-            <p>You've requested a page on a website (branch.blanku.me) that is on the <a href="https://www.cloudflare.com/5xx-error-landing/" target="_blank">Cloudflare</a> network. An unknown error occurred while rendering the page.</p>
-          </div>

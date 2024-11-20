@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,xiachufang.com,🎯 全球直连
+  - DOMAIN-SUFFIX,xiaohongshu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,xiaojukeji.com,🎯 全球直连
+  - DOMAIN-SUFFIX,xinhuanet.com,🎯 全球直连
+  - DOMAIN-SUFFIX,xip.io,🎯 全球直连
+  - DOMAIN-SUFFIX,xitek.com,🎯 全球直连
+  - DOMAIN-SUFFIX,xiumi.us,🎯 全球直连
   - DOMAIN-SUFFIX,xslb.net,🎯 全球直连
   - DOMAIN-SUFFIX,xueqiu.com,🎯 全球直连
   - DOMAIN-SUFFIX,yach.me,🎯 全球直连
@@ -596,10 +603,3 @@ ss://80943f32-cdc8-44b4-b058-b0126e8daa39@hajlab.ucdavis.edu:80?security=none&am
 ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.178:8080#configkade%F0%9F%91%89%40proxystore11
 ss://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=poORiaReD--PErsePOlIs.PagES.DEv&amp;fp=randomized&amp;type=ws&amp;sni=POOrIaREd--persEPolIS.pAGEs.Dev#%40Vpn_Tehran+%E2%9D%A4%EF%B8%8F+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 ss://510718c4-3925-4b4d-c34c-59871cf0af04@104.17.234.128:8080?security=none&amp;type=ws&amp;path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D8880&amp;host=join.bede.UNLIMITEDDEV.www.speedtest.net.de.Abrha.co.sabadyt.ir&amp;encryption=none#@UnlimitedDev-Link3
-ss://bb7853c3-769e-4680-8dc2-62d959d40367@www.speedtest.net:2086?path=%2F%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaaa.xn--g28h.EpicMaRket-HtTp.Ir.&amp;type=ws#%40V2ray1_Ng+MTN+RTL+WIFI
-ss://bf816cb4-34d1-4fcd-8386-db37142067da@190.93.247.56:8080?path=%2Ftelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=legendaryking.ir.www.speedtest.net.www.zula.ir.cloudflare.com.mozdozari.bUzz.&amp;type=ws#%F0%9F%9F%A3%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%B3%D8%B1%D9%88%D8%B1+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C+%D8%A8%D8%A7+%D8%B3%D8%B1%D8%B9%D8%AA+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C+%40Outlinev_2rayNG
-ss://dabaef0f-5452-4c4a-bdcf-800d6058a8f4@www.speedtest.net:8880?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.A.lightning-6.LiVE.&amp;type=ws#tm%E2%9A%A1%7C%40lightning6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%F0%9F%87%AC%F0%9F%87%B1https%3A%2F%2Ft.me%2Fvpn_ioss%D8%B9%D8%B6%D9%88+%D8%B4%D9%88
-ss://e9490174-77ec-426f-85f2-11dea5d84155@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=barkatc1.ir&amp;type=ws&amp;sni=mio.splashthat.com#TLS-Config
-ss://45b0c639-b364-4d00-a49f-ccdfac51fe5e@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v06.TzZLiMitTNeW.NeT#telegram
-ss://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.2.S.dnschecker.tecH.&amp;type=ws#WS2-Irancell+%7C+%40v2ray_swhil
