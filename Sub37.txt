@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vmess://eyJhZGQiOiIxNjYuODguMzUuMzYiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYjIxMmExYzUtMGE1OS00YjA4LWZlYjMtOTE4ZmU4NzM3YzA0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0MDk2OSIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxMDQuMjQuMTc3LjciLCJhaWQiOiIwIiwiaG9zdCI6InNhbmQuYmxhbmt1Lm1lIiwiaWQiOiJjOGFiZjY2YS0xOTAzLTQ2MzgtYTQ0OC05Yzg2NzMzZTQyNTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3NzMTM0ODAiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6InNhbmRwLmJsYW5rdS5tZSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxNTIuNjkuMjExLjIzNSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJkMzQ1OTE2Zi0xNjczLTRhOTgtZjM3ZC00OTM1N2M4NGNlMDMiLCJuZXQiOiJodHRwIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-trojan://dbbfbbb0-56e5-11ed-bd9e-1239d0255272@104.21.21.147:443?security=tls&sni=id5-trojan.bonds.id&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://VpRuqFDCJo@138.2.234.225:45555?security=tls&sni=sj1.alieszvps.cf&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://mnk8fd@104.21.69.52:443?security=tls&sni=aws-us-oregon-1.f1cflinec.com&alpn=http/1.1&fp=chrome&type=ws&path=/f1rocket&host=aws-us-oregon-1.f1cflinec.com#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://your_password@172.67.165.204:443?security=tls&sni=aws-aus-sydney-1.f1cflinea.com&type=ws&path=/f1rocket&host=aws-aus-sydney-1.f1cflinea.com#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://mnk8fd@172.67.204.230:443?security=tls&sni=aws-us-oregon-1.f1cflinec.com&alpn=http/1.1&fp=chrome&type=ws&path=/f1rocket&host=aws-us-oregon-1.f1cflinec.com#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@209.46.30.17:443?security=tls&sni=2jp4.pqjc.buzz&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vmess://eyJhZGQiOiIxNDAuMjM4LjAuMTQ1IiwiYWlkIjoiMCIsImhvc3QiOiJ6ZmtyMS4zMDgwMzA4MC54eXoiLCJpZCI6ImE3ZDExMjUxLTljY2MtNDBlOS04MDdjLWNlOGJmZWY1ZDRkZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAyMDMiLCJwcyI6IvCfkrsgQ2hhbm5lbCDwn4aUIDogQEFsaWVuVlBONDAyIPCfkb0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
@@ -603,3 +596,10 @@ vmess://eyJhZGQiOiIxMzYuMC45LjIzIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImQ4ZGVlNDAw
                                 <g>
                                     <path class="st12" d="M153.3,224.9c0,1.3-0.9,1.5-2.2,1.5c-1.3,0-2.6-0.2-2.6-1.5c0-1.3,1.1-2.4,2.4-2.4
                                         C152.2,222.5,153.3,223.6,153.3,224.9z"/>
+                                    <path class="st12" d="M155,226.3l-2.8,0c-0.7,0-1.3-0.6-1.3-1.3l0,0c0-0.7,0.6-1.3,1.3-1.3l2.8,0c0.7,0,1.3,0.6,1.3,1.3l0,0
+                                        C156.3,225.7,155.7,226.3,155,226.3z"/>
+                                </g>
+                                <path class="st13" d="M154.9,226.6L154,222l11.5-1.3l2.3-13.5c0.2-1.2,2-2.7,3.2-2.5l-0.4-0.1c1.2,0.2,2.3,1.7,2.1,2.9l-2.2,16.1
+                                    c-0.2,0.9-0.8,1.6-1.7,1.8L154.9,226.6z"/>
+                            </g>
+                            <path class="st14" d="M177.9,205.1c0.2,0,0.5,0.1,0.7,0.2l0.1,0c2,0.8,3.3,2.9,3.4,4.9l-1.8,19.1c-11.9-0.1-13.6-1.5-13.6-1.5
