@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.116.134.16:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_%E6%97%A7%E9%87%91%E5%B1%B1
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.52:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E8%A5%BF%E7%8F%AD%E7%89%99_%E9%A9%AC%E5%BE%B7%E9%87%8C
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.116.134.244:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_%E6%97%A7%E9%87%91%E5%B1%B1
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.250.6:2083?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2Ffp%3Dchrome#%E7%AB%8B%E9%99%B6%E5%AE%9B_%E7%BB%B4%E5%B0%94%E7%BA%BD%E6%96%AF
@@ -602,4 +603,3 @@ vmess://ewogICJhZGQiOiAic3RhcmRld3ZhbGxleXdpa2kuY29tIiwKICAiYWlkIjogIjAiLAogICJo
 vless://97d26fd0-e2ac-4b1f-a098-f422fc49bd30@discord.com:443?security=tls&sni=singbox.cypherpunks.asia&alpn=http/1.1&fp=chrome&type=ws&path=/cypherpunks&host=singbox.cypherpunks.asia&encryption=none#%E2%9C%85%E2%9C%85%40VPNGate_Channel%E2%9C%85%E2%9C%85
 vless://d0dd95b5-a063-4a67-c05c-265d08531e4c@91.197.0.224:443?security=reality&sni=microsoft.com&fp=chrome&pbk=x3azUw_JKB7nAKTWfCXaHf2XtKEpuH5XfLBhCTWieSE&sid=2d123271&type=tcp&flow=xtls-rprx-vision&encryption=none#%E2%9C%85%E2%9C%85%40VPNGate_Channel%E2%9C%85%E2%9C%85
 vless://c3024a15-0cd5-461a-d99c-14c64efea3f8@216.9.227.236:8443?security=reality&sni=greenpepper.ir&fp=chrome&pbk=d_PryPoPxwX_0FUh7Eulm7Fzf73MeoTHRHvxK-pWaBI&sid=9825&type=grpc&serviceName=TelegramID:@iranbaxvpn&encryption=none#%E2%9C%85%E2%9C%85%40VPNGate_Channel%E2%9C%85%E2%9C%85
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.21.211.74:443?security=tls&sni=current.iraniancp.click&type=ws&path=/?ed%3D2048&host=current.iraniancp.click&encryption=none#%E2%9C%85%E2%9C%85%40VPNGate_Channel%E2%9C%85%E2%9C%85
