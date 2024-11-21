@@ -3,603 +3,409 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN-SUFFIX,dcblivedazn.akamaized.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,indazn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,indaznlab.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,sentry.io,🌍 国外媒体
-#   - USER-AGENT,Deezer*,🌍 国外媒体
-  - DOMAIN-SUFFIX,deezer.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,dzcdn.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,disco-api.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,discovery.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,uplynk.com,🌍 国外媒体
-#   - USER-AGENT,Disney*,🌍 国外媒体
-#   - USER-AGENT,Disney+*,🌍 国外媒体
-  - DOMAIN,cdn.registerdisney.go.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,adobedtm.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,bam.nr-data.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,bamgrid.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,braze.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,cdn.optimizely.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,cdn.registerdisney.go.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,cws.conviva.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,d9.flashtalking.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,disney-plus.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,disney-portal.my.onetrust.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,disney.demdex.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,disney.my.sentry.io,🌍 国外媒体
-  - DOMAIN-SUFFIX,disneyplus.bn5x.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,disneyplus.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,disneystreaming.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,dssott.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,js-agent.newrelic.com,🌍 国外媒体
-#   - USER-AGENT,encoreTVB*,🌍 国外媒体
-  - DOMAIN,bcbolt446c5271-a.akamaihd.net,🌍 国外媒体
-  - DOMAIN,content.jwplatform.com,🌍 国外媒体
-  - DOMAIN,edge.api.brightcove.com,🌍 国外媒体
-  - DOMAIN,videos-f.jwpsrv.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,encoretvb.com,🌍 国外媒体
-#   - USER-AGENT,FOX%20NOW*,🌍 国外媒体
-  - DOMAIN-SUFFIX,fox.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,foxdcg.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,uplynk.com,🌍 国外媒体
-#   - USER-AGENT,HBO%20NOW*,🌍 国外媒体
-#   - USER-AGENT,HBOMAX*,🌍 国外媒体
-  - DOMAIN-SUFFIX,hbo.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,hbogo.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,hbomax.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,hbomaxcdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,hbonow.com,🌍 国外媒体
-#   - USER-AGENT,HBO%20GO%20PROD*,🌍 国外媒体
-  - DOMAIN-KEYWORD,.hbogoasia.,🌍 国外媒体
-  - DOMAIN-KEYWORD,hbogoasia,🌍 国外媒体
-  - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,🌍 国外媒体
-  - DOMAIN,bcbolthboa-a.akamaihd.net,🌍 国外媒体
-  - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,🌍 国外媒体
-  - DOMAIN,dai3fd1oh325y.cloudfront.net,🌍 国外媒体
-  - DOMAIN,hboasia1-i.akamaihd.net,🌍 国外媒体
-  - DOMAIN,hboasia2-i.akamaihd.net,🌍 国外媒体
-  - DOMAIN,hboasia3-i.akamaihd.net,🌍 国外媒体
-  - DOMAIN,hboasia4-i.akamaihd.net,🌍 国外媒体
-  - DOMAIN,hboasia5-i.akamaihd.net,🌍 国外媒体
-  - DOMAIN,hboasialive.akamaized.net,🌍 国外媒体
-  - DOMAIN,hbogoprod-vod.akamaized.net,🌍 国外媒体
-  - DOMAIN,hbolb.onwardsmg.com,🌍 国外媒体
-  - DOMAIN,hbounify-prod.evergent.com,🌍 国外媒体
-  - DOMAIN,players.brightcove.net,🌍 国外媒体
-  - DOMAIN,s3-ap-southeast-1.amazonaws.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,hboasia.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,hbogoasia.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,hbogoasia.hk,🌍 国外媒体
-#   - USER-AGENT,HWTVMobile*,🌍 国外媒体
-  - DOMAIN-SUFFIX,5itv.tv,🌍 国外媒体
-  - DOMAIN-SUFFIX,ocnttv.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,cws-hulu.conviva.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,hulu.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,hulu.hb.omtrdc.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,hulu.sc.omtrdc.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,huluad.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,huluim.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,hulustream.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,happyon.jp,🌍 国外媒体
-  - DOMAIN-SUFFIX,hjholdings.jp,🌍 国外媒体
-  - DOMAIN-SUFFIX,hulu.jp,🌍 国外媒体
-  - DOMAIN-SUFFIX,prod.hjholdings.tv,🌍 国外媒体
-  - DOMAIN-SUFFIX,streaks.jp,🌍 国外媒体
-  - DOMAIN-SUFFIX,yb.uncn.jp,🌍 国外媒体
-#   - USER-AGENT,ITV_Player*,🌍 国外媒体
-  - DOMAIN,itvpnpmobile-a.akamaihd.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,itv.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,itvstatic.com,🌍 国外媒体
-#   - USER-AGENT,JOOX*,🌍 国外媒体
-#   - USER-AGENT,WeMusic*,🌍 国外媒体
-  - DOMAIN-KEYWORD,jooxweb-api,🌍 国外媒体
-  - DOMAIN-SUFFIX,joox.com,🌍 国外媒体
-  - DOMAIN-KEYWORD,japonx,🌍 国外媒体
-  - DOMAIN-KEYWORD,japronx,🌍 国外媒体
-  - DOMAIN-SUFFIX,japonx.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,japonx.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,japonx.tv,🌍 国外媒体
-  - DOMAIN-SUFFIX,japonx.vip,🌍 国外媒体
-  - DOMAIN-SUFFIX,japronx.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,japronx.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,japronx.tv,🌍 国外媒体
-  - DOMAIN-SUFFIX,japronx.vip,🌍 国外媒体
-  - DOMAIN-SUFFIX,kfs.io,🌍 国外媒体
-  - DOMAIN-SUFFIX,kkbox.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,kkbox.com.tw,🌍 国外媒体
-#   - USER-AGENT,KKTV*,🌍 国外媒体
-#   - USER-AGENT,com.kktv.ios.kktv*,🌍 国外媒体
-  - DOMAIN,kktv-theater.kk.stream,🌍 国外媒体
-  - DOMAIN,theater-kktv.cdn.hinet.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,kktv.com.tw,🌍 国外媒体
-  - DOMAIN-SUFFIX,kktv.me,🌍 国外媒体
-  - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,litv.tv,🌍 国外媒体
-#   - USER-AGENT,LINE%20TV*,🌍 国外媒体
-#   - USER-AGENT,LINE*,🌍 国外媒体
-  - DOMAIN,d3c7rimkq79yfu.cloudfront.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,linetv.tw,🌍 国外媒体
-  - DOMAIN-SUFFIX,profile.line-scdn.net,🌍 国外媒体
-#   - USER-AGENT,My5*,🌍 国外媒体
-  - DOMAIN,d349g9zuie06uo.cloudfront.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,channel5.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,my5.tv,🌍 国外媒体
-#   - USER-AGENT,mytv*,🌍 国外媒体
-  - DOMAIN-KEYWORD,nowtv100,🌍 国外媒体
-  - DOMAIN-KEYWORD,rthklive,🌍 国外媒体
-  - DOMAIN,mytvsuperlimited.hb.omtrdc.net,🌍 国外媒体
-  - DOMAIN,mytvsuperlimited.sc.omtrdc.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,mytvsuper.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,tvb.com,🌍 国外媒体
-#   - USER-AGENT,Argo*,🌍 国外媒体
-  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,🌍 国外媒体
-  - DOMAIN-KEYWORD,dualstack.apiproxy-,🌍 国外媒体
-  - DOMAIN-KEYWORD,netflixdnstest,🌍 国外媒体
-  - DOMAIN,netflix.com.edgesuite.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,fast.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflix.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflix.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest0.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest1.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest2.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest3.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest4.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest5.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest6.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest7.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest8.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest9.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,nflxext.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,nflximg.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,nflximg.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,nflxso.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,nflxvideo.net,🌍 国外媒体
-  - IP-CIDR,8.41.4.0/24,🌍 国外媒体,no-resolve
-  - IP-CIDR,23.246.0.0/18,🌍 国外媒体,no-resolve
-  - IP-CIDR,37.77.184.0/21,🌍 国外媒体,no-resolve
-  - IP-CIDR,38.72.126.0/24,🌍 国外媒体,no-resolve
-  - IP-CIDR,45.57.0.0/17,🌍 国外媒体,no-resolve
-  - IP-CIDR,64.120.128.0/17,🌍 国外媒体,no-resolve
-  - IP-CIDR,66.197.128.0/17,🌍 国外媒体,no-resolve
-  - IP-CIDR,69.53.224.0/19,🌍 国外媒体,no-resolve
-  - IP-CIDR,103.87.204.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,108.175.32.0/20,🌍 国外媒体,no-resolve
-  - IP-CIDR,185.2.220.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,185.9.188.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,192.173.64.0/18,🌍 国外媒体,no-resolve
-  - IP-CIDR,198.38.96.0/19,🌍 国外媒体,no-resolve
-  - IP-CIDR,198.45.48.0/20,🌍 国外媒体,no-resolve
-  - IP-CIDR,207.45.72.0/22,🌍 国外媒体,no-resolve
-  - IP-CIDR,208.75.76.0/22,🌍 国外媒体,no-resolve
-#   - USER-AGENT,Niconico*,🌍 国外媒体
-  - DOMAIN-SUFFIX,dmc.nico,🌍 国外媒体
-  - DOMAIN-SUFFIX,nicovideo.jp,🌍 国外媒体
-  - DOMAIN-SUFFIX,nimg.jp,🌍 国外媒体
-#   - USER-AGENT,PBS*,🌍 国外媒体
-  - DOMAIN-SUFFIX,pbs.org,🌍 国外媒体
-#   - USER-AGENT,Pandora*,🌍 国外媒体
-  - DOMAIN-SUFFIX,pandora.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,phncdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,phprcdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,pornhub.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,pornhubpremium.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,qobuz.com,🌍 国外媒体
-#   - USER-AGENT,SoundCloud*,🌍 国外媒体
-  - DOMAIN-SUFFIX,p-cdn.us,🌍 国外媒体
-  - DOMAIN-SUFFIX,sndcdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,soundcloud.com,🌍 国外媒体
-#   - USER-AGENT,Spotify*,🌍 国外媒体
-  - DOMAIN-KEYWORD,-spotify-com,🌍 国外媒体
-  - DOMAIN-KEYWORD,spotify.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,pscdn.co,🌍 国外媒体
-  - DOMAIN-SUFFIX,scdn.co,🌍 国外媒体
-  - DOMAIN-SUFFIX,spoti.fi,🌍 国外媒体
-  - DOMAIN-SUFFIX,spotify.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,spotifycdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,spotifycdn.net,🌍 国外媒体
-#   - USER-AGENT,TIDAL*,🌍 国外媒体
-  - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,tidal.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,tidalhifi.com,🌍 国外媒体
-#   - USER-AGENT,TaiwanGood*,🌍 国外媒体
-  - DOMAIN,hamifans.emome.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,skyking.com.tw,🌍 国外媒体
-#   - USER-AGENT,TikTok*,🌍 国外媒体
-  - DOMAIN-KEYWORD,tiktokcdn-,🌍 国外媒体
-  - DOMAIN-SUFFIX,byteoversea.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,ibytedtos.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,ipstatp.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,muscdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,musical.ly,🌍 国外媒体
-  - DOMAIN-SUFFIX,tik-tokapi.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,tiktok.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,tiktokcdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,tiktokv.com,🌍 国外媒体
-  - DOMAIN-KEYWORD,ttvnw,🌍 国外媒体
-  - DOMAIN-SUFFIX,ext-twitch.tv,🌍 国外媒体
-  - DOMAIN-SUFFIX,jtvnw.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,ttvnw.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,twitch-ext.rootonline.de,🌍 国外媒体
-  - DOMAIN-SUFFIX,twitch.tv,🌍 国外媒体
-  - DOMAIN-SUFFIX,twitchcdn.net,🌍 国外媒体
-#   - USER-AGENT,Viu*,🌍 国外媒体
-  - PROCESS-NAME,com.viu.pad,🌍 国外媒体
-  - PROCESS-NAME,com.viu.phone,🌍 国外媒体
-  - PROCESS-NAME,com.vuclip.viu,🌍 国外媒体
-  - DOMAIN,api.viu.now.com,🌍 国外媒体
-  - DOMAIN,d1k2us671qcoau.cloudfront.net,🌍 国外媒体
-  - DOMAIN,d2anahhhmp1ffz.cloudfront.net,🌍 国外媒体
-  - DOMAIN,dfp6rglgjqszk.cloudfront.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,viu.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,viu.now.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,viu.tv,🌍 国外媒体
-#   - USER-AGENT,*youtube*,🌍 国外媒体
-#   - USER-AGENT,YouTube*,🌍 国外媒体
-#   - USER-AGENT,com.google.ios.youtube*,🌍 国外媒体
-  - DOMAIN-KEYWORD,youtube,🌍 国外媒体
-  - DOMAIN,youtubei.googleapis.com,🌍 国外媒体
-  - DOMAIN,yt3.ggpht.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,googlevideo.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,gvt2.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,withyoutube.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,youtu.be,🌍 国外媒体
-  - DOMAIN-SUFFIX,youtube-nocookie.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,youtube.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,youtubeeducation.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,youtubegaming.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,youtubekids.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,yt.be,🌍 国外媒体
-  - DOMAIN-SUFFIX,ytimg.com,🌍 国外媒体
-#   - USER-AGENT,*YouTubeMusic*,🌍 国外媒体
-#   - USER-AGENT,*com.google.ios.youtubemusic*,🌍 国外媒体
-#   - USER-AGENT,YouTubeMusic*,🌍 国外媒体
-#   - USER-AGENT,com.google.ios.youtubemusic*,🌍 国外媒体
-  - DOMAIN,music.youtube.com,🌍 国外媒体
-# Telegram
-#PROCESS-NAME,Telegram.exe
-#PROCESS-NAME,org.telegram.messenger
-  - DOMAIN-SUFFIX,t.me,📲 电报信息
-  - DOMAIN-SUFFIX,tdesktop.com,📲 电报信息
-  - DOMAIN-SUFFIX,telegra.ph,📲 电报信息
-  - DOMAIN-SUFFIX,telegram.me,📲 电报信息
-  - DOMAIN-SUFFIX,telegram.org,📲 电报信息
-  - DOMAIN-SUFFIX,telesco.pe,📲 电报信息
-  - IP-CIDR,91.108.0.0/16,📲 电报信息,no-resolve
-  - IP-CIDR,109.239.140.0/24,📲 电报信息,no-resolve
-  - IP-CIDR,149.154.160.0/20,📲 电报信息,no-resolve
-  - IP-CIDR6,2001:67c:4e8::/48,📲 电报信息,no-resolve
-  - IP-CIDR6,2001:b28:f23d::/48,📲 电报信息,no-resolve
-  - IP-CIDR6,2001:b28:f23f::/48,📲 电报信息,no-resolve
-# 长风网站，自动注入
-  - DOMAIN-SUFFIX,v2rayse.com,🚀 节点选择
-  - DOMAIN-SUFFIX,cff.pw,🚀 节点选择
-  - DOMAIN-SUFFIX,vpnse.org,🚀 节点选择
-  - DOMAIN-SUFFIX,cfmem.com,🚀 节点选择
-# 代理列表
-# MyList && Other
-# 国外域名
-# 国外域名关键字
-# Top Blocked Sites
-# Amazon
-# BBC
-# Developer 开发者常用国外网站、镜像和论坛
-# Discord
-# Facebook
-# Github
-# Google
-# GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
-# Instagram
-# Kakao Talk
-# Line
-# OneDrive
-#DOMAIN-SUFFIX,aria.microsoft.com
-# Porn
-# Pixiv
-# Spark
-# Steam
-# TapTap
-# Twitch
-# Twitter
-# Telegram
-# TeraBox
-# Whatsapp
-# Wikipedia 维基相关域名
-#飞流直播
-#华文电视
-# VikACG
-  - DOMAIN-SUFFIX,1password.com,🚀 节点选择
-  - DOMAIN-SUFFIX,adguard.org,🚀 节点选择
-  - DOMAIN-SUFFIX,bit.no.com,🚀 节点选择
-  - DOMAIN-SUFFIX,btlibrary.me,🚀 节点选择
-  - DOMAIN-SUFFIX,chat.openai.com,🚀 节点选择
-  - DOMAIN-SUFFIX,cloudcone.com,🚀 节点选择
-  - DOMAIN-SUFFIX,dubox.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gameloft.com,🚀 节点选择
-  - DOMAIN-SUFFIX,garena.com,🚀 节点选择
-  - DOMAIN-SUFFIX,hoyolab.com,🚀 节点选择
-  - DOMAIN-SUFFIX,inoreader.com,🚀 节点选择
-  - DOMAIN-SUFFIX,ip138.com,🚀 节点选择
-  - DOMAIN-SUFFIX,linkedin.com,🚀 节点选择
-  - DOMAIN-SUFFIX,myteamspeak.com,🚀 节点选择
-  - DOMAIN-SUFFIX,notion.so,🚀 节点选择
-  - DOMAIN-SUFFIX,openai.com,🚀 节点选择
-  - DOMAIN-SUFFIX,ping.pe,🚀 节点选择
-  - DOMAIN-SUFFIX,reddit.com,🚀 节点选择
-  - DOMAIN-SUFFIX,teddysun.com,🚀 节点选择
-  - DOMAIN-SUFFIX,tumbex.com,🚀 节点选择
-  - DOMAIN-SUFFIX,twdvd.com,🚀 节点选择
-  - DOMAIN-SUFFIX,unsplash.com,🚀 节点选择
-  - DOMAIN-SUFFIX,eu,🚀 节点选择
-  - DOMAIN-SUFFIX,hk,🚀 节点选择
-  - DOMAIN-SUFFIX,jp,🚀 节点选择
-  - DOMAIN-SUFFIX,kr,🚀 节点选择
-  - DOMAIN-SUFFIX,sg,🚀 节点选择
-  - DOMAIN-SUFFIX,tw,🚀 节点选择
-  - DOMAIN-SUFFIX,uk,🚀 节点选择
-  - DOMAIN-SUFFIX,us,🚀 节点选择
-  - DOMAIN-KEYWORD,1e100,🚀 节点选择
-  - DOMAIN-KEYWORD,abema,🚀 节点选择
-  - DOMAIN-KEYWORD,appledaily,🚀 节点选择
-  - DOMAIN-KEYWORD,avtb,🚀 节点选择
-  - DOMAIN-KEYWORD,beetalk,🚀 节点选择
-  - DOMAIN-KEYWORD,blogspot,🚀 节点选择
-  - DOMAIN-KEYWORD,dropbox,🚀 节点选择
-  - DOMAIN-KEYWORD,facebook,🚀 节点选择
-  - DOMAIN-KEYWORD,fbcdn,🚀 节点选择
-  - DOMAIN-KEYWORD,github,🚀 节点选择
-  - DOMAIN-KEYWORD,gmail,🚀 节点选择
-  - DOMAIN-KEYWORD,google,🚀 节点选择
-  - DOMAIN-KEYWORD,instagram,🚀 节点选择
-  - DOMAIN-KEYWORD,porn,🚀 节点选择
-  - DOMAIN-KEYWORD,sci-hub,🚀 节点选择
-  - DOMAIN-KEYWORD,spotify,🚀 节点选择
-  - DOMAIN-KEYWORD,telegram,🚀 节点选择
-  - DOMAIN-KEYWORD,twitter,🚀 节点选择
-  - DOMAIN-KEYWORD,whatsapp,🚀 节点选择
-  - DOMAIN-KEYWORD,youtube,🚀 节点选择
-  - DOMAIN-SUFFIX,4sqi.net,🚀 节点选择
-  - DOMAIN-SUFFIX,a248.e.akamai.net,🚀 节点选择
-  - DOMAIN-SUFFIX,adobedtm.com,🚀 节点选择
-  - DOMAIN-SUFFIX,ampproject.org,🚀 节点选择
-  - DOMAIN-SUFFIX,android.com,🚀 节点选择
-  - DOMAIN-SUFFIX,aolcdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,apkmirror.com,🚀 节点选择
-  - DOMAIN-SUFFIX,apkpure.com,🚀 节点选择
-  - DOMAIN-SUFFIX,app-measurement.com,🚀 节点选择
-  - DOMAIN-SUFFIX,appspot.com,🚀 节点选择
-  - DOMAIN-SUFFIX,archive.org,🚀 节点选择
-  - DOMAIN-SUFFIX,armorgames.com,🚀 节点选择
-  - DOMAIN-SUFFIX,aspnetcdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,awsstatic.com,🚀 节点选择
-  - DOMAIN-SUFFIX,azureedge.net,🚀 节点选择
-  - DOMAIN-SUFFIX,azurewebsites.net,🚀 节点选择
-  - DOMAIN-SUFFIX,bandwagonhost.com,🚀 节点选择
-  - DOMAIN-SUFFIX,bing.com,🚀 节点选择
-  - DOMAIN-SUFFIX,bkrtx.com,🚀 节点选择
-  - DOMAIN-SUFFIX,blogcdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,blogger.com,🚀 节点选择
-  - DOMAIN-SUFFIX,blogsmithmedia.com,🚀 节点选择
-  - DOMAIN-SUFFIX,blogspot.com,🚀 节点选择
-  - DOMAIN-SUFFIX,blogspot.hk,🚀 节点选择
-  - DOMAIN-SUFFIX,blogspot.jp,🚀 节点选择
-  - DOMAIN-SUFFIX,bloomberg.cn,🚀 节点选择
-  - DOMAIN-SUFFIX,bloomberg.com,🚀 节点选择
-  - DOMAIN-SUFFIX,box.com,🚀 节点选择
-  - DOMAIN-SUFFIX,cachefly.net,🚀 节点选择
-  - DOMAIN-SUFFIX,cdnst.net,🚀 节点选择
-  - DOMAIN-SUFFIX,cloudfront.net,🚀 节点选择
-  - DOMAIN-SUFFIX,comodoca.com,🚀 节点选择
-  - DOMAIN-SUFFIX,daum.net,🚀 节点选择
-  - DOMAIN-SUFFIX,deskconnect.com,🚀 节点选择
-  - DOMAIN-SUFFIX,disqus.com,🚀 节点选择
-  - DOMAIN-SUFFIX,disquscdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,dropbox.com,🚀 节点选择
-  - DOMAIN-SUFFIX,dropboxapi.com,🚀 节点选择
-  - DOMAIN-SUFFIX,dropboxstatic.com,🚀 节点选择
-  - DOMAIN-SUFFIX,dropboxusercontent.com,🚀 节点选择
-  - DOMAIN-SUFFIX,duckduckgo.com,🚀 节点选择
-  - DOMAIN-SUFFIX,edgecastcdn.net,🚀 节点选择
-  - DOMAIN-SUFFIX,edgekey.net,🚀 节点选择
-  - DOMAIN-SUFFIX,edgesuite.net,🚀 节点选择
-  - DOMAIN-SUFFIX,eurekavpt.com,🚀 节点选择
-  - DOMAIN-SUFFIX,fastmail.com,🚀 节点选择
-  - DOMAIN-SUFFIX,firebaseio.com,🚀 节点选择
-  - DOMAIN-SUFFIX,flickr.com,🚀 节点选择
-  - DOMAIN-SUFFIX,flipboard.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gfx.ms,🚀 节点选择
-  - DOMAIN-SUFFIX,gongm.in,🚀 节点选择
-  - DOMAIN-SUFFIX,hulu.com,🚀 节点选择
-  - DOMAIN-SUFFIX,id.heroku.com,🚀 节点选择
-  - DOMAIN-SUFFIX,io.io,🚀 节点选择
-  - DOMAIN-SUFFIX,issuu.com,🚀 节点选择
-  - DOMAIN-SUFFIX,ixquick.com,🚀 节点选择
-  - DOMAIN-SUFFIX,jtvnw.net,🚀 节点选择
-  - DOMAIN-SUFFIX,kat.cr,🚀 节点选择
-  - DOMAIN-SUFFIX,kik.com,🚀 节点选择
-  - DOMAIN-SUFFIX,kobo.com,🚀 节点选择
-  - DOMAIN-SUFFIX,kobobooks.com,🚀 节点选择
-  - DOMAIN-SUFFIX,licdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,live.net,🚀 节点选择
-  - DOMAIN-SUFFIX,livefilestore.com,🚀 节点选择
-  - DOMAIN-SUFFIX,llnwd.net,🚀 节点选择
-  - DOMAIN-SUFFIX,macrumors.com,🚀 节点选择
-  - DOMAIN-SUFFIX,medium.com,🚀 节点选择
-  - DOMAIN-SUFFIX,mega.nz,🚀 节点选择
-  - DOMAIN-SUFFIX,megaupload.com,🚀 节点选择
-  - DOMAIN-SUFFIX,messenger.com,🚀 节点选择
-  - DOMAIN-SUFFIX,netdna-cdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,nintendo.net,🚀 节点选择
-  - DOMAIN-SUFFIX,nsstatic.net,🚀 节点选择
-  - DOMAIN-SUFFIX,nytstyle.com,🚀 节点选择
-  - DOMAIN-SUFFIX,overcast.fm,🚀 节点选择
-  - DOMAIN-SUFFIX,openvpn.net,🚀 节点选择
-  - DOMAIN-SUFFIX,periscope.tv,🚀 节点选择
-  - DOMAIN-SUFFIX,pinimg.com,🚀 节点选择
-  - DOMAIN-SUFFIX,pinterest.com,🚀 节点选择
-  - DOMAIN-SUFFIX,potato.im,🚀 节点选择
-  - DOMAIN-SUFFIX,prfct.co,🚀 节点选择
-  - DOMAIN-SUFFIX,pscp.tv,🚀 节点选择
-  - DOMAIN-SUFFIX,quora.com,🚀 节点选择
-  - DOMAIN-SUFFIX,resilio.com,🚀 节点选择
-  - DOMAIN-SUFFIX,sfx.ms,🚀 节点选择
-  - DOMAIN-SUFFIX,shadowsocks.org,🚀 节点选择
-  - DOMAIN-SUFFIX,slack-edge.com,🚀 节点选择
-  - DOMAIN-SUFFIX,smartdnsproxy.com,🚀 节点选择
-  - DOMAIN-SUFFIX,sndcdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,soundcloud.com,🚀 节点选择
-  - DOMAIN-SUFFIX,startpage.com,🚀 节点选择
-  - DOMAIN-SUFFIX,staticflickr.com,🚀 节点选择
-  - DOMAIN-SUFFIX,symauth.com,🚀 节点选择
-  - DOMAIN-SUFFIX,symcb.com,🚀 节点选择
-  - DOMAIN-SUFFIX,symcd.com,🚀 节点选择
-  - DOMAIN-SUFFIX,textnow.com,🚀 节点选择
-  - DOMAIN-SUFFIX,textnow.me,🚀 节点选择
-  - DOMAIN-SUFFIX,thefacebook.com,🚀 节点选择
-  - DOMAIN-SUFFIX,thepiratebay.org,🚀 节点选择
-  - DOMAIN-SUFFIX,torproject.org,🚀 节点选择
-  - DOMAIN-SUFFIX,trustasiassl.com,🚀 节点选择
-  - DOMAIN-SUFFIX,tumblr.co,🚀 节点选择
-  - DOMAIN-SUFFIX,tumblr.com,🚀 节点选择
-  - DOMAIN-SUFFIX,tvb.com,🚀 节点选择
-  - DOMAIN-SUFFIX,txmblr.com,🚀 节点选择
-  - DOMAIN-SUFFIX,v2ex.com,🚀 节点选择
-  - DOMAIN-SUFFIX,vimeo.com,🚀 节点选择
-  - DOMAIN-SUFFIX,vine.co,🚀 节点选择
-  - DOMAIN-SUFFIX,vox-cdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,amazon.co.jp,🚀 节点选择
-  - DOMAIN-SUFFIX,amazon.com,🚀 节点选择
-  - DOMAIN-SUFFIX,amazonaws.com,🚀 节点选择
-  - IP-CIDR,13.32.0.0/15,🚀 节点选择,no-resolve
-  - IP-CIDR,13.35.0.0/17,🚀 节点选择,no-resolve
-  - IP-CIDR,18.184.0.0/15,🚀 节点选择,no-resolve
-  - IP-CIDR,18.194.0.0/15,🚀 节点选择,no-resolve
-  - IP-CIDR,18.208.0.0/13,🚀 节点选择,no-resolve
-  - IP-CIDR,18.232.0.0/14,🚀 节点选择,no-resolve
-  - IP-CIDR,52.58.0.0/15,🚀 节点选择,no-resolve
-  - IP-CIDR,52.74.0.0/16,🚀 节点选择,no-resolve
-  - IP-CIDR,52.77.0.0/16,🚀 节点选择,no-resolve
-  - IP-CIDR,52.84.0.0/15,🚀 节点选择,no-resolve
-  - IP-CIDR,52.200.0.0/13,🚀 节点选择,no-resolve
-  - IP-CIDR,54.93.0.0/16,🚀 节点选择,no-resolve
-  - IP-CIDR,54.156.0.0/14,🚀 节点选择,no-resolve
-  - IP-CIDR,54.226.0.0/15,🚀 节点选择,no-resolve
-  - IP-CIDR,54.230.156.0/22,🚀 节点选择,no-resolve
-  - DOMAIN-KEYWORD,uk-live,🚀 节点选择
-  - DOMAIN-SUFFIX,bbc.co,🚀 节点选择
-  - DOMAIN-SUFFIX,bbc.com,🚀 节点选择
-  - DOMAIN-SUFFIX,apache.org,🚀 节点选择
-  - DOMAIN-SUFFIX,docker.com,🚀 节点选择
-  - DOMAIN-SUFFIX,elastic.co,🚀 节点选择
-  - DOMAIN-SUFFIX,elastic.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gcr.io,🚀 节点选择
-  - DOMAIN-SUFFIX,gitlab.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gitlab.io,🚀 节点选择
-  - DOMAIN-SUFFIX,jitpack.io,🚀 节点选择
-  - DOMAIN-SUFFIX,maven.org,🚀 节点选择
-  - DOMAIN-SUFFIX,medium.com,🚀 节点选择
-  - DOMAIN-SUFFIX,mvnrepository.com,🚀 节点选择
-  - DOMAIN-SUFFIX,quay.io,🚀 节点选择
-  - DOMAIN-SUFFIX,reddit.com,🚀 节点选择
-  - DOMAIN-SUFFIX,redhat.com,🚀 节点选择
-  - DOMAIN-SUFFIX,sonatype.org,🚀 节点选择
-  - DOMAIN-SUFFIX,sourcegraph.com,🚀 节点选择
-  - DOMAIN-SUFFIX,spring.io,🚀 节点选择
-  - DOMAIN-SUFFIX,spring.net,🚀 节点选择
-  - DOMAIN-SUFFIX,stackoverflow.com,🚀 节点选择
-  - DOMAIN-SUFFIX,discord.co,🚀 节点选择
-  - DOMAIN-SUFFIX,discord.com,🚀 节点选择
-  - DOMAIN-SUFFIX,discord.gg,🚀 节点选择
-  - DOMAIN-SUFFIX,discord.media,🚀 节点选择
-  - DOMAIN-SUFFIX,discordapp.com,🚀 节点选择
-  - DOMAIN-SUFFIX,discordapp.net,🚀 节点选择
-  - DOMAIN-SUFFIX,facebook.com,🚀 节点选择
-  - DOMAIN-SUFFIX,fb.com,🚀 节点选择
-  - DOMAIN-SUFFIX,fb.me,🚀 节点选择
-  - DOMAIN-SUFFIX,fbcdn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,fbcdn.net,🚀 节点选择
-  - IP-CIDR,31.13.24.0/21,🚀 节点选择,no-resolve
-  - IP-CIDR,31.13.64.0/18,🚀 节点选择,no-resolve
-  - IP-CIDR,45.64.40.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,66.220.144.0/20,🚀 节点选择,no-resolve
-  - IP-CIDR,69.63.176.0/20,🚀 节点选择,no-resolve
-  - IP-CIDR,69.171.224.0/19,🚀 节点选择,no-resolve
-  - IP-CIDR,74.119.76.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,103.4.96.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,129.134.0.0/17,🚀 节点选择,no-resolve
-  - IP-CIDR,157.240.0.0/17,🚀 节点选择,no-resolve
-  - IP-CIDR,173.252.64.0/18,🚀 节点选择,no-resolve
-  - IP-CIDR,179.60.192.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,185.60.216.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,204.15.20.0/22,🚀 节点选择,no-resolve
-  - DOMAIN-SUFFIX,github.com,🚀 节点选择
-  - DOMAIN-SUFFIX,github.io,🚀 节点选择
-  - DOMAIN-SUFFIX,githubapp.com,🚀 节点选择
-  - DOMAIN-SUFFIX,githubassets.com,🚀 节点选择
-  - DOMAIN-SUFFIX,githubusercontent.com,🚀 节点选择
-  - DOMAIN-SUFFIX,1e100.net,🚀 节点选择
-  - DOMAIN-SUFFIX,2mdn.net,🚀 节点选择
-  - DOMAIN-SUFFIX,app-measurement.net,🚀 节点选择
-  - DOMAIN-SUFFIX,g.co,🚀 节点选择
-  - DOMAIN-SUFFIX,ggpht.com,🚀 节点选择
-  - DOMAIN-SUFFIX,goo.gl,🚀 节点选择
-  - DOMAIN-SUFFIX,googleapis.cn,🚀 节点选择
-  - DOMAIN-SUFFIX,googleapis.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gstatic.cn,🚀 节点选择
-  - DOMAIN-SUFFIX,gstatic.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gvt0.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gvt1.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gvt2.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gvt3.com,🚀 节点选择
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🚀 节点选择
-  - DOMAIN-SUFFIX,youtu.be,🚀 节点选择
-  - DOMAIN-SUFFIX,youtube-nocookie.com,🚀 节点选择
-  - DOMAIN-SUFFIX,youtube.com,🚀 节点选择
-  - DOMAIN-SUFFIX,yt.be,🚀 节点选择
-  - DOMAIN-SUFFIX,ytimg.com,🚀 节点选择
-  - IP-CIDR,74.125.0.0/16,🚀 节点选择,no-resolve
-  - IP-CIDR,173.194.0.0/16,🚀 节点选择,no-resolve
-  - IP-CIDR,120.232.181.162/32,🚀 节点选择,no-resolve
-  - IP-CIDR,120.241.147.226/32,🚀 节点选择,no-resolve
-  - IP-CIDR,120.253.253.226/32,🚀 节点选择,no-resolve
-  - IP-CIDR,120.253.255.162/32,🚀 节点选择,no-resolve
-  - IP-CIDR,120.253.255.34/32,🚀 节点选择,no-resolve
-  - IP-CIDR,120.253.255.98/32,🚀 节点选择,no-resolve
-  - IP-CIDR,180.163.150.162/32,🚀 节点选择,no-resolve
-  - IP-CIDR,180.163.150.34/32,🚀 节点选择,no-resolve
-  - IP-CIDR,180.163.151.162/32,🚀 节点选择,no-resolve
-  - IP-CIDR,180.163.151.34/32,🚀 节点选择,no-resolve
-  - IP-CIDR,203.208.39.0/24,🚀 节点选择,no-resolve
-  - IP-CIDR,203.208.40.0/24,🚀 节点选择,no-resolve
-  - IP-CIDR,203.208.41.0/24,🚀 节点选择,no-resolve
-  - IP-CIDR,203.208.43.0/24,🚀 节点选择,no-resolve
-  - IP-CIDR,203.208.50.0/24,🚀 节点选择,no-resolve
-  - IP-CIDR,220.181.174.162/32,🚀 节点选择,no-resolve
-  - IP-CIDR,220.181.174.226/32,🚀 节点选择,no-resolve
-  - IP-CIDR,220.181.174.34/32,🚀 节点选择,no-resolve
-  - DOMAIN-SUFFIX,cdninstagram.com,🚀 节点选择
-  - DOMAIN-SUFFIX,instagram.com,🚀 节点选择
-  - DOMAIN-SUFFIX,instagr.am,🚀 节点选择
-  - DOMAIN-SUFFIX,kakao.com,🚀 节点选择
-  - DOMAIN-SUFFIX,kakao.co.kr,🚀 节点选择
-  - DOMAIN-SUFFIX,kakaocdn.net,🚀 节点选择
-  - IP-CIDR,1.201.0.0/24,🚀 节点选择,no-resolve
-  - IP-CIDR,27.0.236.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,103.27.148.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,103.246.56.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,110.76.140.0/22,🚀 节点选择,no-resolve
-  - IP-CIDR,113.61.104.0/22,🚀 节点选择,no-resolve
-  - DOMAIN-SUFFIX,lin.ee,🚀 节点选择
-  - DOMAIN-SUFFIX,line-apps.com,🚀 节点选择
-  - DOMAIN-SUFFIX,line-cdn.net,🚀 节点选择
-  - DOMAIN-SUFFIX,line-scdn.net,🚀 节点选择
-  - DOMAIN-SUFFIX,line.me,🚀 节点选择
-  - DOMAIN-SUFFIX,line.naver.jp,🚀 节点选择
+ss://YWVzLTEyOC1nY206N2MyYmExNDktMjgyNy00ZTA3LWI4MmEtNjFiNzRiNzZkNjhi@165.22.54.50:8885#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+165.22.54.50-8885+%7C+205.35ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+109.120.186.9-23022+%7C+115ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+series-a2.varzesh360.co-443+%7C+204.23ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+series-a2.samanehha.co-443+%7C+196.04ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@35.177.47.105:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+35.177.47.105-443+%7C+98.66ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#PL%F0%9F%87%B5%F0%9F%87%B1+%7C+war.ssvpnapp.win-57456+%7C+340.93ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+45.87.175.178-8080+%7C+109.85ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZDEyZjc5ZS0zMjA5LTQ5NzAtODNjZC01ZTFmMzUyNmZmNTE=@91.103.122.32:39781#HK%F0%9F%87%AD%F0%9F%87%B0+%7C+91.103.122.32-39781+%7C+187.05ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+series-a1.samanehha.co-443+%7C+113.06ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@172.67.160.69:443#RELAY%F0%9F%9A%A9+%7C+172.67.160.69-443+%7C+2.54ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+46.246.98.155-44013+%7C+124.33ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVMkVJT0hTNUNNRm1zMXZPNUloYkpX@195.74.86.162:443#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+195.74.86.162-443+%7C+102.75ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNmRNMEh0MkZYQzd3eHZKYzZQS2x5@212.18.104.228:17889#US%F0%9F%87%BA%F0%9F%87%B8+%7C+212.18.104.228-17889+%7C+51.03ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpENnZveW05U1g0YWNRY09YVE9aQ2Fh@206.189.80.65:13734#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+206.189.80.65-13734+%7C+209.29ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#BH%F0%9F%87%A7%F0%9F%87%AD+%7C+series-a2-me.varzesh360.co-443+%7C+286.26ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#AE%F0%9F%87%A6%F0%9F%87%AA+%7C+series-a2-mec.varzesh360.co-443+%7C+278.66ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#AE%F0%9F%87%A6%F0%9F%87%AA+%7C+api.namasha.co-443+%7C+255.29ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTWdJaHF3cDRwak04U0t3aXhOa1la@193.124.22.253:33068#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+193.124.22.253-33068+%7C+129.57ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+45.87.175.171-8080+%7C+107.59ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ODQ4ODExNC00NWFlLTQ1NzctODc2NC03ODI2YWI2MjFlZTE=@fr01.ssyhi.xyz:50242#HK%F0%9F%87%AD%F0%9F%87%B0+%7C+fr01.ssyhi.xyz-50242+%7C+705.95ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+45.87.175.154-8080+%7C+107.57ms
+
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>404 · paste.gg</title>
+  <script
+    src="/static/js/detect-js.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+    integrity="sha384-steVzOSr5DI5VId9YubIjP5piv7RVCSZI7DmaxRj6VrZPzoPUmw/i6YbPCnE5HIi"></script>
+<link
+  title="dark"
+  rel="stylesheet"
+  href="/static/css/dark-style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-y+RMeVK5OKTpmebEnnHyDAEECqdhBkSLfyPKO1b7CokmrpIKDor61jc7Wi7fQR7A"/>
+<link
+  title="light"
+  rel="stylesheet alternate"
+  href="/static/css/style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-h/nZ9blViSRWoEdjXp0507aSEv57qJuD982XXmJDC4pfhDbFs/acexCxPNm6Ogbf"/>
+<script
+  src="/static/js/style.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-zwBoM/SvColCwJ9hm3JZVZgpLWTXKwowuywp+8KnSA2XpcN9SlsUnCt4D0WEXaYY"></script>
+<script
+  defer
+  src="/static/js/navbar.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-OsNHhrFcStlvb1ftG+CsyQVuRliPz3UoK2zgo4aKw1z8qKR460OLsn9X3EHysa7y"></script>
+<script
+  defer
+  src="/static/js/notifications.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-yI6E6wBeIs/7kTFxJ5ZSJSiuDwP7QCjkmK+mnQ7ROOvMq0a6H6pgbZyBEa2+7wws"></script>
+<link rel="icon" sizes="16x16 32x32 48x48 64x64" href="/static/favicons/favicon.ico"/>
+<!--[if IE]><link rel="shortcut icon" href="/static/favicons/favicon.ico"/><![endif]-->
+<link rel="apple-touch-icon-precomposed" href="/static/favicons/favicon-152.png"/>
+<meta name="msapplication-TileColor" content="#FFFFFF"/>
+<meta name="msapplication-TileImage" content="/static/favicons/favicon-144.png"/>
+<meta name="msapplication-square70x70logo" content="/static/favicons/favicon-70.png"/>
+<meta name="msapplication-square150x150logo" content="/static/favicons/favicon-150.png"/>
+<meta name="msapplication-square310x310logo" content="/static/favicons/favicon-310.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/favicons/favicon-152.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/favicons/favicon-144.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/favicons/favicon-120.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/favicons/favicon-114.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/favicons/favicon-72.png"/>
+<link rel="apple-touch-icon-precomposed" href="/static/favicons/favicon-57.png"/></head>
+<body>
+<div class="wrapper">
+  <nav class="navbar">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="&#x2F;">
+        <span class="icon is-small">
+          <svg viewBox="0 0 24 24">
+  <use href="/static/svg/icons.svg?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6#paste"></use>
+</svg>
+        </span>
+        <span>paste.gg</span>
+      </a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="menu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div id="menu" class="navbar-menu">
+      <div class="navbar-start">
+        <a class="navbar-item" href="&#x2F;">
+          New
+        </a>
+      </div>
+      <div class="navbar-end">
+        <a class="navbar-item" href="&#x2F;about">
+          About
+        </a>
+      
+        <div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link" href="&#x2F;login">
+            Log in
+          </a>
+          <div class="navbar-dropdown is-right"><a class="navbar-item" href="&#x2F;register">
+              Register
+            </a>
+            <div class="requires-js">
+              <hr class="navbar-divider"/>
+              <a class="navbar-item" id="swap_theme" href="javascript:void(0)">
+                Swap theme
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <section class="hero is-dark">
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title">
+          404
+        </h1>
+        <h2 class="subtitle">
+          Page not found.
+        </h2>
+      </div>
+    </div>
+    <div class="hero-foot">
+      <div class="container"></div>
+    </div>
+  </section>
+<main class="section">
+    <div class="container">
+We couldn&#x27;t find what you&#x27;re looking for. Sorry!
+
+    </div>
+  </main>
+
+</div>
+<footer class="footer">
+  <nav class="breadcrumb is-centered has-bullet-separator" aria-label="breadcrumbs">
+    <ul>
+      <li><a href="https://github.com/ascclemens/paste">code</a></li>
+      <li><a href="https://github.com/ascclemens/paste/commit/98f6a6a764b8af6ce4bc150d259ea508626434a4">server: ⁨98f6a6a⁩</a></li>
+      <li><a href="https://github.com/ascclemens/paste/commit/01cb6981d6d36376b40a46bdea92bc080fd92ba6">resources: ⁨01cb698⁩</a></li>
+      <li><a href="&#x2F;credits">credits</a></li>
+      <li class="is-active"><a>&copy; 2024</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>
+
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>404 · paste.gg</title>
+  <script
+    src="/static/js/detect-js.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+    integrity="sha384-steVzOSr5DI5VId9YubIjP5piv7RVCSZI7DmaxRj6VrZPzoPUmw/i6YbPCnE5HIi"></script>
+<link
+  title="dark"
+  rel="stylesheet"
+  href="/static/css/dark-style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-y+RMeVK5OKTpmebEnnHyDAEECqdhBkSLfyPKO1b7CokmrpIKDor61jc7Wi7fQR7A"/>
+<link
+  title="light"
+  rel="stylesheet alternate"
+  href="/static/css/style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-h/nZ9blViSRWoEdjXp0507aSEv57qJuD982XXmJDC4pfhDbFs/acexCxPNm6Ogbf"/>
+<script
+  src="/static/js/style.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-zwBoM/SvColCwJ9hm3JZVZgpLWTXKwowuywp+8KnSA2XpcN9SlsUnCt4D0WEXaYY"></script>
+<script
+  defer
+  src="/static/js/navbar.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-OsNHhrFcStlvb1ftG+CsyQVuRliPz3UoK2zgo4aKw1z8qKR460OLsn9X3EHysa7y"></script>
+<script
+  defer
+  src="/static/js/notifications.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-yI6E6wBeIs/7kTFxJ5ZSJSiuDwP7QCjkmK+mnQ7ROOvMq0a6H6pgbZyBEa2+7wws"></script>
+<link rel="icon" sizes="16x16 32x32 48x48 64x64" href="/static/favicons/favicon.ico"/>
+<!--[if IE]><link rel="shortcut icon" href="/static/favicons/favicon.ico"/><![endif]-->
+<link rel="apple-touch-icon-precomposed" href="/static/favicons/favicon-152.png"/>
+<meta name="msapplication-TileColor" content="#FFFFFF"/>
+<meta name="msapplication-TileImage" content="/static/favicons/favicon-144.png"/>
+<meta name="msapplication-square70x70logo" content="/static/favicons/favicon-70.png"/>
+<meta name="msapplication-square150x150logo" content="/static/favicons/favicon-150.png"/>
+<meta name="msapplication-square310x310logo" content="/static/favicons/favicon-310.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/favicons/favicon-152.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/favicons/favicon-144.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/favicons/favicon-120.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/favicons/favicon-114.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/favicons/favicon-72.png"/>
+<link rel="apple-touch-icon-precomposed" href="/static/favicons/favicon-57.png"/></head>
+<body>
+<div class="wrapper">
+  <nav class="navbar">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="&#x2F;">
+        <span class="icon is-small">
+          <svg viewBox="0 0 24 24">
+  <use href="/static/svg/icons.svg?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6#paste"></use>
+</svg>
+        </span>
+        <span>paste.gg</span>
+      </a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="menu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div id="menu" class="navbar-menu">
+      <div class="navbar-start">
+        <a class="navbar-item" href="&#x2F;">
+          New
+        </a>
+      </div>
+      <div class="navbar-end">
+        <a class="navbar-item" href="&#x2F;about">
+          About
+        </a>
+      
+        <div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link" href="&#x2F;login">
+            Log in
+          </a>
+          <div class="navbar-dropdown is-right"><a class="navbar-item" href="&#x2F;register">
+              Register
+            </a>
+            <div class="requires-js">
+              <hr class="navbar-divider"/>
+              <a class="navbar-item" id="swap_theme" href="javascript:void(0)">
+                Swap theme
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <section class="hero is-dark">
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title">
+          404
+        </h1>
+        <h2 class="subtitle">
+          Page not found.
+        </h2>
+      </div>
+    </div>
+    <div class="hero-foot">
+      <div class="container"></div>
+    </div>
+  </section>
+<main class="section">
+    <div class="container">
+We couldn&#x27;t find what you&#x27;re looking for. Sorry!
+
+    </div>
+  </main>
+
+</div>
+<footer class="footer">
+  <nav class="breadcrumb is-centered has-bullet-separator" aria-label="breadcrumbs">
+    <ul>
+      <li><a href="https://github.com/ascclemens/paste">code</a></li>
+      <li><a href="https://github.com/ascclemens/paste/commit/98f6a6a764b8af6ce4bc150d259ea508626434a4">server: ⁨98f6a6a⁩</a></li>
+      <li><a href="https://github.com/ascclemens/paste/commit/01cb6981d6d36376b40a46bdea92bc080fd92ba6">resources: ⁨01cb698⁩</a></li>
+      <li><a href="&#x2F;credits">credits</a></li>
+      <li class="is-active"><a>&copy; 2024</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>
+
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>404 · paste.gg</title>
+  <script
+    src="/static/js/detect-js.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+    integrity="sha384-steVzOSr5DI5VId9YubIjP5piv7RVCSZI7DmaxRj6VrZPzoPUmw/i6YbPCnE5HIi"></script>
+<link
+  title="dark"
+  rel="stylesheet"
+  href="/static/css/dark-style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-y+RMeVK5OKTpmebEnnHyDAEECqdhBkSLfyPKO1b7CokmrpIKDor61jc7Wi7fQR7A"/>
+<link
+  title="light"
+  rel="stylesheet alternate"
+  href="/static/css/style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-h/nZ9blViSRWoEdjXp0507aSEv57qJuD982XXmJDC4pfhDbFs/acexCxPNm6Ogbf"/>
+<script
+  src="/static/js/style.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-zwBoM/SvColCwJ9hm3JZVZgpLWTXKwowuywp+8KnSA2XpcN9SlsUnCt4D0WEXaYY"></script>
+<script
+  defer
+  src="/static/js/navbar.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-OsNHhrFcStlvb1ftG+CsyQVuRliPz3UoK2zgo4aKw1z8qKR460OLsn9X3EHysa7y"></script>
+<script
+  defer
+  src="/static/js/notifications.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-yI6E6wBeIs/7kTFxJ5ZSJSiuDwP7QCjkmK+mnQ7ROOvMq0a6H6pgbZyBEa2+7wws"></script>
+<link rel="icon" sizes="16x16 32x32 48x48 64x64" href="/static/favicons/favicon.ico"/>
+<!--[if IE]><link rel="shortcut icon" href="/static/favicons/favicon.ico"/><![endif]-->
+<link rel="apple-touch-icon-precomposed" href="/static/favicons/favicon-152.png"/>
+<meta name="msapplication-TileColor" content="#FFFFFF"/>
+<meta name="msapplication-TileImage" content="/static/favicons/favicon-144.png"/>
+<meta name="msapplication-square70x70logo" content="/static/favicons/favicon-70.png"/>
+<meta name="msapplication-square150x150logo" content="/static/favicons/favicon-150.png"/>
+<meta name="msapplication-square310x310logo" content="/static/favicons/favicon-310.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/favicons/favicon-152.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/favicons/favicon-144.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/favicons/favicon-120.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/favicons/favicon-114.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/favicons/favicon-72.png"/>
+<link rel="apple-touch-icon-precomposed" href="/static/favicons/favicon-57.png"/></head>
+<body>
+<div class="wrapper">
+  <nav class="navbar">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="&#x2F;">
+        <span class="icon is-small">
+          <svg viewBox="0 0 24 24">
+  <use href="/static/svg/icons.svg?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6#paste"></use>
+</svg>
+        </span>
+        <span>paste.gg</span>
+      </a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="menu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div id="menu" class="navbar-menu">
+      <div class="navbar-start">
+        <a class="navbar-item" href="&#x2F;">
+          New
+        </a>
+      </div>
+      <div class="navbar-end">
+        <a class="navbar-item" href="&#x2F;about">
+          About
+        </a>
+      
+        <div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link" href="&#x2F;login">
+            Log in
+          </a>
+          <div class="navbar-dropdown is-right"><a class="navbar-item" href="&#x2F;register">
+              Register
+            </a>
+            <div class="requires-js">
+              <hr class="navbar-divider"/>
+              <a class="navbar-item" id="swap_theme" href="javascript:void(0)">
+                Swap theme
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <section class="hero is-dark">
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title">
+          404
+        </h1>
+        <h2 class="subtitle">
+          Page not found.
+        </h2>
+      </div>
+    </div>
+    <div class="hero-foot">
+      <div class="container"></div>
+    </div>
+  </section>
+<main class="section">
+    <div class="container">
+We couldn&#x27;t find what you&#x27;re looking for. Sorry!
+
+    </div>
+  </main>
+
+</div>
+<footer class="footer">
+  <nav class="breadcrumb is-centered has-bullet-separator" aria-label="breadcrumbs">
+    <ul>
+      <li><a href="https://github.com/ascclemens/paste">code</a></li>
+      <li><a href="https://github.com/ascclemens/paste/commit/98f6a6a764b8af6ce4bc150d259ea508626434a4">server: ⁨98f6a6a⁩</a></li>
+      <li><a href="https://github.com/ascclemens/paste/commit/01cb6981d6d36376b40a46bdea92bc080fd92ba6">resources: ⁨01cb698⁩</a></li>
+      <li><a href="&#x2F;credits">credits</a></li>
+      <li class="is-active"><a>&copy; 2024</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>
+
