@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://32f09b70-d2f7-11ee-abda-00505603e70d@172.67.158.12:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-gb-1.brocdn.com&type=ws&sni=st-gb-1.brocdn.com#RELAY🚩 | st-gb-1.brocdn.com-443 | 5.95ms
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&host=google.com&type=ws#US🇺🇸 | google.com-80 | 9.05ms
 vless://85ceb245-40ee-433b-9e51-4c7a3167a70b@zula.ir:443?type=ws&encryption=none&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&path=%2Fc3afc49f.ab841-rcb.pages.dev%2F%3Fed%3D2048.%40AB_841.%40AB_841.%40AB_841.%40AB_841&security=tls&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#RELAY🚩 | a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org-443 | 155.98ms
 vless://b7dab6da-5dba-4e78-a091-31e7478d2834@www.visa.com.sg:8443?path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg77.pages.dev&fp=random&type=ws&sni=pardazeshvpn-tg77.pages.dev#RELAY🚩 | pardazeshvpn-tg77.pages.dev-8443 | 39.79ms
 vless://538ec70c-b386-51ad-8155-aeaed37a22b6@172.67.245.156:2087?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=newus.sspeednetokala.US.KG&fp=chrome&type=ws&sni=newus.sspeednetokala.US.KG#RELAY🚩 | newus.sspeednetokala.US.KG-2087 | 142.9ms
@@ -601,5 +603,3 @@ vless://de44b044-8f90-4e18-b742-16591667ff96@40.79.73.114:8443?encryption=none&s
 vless://de44b044-8f90-4e18-b742-16591667ff96@4.172.225.82:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | edgetunnel-free.pages.dev-8443 | 3.25ms
 vless://de44b044-8f90-4e18-b742-16591667ff96@4.239.248.70:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | edgetunnel-free.pages.dev-8443 | 2.55ms
 vless://de44b044-8f90-4e18-b742-16591667ff96@40.123.47.252:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | edgetunnel-free.pages.dev-8443 | 3.1ms
-vless://de44b044-8f90-4e18-b742-16591667ff96@20.228.249.211:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | edgetunnel-free.pages.dev-8443 | 3.12ms
-vless://de44b044-8f90-4e18-b742-16591667ff96@20.151.238.192:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | edgetunnel-free.pages.dev-8443 | 3.15ms
