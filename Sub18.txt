@@ -3,6 +3,25 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+            <p class="text">Either the domain has been overused, or the reseller ran out of resources.</p>
+        </div>
+    </section>
+    <footer class="container">
+        <div class="left-side">
+            <p>Powered by</p>
+            <span class="logo"><a href="https://www.directadmin.com" target="_blank">
+                <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+                    xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 453.4 102.2"
+                    style="enable-background:new 0 0 453.4 102.2;" xml:space="preserve">
+                    <style type="text/css">
+                        .st007 {
+                            fill: #8F9195;
+                        }
+
+                        .ssst1 {
+                            fill: #34383C;
+                        }
+
                         .ssst2 {
                             fill: #0682B4;
                         }
@@ -323,7 +342,7 @@ vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:501
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8e6b9e282a0429be &bull; 2024-11-22 20:20:02 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8e6bf3036b55689a &bull; 2024-11-22 21:17:57 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -348,12 +367,12 @@ vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:501
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e6b9e282a0429be</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e6bf3036b55689a</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.55.14.148</span>
+      <span class="hidden" id="cf-footer-ip">52.238.25.50</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -488,14 +507,14 @@ hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@54.38.225.47:4380?obfs=salama
 
             <div class="cf-error-footer cf-wrapper">
     <p>
-      <span class="cf-footer-item">Cloudflare Ray ID: 8e6b9e396fd13934</span>
+      <span class="cf-footer-item">Cloudflare Ray ID: 8e6bf3135ad41746</span>
       <span class="cf-footer-separator">&bull;</span>
-      <span class="cf-footer-item">2024-11-22 20:20:04 UTC</span>
+      <span class="cf-footer-item">2024-11-22 21:18:00 UTC</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden">
         <span class="cf-footer-separator">&bull;</span>
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">20.55.14.148</span>
+        <span class="hidden" id="cf-footer-ip">52.238.25.50</span>
       </span>
       <span class="cf-footer-separator">&bull;</span>
       <span class="cf-footer-item"><span>Runs on </span><a rel="noopener noreferrer" href="https://workers.cloudflare.com?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare Workers</a></span>
@@ -584,22 +603,3 @@ vless://5461c9d2-ac6a-4ba8-bae1-ca3acb214dd3@LIGHTNING6-joinbede.filj.top:2087?m
 vless://cae07bc9-33e8-4689-8b25-c7998bfee63a@185.59.218.48:443?path=/server&security=tls&encryption=none&alpn=h2,http/1.1&host=join-telegraam-channel-disvpn.pages.dev&fp=randomized&type=ws&sni=join-telegraam-channel-disvpn.pages.dev#👉🆔 @v2ray_configs_pool
 vless://cae07bc9-33e8-4689-8b25-c7998bfee63a@188.114.96.3:443?path=/server&security=tls&encryption=none&alpn=h2,http/1.1&host=join-telegraam-channel-disvpn.pages.dev&fp=randomized&type=ws&sni=join-telegraam-channel-disvpn.pages.dev#👉🆔 @v2ray_configs_pool
 vmess://eyJhZGQiOiAiMTA0LjI2LjYuNjUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibWlrYXNhLnlhZW1pa28uY2xvdWRucy5vcmciLCAiaWQiOiAiNDQxZGEzNDItY2U5MC00NDFlLWJmZjktZDJjZWI1NWU2OGNhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9pdmlkZW9zLnNicy9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIm1pa2FzYS55YWVtaWtvLmNsb3VkbnMub3JnIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sIn0=
-vless://df72a409-8b14-4d91-a644-ec8355239faf@ispeedtop.imailtop.site:38597?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool
-vless://1a94747b-8901-4812-ba23-7eb44cc1162f@188.114.96.3:443?path=%2FTelegram-%40SiNABiGO%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=kIngOFIRAN.PAGes.DEv&fp=randomized&type=ws&sni=kingOfIRaN.Pages.DEV#👉🆔 @v2ray_configs_pool
-vless://df72a409-8b14-4d91-a644-ec8355239faf@ispeedtop.imailtop.site:38597?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OUppYXRCSXk4Z2FBV1RCTHc1ZFZocWhBUTY5bkJDRFdNTSt5S3p4NGQwPQ==@52.59.206.76:8080#👉🆔 @v2ray_configs_pool
-vless://1a94747b-8901-4812-ba23-7eb44cc1162f@188.114.96.3:443?path=%2FTelegram-%40SiNABiGO%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=kIngOFIRAN.PAGes.DEv&fp=randomized&type=ws&sni=kingOfIRaN.Pages.DEV#👉🆔 @v2ray_configs_pool
-vless://883042f4-e94b-40f3-bdd0-80d2bee1b3ba@LIGHTNING6-joinbed.filj.top:8880?path=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray%3Fed%3D1024&security=none&encryption=none&host=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.&type=ws#👉🆔 @v2ray_configs_pool
-vmess://eyJhZGQiOiAiYW1pbmkyLmRkbnMubmV0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiaHR0cC8xLjEiLCAiZnAiOiAiIiwgImhvc3QiOiAicGFOZUwxNjguTU9vS29NZWlsei5ob21lcyIsICJpZCI6ICI1Y2Q3MjNlOC02ZjJiLTQ1ZmMtYmIwNy0wN2FmMzFhMTA2ZWIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dsd293byIsICJwb3J0IjogIjIwODciLCAic2N5IjogImF1dG8iLCAic25pIjogImRwc3NrRy5NT29Lb01laWxaLmhvbWVzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sIn0=
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#👉🆔 @v2ray_configs_pool
-vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.67.128.158:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=who-cares.BacheBiaPain.IR&fp=randomized&type=ws&sni=who-cares.BacheBiaPain.IR#👉🆔 @v2ray_configs_pool
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2F&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#👉🆔 @v2ray_configs_pool
-vless://50150a3d-7654-48d8-ab90-d743e8f6a76f@185.146.173.94:80?path=%2Fvless&security=none&encryption=none&host=2.v2raY.mIhANYAs.Ir.mBj.FArSrOId.COm.XN--fHq0La447aAC5504dEa701axR1G.IsVphp.iR.&type=ws#👉🆔 @v2ray_configs_pool
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2F%3Fed&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#👉🆔 @v2ray_configs_pool
-vless://Parsashonam-82@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#👉🆔 @v2ray_configs_pool
-vless://Parsashonam-82@www.visa.com:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#👉🆔 @v2ray_configs_pool
-vless://58e1a8ae-d8ae-4d71-885d-eeaea5f967e2@185.146.173.94:80?path=%2Fvless&security=none&encryption=none&host=1.v2raY.mIhANYAs.Ir.mBj.FArSrOId.COm.XN--fHq0La447aAC5504dEa701axR1G.IsVphp.iR.&type=ws#👉🆔 @v2ray_configs_pool
-vmess://eyJhZGQiOiAiOTEuMTA3LjEzMC4yMjkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjJkNWU1YTczLThmYTEtNGM0My1iNjdmLWMwMjExYmEzNGEwMyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzUyNjIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
-vless://24d80106-32ca-4333-bdd0-ce486748e538@ns1.game2download.com:443?type=ws&path=%2F&host=&security=tls&fp=random&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool
-vless://c7ccd55f-e9b3-48ae-b34f-dca5556aa872@v2kingfree.zula.ir.game.com.cloudflare.net.0.0.0.0.tech.xn--link-8553cdwd1va.XN--ZFRU1GHYCY7IJZAD72A1I1AW3QE86A.SHOP.:8080?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#👉🆔 @v2ray_configs_pool
