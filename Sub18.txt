@@ -3,6 +3,39 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+                        }
+
+                        .ssst1 {
+                            fill: #34383C;
+                        }
+
+                        .ssst2 {
+                            fill: #0682B4;
+                        }
+
+                        .ssst3 {
+                            fill: #31B7E9;
+                        }
+                    </style>
+                    <g>
+                        <path class="st007" d="M111,72h1.5l3,13l4.5-13h1l4.6,12.8l3.2-12.8h1.4l-3.7,14.8H125l-4.5-12.7l-4.4,12.7h-1.6L111,72z M141.8,78.4
+		h9.6c0-3.4-1.6-5.2-4.5-5.2C143.6,73.3,141.9,75,141.8,78.4 M146.9,72c3.9,0,5.9,2.2,5.9,6.6c0,0.3,0,0.6,0,1h-10.9
+		c0,3.8,1.9,5.8,5.9,5.8c1.6,0,3.1-0.2,4.3-0.6v1.3c-1.3,0.4-2.7,0.6-4.3,0.6c-4.8,0-7.5-2.5-7.5-7.7C140.4,74.3,142.6,72,146.9,72
+		 M165.6,85.2c1.5,0.2,2.8,0.4,3.9,0.4c3.7,0,5.5-2.1,5.5-6.4c0-3.7-1.7-5.5-5.1-5.5c-1.4,0-2.8,0.2-4.4,0.7L165.6,85.2z
+		 M164.2,66.8h1.5v6.1c1.7-0.4,3.2-0.6,4.4-0.6c4.3,0,6.4,2.3,6.4,7.2c0,5.1-2.2,7.8-6.7,7.8c-2,0-3.8-0.2-5.5-0.5L164.2,66.8z
+		 M212.9,86.4c-1.2,0.2-2.5,0.4-3.8,0.4c-4.8,0-7.4-2.6-7.4-7.8c0-4.7,2.3-7.2,7.4-7.2c1.4,0,2.6,0.1,3.8,0.4v1.3
+		c-1.3-0.2-2.5-0.4-3.6-0.4c-3.8,0-5.8,1.9-5.8,5.9c0,4.3,1.9,6.4,5.8,6.4c1.2,0,2.3-0.1,3.6-0.4V86.4z M229.9,85.8
+		c3.5,0,5.2-2.1,5.2-6.3s-1.7-6.2-5.2-6.2c-3.5,0-5.2,2-5.2,6.2C224.7,83.6,226.5,85.8,229.9,85.8 M223.3,79.5
+		c0-4.9,2.2-7.7,6.6-7.7c4.4,0,6.6,2.5,6.6,7.7c0,4.9-2.2,7.7-6.6,7.7C225.5,86.9,223.3,84.5,223.3,79.5 M248.2,86.8V72h1l0.2,1.9
+		c1.8-1.3,3.6-1.9,5.3-1.9c3.5,0,5.2,1.6,5.2,4.6v10.2h-1.5V76.6c0-2.1-1.3-3.3-3.8-3.3c-1.7,0-3.4,0.6-5.1,1.9v11.7h-1.4
+		L248.2,86.8z M271.9,69.7h1l0.2,2.3h4.3v1.3h-4.2v9.5c0,1.9,0.6,2.9,2,2.9h2.1V87h-2c-2.3,0-3.5-1.4-3.5-3.9L271.9,69.7z
+		 M288.3,86.8V72h1.1l0.2,2.5c1.5-1.6,3.1-2.5,4.7-2.5v1.2c-1.7,0-3.3,0.9-4.5,2.6v11.1L288.3,86.8z M310.7,85.8
+		c3.5,0,5.2-2.1,5.2-6.3s-1.7-6.2-5.2-6.2s-5.2,2-5.2,6.2C305.4,83.6,307.1,85.8,310.7,85.8 M303.9,79.5c0-4.9,2.2-7.7,6.6-7.7
+		s6.6,2.5,6.6,7.7c0,4.9-2.2,7.7-6.6,7.7C306.3,86.9,303.9,84.5,303.9,79.5 M330.3,86.8h-1.5V66.7h1.5V86.8z M358.7,84.7
+		c1.5,0.5,2.8,0.7,3.9,0.7c3.7,0,5.5-2.1,5.5-6.3c0-3.7-1.8-5.7-5.5-5.7c-1.3,0-2.6,0.1-3.9,0.3V84.7z M357.3,72.5
+		c1.6-0.4,3.5-0.5,5.4-0.5c4.6,0,6.8,2.3,6.8,6.9c0,5.2-2.2,7.9-6.8,7.9c-1.2,0-2.5-0.2-3.9-0.6v6.1h-1.5V72.5z M386,79.5
+		c-2.8,0-4.2,1-4.2,3c0,1.9,1.2,2.9,3.5,2.9c1.7,0,3.4-0.4,4.9-1.5v-4.1C388.6,79.6,387.2,79.5,386,79.5 M380.3,82.7
+		c0-2.9,1.9-4.4,5.7-4.4c1.4,0,2.7,0.1,4.3,0.2v-1.8c0-2.2-1.4-3.4-4.1-3.4c-1.6,0-3.2,0.2-4.6,0.6v-1.4c1.6-0.4,3.1-0.6,4.6-0.6
 		c3.7,0,5.5,1.6,5.5,4.6v10.2h-0.9l-0.3-1.5c-1.8,1.1-3.5,1.5-5.2,1.5C381.9,86.8,380.3,85.5,380.3,82.7 M403.7,86.8V72h1l0.2,1.9
 		c1.8-1.3,3.6-1.9,5.3-1.9c3.5,0,5.2,1.6,5.2,4.6v10.2h-1.5V76.6c0-2.1-1.3-3.3-3.8-3.3c-1.7,0-3.4,0.6-5.1,1.9v11.7L403.7,86.8z
 		 M428.3,78.4h9.6c-0.1-3.4-1.6-5.2-4.5-5.2C430.1,73.3,428.5,75,428.3,78.4 M433.4,72c3.9,0,5.9,2.2,5.9,6.6c0,0.3,0,0.6,0,1h-10.9
@@ -296,7 +329,7 @@ vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:501
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8e6af64c1cebe806 &bull; 2024-11-22 18:25:26 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8e6b4060ddd42331 &bull; 2024-11-22 19:16:00 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -321,12 +354,12 @@ vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:501
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e6af64c1cebe806</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e6b4060ddd42331</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.183.39.79</span>
+      <span class="hidden" id="cf-footer-ip">20.88.15.127</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -461,14 +494,14 @@ hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@54.38.225.47:4380?obfs=salama
 
             <div class="cf-error-footer cf-wrapper">
     <p>
-      <span class="cf-footer-item">Cloudflare Ray ID: 8e6af65c9e532244</span>
+      <span class="cf-footer-item">Cloudflare Ray ID: 8e6b406f5ef9634b</span>
       <span class="cf-footer-separator">&bull;</span>
-      <span class="cf-footer-item">2024-11-22 18:25:29 UTC</span>
+      <span class="cf-footer-item">2024-11-22 19:16:03 UTC</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden">
         <span class="cf-footer-separator">&bull;</span>
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">172.183.39.79</span>
+        <span class="hidden" id="cf-footer-ip">20.88.15.127</span>
       </span>
       <span class="cf-footer-separator">&bull;</span>
       <span class="cf-footer-item"><span>Runs on </span><a rel="noopener noreferrer" href="https://workers.cloudflare.com?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare Workers</a></span>
@@ -570,36 +603,3 @@ vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2F&securit
 vless://50150a3d-7654-48d8-ab90-d743e8f6a76f@185.146.173.94:80?path=%2Fvless&security=none&encryption=none&host=2.v2raY.mIhANYAs.Ir.mBj.FArSrOId.COm.XN--fHq0La447aAC5504dEa701axR1G.IsVphp.iR.&type=ws#👉🆔 @v2ray_configs_pool
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2F%3Fed&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#👉🆔 @v2ray_configs_pool
 vless://Parsashonam-82@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#👉🆔 @v2ray_configs_pool
-vless://Parsashonam-82@www.visa.com:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#👉🆔 @v2ray_configs_pool
-vless://58e1a8ae-d8ae-4d71-885d-eeaea5f967e2@185.146.173.94:80?path=%2Fvless&security=none&encryption=none&host=1.v2raY.mIhANYAs.Ir.mBj.FArSrOId.COm.XN--fHq0La447aAC5504dEa701axR1G.IsVphp.iR.&type=ws#👉🆔 @v2ray_configs_pool
-vmess://eyJhZGQiOiAiOTEuMTA3LjEzMC4yMjkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjJkNWU1YTczLThmYTEtNGM0My1iNjdmLWMwMjExYmEzNGEwMyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzUyNjIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
-vless://24d80106-32ca-4333-bdd0-ce486748e538@ns1.game2download.com:443?type=ws&path=%2F&host=&security=tls&fp=random&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool
-vless://c7ccd55f-e9b3-48ae-b34f-dca5556aa872@v2kingfree.zula.ir.game.com.cloudflare.net.0.0.0.0.tech.xn--link-8553cdwd1va.XN--ZFRU1GHYCY7IJZAD72A1I1AW3QE86A.SHOP.:8080?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#👉🆔 @v2ray_configs_pool
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#👉🆔 @v2ray_configs_pool
-vless://Telegram-%69%70%56%32%52%61%79-ito@185.146.173.58:80?type=ws&path=/Telegram-%69%70%56%32%52%61%79?ed%3D2048&host=V2ray.ftp.debian.org.www.speedtest.net.免费上网69.Site.&security=none#👉🆔 @v2ray_configs_pool
-vless://4e47d40d-770c-49e8-b730-bc9628404f87@www.speedtest.net:8080?path=%2F&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#👉🆔 @v2ray_configs_pool
-vless://4e47d40d-770c-49e8-b730-bc9628404f87@www.speedtest.net:8080?path=%2F&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#👉🆔 @v2ray_configs_pool
-vless://ecac94b8-b67f-470c-d1e7-4472dab1a3a7@23.174.200.123:38396?security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#👉🆔 @v2ray_configs_pool
-vless://9d5cc6f7-a8aa-487a-9895-3ba58d33c3eb@www.zula.ir:80?path=%2FV2ray.motorcycles%3Fed%3D80&security=none&encryption=none&host=gegajiwbowbiqjbqo----kskn.bmpoloton.ir&type=ws#👉🆔 @v2ray_configs_pool
-vless://4e47d40d-770c-49e8-b730-bc9628404f87@www.speedtest.net:8080?path=%2F&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#👉🆔 @v2ray_configs_pool
-vless://15b15cd3-d8c1-4c78-8e25-bd5a57fb9dfc@141.105.130.98:49938?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool
-vmess://eyJhZGQiOiAiOTEuMTA3LjEzMC4yMjkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjJkNWU1YTczLThmYTEtNGM0My1iNjdmLWMwMjExYmEzNGEwMyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzUyNjIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
-vless://ecac94b8-b67f-470c-d1e7-4472dab1a3a7@23.174.200.123:38396?security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#👉🆔 @v2ray_configs_pool
-vless://4e47d40d-770c-49e8-b730-bc9628404f87@www.speedtest.net:8080?path=%2F&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#👉🆔 @v2ray_configs_pool
-vless://9d5cc6f7-a8aa-487a-9895-3ba58d33c3eb@www.zula.ir:80?path=%2FV2ray.motorcycles%3Fed%3D80&security=none&encryption=none&host=gegajiwbowbiqjbqo----kskn.bmpoloton.ir&type=ws#👉🆔 @v2ray_configs_pool
-vless://15b15cd3-d8c1-4c78-8e25-bd5a57fb9dfc@141.105.130.98:49938?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool
-
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@172.93.188.157:443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@223.122.68.205:12384?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@13.250.14.76:443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@103.20.199.118:12999?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@223.122.88.214:37020?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@85.208.104.34:8080?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@220.135.202.250:81?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%A8%F0%9F%87%B3TW_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@114.34.202.224:10004?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%A8%F0%9F%87%B3TW_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@3.1.94.232:443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@109.107.137.56:37316?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@138.2.66.92:443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@120.232.218.36:12330?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@120.232.218.32:12330?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
