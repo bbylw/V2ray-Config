@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-      "reserved": [19,45,7],
-
-      "mtu": 1280,
-      "fake_packets": "5-10"
-    },
-    {
       "type": "wireguard",
       "tag": "Warp-Main4",
       "detour": "Warp-IR4",
@@ -294,12 +288,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e6b4074cbec22cf</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e6b9e400d96d6df</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.88.15.127</span>
+      <span class="hidden" id="cf-footer-ip">20.55.14.148</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +597,9 @@ vless://500fa635-f420-4148-ae10-5b857163d045@135.181.32.163:8443/?type=ws&encryp
 vless://500fa635-f420-4148-ae10-5b857163d045@45.136.196.236:443/?type=ws&encryption=none&host=vl.kouok.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=vl.kouok.us.kg&fp=random#%F0%9F%AA%9941%40oneclickvpnkeys
 vless://500fa635-f420-4148-ae10-5b857163d045@104.19.107.190:2096/?type=ws&encryption=none&host=vl.kouok.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=vl.kouok.us.kg&fp=random#%F0%9F%AA%9935%40oneclickvpnkeys
 vless://500fa635-f420-4148-ae10-5b857163d045@85.235.145.125:2053/?type=ws&encryption=none&host=vl.kouok.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=vl.kouok.us.kg&fp=random#%F0%9F%AA%9946%40oneclickvpnkeys
+vless://500fa635-f420-4148-ae10-5b857163d045@46.8.228.202:8443/?type=ws&encryption=none&host=vl.kouok.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=vl.kouok.us.kg&fp=random#%F0%9F%AA%9947%40oneclickvpnkeys
+vless://500fa635-f420-4148-ae10-5b857163d045@46.8.237.3:443/?type=ws&encryption=none&host=vl.kouok.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=vl.kouok.us.kg&fp=random#%F0%9F%AA%9949%40oneclickvpnkeys
+vless://500fa635-f420-4148-ae10-5b857163d045@104.20.30.149:2087/?type=ws&encryption=none&host=vl.kouok.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=vl.kouok.us.kg&fp=random#%F0%9F%AA%9948%40oneclickvpnkeys`
+vless://500fa635-f420-4148-ae10-5b857163d045@176.97.77.76:443/?type=ws&encryption=none&host=vl.kouok.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=vl.kouok.us.kg&fp=random#%F0%9F%AA%9951%40oneclickvpnkeys
+vless://500fa635-f420-4148-ae10-5b857163d045@194.164.170.244:2053/?type=ws&encryption=none&host=vl.kouok.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=vl.kouok.us.kg&fp=random#%F0%9F%AA%9952%40oneclickvpnkeys
+vless://500fa635-f420-4148-ae10-5b857163d045@78.135.110.152:2053/?type=ws&encryption=none&host=vl.kouok.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=vl.kouok.us.kg&fp=random#%F0%9F%AA%9953%40oneclickvpnkeys
