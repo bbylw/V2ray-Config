@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "fRaG1.MaHSAamiNI.cc",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
           "fingerprint": "chrome",
           "show": false
         },
@@ -452,12 +464,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e6465d47cb81746</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e651ab72e50870e</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">138.91.70.188</span>
+      <span class="hidden" id="cf-footer-ip">20.88.15.118</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -591,15 +603,3 @@ vless://336a1cc3-dc1c-4d20-b2cc-618b50dc3f23@91.107.154.43:2083?security=reality
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=sB-1u6.Pages.DEV&fp=chrome&type=ws&sni=sB-1u6.Pages.DEV#WiFi-%40V2ray_Alpha-06
 vless://f2dc17f5-3113-4a40-8c51-55fe0e2c7f75@104.25.182.54:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=PUrcOWFAst.pAGeS.dEv&fp=chrome&type=ws&sni=purCOwfaSt.PAgES.DEv#WiFi-%40V2ray_Alpha-07
 vless://041f671a-63f5-4af1-a492-8cbff5797b8a@151.101.130.228:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=Falcunargo.net&type=ws&sni=zmaoz.faculty.ucdavis.edu#WiFi-%40V2ray_Alpha-08
-vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@154.211.8.12:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2087&security=tls&encryption=none&host=nicorobin.eula.cloudns.org&type=ws&sni=nicorobin.eula.cloudns.org#WiFi-%40V2ray_Alpha-09
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.14.116.155:8000?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.ifx.us.kg&type=ws&sni=vless.ifx.us.kg#WiFi-%40V2ray_Alpha-10
-vless://17bc17be-8764-4b9f-8c2c-6a5cd190ef01@104.17.148.22:80?path=%2F%3Fed%3D2056&security=none&encryption=none&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaa.xn--g28h.opetateam.ir.&type=ws#WiFi-%40V2ray_Alpha-11
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?path=%2F4u7lAS4nPLtz0xPz%3Fed%3D2560&security=none&encryption=none&host=samane.ir&type=ws#WiFi-%40V2ray_Alpha-12
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.197.231:80?path=%2FkptMTT8pTmxLWsoJ%3Fed%3D2560&security=none&encryption=none&host=aliii.ir&type=ws#WiFi-%40V2ray_Alpha-13
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.10:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=uni.fi&type=ws#WiFi-%40V2ray_Alpha-14
-vless://eyJhZGQiOiI0NS44LjE1OC4zMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzOThjZTg0ZS00ODQ5LTRlNWYtOWIxYS1hNTZmYmUyMzNiODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMzE2OCIsInBzIjoiV2lGaS1AVjJyYXlfQWxwaGEtMTUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=♾
-vless://4639cda7-0742-4bcd-ab1e-b7c879c2189c@151.101.2.165:80?path=%2Fv2pedia%3Fed%3D2048&security=none&encryption=none&host=que4.ir&type=ws#MCI-%40V2ray_Alpha-03
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.204:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#MCI-%40V2ray_Alpha-04
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@190.93.246.152:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#MCI-%40V2ray_Alpha-06
-vless://d4861c73-74d0-4d1b-8338-5700239aea99@94.130.186.50:2052?security=reality&encryption=none&pbk=hYzyuL3U0PGH7nKahcS8h0zt392Hwad7ZnCGoyYqHQ0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=030f845d#MCI-%40V2ray_Alpha-07
-vless://b551a105-2391-4182-8e5a-5e0d3323fc27@188.245.154.141:6543?security=reality&encryption=none&pbk=W0KzAPz2e3FFi-yzHzDdeo4mH_ZmkGb97dny2fkHjjY&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=ad52706b#MCI-%40V2ray_Alpha-08
