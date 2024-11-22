@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-      "private_key": "yAaefQJhAvO85aHzEW5tMSpHDBaOTaNnO7GhrzMUenU=",
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [205,184,52],  
 
@@ -179,12 +178,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e667552897beb5c</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e66d82c3a9d15ed</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.183.122.147</span>
+      <span class="hidden" id="cf-footer-ip">13.91.68.159</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +602,4 @@ ss://b551a105-2391-4182-8e5a-5e0d3323fc27@188.245.154.141:6543?security=reality&
 ss://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2083?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=hagh.pages.dev&fp=random&type=ws&sni=hagh.pages.dev#MCI-%40V2ray_Alpha-09
 ss://b219dd78-3de9-40ba-98dd-a711318882fc@5.182.87.141:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=LoNYZgZ6WvqA2qkrVwkz4RHWnjoFTzw4h59F0GeAqh0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=a7c159#MCI-%40V2ray_Alpha-10
 ss://250f6225-c4b1-41f4-90e7-e90aab898ceb@151.101.2.133:443?path=ws%2F%3Fed%3D2048%2FTelegram%40Linkvws&security=tls&encryption=none&host=s4brgbetbngbgf.com&type=ws&sni=Live.skornorth.com#MCI-%40V2ray_Alpha-11
+ss://041f671a-63f5-4af1-a492-8cbff5797b8a@151.101.130.228:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=Falcunargo.net&type=ws&sni=zmaoz.faculty.ucdavis.edu#MCI-%40V2ray_Alpha-12
