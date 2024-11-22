@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://de44b044-8f90-4e18-b742-16591667ff96@20.57.85.61:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | edgetunnel-free.pages.dev-443 | 2.46ms
+vless://de44b044-8f90-4e18-b742-16591667ff96@4.152.146.92:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | edgetunnel-free.pages.dev-443 | 3.01ms
 vless://de44b044-8f90-4e18-b742-16591667ff96@4.172.225.98:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | edgetunnel-free.pages.dev-8443 | 2.36ms
 vless://de44b044-8f90-4e18-b742-16591667ff96@20.77.106.83:8080?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | edgetunnel-free.pages.dev-8080 | 2.6ms
 vless://de44b044-8f90-4e18-b742-16591667ff96@20.151.60.161:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | edgetunnel-free.pages.dev-8443 | 2.48ms
@@ -601,5 +603,3 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
           New
         </a>
       </div>
-      <div class="navbar-end">
-        <a class="navbar-item" href="&#x2F;about">
