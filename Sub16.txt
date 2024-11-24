@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-ss://2e9a078486fc4e1b861f5dd6430cfdceOg==@zula.ir:443#RELAY%F0%9F%9A%A9+%7C+zula.ir-443+%7C+5.99ms
-ss://20fda4331864433bb3dd8f119fe4cafdOg==@91.227.18.81:2053#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+91.227.18.81-2053+%7C+129.65ms
-ss://1113a576d328447a99a76fe72aac9596Og==@172.67.210.173:443#RELAY%F0%9F%9A%A9+%7C+172.67.210.173-443+%7C+5.51ms
-ss://09a0390fe417437ea5e35b11d6dca3fbOg==@151.101.3.8:80#US%F0%9F%87%BA%F0%9F%87%B8+%7C+151.101.3.8-80+%7C+5.2ms
-ss://0399af93ed7e4717ba12aa1f4e45a5c6@104.20.195.223:2087#RELAY%F0%9F%9A%A9+%7C+104.20.195.223-2087+%7C+5.47ms
-ss://01842c9cd03c4765a9505da4b096ee74Og==@104.17.214.22:443#RELAY%F0%9F%9A%A9+%7C+104.17.214.22-443+%7C+5.46ms
-
-vless://988bbd3d-2822-47ab-ad1e-d2b4109fe30a@104.21.70.25:2095?security=&type=ws&path=/?ed%3D2048&host=de3.vlessx.xyz&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://656abef6-704a-44c1-ba87-afab36fdf042@104.21.69.44:2082?security=&type=ws&path=/?ed%3D2048&host=de4.vlessx.xyz&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 ss://2022-blake3-aes-256-gcm:pRCipSixOSlsNAigMmwfYttz5VmVznoCYX4Pw1G4LxM%3D%3Aovtz25KfnF29DC8nL8tMIpBaQuGoUupwCRQIZUHECks%3D@195.201.32.108:8083#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vless://a710ad1b-4986-4ba7-becf-e7c8c6a50eca@116.203.121.238:1234?security=&type=tcp&path=/&headerType=http&host=discord.com&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.163.53:989#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
@@ -603,3 +594,12 @@ trojan://3628ca8d-6371-45df-879c-2d3e5d110b51@24.199.70.112:443?security=tls&all
 vless://3c1395ac-0f01-45ff-b7be-fd3021914577@128.140.123.35:2087?security=reality&sni=greenpepper.ir&fp=firefox&pbk=nw5p42lKknkOxt2REHCHPwThSaNIqbwGrz5WNCfh9U4&sid=df91&type=grpc&serviceName=@CatVpns&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://2a85cc50-5f55-11ee-b3ab-1239d0255272@104.21.41.21:443?security=tls&sni=de1.test3.net&type=ws&path=/howdy&host=de1.test3.net#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://72d8e820-7926-4ce3-a87c-b6969f425c79@103.235.46.40:443?security=tls&sni=www.baidu.com&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+vmess://eyJhZGQiOiIxMDQuMzEuMTYuMjgiLCJhaWQiOiIwIiwiaG9zdCI6ImNhNC50ZWhtZTIuZnVuIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsInBvcnQiOiI4MCIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://74ea5905-0f26-4261-986c-0717ed34815d@95.217.163.167:12344?security=tls&sni=dl.magnataur.uk&allowInsecure=1&type=grpc&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@hk04.trojanyyds.xyz:443?security=tls&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+vless://8f07dc3b-8a0f-430f-a0fc-25e07760502c@172.67.132.41:2095?security=&type=ws&path=/?ed%3D2048&host=nl54.vlessx.us&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2375#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://97fdf760-7bbf-11eb-8e14-1239d0255272@103.253.24.216:443?security=tls&sni=sg3-trojan.bonds.id&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://your_password@104.21.7.241:443?security=tls&sni=aws-sg-1.f1cflineb.com&fp=chrome&type=ws&path=/f1rocket&host=aws-sg-1.f1cflineb.com#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+vmess://eyJhZGQiOiI4OS4yMjEuMjI0LjkyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjNmOTQ2MWFjLTUxZGMtNDExNC05ODhmLWY2NWY3MjYwZWRmNyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiJpczIueHYycmF5Lm5ldCIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIxMDQuMjcuMzUuMjMyIiwiYWlkIjoiMCIsImhvc3QiOiJzYW5kLmJsYW5rdS5tZSIsImlkIjoiYzhhYmY2NmEtMTkwMy00NjM4LWE0NDgtOWM4NjczM2U0MjU0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzczEzNDgwIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiJzYW5kLmJsYW5rdS5tZSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
