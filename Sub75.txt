@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://36606545-bc8b-4152-a751-3f0957318bd9@103.224.182.208:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Diego%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
-trojan://c68e3c20-da73-4791-b4d8-7011a98ba06b@103.224.182.208:443?security=tls&sni=kbawssg2.aiopen.cfd&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Diego%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
-trojan://f10d81d8-ad4b-300a-825b-f54f515bd06e@103.224.182.251:443?security=tls&sni=jp1.jjzgy.live&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Diego%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
-trojan://5796cb9c-217e-4ed4-9ae1-de8155645aae@103.224.182.208:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Diego%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
-trojan://f0366e33-84c9-4a20-ad40-4f1e2c230c36@103.224.182.208:443?security=tls&sni=pqawssg2.aiopen.cfd&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Diego%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
-trojan://f10d81d8-ad4b-300a-825b-f54f515bd06e@103.224.182.251:443?security=tls&sni=sg2.jjzgy.live&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Diego%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
 trojan://3401bec0-65e4-11ef-ac91-1239d0255272@104.17.147.22:443?security=tls&sni=usa.test3.net&allowInsecure=1&fp=chrome&type=ws&path=/howdy&host=usa.test3.net#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://aba9389e-21b7-45f5-a82d-0c2b8b989bb4@103.224.212.211:443?security=tls&sni=jp-csjc.85413.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@107.148.37.70:8388#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
@@ -603,3 +597,9 @@ proxy-groups:
       - feng1_1
       - feng2_1
       - feng3_1
+      - feng4_1
+      - feng5_1
+      - feng6_1
+      - 901.dbodanwi.workers.dev_2
+      - 302.j4tccyw7.workers.dev_2
+      - 201.58vtg99l.workers.dev_2
