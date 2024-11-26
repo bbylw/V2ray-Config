@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkpQXzEzOC4yLjIzLjE3NF8wMTMwMjAyM2U4OGItMTIzN3ZtZXNzIiwNCiAgImFkZCI6ICIxMzguMi4yMy4xNzQiLA0KICAicG9ydCI6ICI1NDgwNSIsDQogICJpZCI6ICI0YmU4MjE3MC05MTIzLTQ1OGMtYmExYi1iYmFiNGJhZTA5ZDMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImF1dG8iLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
-trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trxjp.ballistics.top:443?security=tls&sni=trxjp.ballistics.top&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%2B107
-trojan://Sp3eDVp@content-provider24.cdn-delivery.akamaicd.com:443?security=tls&sni=content-provider24.cdn-delivery.akamaicd.com&type=tcp&headerType=none#1.35%7CNLwmt1121133
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4X1VTX+e+juWbvV8xXzNAMCIsDQogICJhZGQiOiAiMjA5LjIwOS4xMTIuMjciLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYzhiZWM4OTktNTQzNS00ZjU5LWE0MDYtOTgzNzA5MGVmZWNiIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogImF1dG8iLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiamhydXMwMS5pZjY4LmNvbSIsDQogICJhbHBuIjogIiINCn0=
 trojan://211f5876-8c89-4d97-9004-ff16acddd506@51.38.71.175:80?security=tls&sni=uk1.trojanvh.xyz&type=tcp&headerType=none#%E8%8B%B1%E5%9B%BD%2B009
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBobzNpbm8wMPCfh6nwn4eqIiwNCiAgImFkZCI6ICIxNTkuODkuOTkuNTQiLA0KICAicG9ydCI6ICIxNTgxMyIsDQogICJpZCI6ICI5NDE0M2QwZi1iODZkLTQ2NmMtYWFjNS01ZGY2YWI5MWRlMGEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
@@ -603,3 +600,6 @@ vless://a6292090-afe1-4640-97a7-4f1d1d877cf1@172.67.203.84:443?encryption=none&s
 vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@172.67.214.246:2053?encryption=none&security=tls&sni=FREEDOM31.Pages.DEV&fp=chrome&allowInsecure=1&type=ws&host=FREEDOM31.Pages.DEV&path=%2F#qol_0679
 vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@172.67.214.246:8443?encryption=none&security=tls&sni=FREEDOM31.Pages.DEV&fp=chrome&allowInsecure=1&type=ws&host=FREEDOM31.Pages.DEV&path=%2F#qol_0683
 vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@172.67.66.177:8443?encryption=none&security=tls&sni=FREEDOM31.Pages.DEV&fp=chrome&allowInsecure=1&type=ws&host=FREEDOM31.Pages.DEV&path=%2F#qol_0698
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2096?encryption=none&security=tls&sni=hagh.pages.dev&fp=chrome&allowInsecure=1&type=ws&host=hagh.pages.dev&path=%2FTelegram%3A%40SINABIGO-Telegram%3A%40SINABIGO-Telegram%3A%40SINABIGO#qol_0715
+vless://0de65b37-d62f-11ee-aaa8-00505603e70d@172.67.73.241:443?encryption=none&security=tls&sni=st-gb-1.brocdn.com&fp=chrome&allowInsecure=1&type=ws&host=st-gb-1.brocdn.com&path=%2Fwebsocket#qol_0718
+vless://d77906a1-59fd-4222-ba9e-3de834bb33e2@188.114.96.0:443?encryption=none&security=tls&sni=vpn442telegram.wucwej.workers.Dev&fp=chrome&allowInsecure=1&type=ws&host=vpn442telegram.wucwej.workers.Dev&path=%2F%3Fed%3D2048#qol_0740
