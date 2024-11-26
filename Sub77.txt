@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://f8275dfe-4fd7-46b2-8d6c-de1891afb443@188.245.193.117:1616?encryption=none&flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642&type=tcp&headerType=none#%5B%F0%9F%8F%81%5Dt.me%2FConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#%5B%F0%9F%8F%81%5Dt.me%2FConfigsHub
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#telegram%2B%40proxy_mtm%2B%F0%9F%87%BA%F0%9F%87%B82
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REM0OVx1RDgzQ1x1REQ5NCBAdjJyYXlfY29uZmlnc19wb29sIiwNCiAgImFkZCI6ICJqYWhma2poYS5jZmQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiOTUwZGI2YWEtNDkyNi00NjE2LTgxNmUtZWMwMzEyZGNiODdiIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJqYWhma2poYS5jZmQiLA0KICAicGF0aCI6ICIvbGlua3dzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
@@ -602,4 +603,3 @@ proxy-groups:
       - feng5_2
       - feng6_2
       - 901.dbodanwi.workers.dev_3
-      - 302.j4tccyw7.workers.dev_3
