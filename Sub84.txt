@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - IP-CIDR,203.90.238.0/24,🎯 全球直连,no-resolve
-  - IP-CIDR,43.254.0.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,45.249.212.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,49.4.0.0/17,🎯 全球直连,no-resolve
-  - IP-CIDR,78.101.192.0/19,🎯 全球直连,no-resolve
   - IP-CIDR,78.101.224.0/20,🎯 全球直连,no-resolve
   - IP-CIDR,81.52.161.0/24,🎯 全球直连,no-resolve
   - IP-CIDR,85.97.220.0/22,🎯 全球直连,no-resolve
@@ -603,3 +598,8 @@ ss://0f0b39e3-7acd-4379-8462-f1af6a07b2c8@49.12.232.18:47035?security=none&amp;t
 ss://f8275dfe-4fd7-46b2-8d6c-de1891afb443@188.245.224.248:4444?security=none&amp;encryption=none&amp;host=w3.com&amp;headerType=http&amp;type=tcp#Free+ID%28%40proxy_kafee%29+1800
 ss://af02bcda-806b-4bdb-d0bd-83af1301dbed@mci-iTV2RAY.ddns.net:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@iTV2RAY&amp;sni=tm.iTV2RAY.fun#%40iTV2RAY+%2F+MCI
 ss://9e8aad0e-5ba2-4005-b5fb-03521dc00345@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v09.TzZLiMitTNeW.NeT#telegram
+ss://fffffff2-fff2-fff2-fff2-fffffffffff2@WwW.gOv.Se:8443?type=httpupgrade&amp;path=%2F%40Watashi_VPN%3Fed%3D2560&amp;host=free-portal.watashi-java.ir&amp;security=tls&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;sni=free-portal.watashi-java.ir#Watashi-VPN%20Free-watashi-group
+ss://telegram-%41rV2ray@172.67.139.111:8880?path=%2Ftelegram-%41rV2ry%2Ctelegram-%41rV2ry%2Ctelegram-%41rV2ry%2Ctelegram-%41rV2ry%2Ctelegram-%41rV2ry%2Ctelegram-%41rV2ry%2Ctelegram-%41rV2ry%2Ctelegram-%41rV2ry%2Ctelegram-%41rV2ry%2Ctelegram-%41rV2ry%2Ctelegram-%41rV2ry&amp;security=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&amp;encryption=none&amp;host=2.www.speedtest.net.M.dnschecker.tecH.&amp;type=ws#%40mehrosaboran
+ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.192:8080#configkade%F0%9F%91%89%40proxystore11
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.33.127:443?security=tls&amp;sni=mefa.ir&amp;alpn=h2,http/1.1&amp;allowInsecure=1&amp;fp=randomized&amp;type=ws&amp;path=/H?ed%3D2560&amp;host=mefa.ir&amp;encryption=none#Awlix_ir
+ss://c3d41415-59cb-40eb-b721-ffa87f95e454@web.bbv2ry.pics:443?type=ws&amp;path=%2F&amp;host=Skyy.bbv2ry.pics&amp;security=tls&amp;fp=chrome&amp;alpn=http%2F1.1%2Ch2&amp;sni=Skyy.bbv2ry.pics#sky%40%40vpnskyy%20%40vpnskyy%20%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
