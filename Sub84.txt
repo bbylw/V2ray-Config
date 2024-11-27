@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - IP-CIDR,180.76.0.0/24,🎯 全球直连,no-resolve
-  - IP-CIDR,180.76.0.0/16,🎯 全球直连,no-resolve
-  - IP-CIDR,182.61.0.0/16,🎯 全球直连,no-resolve
-  - IP-CIDR,185.10.104.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,202.46.48.0/20,🎯 全球直连,no-resolve
   - IP-CIDR,203.90.238.0/24,🎯 全球直连,no-resolve
   - IP-CIDR,43.254.0.0/22,🎯 全球直连,no-resolve
   - IP-CIDR,45.249.212.0/22,🎯 全球直连,no-resolve
@@ -603,3 +598,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.146.51:443?path=%2Fmmac8pItU74FCW7s%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=Ppal03.dIxie-LEDNEr-SR.wOrkeRs.dev&amp;fp=randomized&amp;type=ws&amp;sni=pPAL03.DIxie-ledNEr-SR.WORKERS.DeV#%40VmessProtocol+%F0%9F%9B%B8
 ss://edeca314-5a2c-5936-a14e-f9b103103883@172.67.171.65:443?path=%2Fvless&amp;security=tls&amp;encryption=none&amp;host=fr2.vless.site&amp;type=ws&amp;sni=fr2.vless.site#%40hopev2ray%E2%99%A5%EF%B8%8F
 ss://b75b3034-36ab-4979-beae-3d02db1b11ec@172.64.80.150:443?path=Path%2FTelegram%40proxy_mtm%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=always-online1.lp-airdrop.top&amp;type=ws&amp;sni=always-online1.lp-airdrop.top#@MrV2Ray
+ss://358b49db-a0ef-4b1e-ac80-77673dcadafb@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinshhproxybedeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%85%D8%A7+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A+V2rayng_Fast%40
+ss://0f0b39e3-7acd-4379-8462-f1af6a07b2c8@49.12.232.18:47035?security=none&amp;type=ws&amp;host=divarcdn.com&amp;path=%2F%40proprojec%3Fed%3D2056#@Hope_Net-join-us-on-Telegram
+ss://f8275dfe-4fd7-46b2-8d6c-de1891afb443@188.245.224.248:4444?security=none&amp;encryption=none&amp;host=w3.com&amp;headerType=http&amp;type=tcp#Free+ID%28%40proxy_kafee%29+1800
+ss://af02bcda-806b-4bdb-d0bd-83af1301dbed@mci-iTV2RAY.ddns.net:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@iTV2RAY&amp;sni=tm.iTV2RAY.fun#%40iTV2RAY+%2F+MCI
+ss://9e8aad0e-5ba2-4005-b5fb-03521dc00345@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v09.TzZLiMitTNeW.NeT#telegram
