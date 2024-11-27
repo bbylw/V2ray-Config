@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - IP-CIDR,162.14.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,162.62.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,170.106.130.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,182.254.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,188.131.128.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,203.195.128.0/17,🎯 全球直连,no-resolve
   - IP-CIDR,203.205.128.0/17,🎯 全球直连,no-resolve
   - IP-CIDR,210.4.138.0/24,🎯 全球直连,no-resolve
   - IP-CIDR,211.152.128.0/23,🎯 全球直连,no-resolve
@@ -597,9 +603,3 @@ ss://a8629b56-ea3f-41d9-8e42-e8ad84baaef6@all.vipxali.cfd:2083?mode=gun&amp;secu
 ss://cbc50781-cfa5-4747-91a4-bc8f3f9de1fd@webshecan.webredirect.org:2083?type=tcp&amp;security=reality&amp;fp=chrome&amp;pbk=TTyvgA7WXFTrzGfnc3n2thNNEcWc_GWReVsvs5Gd9D4&amp;sni=www.theverge.com&amp;flow=xtls-rprx-vision&amp;sid=7f321171&amp;spx=%2F#%40Webshecan-test
 ss://45b0c639-b364-4d00-a49f-ccdfac51fe5e@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v10.TzZLiMitTNeW.NeT#telegram
 ss://26306138-5a05-4921-9d12-9ca19e2c6ed7@www.parsvds.ir:8080?type=ws&amp;path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy&amp;host=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net&amp;security=none#Ws%20-%20%40Vpnmasi-wgoisys8
-ss://fedc279b-ccb3-4205-bb47-31ac79ae4e7a@162.159.138.232:443?security=tls&amp;sni=jenaei.movieland.top&amp;type=grpc&amp;serviceName=static43498&amp;encryption=none#Suren%20TM
-ss://9e8aad0e-5ba2-4005-b5fb-03521dc00345@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.TzZLiMitTNeW.NeT#telegram
-ss://5fecde22-247a-462d-aab0-ce945f5616dc@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitTNeW.CoM#telegram
-ss://9978631f-d2c2-46c1-b0ff-b0bc492caf39@www.speedtest.net:443?type=splithttp&amp;host=chde.black-melo.store&amp;path=/melo?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2096&amp;security=tls&amp;fp=chrome&amp;sni=chde.black-melo.store&amp;alpn=h3#[
-ss://552b5df7-252d-4ecb-818d-8e079a1ce2ad@104.26.13.54:443?path=%2FTelegram-XV2ray&amp;security=tls&amp;encryption=none&amp;host=x123456789000ytgertyioplkjhgfszxcvmagrehfcgryaegcfsetetrcih.xn--6bi8548mabeaana921b9b830dbbb0nn92a.xn--6bi8548mabeaana921b9b830dbbb0nn92a.x132456789000qwertyuioplkjhgfszxcvbnmagrehfcgryaegcfsetetrcih.speedtest.netafwe4654hr4f54h98rthr.wts.ip-dynamic.org&amp;type=ws&amp;sni=x123456789000ytgertyioplkjhgfszxcvmagrehfcgryaegcfsetetrcih.xn--6bi8548mabeaana921b9b830dbbb0nn92a.xn--6bi8548mabeaana921b9b830dbbb0nn92a.x132456789000qwertyuioplkjhgfszxcvbnmagrehfcgryaegcfsetetrcih.speedtest.netafwe4654hr4f54h98rthr.wts.ip-dynamic.org#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%8D%A6%40Outline_ir
-ss://telegram-id-ArV2ray@www.speedtest.net:2095?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.debian.org.dnschecker.tech&amp;type=ws#WS6-Irancell-@ArV2ray
