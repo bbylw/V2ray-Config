@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REM0OVx1RDgzQ1x1REQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVEODNEXHVEQ0UxXHVEODNDXHVEREU4XHVEODNDXHVEREU2Q2FuYWRhIiwNCiAgImFkZCI6ICIxODguMTE0Ljk2LjMiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJnbHdlaWRmLmNmZCIsDQogICJwYXRoIjogIi9saW5rd3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiZ2x3ZWlkZi5jZmQiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-vless://6803d696-9541-4bab-8c90-e7f634513ec4@188.245.118.6:5643?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=2I22pKooT9m0Zm8Y9ZZnQPWAwZV6kZ5EmrNKwaoOz2I&sid=68e1d9a8a75a3fea&type=grpc&authority=&serviceName=mgrpcm&mode=gun#%5B%F0%9F%8F%81%5Dt.me%2FConfigsHub
-vless://4e6a2a22-f226-4ade-80fe-4c076b53b1d3@www.parsvds.ir:8080?encryption=none&security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy#%5B%F0%9F%8F%81%5Dt.me%2FConfigsHub
-vless://c110db8f-72c8-52a2-8ae9-dfbfd9704035@104.21.4.33:443?encryption=none&security=tls&sni=joinmahdiserver.pmyzdpx.wOrkErS.DEV&type=ws&host=joinmahdiserver.pmyzdpx.wOrkErS.DEV&path=%2Fvless-ws%2F%3Fed%3D2048#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=%2F6b777a91#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
 vless://f5a5b033-d600-11ee-aaa8-00505603e70d@172.67.73.241:443?encryption=none&security=tls&sni=st-gb-1.brocdn.com&type=ws&host=st-gb-1.brocdn.com&path=%2Fwebsocket#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
 vless://b2e07c41-c240-5bf3-b904-dc40852c780e@speedtest.net:80?encryption=none&security=none&type=ws&host=JoinBede-ELiV2ray.ai&path=%2F#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8United%20States
 vless://5d175779-9e00-4e13-a622-45e686a0cea0@hajlab.ucdavis.edu:443?encryption=none&security=tls&sni=hajlab.ucdavis.edu&fp=firefox&type=ws&host=Join_Evay_vpn.ir&path=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8United%20States
@@ -603,3 +598,8 @@ proxy-groups:
     proxies:
       - DIRECT
       - 🚀 节点选择
+      - ♻️ 自动选择
+  - name: 🛑 全球拦截
+    type: select
+    proxies:
+      - REJECT
