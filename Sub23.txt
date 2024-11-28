@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://2df56fd0-d1b7-4793-b877-acd356d960f7@172.67.204.84:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D8080&security=tls&encryption=none&host=download-93w.pages.dev&type=ws&sni=pages.dev#All-%40V2ray_Alpha-16
+trojan://0792bb58-36ac-451e-a629-e363e53da93b@172.67.180.67:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=kafka.eula.cloudns.org&fp=random&type=ws&sni=kafka.eula.cloudns.org#All-%40V2ray_Alpha-17
+trojan://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=cfpage-39t.pages.dev&fp=chrome&type=ws&sni=cfpage-39t.pages.dev#All-%40V2ray_Alpha-18♾نامحدود
+trojan://auto@104.16.224.104:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#IR-%40V2ray_Alpha-4
+trojan://e4f694e3-8299-4942-bbeb-227d41435edf@86.106.20.145:18730?path=%2F&security=none&encryption=none&host=Speedtest.net&type=ws#IR-%40V2ray_Alpha-5
 trojan://201049a5-69b2-4444-9c75-dcf674b7e8bd@136.244.76.124:8787?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#IR-%40V2ray_Alpha-6
 trojan://49699004-a1ba-4621-9744-3d41e98040a9@92.118.190.131:80?path=%2Ftf3gqdlcz4d9ATYNtIiFQxNPNVWGh&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#IR-%40V2ray_Alpha-7
 trojan://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@WwW.SpEEdTesT.NeT:80?path=%2F&security=none&encryption=none&host=4h1.diginoshops10.ir&type=httpupgrade#IR-%40V2ray_Alpha-8
@@ -598,8 +603,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5
 ssr://anAtYW00OC02LmVxbm9kZS5uZXQ6ODA4MTpvcmlnaW46YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOlpVRnZhMkpoUkU0Mi8/b2Jmc3BhcmFtPSZyZW1hcmtzPThKJTJCSHIlMkZDZmg3VktVQzAxTkM0NU5TNHhPVGN1TVRnNExURTNOZyUzRCUzRCZwcm90b3BhcmFtPQ==
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.195-179
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.198-198
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.196-194
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.80-186
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-197
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.193-185
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.194-192
