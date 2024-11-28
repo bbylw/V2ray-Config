@@ -3,32 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-   <body>
-      <div id="cf-wrapper">
-         <div
-            id="cookie-alert"
-            class="cf-alert cf-alert-error cf-cookie-error"
-            data-translate="enable_cookies"
-         >
-            Please enable cookies.
-         </div>
-         <div id="cf-error-details" class="cf-error-details-wrapper">
-            <div class="cf-wrapper cf-header cf-error-overview">
-               <h1>
-               <span class="cf-error-type" data-translate="please check back later"
-                  >Please check back later</span
-               >
-               </h1>
-               <h2 class="cf-subheadline">Error 1027</h2>
-            </div>
-
-            <div class="cf-section cf-wrapper">
-               <p>
-               <span style="width:16px; display:inline-block; vertical-align:text-top">
-                  <svg
-                     fill="#b03340"
-                     xmlns="http://www.w3.org/2000/svg"
-                     viewBox="0 0 16 16"
                   >
                      <path
                      d="M15.672,14.2,8.3,1.443a.352.352,0,0,0-.609,0L.328,14.2a.352.352,0,0,0,.3.527H15.368A.352.352,0,0,0,15.672,14.2ZM8.743,12.9a.221.221,0,0,1-.221.221H7.478a.221.221,0,0,1-.221-.221V11.86a.221.221,0,0,1,.221-.221H8.522a.221.221,0,0,1,.221.221Zm-.025-2.422H7.282L7.257,6.005H8.743Z"
@@ -62,14 +36,14 @@
 
             <div class="cf-error-footer cf-wrapper">
     <p>
-      <span class="cf-footer-item">Cloudflare Ray ID: 8e999ea6ee6207d0</span>
+      <span class="cf-footer-item">Cloudflare Ray ID: 8e99f14cdba93ae7</span>
       <span class="cf-footer-separator">&bull;</span>
-      <span class="cf-footer-item">2024-11-28 10:19:27 UTC</span>
+      <span class="cf-footer-item">2024-11-28 11:15:52 UTC</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden">
         <span class="cf-footer-separator">&bull;</span>
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">20.109.60.253</span>
+        <span class="hidden" id="cf-footer-ip">20.57.14.24</span>
       </span>
       <span class="cf-footer-separator">&bull;</span>
       <span class="cf-footer-item"><span>Runs on </span><a rel="noopener noreferrer" href="https://workers.cloudflare.com?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare Workers</a></span>
@@ -524,7 +498,7 @@ vless://ce3cd1c7-cf29-4164-f0c5-cb0525b3e692@datalabs.ae:2083?encryption=none&se
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e999ea8c35a2d05</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e99f14ee560390b</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
@@ -603,3 +577,29 @@ vless://ce3cd1c7-cf29-4164-f0c5-cb0525b3e692@datalabs.ae:2083?encryption=none&se
       "protocol": "vless",
       "settings": {
         "vnext": [
+          {
+            "address": "nodejs.org",
+            "port": 2053,
+            "users": [
+              {
+                "id": "a2a2f587-7b4b-4186-ac59-8422f75afad4",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none",
+                "flow": ""
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "fRaG1.MaHSAamiNI.cc",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
