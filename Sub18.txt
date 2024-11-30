@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://blue2024@icook.tw:443?security=tls&sni=tb.promote.icu#%F0%9F%8F%81RELAY-104.22.36.243-050
+trojan://blue2024@otto.ns.cloudflare.com:443?security=tls&sni=tb.promote.icu#%F0%9F%8F%81RELAY-172.64.35.135-049
 vmess://ewogICAgImFkZCI6ICJobXMxOS5iZXN0LXRpemkudG9wIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiaG1zMTkuYmVzdC10aXppLnRvcCIsCiAgICAiaWQiOiAiNjJhYTVmODAtMDMyOC00MDA0LWEzNzUtN2Y1YTU5ZGY0MDIyIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4es8J+Hp0dCLTE3Mi4yMzYuMTQuMTk2LTE4NyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImhtczE5LmJlc3QtdGl6aS50b3AiCn0=
 trojan://blue2024@162.159.135.98:443?security=tls&sni=hb.lii2010.us.kg#%F0%9F%8F%81RELAY-162.159.135.98-048
 trojan://blue2024@ipv4.ip.sb:443?security=tls&sni=tb.promote.icu#%F0%9F%8F%81RELAY-104.26.13.31-047
@@ -601,5 +603,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@168.138.179.107:36322?encryption=no
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@129.146.46.164:443?encryption=none&security=tls&sni=vz.ylkszy.eu.org&type=ws&host=vz.ylkszy.eu.org&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io#%E7%BE%8E%E5%9B%BD_%E5%87%A4%E5%87%B0%E5%9F%8E
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.77:443?encryption=none&security=tls&sni=hz.ylks.xyz&type=ws&host=hz.ylks.xyz&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io#%E7%BE%8E%E5%9B%BD_King%20of%20Prussia
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@cnv6.xxxxxxxx.tk:443?encryption=none&security=tls&sni=hz.ylks.xyz&type=ws&host=hz.ylks.xyz&path=%2Fblue#%E5%8A%A0%E6%8B%BF%E5%A4%A7_%E5%A4%9A%E4%BC%A6%E5%A4%9A
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.0.54.75:443?encryption=none&security=tls&sni=zz.linghang.buzz&type=ws&host=zz.linghang.buzz&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io#%E7%BE%8E%E5%9B%BD_%E5%A5%A7%E6%96%AF%E6%B1%80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@154.92.9.30:8443?encryption=none&security=tls&sni=hz.ylks.xyz&type=ws&host=hz.ylks.xyz&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#%E6%97%A5%E6%9C%AC_%E4%B8%9C%E4%BA%AC
