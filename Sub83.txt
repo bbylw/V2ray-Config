@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:8888#t.me%2Fpeterjest
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.180:5000#t.me%2Fpeterjest
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178:58176#t.me%2Fpeterjest
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.203:8882#t.me%2Fpeterjest
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZnd1Zk9tSjlFTGZONHVtemNIQmZW@194.87.82.28:12224#t.me%2Fpeterjest
-trojan://dns68@66.179.48.88:443?security=tls&sni=trojan.putata.us.kg&alpn=http%2F1.1&type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.101:8008#t.me%2Fpeterjest
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.95.203:6679#t.me%2Fpeterjest
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.203:5498#t.me%2Fpeterjest
-trojan://Julius@104.219.41.229:443?security=tls&sni=miami.juliusnet.com&type=tcp&headerType=none#t.me%2Fpeterjest
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.204.84:2053?encryption=none&security=tls&sni=ax78345V2ray.pages.dev&type=ws&host=78345.pages.dev&path=%2F%3Fed%3D2048#t.me%2Fpeterjest
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.223:443?encryption=none&security=tls&sni=lu.ylks.us.kg&type=ws&host=lu.ylks.us.kg&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@162.159.152.218:443?encryption=none&security=tls&sni=lu.ylks.us.kg&type=ws&host=lu.ylks.us.kg&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 trojan://dns68@199.68.156.68:443?security=tls&sni=trojan.putata.us.kg&alpn=http%2F1.1&type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
@@ -603,3 +592,14 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvSh5dWRvdTY2LmNvbSDnjonosYblhY3o
 trojan://NISHIKUITAN111@45.159.218.103:443?security=tls&type=ws&host=za.ylks.xyz&path=%2F#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 trojan://NISHIKUITAN111@194.36.55.28:443?security=tls&type=ws&host=za.ylks.xyz&path=%2F#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 trojan://NISHIKUITAN111@5.10.245.142:443?security=tls&type=ws&host=za.ylks.xyz&path=%2F#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+trojan://NISHIKUITAN111@216.205.52.233:443?security=tls&type=ws&host=za.ylks.xyz&path=%2F#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvSh5dWRvdTY2LmNvbSDnjonosYblhY3otLnoioLngrkpIiwNCiAgImFkZCI6ICJtYWxheXNpYS5jb20iLA0KICAicG9ydCI6ICIyMDk1IiwNCiAgImlkIjogIjE4ZDk2MTkwLWMxMGYtNDQ4Zi1hODJhLTJkMzZkZjVjM2NkZSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiaXAyLjYwMTY3MjUueHl6IiwNCiAgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiaXAyLjYwMTY3MjUueHl6IiwNCiAgImFscG4iOiAiIg0KfQ==
+vless://c97861ff-0b79-44df-9019-6f8b5dd796ee@185.119.240.34:4009?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+vless://b5cdabf0-e048-4fa2-90da-9379b1a4926e@172.64.35.129:80?encryption=none&security=none&type=ws&host=cc.ailicf.us.kg&path=%2Fb5cdabf0-e04#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+vless://c97861ff-0b79-44df-9019-6f8b5dd796ee@185.119.240.240:4009?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvSh5dWRvdTY2LmNvbSDnjonosYblhY3otLnoioLngrkpIiwNCiAgImFkZCI6ICJmYmkuZ292IiwNCiAgInBvcnQiOiAiMjA5NSIsDQogICJpZCI6ICIxOGQ5NjE5MC1jMTBmLTQ0OGYtYTgyYS0yZDM2ZGY1YzNjZGUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImlwMjAuNjAxNjcyNS54eXoiLA0KICAicGF0aCI6ICIvZ2l0aHViLmNvbS9BbHZpbjk5OTkiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiaXAyMC42MDE2NzI1Lnh5eiIsDQogICJhbHBuIjogIiINCn0=
+trojan://NISHIKUITAN111@94.242.230.245:443?security=tls&type=ws&host=za.ylks.xyz&path=%2F#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+trojan://NISHIKUITAN111@193.227.99.60:443?security=tls&type=ws&host=za.ylks.xyz&path=%2F#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvSh5dWRvdTY2LmNvbSDnjonosYblhY3otLnoioLngrkpIiwNCiAgImFkZCI6ICJqYXBhbi5jb20iLA0KICAicG9ydCI6ICIyMDgyIiwNCiAgImlkIjogIjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiaXAzLjY5MjkxOTgueHl6IiwNCiAgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
+trojan://NISHIKUITAN111@192.65.217.110:443?security=tls&type=ws&host=za.ylks.xyz&path=%2F#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+
