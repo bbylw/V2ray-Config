@@ -3,6 +3,24 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - IP-CIDR,41.222.240.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,41.223.119.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,43.242.168.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,45.112.212.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,47.52.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,47.56.0.0/15,🎯 全球直连,no-resolve
+  - IP-CIDR,47.74.0.0/15,🎯 全球直连,no-resolve
+  - IP-CIDR,47.76.0.0/14,🎯 全球直连,no-resolve
+  - IP-CIDR,47.80.0.0/12,🎯 全球直连,no-resolve
+  - IP-CIDR,47.235.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,47.236.0.0/14,🎯 全球直连,no-resolve
+  - IP-CIDR,47.240.0.0/14,🎯 全球直连,no-resolve
+  - IP-CIDR,47.244.0.0/15,🎯 全球直连,no-resolve
+  - IP-CIDR,47.246.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,47.250.0.0/15,🎯 全球直连,no-resolve
+  - IP-CIDR,47.252.0.0/15,🎯 全球直连,no-resolve
+  - IP-CIDR,47.254.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,59.82.0.0/20,🎯 全球直连,no-resolve
   - IP-CIDR,59.82.240.0/21,🎯 全球直连,no-resolve
   - IP-CIDR,59.82.248.0/22,🎯 全球直连,no-resolve
   - IP-CIDR,72.254.0.0/16,🎯 全球直连,no-resolve
@@ -585,21 +603,3 @@ ss://Parsashonam-113@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3
 ss://1aaf4535-9817-420a-bc34-1c9c2b3364a9@172.67.171.49:443?path=%2Fvless&amp;security=tls&amp;encryption=none&amp;host=ua1.v2vless.site&amp;type=ws&amp;sni=ua1.v2vless.site#%40hopev2ray%F0%9F%92%97
 ss://77836325-68d3-4b82-a195-524993ccf56b@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v15.TzZLiMitTNeWz.NeT#telegram
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.218.143:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#Telegram
-ss://1af8b2d6-213d-49ce-9bc9-ffbdc5830c35@104.18.8.209:2053?path=%2F%54E%4cE%47R%52M-M%41R%41M%42%41S%48I%2F%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&amp;host=EDGETunnel-AMl.pages.DEV&amp;fp=safari&amp;type=ws&amp;sni=EDGETunnel-AMl.pages.DEV#%40mehrosaboran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOdHpjYmxyUWJGUzFYZkpMTFlwdC1R@188.245.163.79:1723#@Hope_Net
-ss://8a06cca1-d3da-4f66-bd2f-75ff5ee24163@104.21.35.39:443?encryption=none&amp;security=tls&amp;sni=Ppal03.ally-Hirthe.wOrKERs.DEv&amp;alpn=h2%2Chttp%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=ppaL03.Ally-hIRthE.woRkErs.DeV&amp;path=%2F#%F0%9F%94%92%40V2RAYPROTOCOL%2BNA-104.21.35.39%3A443
-ss://Joini--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=mahex.com&amp;type=ws&amp;sni=zmaoz.faculty.ucdavis.edu#%40proxy_kafee+ALL+%7C++%28%D8%A8%DA%86%D9%87+%D8%B4%DB%8C%D8%B1%29
-ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@151.101.87.26:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=amir77.ir&amp;type=ws#%40V2RAY1_NG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%40V2ray1_Ng%20MTN%20RTL%20WIFI
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.33.127:443?security=tls&amp;sni=mefa.ir&amp;alpn=h2,http/1.1&amp;allowInsecure=1&amp;fp=randomized&amp;type=ws&amp;path=/H?ed%3D2560&amp;host=mefa.ir&amp;encryption=none#Awlix_ir
-ss://b5de6a20-6f5f-4505-8b30-0723518fc7ae@104.17.148.22:8880?security=none&amp;type=ws&amp;host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.#@Hope_Net-join-us-on-Telegram
-ss://16190e3c-6c1b-45c3-8be2-48ef92c211a2@151.101.2.216:80?path=/@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN?ed=2048%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Lockey-vip.ir&amp;type=ws#@LOCKEY_VPN
-ss://5976bf50-52f8-4dc4-a803-0f868b2a3789@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitTNeWz.NeT#telegram
-ss://5ab44197-b3dd-42d4-95da-61b5a9965b5e@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v16.TzZLiMitTNeWz.NeT#telegram
-ss://21ebeb34-11d7-4304-bd8d-180309f9cc74@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=barkatc1.ir&amp;type=ws&amp;sni=mio.splashthat.com#%40kingofilter
-ss://Joinin--ZEDMODEON@connectcarolina.sites.unc.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=mitrarank.ir&amp;type=ws&amp;sni=connectcarolina.sites.unc.edu#all+2%F0%9F%87%B3%F0%9F%87%B1+%28%40ZEDMODEON%29+62
-ss://c784ab83-75c4-4a07-a35c-529e3237f6ab@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v15.TzZLiMitTNeWz.NeT#telegram
-ss://c784ab83-75c4-4a07-a35c-529e3237f6ab@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v08.TzZLiMitTNeWz.NeT#[
-ss://f8275dfe-4fd7-46b2-8d6c-de1891afb443@1621.postsafir.ir:1621?flow=xtls-rprx-vision&amp;security=reality&amp;encryption=none&amp;type=tcp&amp;sid=3a622700e73c6642&amp;fp=chrome&amp;pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&amp;headerType=none#@vmesskhodam-@kingofilter
-ss://Join--ZEDMODEON@connectcarolina.sites.unc.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=mitrarank.ir&amp;type=ws&amp;sni=connectcarolina.sites.unc.edu#all+2%F0%9F%87%B3%F0%9F%87%B1+%28%40ZEDMODEON%29+62
-ss://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#%40Digiv2ray-1%F0%9F%87%A9%F0%9F%87%AA
