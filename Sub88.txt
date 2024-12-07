@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+        font-weight: 600;
+        margin-bottom: 8px;
+      }
+      .content p {
+        font-size: 16px;
+        font-weight: 400;
         margin: 0;
       }
       .body {
@@ -597,9 +603,3 @@ trojan://blue2024@172.67.78.96:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspat
 trojan://blue2024@172.67.68.101:443?sni=tb.promote.icu#@vpnclashfa - 76
 trojan://blue2024@172.64.84.113:443?allowInsecure=1&sni=ta.promote.icu#@vpnclashfa - 75
 trojan://blue2024@172.64.83.38:443?allowInsecure=1&sni=ta.promote.icu#@vpnclashfa - 74
-trojan://blue2024@172.64.35.207:443?type=ws&sni=tb.promote.icu&host=tb.promote.icu#@vpnclashfa - 73
-trojan://blue2024@172.64.35.202:443?sni=hb.lii2010.us.kg#@vpnclashfa - 72
-trojan://blue2024@172.64.35.161:443?sni=tb.promote.icu#@vpnclashfa - 71
-trojan://blue2024@172.64.235.138:443?sni=td.promote.icu#@vpnclashfa - 70
-trojan://blue2024@172.64.205.94:443?allowInsecure=1&sni=ta.promote.icu#@vpnclashfa - 69
-trojan://blue2024@162.159.9.72:443?allowInsecure=1&sni=ta.promote.icu#@vpnclashfa - 68
