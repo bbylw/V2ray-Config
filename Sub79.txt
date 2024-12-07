@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,2.letvlive.com,🍃 应用净化
+  - DOMAIN-SUFFIX,ark.letv.com,🍃 应用净化
+  - DOMAIN-SUFFIX,dc.letv.com,🍃 应用净化
+  - DOMAIN-SUFFIX,fz.letv.com,🍃 应用净化
   - DOMAIN-SUFFIX,g3.letv.com,🍃 应用净化
   - DOMAIN-SUFFIX,game.letvstore.com,🍃 应用净化
   - DOMAIN-SUFFIX,i0.letvimg.com,🍃 应用净化
@@ -599,7 +603,3 @@
   - DOMAIN,dai3fd1oh325y.cloudfront.net,🌍 国外媒体
   - DOMAIN,hboasia1-i.akamaihd.net,🌍 国外媒体
   - DOMAIN,hboasia2-i.akamaihd.net,🌍 国外媒体
-  - DOMAIN,hboasia3-i.akamaihd.net,🌍 国外媒体
-  - DOMAIN,hboasia4-i.akamaihd.net,🌍 国外媒体
-  - DOMAIN,hboasia5-i.akamaihd.net,🌍 国外媒体
-  - DOMAIN,hboasialive.akamaized.net,🌍 国外媒体
