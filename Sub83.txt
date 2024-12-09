@@ -3,6 +3,22 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,zhimg.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zhongsou.com,🎯 全球直连
+  - DOMAIN-SUFFIX,zhuihd.com,🎯 全球直连
+# 中国云服务商ip端
+# 阿里
+# 腾讯 qq
+# 百度 Baidu
+# 华为 huwei
+# 网易 NetEase
+# 360
+  - IP-CIDR,8.128.0.0/10,🎯 全球直连,no-resolve
+  - IP-CIDR,8.208.0.0/12,🎯 全球直连,no-resolve
+  - IP-CIDR,14.1.112.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,41.222.240.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,41.223.119.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,43.242.168.0/22,🎯 全球直连,no-resolve
   - IP-CIDR,45.112.212.0/22,🎯 全球直连,no-resolve
   - IP-CIDR,47.52.0.0/16,🎯 全球直连,no-resolve
   - IP-CIDR,47.56.0.0/15,🎯 全球直连,no-resolve
@@ -587,19 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRFEyT0dRMA==@95.164.37.226:8388#%40daredevill_404
 ss://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.7:443?path=%2Fyoulingkaishi&amp;security=tls&amp;encryption=none&amp;host=vbbb.ylks2024.us.kg&amp;type=ws&amp;sni=vbbb.ylks2024.us.kg#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 ss://6c5d0e44-3199-4243-8194-08956e9ce656@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v21.TzZLiMitTNeWz.NeT#telegram
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40v2rayng_vpnn
-ss://85b8a7d1-0964-4060-c3b5-213b65a8a423@footlo.argha-v2pedia.monster:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=muEtUEPnEMopCqdrhYWMzzwBsAfjZ_NV1m-AnO1byxk&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&amp;sni=tuyacn.com&amp;sid=da#%E2%9A%A1%40vpn_go67%E2%9A%A1%28Insta%3A+v2pediaa%29+69
-ss://6c5d0e44-3199-4243-8194-08956e9ce656@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.TzZLiMitTNeWz.NeT#telegram
-ss://5e1ccc49-5a88-46ad-88d9-ccff2bf0abd5@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v23.TzZLiMitTNeWz.NeT#telegram
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#configkade%F0%9F%91%89%40proxystore11
-ss://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.31:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;sni=a.xn--i-sx6a60i.us.kg#%40Vpn_Tehran+%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyeTB0SjAyWFdwNUFzZGVNQmdzWlh4@54.251.126.150:443#Singapore+AWS
-ss://7d4e9491-4eb4-42da-926c-2c7c201e99e2@UK.IPCLOUD.SHOP:443?path=%2Fnet%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=uk-cdn.pop-up-pool.xyz&amp;type=ws&amp;sni=uk-cdn.pop-up-pool.xyz#FreeForAll
-ss://e19814de-d38b-4436-9bdb-1fbb23e2876b@151.101.2.133:443?security=tls&amp;sni=live.wkrq.com&amp;type=ws&amp;host=epicnodegermany.com&amp;path=%2F%3Fed%3D2048&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
-ss://058fed96-2eac-4c94-900d-122531de0d2b@all.vipxali.cfd:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1,h2&amp;fp=safari&amp;type=grpc&amp;serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray&amp;sni=fe.XsV2ray.sbs#%
-ss://672cc605-8f17-4bb1-917a-b82d3faf86d4@all.vipxali.cfd:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1,h2&amp;fp=safari&amp;type=grpc&amp;serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray&amp;sni=fe.XsV2ray.cfd#%40MTConfig
-ss://59433cc5-8c4b-4ca6-858d-cbf8eeede020@151.101.128.155:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Tehranc2.Org&amp;type=ws#%40V2RAY1_NG%20kingofilter
-ss://5e1ccc49-5a88-46ad-88d9-ccff2bf0abd5@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v25.TzZLiMitTNeWz.NeT#telegram
-ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWFjei0ueair+WtkGh0dHBzOi8vdC5tZS9tZnRpemkiLA0KICAiYWRkIjogIjE4My4yMzYuNTEuMjMiLA0KICAicG9ydCI6ICI1NjYwMSIsDQogICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLA0KICAiYWlkIjogIjY0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9<br/><br/>vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWFs+azqOeUteaKpWh0dHBzOi8vdC5tZS9tZnRpemkiLA0KICAiYWRkIjogIjE0My45Mi40Mi42NSIsDQogICJwb3J0IjogIjI5MDIiLA0KICAiaWQiOiAiNjQwYzEwNzctZDEwYi00MjI1LWE5ZmItZDNlOWMzY2U3YTAwIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJodHRwIiwNCiAgImhvc3QiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==<br/><br/>vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIumVv+acn+abtOaWsOiKgueCuUBtZnRpemkiLA0KICAiYWRkIjogIjQ1LjE1OS41MC4yNDUiLA0KICAicG9ydCI6ICIxNzc2MyIsDQogICJpZCI6ICJlNmQ3ZWQwMC04NGZhLTRjMDctYjEwNi0yOGM3NTdiMGU2ZDkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=<br/><br/>vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWFs+azqOmikemBk2h0dHBzOi8vdC5tZS9tZnRpemkiLA0KICAiYWRkIjogIjQ1Ljk0LjY4LjEzNSIsDQogICJwb3J0IjogIjQ3MzY5IiwNCiAgImlkIjogIjk5ZmQ0MjY5LWEzMmItNGI2Yi05OWUzLTgxZGVlNTkyNzFiMSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAiaHR0cCIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==<br/><br/>vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS4jeWumuacn+aKveWllmh0dHBzOi8vdC5tZS9tZnRpemkiLA0KICAiYWRkIjogIjQ1LjE0MS4xMzYuMTUxIiwNCiAgInBvcnQiOiAiMTMyNTgiLA0KICAiaWQiOiAiNmU1ZWNiNmQtZTc2My00ZDE2LWI5YzItZTdjYzY4MmEyNmRhIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJodHRwIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9<br/><br/>vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWFjei0ueair+WtkGh0dHBzOi8vdC5tZS9tZnRpemkiLA0KICAiYWRkIjogIjE4My4yMzYuNDguMTYzIiwNCiAgInBvcnQiOiAiNDAwMDIiLA0KICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwNCiAgImFpZCI6ICI2NCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==<br/><br/>trojan://b264982e-e333-4085-ac04-406afef23455@naiu-jp.05vr9nyqg5.download:13012?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;type=tcp&amp;headerType=none#%E5%85%B3%E6%B3%A8%E7%94%B5%E6%8A%A5https%3A%2F%2Ft.me%2Fmftizi
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.130.18:8443?path=%2FhKmxcETc75oYOT0c%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=v2.yunchun.top&amp;type=ws&amp;sni=V2.YUNcHUN.tOp#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
-ss://5e1ccc49-5a88-46ad-88d9-ccff2bf0abd5@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v22.TzZLiMitTNeWz.NeT#telegram
