@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+            .cf-error-description {
+               max-width: 600px;
+            }
+      </style>
+   </head>
+   <body>
+      <div id="cf-wrapper">
+         <div
+            id="cookie-alert"
+            class="cf-alert cf-alert-error cf-cookie-error"
             data-translate="enable_cookies"
          >
             Please enable cookies.
@@ -57,14 +67,14 @@
 
             <div class="cf-error-footer cf-wrapper">
     <p>
-      <span class="cf-footer-item">Cloudflare Ray ID: 8efe946e7bf0f604</span>
+      <span class="cf-footer-item">Cloudflare Ray ID: 8efee1890befc978</span>
       <span class="cf-footer-separator">&bull;</span>
-      <span class="cf-footer-item">2024-12-10 16:23:30 UTC</span>
+      <span class="cf-footer-item">2024-12-10 17:16:08 UTC</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden">
         <span class="cf-footer-separator">&bull;</span>
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">172.183.131.131</span>
+        <span class="hidden" id="cf-footer-ip">20.55.14.240</span>
       </span>
       <span class="cf-footer-separator">&bull;</span>
       <span class="cf-footer-item"><span>Runs on </span><a rel="noopener noreferrer" href="https://workers.cloudflare.com?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare Workers</a></span>
@@ -367,7 +377,7 @@ vless://ce3cd1c7-cf29-4164-f0c5-cb0525b3e692@datalabs.ae:2083?encryption=none&se
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8efe946fc67f218b</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8efee18a31f838a6</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
@@ -593,13 +603,3 @@ vless://ce3cd1c7-cf29-4164-f0c5-cb0525b3e692@datalabs.ae:2083?encryption=none&se
 
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:8bfe:9ee3:bc8e:8274:cf86/128"
-      ],
-      "private_key": "eCb5hevZFkPV/S8ppLuwVfiQuBTCPCUKih0hjwM7Rm8=",
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [19,45,7],
-
-      "mtu": 1280,
-      "fake_packets": "5-10"
-    },
-    {
