@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - IP-CIDR,139.95.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,140.205.1.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,140.205.122.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,147.139.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,149.129.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,155.102.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,161.117.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,163.181.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,170.33.0.0/16,🎯 全球直连,no-resolve
+  - IP-CIDR,198.11.128.0/18,🎯 全球直连,no-resolve
   - IP-CIDR,205.204.96.0/19,🎯 全球直连,no-resolve
   - IP-CIDR,19.28.0.0/23,🎯 全球直连,no-resolve
   - IP-CIDR,45.40.192.0/19,🎯 全球直连,no-resolve
@@ -593,13 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:
 ss://ab3cf247-1932-4b96-95c4-85cfe75dee1f@172.67.171.43:80?path=%2Fvless&amp;security=none&amp;encryption=none&amp;host=De2.v2vless.site.&amp;type=ws&amp;sni=de2.v2vless.site#%40hopev2ray%F0%9F%92%9A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#join+05+ID%28%40Outline_Vpn%29
 ss://TELEGRAM-ServerNett@[2a01:4f9:c010:a8b3::1]:8080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
-ss://022404e1-6083-48e1-beee-9048dda539bc@bwdraper.faculty.ucdavis.edu:443?path=%2F%3Fed%3D1024&amp;security=tls&amp;encryption=none&amp;host=api.callwarzoneiranshop.ir&amp;fp=firefox&amp;type=ws&amp;sni=bwdraper.faculty.ucdavis.edu#Free+ID%28%40Outline_Vpn%29+2006
-ss://5f8e8cb5-9958-4139-ad83-3ccc41ad71d4@190.93.245.137:443?security=tls&amp;sni=Ruc80.TehrANsiMAn.co.UK.&amp;type=ws&amp;host=Ruc80.TehrANsiMAn.co.UK.&amp;path=%2F%3Fed%3D2560&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
-ss://00e85943-119a-4112-af52-d44175192452@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc82.lebasnoo.ir.&amp;type=ws#%40SERVERNETT+MTN+1
-ss://7835948c-ac97-5c9b-ab20-ce5941ff96b5@speedtest.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=MOSI-MOSIV2.COM&amp;type=ws#%40Vpn_Tehran+%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-ss://Parsashonam-125@185.146.173.39:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#@Parsashonam
-ss://abfacaa4-70ea-4061-b362-263b5a4070a4@Www.speedtest.net:8080?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1.www.speedtest.net.Mact.iR.&amp;type=httpupgrade#HTTP1-Config
-ss://Parsashonam-123@185.146.173.39:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#%40IrV2rey%20ALL
-ss://Biain--Z%45%44MODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40Z%45%44MODEON-Z%45%44MODEON-Z%45%44MODEON-%40Z%45%44MODEON-Z%45%44MODEON-TEL-Z%45%44MODEON-Z%45%44MODEON-Z%45%44MODEON-%40Z%45%44MODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&amp;host=offch.com&amp;type=ws&amp;sni=zmaoz.faculty.ucdavis.edu#%40mehrosaboran
-ss://telegram-id-ArV2ray@185.146.173.37:80?path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1.v.v.V-_-_-V2ray-_-_-V.v.v.mv.speedtest.net.www.Zula.ir.check-host.net.mashtimJi.iR.&amp;type=ws#WS1-
-ss://ee797f86-e248-40be-b8fc-200b977f4bfb@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&amp;sni=footlo.argha-v2pedia.monster#%E2%9A%A1%40V2PEDIA%E2%9A%A1%28Insta%3A+v2pediaa%29+72
