@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://telegram-id-directvpn@15.157.206.83:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 123
-trojan://telegram-id-directvpn@15.157.206.83:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#@vpnclashfa - 122
-trojan://telegram-id-directvpn@13.39.213.178:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@vpnclashfa - 121
-trojan://ouo@210.61.97.241:81?sni=tr.koiok.us.kg&type=ws&host=tr.koiok.us.kg#@vpnclashfa - 120
-trojan://dns68@104.21.92.73:443?sni=trojan.putata.us.kg#@vpnclashfa - 119
-trojan://dba20dcb635e430fa4d3bfc303a149d2@190.93.246.247:443?security=tls&type=ws&sni=jobscareerforlawyers.com&path=/6b777a91#@vpnclashfa - 118
-trojan://ccbaaab-cbaa-caab-cbda-ababcbbcacca@127.0.0.1:8080?security=tls&type=tcp#@vpnclashfa - 117
-trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&type=ws&sni=jobscareertoday.com&path=/6b777a91&host=jobscareertoday.com#@vpnclashfa - 116
-trojan://caacbab-aabc-bcaa-adcb-aabaccbbccab@127.0.0.1:8080?security=tls&type=tcp#@vpnclashfa - 115
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@95.164.38.151:443?security=tls&type=tcp&sni=customer-95-164-38-151.stark-industries.solutions#@vpnclashfa - 114
 trojan://bpb-trojan@198.202.211.146:443?sni=bpb.my79801.com#@vpnclashfa - 113
 trojan://bpb-trojan@190.93.244.202:443?security=tls&type=ws&sni=fcspring.ggff.net&path=/tr?ed&host=fcspring.ggff.net#@vpnclashfa - 112
@@ -603,3 +594,12 @@ vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@h5.xn--gmq282ekfhyys3gs.com.:2060?t
 vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@de.tradex2080.com:80?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&ed=2048&eh=Sec-Websocket-Protocol#RU🇷🇺 | vkvd127.mycdn.me-80 | 245.88ms
 vless://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@hdfy4d1cpi.iraniancpi.uk:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.survive.org.uk&alpn=http%2F1.1&fp=chrome&security=reality&pbk=gZLTRrh9Z0TIvMoXHB7_ih3EN6Zn0IuLstFFZ0y7Ryc&sid=cc61d4#REALITY|NL🇳🇱 | hdfy4d1cpi.iraniancpi.uk-443 | 180.03ms
 vless://a034f973-9a9c-4dfa-897e-e10647ac7109@81.31.245.106:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=microsoft.com&fp=chrome&security=reality&pbk=5JA5Y0-T4zvUCJ018TbvhhZ0jkNPjuUFbdm2K2Rwiz4&sid=182f0114#REALITY|IR🇮🇷 | 81.31.245.106-443 | 82.05ms
+vless://config--BLUEV2RAYNG--chaneel15@89.208.107.133:80?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2FChaneel-BLUETOWVRAYNG%3Fed%3D2048&ed=2048&eh=Sec-Websocket-Protocol#RU🇷🇺 | vkvd127.mycdn.me-80 | 417.14ms
+vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:80?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2FL7rg6DtGQXTjd07ui73LZgwx8s&ed=2048&eh=Sec-Websocket-Protocol#RU🇷🇺 | vkvd127.mycdn.me-80 | 408.78ms
+vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=partner.g2.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#REALITY|NO🇳🇴 | 185.125.171.13-443 | 101.02ms
+vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:8443?type=grpc&encryption=none&serviceName=g2com&sni=partner.g2.com&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#REALITY|NO🇳🇴 | 185.125.171.13-8443 | 101.77ms
+vless://c845e5bd-49e7-4952-a69f-6c384799a9a1@speedtest.net:443?type=ws&encryption=none&host=parsvds.ir&path=%2FFreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop%3Fed%3D2096&ed=2096&eh=Sec-Websocket-Protocol&security=tls&sni=speedtest.net&alpn=http%2F1.1&fp=chrome#US🇺🇸 | speedtest.net-443 | 1.99ms
+vless://c845e5bd-49e7-4952-a69f-6c384799a9a1@154.205.148.148:80?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2FFreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop%3Fed%3D2096&ed=2096&eh=Sec-Websocket-Protocol#RU🇷🇺 | vkvd127.mycdn.me-80 | 577.46ms
+vless://bea4ddd0-a014-434e-9eb4-f9c8822bf19e@5.161.147.171:443?type=ws&encryption=none&host=usa.freesdns.info&path=%2F&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=usa.freesdns.info&alpn=http%2F1.1&fp=chrome#RELAY🚩 | usa.freesdns.info-443 | 331.67ms
+vless://941bea09-5f14-44d8-ced9-31a6dcb25dd0@5.161.223.122:80?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#RU🇷🇺 | vkvd127.mycdn.me-80 | 123.55ms
+trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?security=tls&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F#RELAY🚩 | late-tooth.granzinhannah.workers.dev-8880 | 47.65ms
