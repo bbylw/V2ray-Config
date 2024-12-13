@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://5957ca33-d8d9-4c2c-aadc-203270e33422@45.12.134.129:2053?security=reality&sni=apple.com&type=tcp&fp=chrome&pbk=jpS_UPS4HEJApIV1DRW6omCRG8d2XuJXjj2FW7iT-mg&sid=cc87#🔒 VL-TCP-RLT 🇨🇾 CY-45.12.134.129:2053
 vless://bec65414-c9dd-4521-bec1-6fa57b37022b@51.158.244.220:443?security=reality&flow=xtls-rprx-vision&sni=cloudflare.com&type=tcp&fp=random&pbk=HkNjRO_-9jg4DLRTmHXfM9dilmjwew6Iy6DxKnTzbCw&sid=42#🔒 VL-TCP-RLT 🇫🇷 FR-51.158.244.220:443
 vless://6314677e-e60e-4ba8-84bb-a165a29afacd@150.241.101.222:29742?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=random&pbk=fPtoPIDDJIW4pSY8TAFM0BKPA0ELOkX7ssc3i23SXlE&sid=75813316#🔒 VL-TCP-RLT 🇩🇪 DE-150.241.101.222:29742
 vless://8bdd6862-1fd8-3766-473c-07665151cdc0@176.9.163.39:443?security=reality&sni=refersion.com&type=grpc&fp=chrome&pbk=On5HKUZ_xTwxvQG1zT3XCK1Nt783dvOTOcCTD6kY_34&sid=2c1efea9240fd8a4#🔒 VL-GRPC-RLT 🇩🇪 DE-176.9.163.39:443
@@ -602,4 +603,3 @@ trojan://NISHIKUITAN111@77.75.199.86:443?sni=za.ylks.xyz&type=ws&host=za.ylks.xy
 trojan://blue2024@104.22.9.213:443?sni=ta.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.22.9.213:443
 trojan://NISHIKUITAN111@45.131.211.23:443?#🔒 TR-TCP-NA 🇳🇱 NL-45.131.211.23:443
 trojan://bpb-trojan@141.11.203.98:443?sni=bpb.my79801.com&allowInsecure=1#🔒 TR-TCP-NA 🇫🇷 FR-141.11.203.98:443
-trojan://blue2024@172.64.35.217:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.217:443
