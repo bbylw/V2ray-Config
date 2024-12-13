@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://bc827d67-f095-4c65-9327-33039decb888@123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&path=%2Fws5%2F8082#00-bit-clean
 vless://bc827d67-f095-4c65-9327-33039decb888@mci.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#01-bit-clean-mci
 vless://bc827d67-f095-4c65-9327-33039decb888@mtn.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#03-bit-clean-mtn
 vless://bc827d67-f095-4c65-9327-33039decb888@mtnc.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#04-bit-clean-mtnc
@@ -602,4 +603,3 @@ ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.152.56:7307#🔒 SS-TCP-NA 🇺
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.12:2375#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.12:2375
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.81:443
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.21:7002#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:7002
-ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@45.89.52.66:9041#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9041
