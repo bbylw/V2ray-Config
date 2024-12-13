@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-
-</body>
-</html>
-
-hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@37.187.197.252:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA1
-hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@45.155.76.159:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA2
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@45.155.76.171:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA3
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@45.155.76.197:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA4
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@54.38.225.44:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA5
@@ -52,7 +46,7 @@ hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@54.38.225.47:4380?obfs=salama
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8f1952112db9e5c1 &bull; 2024-12-13 22:16:47 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8f19ab11d8a778ec &bull; 2024-12-13 23:17:33 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -77,12 +71,12 @@ hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@54.38.225.47:4380?obfs=salama
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8f1952112db9e5c1</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8f19ab11d8a778ec</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.161.61.210</span>
+      <span class="hidden" id="cf-footer-ip">4.227.114.101</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -205,8 +199,104 @@ vless://4e47d40d-770c-49e8-b730-bc9628404f87@www.speedtest.net:8080?path=%2F&sec
 vless://9d5cc6f7-a8aa-487a-9895-3ba58d33c3eb@www.zula.ir:80?path=%2FV2ray.motorcycles%3Fed%3D80&security=none&encryption=none&host=gegajiwbowbiqjbqo----kskn.bmpoloton.ir&type=ws#👉🆔 @v2ray_configs_pool
 vless://15b15cd3-d8c1-4c78-8e25-bd5a57fb9dfc@141.105.130.98:49938?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNTIyMTU0Mi1jNTFjLTQ2YWUtODJmYy0zNTM0MDA0ZjcyOWY@113.31.144.105:30001#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNTIyMTU0Mi1jNTFjLTQ2YWUtODJmYy0zNTM0MDA0ZjcyOWY@gdgs.tarioblink.me:30001#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
+hy2://de5d32ff-ce3b-4a38-8467-3772235dbd7e@gysg1.mlshu.top:50001/?insecure=1#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1-%E5%85%AC%E5%BC%80
+hy2://de5d32ff-ce3b-4a38-8467-3772235dbd7e@gyjp1.mlshu.top:30001/?insecure=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC-%E5%85%AC%E5%BC%80
+hy2://de5d32ff-ce3b-4a38-8467-3772235dbd7e@gyus1.mlshu.top:30001/?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD-%E5%85%AC%E5%BC%801
+hy2://de5d32ff-ce3b-4a38-8467-3772235dbd7e@node18.mlshu.top:30001/?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD-%E5%85%AC%E5%BC%802
+hy2://de5d32ff-ce3b-4a38-8467-3772235dbd7e@node18.mlshu.top:30001/?insecure=1#%E5%AE%98%E7%BD%91%20mlshu.com
+ss://YWVzLTI1Ni1nY206ZTM2NTcxMmQtOTcyMy00MTAxLWJmZjItNzFmZTc3OTE2YzNi@jehw72eh.iwbh.cn:49709#%F0%9F%87%AD%F0%9F%87%B0+%E5%85%AC%E7%9B%8A%E8%B7%AF%E7%BA%BF-HK-1D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2M4NzBkNy02N2M2LTRmZjctYjliZC1hOGEwYzU5OTRmZjg=@gy.666666222.shop:34338#%F0%9F%87%AD%F0%9F%87%B0+%E9%A6%99%E6%B8%AF01-1B
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDkwNjlmNTAtMTJkYi00NzM3LTlmNzYtMzUzMGY0ZDNlYzY2IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDQxMiIsInBzIjoi8J+HuPCfh6wg5paw5Yqg5Z2hIElFUEzkuJPnur9OTzMtMUQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZDkyNTViMS0zYjg2LTQ2YzYtODU1MS04ODcwOWM4MzdjOTY=@gy.666666222.shop:20035#%F0%9F%87%AD%F0%9F%87%B0+%E9%A6%99%E6%B8%AF02-1G
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTgwMzJjYTctNTM3MC00YjMxLTkzM2ItN2RlMWY3YTNkOGJmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDAxNCIsInBzIjoi8J+HpvCfh7cg6Zi/5qC55bu3IElFUEzkuJPnur9OTzEtMUEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDkwNjlmNTAtMTJkYi00NzM3LTlmNzYtMzUzMGY0ZDNlYzY2IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDAxNiIsInBzIjoi8J+HufCfh7wg5Y+w5rm+IElFUEzkuJPnur9OTzMtMUQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YWYwNTBhOC1iMjEzLTQ4NGMtYTkxYS03OTQ1MjdjNTQxZGM=@gy.666666222.shop:34338#%F0%9F%87%AD%F0%9F%87%B0+%E9%A6%99%E6%B8%AF01-1C
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMWJkYWZkMy0wMDU5LTRhODEtODAzMS1jMDQyNmEzZDY3ZWI=@gy.666666222.shop:34338#%F0%9F%87%AD%F0%9F%87%B0+%E9%A6%99%E6%B8%AF01-1A
+ss://YWVzLTI1Ni1nY206ZmE4Yjg0ZmQtMDQ1OS00NjUyLTg2ZWMtMmI5ZjFlZGU4YTU4@jehw72eh.iwbh.cn:49709#%F0%9F%87%AD%F0%9F%87%B0+%E5%85%AC%E7%9B%8A%E8%B7%AF%E7%BA%BF-HK-1C
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDkwNjlmNTAtMTJkYi00NzM3LTlmNzYtMzUzMGY0ZDNlYzY2IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDAxNCIsInBzIjoi8J+HpvCfh7cg6Zi/5qC55bu3IElFUEzkuJPnur9OTzEtMUQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMDQyMjA4Mi0wNTQ2LTQ2MjYtODhhMS05NjFkMTg4NjY5NzE=@gy.666666222.shop:34338#%F0%9F%87%AD%F0%9F%87%B0+%E9%A6%99%E6%B8%AF01-1E
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZDkyNTViMS0zYjg2LTQ2YzYtODU1MS04ODcwOWM4MzdjOTY=@gy.666666222.shop:34338#%F0%9F%87%AD%F0%9F%87%B0+%E9%A6%99%E6%B8%AF01-1G
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMDQyMjA4Mi0wNTQ2LTQ2MjYtODhhMS05NjFkMTg4NjY5NzE=@gy.666666222.shop:20035#%F0%9F%87%AD%F0%9F%87%B0+%E9%A6%99%E6%B8%AF02-1E
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTgwMzJjYTctNTM3MC00YjMxLTkzM2ItN2RlMWY3YTNkOGJmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDAxNiIsInBzIjoi8J+HufCfh7wg5Y+w5rm+IElFUEzkuJPnur9OTzMtMUEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://YWVzLTI1Ni1nY206NjMwZTYwZGYtMzhmYS00Zjg2LWI3ZmEtNzRhZTYzN2E5NzFk@jehw72eh.iwbh.cn:49709#%F0%9F%87%AD%F0%9F%87%B0+%E5%85%AC%E7%9B%8A%E8%B7%AF%E7%BA%BF-HK-1A
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDkwNjlmNTAtMTJkYi00NzM3LTlmNzYtMzUzMGY0ZDNlYzY2IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyNTEyOSIsInBzIjoi8J+HrvCfh6kg5Y2w5bC8IElFUEzkuJPnur9OTzEtMUQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTgwMzJjYTctNTM3MC00YjMxLTkzM2ItN2RlMWY3YTNkOGJmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyNTEyOSIsInBzIjoi8J+HrvCfh6kg5Y2w5bC8IElFUEzkuJPnur9OTzEtMUEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://YWVzLTI1Ni1nY206NzRkNDhmOTItMTA5Yy00MThiLWE4MWMtNjhkYTVlOWNhZDY5@jehw72eh.iwbh.cn:49709#%F0%9F%87%AD%F0%9F%87%B0+%E5%85%AC%E7%9B%8A%E8%B7%AF%E7%BA%BF-HK-1B
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTgwMzJjYTctNTM3MC00YjMxLTkzM2ItN2RlMWY3YTNkOGJmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDQxMiIsInBzIjoi8J+HuPCfh6wg5paw5Yqg5Z2hIElFUEzkuJPnur9OTzMtMUEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDkwNjlmNTAtMTJkYi00NzM3LTlmNzYtMzUzMGY0ZDNlYzY2IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MjExNyIsInBzIjoi8J+Hr/Cfh7Ug5pel5pysIElFUEzkuJPnur9OTzMtMUQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTgwMzJjYTctNTM3MC00YjMxLTkzM2ItN2RlMWY3YTNkOGJmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MjExNyIsInBzIjoi8J+Hr/Cfh7Ug5pel5pysIElFUEzkuJPnur9OTzMtMUEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTgwMzJjYTctNTM3MC00YjMxLTkzM2ItN2RlMWY3YTNkOGJmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDAxNyIsInBzIjoi8J+Hr/Cfh7Ug5pel5pysIElFUEzkuJPnur9OTzEtMUEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDkwNjlmNTAtMTJkYi00NzM3LTlmNzYtMzUzMGY0ZDNlYzY2IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDAxNyIsInBzIjoi8J+Hr/Cfh7Ug5pel5pysIElFUEzkuJPnur9OTzEtMUQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDkwNjlmNTAtMTJkYi00NzM3LTlmNzYtMzUzMGY0ZDNlYzY2IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDAyMSIsInBzIjoi8J+HsPCfh7cg6Z+p5Zu9IElFUEzkuJPnur9OTzEtMUQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YWYwNTBhOC1iMjEzLTQ4NGMtYTkxYS03OTQ1MjdjNTQxZGM=@gy.666666222.shop:20008#%F0%9F%87%AF%F0%9F%87%B5+%E6%97%A5%E6%9C%AC04-1C
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTgwMzJjYTctNTM3MC00YjMxLTkzM2ItN2RlMWY3YTNkOGJmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMTExMSIsInBzIjoi8J+Ht/Cfh7og5L+E572X5pavIElFUEzkuJPnur9OTzEtMUEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDkwNjlmNTAtMTJkYi00NzM3LTlmNzYtMzUzMGY0ZDNlYzY2IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMTExMSIsInBzIjoi8J+Ht/Cfh7og5L+E572X5pavIElFUEzkuJPnur9OTzEtMUQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTgwMzJjYTctNTM3MC00YjMxLTkzM2ItN2RlMWY3YTNkOGJmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDAyMSIsInBzIjoi8J+HsPCfh7cg6Z+p5Zu9IElFUEzkuJPnur9OTzEtMUEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTgwMzJjYTctNTM3MC00YjMxLTkzM2ItN2RlMWY3YTNkOGJmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NDc4NyIsInBzIjoi8J+HqfCfh6og5b635Zu9IElFUEzkuJPnur9OTzEtMUEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDkwNjlmNTAtMTJkYi00NzM3LTlmNzYtMzUzMGY0ZDNlYzY2IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NDc4NyIsInBzIjoi8J+HqfCfh6og5b635Zu9IElFUEzkuJPnur9OTzEtMUQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTgwMzJjYTctNTM3MC00YjMxLTkzM2ItN2RlMWY3YTNkOGJmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMzMyMiIsInBzIjoi8J+HrvCfh7kg5oSP5aSn5YipIElFUEzkuJPnur9OTzEtMUEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMWJkYWZkMy0wMDU5LTRhODEtODAzMS1jMDQyNmEzZDY3ZWI=@gy.666666222.shop:20004#%F0%9F%87%AF%F0%9F%87%B5+%E6%97%A5%E6%9C%AC02-1A
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDkwNjlmNTAtMTJkYi00NzM3LTlmNzYtMzUzMGY0ZDNlYzY2IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMzMyMiIsInBzIjoi8J+HrvCfh7kg5oSP5aSn5YipIElFUEzkuJPnur9OTzEtMUQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTgwMzJjYTctNTM3MC00YjMxLTkzM2ItN2RlMWY3YTNkOGJmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDQxMCIsInBzIjoi6Z2e5rSyIElFUEzkuJPnur8gTk8xLTFBIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDkwNjlmNTAtMTJkYi00NzM3LTlmNzYtMzUzMGY0ZDNlYzY2IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDQxMCIsInBzIjoi6Z2e5rSyIElFUEzkuJPnur8gTk8xLTFEIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJnby5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiYTkzNWEwMGQtMzczMi00MmY0LWE1MGUtYzRhOTg3ZTQ4MTMyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMeS8mOmAiS0yRCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJnby5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiODVlYTgwYTEtMTZjOS00NjhkLTg3YWEtYTQ5MmRjMDkxZjQwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMeS8mOmAiS0yRyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2M4NzBkNy02N2M2LTRmZjctYjliZC1hOGEwYzU5OTRmZjg=@gy.666666222.shop:20004#%F0%9F%87%AF%F0%9F%87%B5+%E6%97%A5%E6%9C%AC02-1B
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiZTY4MzQyMTAtYThkZi00YTdhLThjNDYtMWQwNzFlZmVmY2FmIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0xViIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiN2I5ODA1Y2MtODJmMi00OWQyLTljYTItYjM4MDgwNzVhZTcxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0xTSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://509e512c-6e64-49bd-bdbe-b803b4166114@phx-plus-1ddns.faforex.eu.org:18443?security=reality&encryption=none&pbk=8233FxCRw1a_aCJ8d1HwHBMD_fABUNNW7rsrFe3vK0s&headerType=none&fp=qq&type=tcp&sni=www.tesla.com&sid=e6658462#%F0%9F%87%BA%F0%9F%87%B8+%E7%BE%8E%E5%9B%BD+01+%E7%94%B5%E4%BF%A1%E6%8E%A8%E8%8D%90-1C
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiNThlNTVhNGItMDk5NC00OTIyLWExMmItMDU4ZDZmNDJhMjlmIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0xSyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJnby5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiN2I5ODA1Y2MtODJmMi00OWQyLTljYTItYjM4MDgwNzVhZTcxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMeS8mOmAiS0xTSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJnby5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiZjU4NTcxOGYtZTRiNy00MGMzLTkzYmEtZjdkNDYzNDk3YTcyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMeS8mOmAiS0xTyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiNzk4MjM0ODctZDNhNy00Y2JiLWE5NDQtMTA1NjRkMmJiM2Q3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0ySSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiNDBiYTAxNTAtOTRmMS00YThhLWFlOTUtNTAzM2ZmM2E3ZWRhIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0xVSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJnby5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiYWMzNjFkZjQtYjA1Mi00MmM5LWEwZTctNWIzYjJkYmI0ZDgzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMeS8mOmAiS0xWiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJnby5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiZmFiY2JhNjUtMTRhYy00MzM4LWI3ZDgtNWUwZWRlMGJlMjk0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMeS8mOmAiS0xUiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiYmEyMGM3NmYtNzQ2My00MmJmLWFhODMtOWFhOTlmMGRhNzczIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0xRSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJnby5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiOTJmYzk5ODctOTk4Ny00NWQwLWFjMDItNDE5MWRmNDAxMDlhIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMeS8mOmAiS0xQyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiZWZkODg5MGItOGQ1YS00NDg2LTgwNTItZGZkNDc0N2RiOWEzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0xVCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiNWU4MWIwMDAtMWM5OS00N2E0LWI1NzYtMTU5ZDdkMDExN2EyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0xQSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJnby5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiNzk4MjM0ODctZDNhNy00Y2JiLWE5NDQtMTA1NjRkMmJiM2Q3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMeS8mOmAiS0ySSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiNzcwNjg3ODAtZjhlNy00YmI3LWIwNzAtY2EyZjY2YWRhZGRhIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0xUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://92446ae9-6439-4b81-96cd-75a44154e8f0@phx-plus-1ddns.faforex.eu.org:18443?security=reality&encryption=none&pbk=8233FxCRw1a_aCJ8d1HwHBMD_fABUNNW7rsrFe3vK0s&headerType=none&fp=safari&type=tcp&sni=www.tesla.com&sid=e6658462#%F0%9F%87%BA%F0%9F%87%B8+%E7%BE%8E%E5%9B%BD+01+%E7%94%B5%E4%BF%A1%E6%8E%A8%E8%8D%90-1G
+vmess://eyJhZGQiOiJnby5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiYmRkMTczYTEtZTFiZi00NTQ0LTkzN2QtOThmYjcxMzU5Yjg1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMeS8mOmAiS0yQiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiNmM2ODc3NWUtMTczMC00NmIxLWJkOGMtZTk5MDU1ZDlmMDQ4IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0xSSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://70ad39cf-0088-4af3-8881-3ca5c55333ac@phx-plus-1ddns.faforex.eu.org:18443?security=reality&encryption=none&pbk=8233FxCRw1a_aCJ8d1HwHBMD_fABUNNW7rsrFe3vK0s&headerType=none&fp=ios&type=tcp&sni=www.tesla.com&sid=e6658462#%F0%9F%87%BA%F0%9F%87%B8+%E7%BE%8E%E5%9B%BD+01+%E7%94%B5%E4%BF%A1%E6%8E%A8%E8%8D%90-1M
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiYWMzNjFkZjQtYjA1Mi00MmM5LWEwZTctNWIzYjJkYmI0ZDgzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0xWiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJnby5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiODhjMGNkYmItNGRjMS00MzgyLWI4NWQtMzgyMzI5Mzk2ZTU3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMeS8mOmAiS0yQSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://d6a83771-795a-4c19-8a91-4a9f176ae9b3@phx-plus-1ddns.faforex.eu.org:18443?security=reality&encryption=none&pbk=8233FxCRw1a_aCJ8d1HwHBMD_fABUNNW7rsrFe3vK0s&headerType=none&fp=qq&type=tcp&sni=www.tesla.com&sid=e6658462#%F0%9F%87%BA%F0%9F%87%B8+%E7%BE%8E%E5%9B%BD+01+%E7%94%B5%E4%BF%A1%E6%8E%A8%E8%8D%90-1I
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiMTE2ZGI1MTQtNzgzZi00MTE2LTgwNzgtODNhYmVkOGFlYjE1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0yQyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiYTkzNWEwMGQtMzczMi00MmY0LWE1MGUtYzRhOTg3ZTQ4MTMyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0yRCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiZmFiY2JhNjUtMTRhYy00MzM4LWI3ZDgtNWUwZWRlMGJlMjk0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0xUiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJnby5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiNzcwNjg3ODAtZjhlNy00YmI3LWIwNzAtY2EyZjY2YWRhZGRhIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMeS8mOmAiS0xUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJnby5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiYmEyMGM3NmYtNzQ2My00MmJmLWFhODMtOWFhOTlmMGRhNzczIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMeS8mOmAiS0xRSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiYjUxM2U4MGEtZjEzNC00OWU0LTlmZmUtNTI0M2UwNWZlM2FkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0xUCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJnby5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiMmE1YjE3NDQtMjQ3ZS00MWIyLWFjNmEtOWYyNGIyMjJkOTIzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMeS8mOmAiS0xSCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJnby5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiNzUxMWNiOTUtN2VhNi00NjE0LWI4MGYtZmQ4YzcyZTZiNTEzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMeS8mOmAiS0xRCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiZTRiNmVlOTctNWNmYS00ZjRmLTg3ODAtMjExNDI0OWM2Mzk4IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0xTCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiOGZlOTZmOTEtNGRmOS00MDk2LWEwNDItNDBmNTAwZjhmNjhjIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0ySiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiOGI4YWI5YzYtNGI1ZS00MmExLTgyYWYtNzRjMzRjNDdlOTY2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0yRSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJnby5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiZTRiNmVlOTctNWNmYS00ZjRmLTg3ODAtMjExNDI0OWM2Mzk4IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMeS8mOmAiS0xTCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJnby5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiNDBiYTAxNTAtOTRmMS00YThhLWFlOTUtNTAzM2ZmM2E3ZWRhIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMeS8mOmAiS0xVSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiODM5MDc0MzktOWNmMi00ZTMxLTg2NDEtODcwMTNhMTQwMzhlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0xVyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDkwNjlmNTAtMTJkYi00NzM3LTlmNzYtMzUzMGY0ZDNlYzY2IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NDc3MCIsInBzIjoi8J+HuvCfh7gg576O5Zu9IElFUEzkuJPnur9OTzEtMUQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJnby5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiNzQ0Nzc0ODQtNmIyYi00YThkLWFkZmYtZmE5NWYwYTgwOWUwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMeS8mOmAiS0ySyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://488b441d-949d-47f9-99ca-147d8dca9956@phx-plus-1ddns.faforex.eu.org:18443?security=reality&encryption=none&pbk=8233FxCRw1a_aCJ8d1HwHBMD_fABUNNW7rsrFe3vK0s&headerType=none&fp=edge&type=tcp&sni=www.tesla.com&sid=e6658462#%F0%9F%87%BA%F0%9F%87%B8+%E7%BE%8E%E5%9B%BD+01+%E7%94%B5%E4%BF%A1%E6%8E%A8%E8%8D%90-1A
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiMDUyYWY4NGQtZjYwYy00ZjczLTk1N2QtZTIyNTI5NmI5OTQ3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0yRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiYmRkMTczYTEtZTFiZi00NTQ0LTkzN2QtOThmYjcxMzU5Yjg1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0yQiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiMmY2ZmEzNGEtYmFiZS00OGEzLTk0OTItYTYzNDdhNDRjZTllIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0xeCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://bbc8ec0d-bba5-4c2d-9b24-8307e009ec99@phx-plus-1ddns.faforex.eu.org:18443?security=reality&encryption=none&pbk=8233FxCRw1a_aCJ8d1HwHBMD_fABUNNW7rsrFe3vK0s&headerType=none&fp=qq&type=tcp&sni=www.tesla.com&sid=e6658462#%F0%9F%87%BA%F0%9F%87%B8+%E7%BE%8E%E5%9B%BD+01+%E7%94%B5%E4%BF%A1%E6%8E%A8%E8%8D%90-1J
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDkwNjlmNTAtMTJkYi00NzM3LTlmNzYtMzUzMGY0ZDNlYzY2IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMTAwMSIsInBzIjoi8J+HtfCfh7kg6JGh6JCE54mZIElFUEzkuJPnur9OTzEtMUQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTgwMzJjYTctNTM3MC00YjMxLTkzM2ItN2RlMWY3YTNkOGJmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NDc3MCIsInBzIjoi8J+HuvCfh7gg576O5Zu9IElFUEzkuJPnur9OTzEtMUEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://f6bc0b42-4210-4399-a3f3-3b9fddb10b94@phx-plus-1ddns.faforex.eu.org:18443?security=reality&encryption=none&pbk=8233FxCRw1a_aCJ8d1HwHBMD_fABUNNW7rsrFe3vK0s&headerType=none&fp=qq&type=tcp&sni=www.tesla.com&sid=e6658462#%F0%9F%87%BA%F0%9F%87%B8+%E7%BE%8E%E5%9B%BD+01+%E7%94%B5%E4%BF%A1%E6%8E%A8%E8%8D%90-1H
+vmess://eyJhZGQiOiJpLm5lZWRzcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTgwMzJjYTctNTM3MC00YjMxLTkzM2ItN2RlMWY3YTNkOGJmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMTAwMSIsInBzIjoi8J+HtfCfh7kg6JGh6JCE54mZIElFUEzkuJPnur9OTzEtMUEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZDkyNTViMS0zYjg2LTQ2YzYtODU1MS04ODcwOWM4MzdjOTY=@gy.666666222.shop:20008#%F0%9F%87%AF%F0%9F%87%B5+%E6%97%A5%E6%9C%AC04-1G
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMDQyMjA4Mi0wNTQ2LTQ2MjYtODhhMS05NjFkMTg4NjY5NzE=@gy.666666222.shop:20004#%F0%9F%87%AF%F0%9F%87%B5+%E6%97%A5%E6%9C%AC02-1E
+vmess://eyJhZGQiOiJkZS1uZXcwMS5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiZGVmMjg1YzQtNmY4MC00YzkwLWJiMzYtOGNiZjQ3NzNlZDMwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMS0xRyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJnby5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsImlkIjoiNzYwYTI3NjktYjUzNS00MDM2LTljNzQtOTAwZDY1ODY0NDQ4IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4e48J+HrCDmlrDliqDlnaFORVcwMeS8mOmAiS0xQiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMWJkYWZkMy0wMDU5LTRhODEtODAzMS1jMDQyNmEzZDY3ZWI=@gy.666666222.shop:20008#%F0%9F%87%AF%F0%9F%87%B5+%E6%97%A5%E6%9C%AC04-1A
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMDQyMjA4Mi0wNTQ2LTQ2MjYtODhhMS05NjFkMTg4NjY5NzE=@gy.666666222.shop:20008#%F0%9F%87%AF%F0%9F%87%B5+%E6%97%A5%E6%9C%AC04-1E
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2M4NzBkNy02N2M2LTRmZjctYjliZC1hOGEwYzU5OTRmZjg=@gy.666666222.shop:20008#%F0%9F%87%AF%F0%9F%87%B5+%E6%97%A5%E6%9C%AC04-1B
 hy2://4e9ee29b39a28277@[2001:19f0:1000:20d0:5400:5ff:fe19:3ba9]:443/?obfs=salamander&obfs-password=13f7ba5f&insecure=1#CPI-ipv6
 
 hy2://4e9ee29b39a28277@66.135.11.68:443/?obfs=salamander&obfs-password=13f7ba5f&insecure=1#CPI
@@ -354,7 +444,7 @@ vless://ce3cd1c7-cf29-4164-f0c5-cb0525b3e692@datalabs.ae:2083?encryption=none&se
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8f195212d57b2021</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8f19ab1424502b7a</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
@@ -513,93 +603,3 @@ vless://ce3cd1c7-cf29-4164-f0c5-cb0525b3e692@datalabs.ae:2083?encryption=none&se
     "domainStrategy": "AsIs",
     "rules": [
       {
-        "type": "field",
-        "inboundTag": [
-          "api"
-        ],
-        "outboundTag": "api",
-        "enabled": true
-      },
-      {
-        "id": "5627785659655799759",
-        "type": "field",
-        "port": "0-65535",
-        "outboundTag": "proxy",
-        "enabled": true
-      }
-    ]
-  }
-}
-
-{"dns":{"independent_cache":true,"rules":[{"domain":["dns.google"],"server":"dns-direct"}],"servers":[{"address":"https://dns.google/dns-query","address_resolver":"dns-direct","strategy":"ipv4_only","tag":"dns-remote"},{"address":"local","address_resolver":"dns-local","detour":"direct","strategy":"ipv4_only","tag":"dns-direct"},{"address":"local","detour":"direct","tag":"dns-local"},{"address":"rcode://success","tag":"dns-block"}]},"inbounds":[{"listen":"127.0.0.1","listen_port":6450,"override_address":"8.8.8.8","override_port":53,"tag":"dns-in","type":"direct"},{"domain_strategy":"","endpoint_independent_nat":true,"inet4_address":["172.19.0.1/28"],"mtu":9000,"sniff":true,"sniff_override_destination":false,"stack":"mixed","tag":"tun-in","auto_route":true,"type":"tun"},{"domain_strategy":"","listen":"127.0.0.1","listen_port":2080,"sniff":true,"sniff_override_destination":false,"tag":"mixed-in","type":"mixed"}],"log":{"level":"warning"},"outbounds":[{"method":"chacha20-ietf-poly1305","password":"1bd9d418-335e-42f0-a83c-257f3917d773","server":"127.0.0.1","server_port":1080,"type":"shadowsocks","udp_over_tcp":true,"domain_strategy":"","tag":"proxy","detour":"shadowtls"},{"password":"1bd9d418-335e-42f0-a83c-257f3917d773","server":"hys10.afsharidempire.uk","server_port":443,"tls":{"enabled":true,"insecure":false,"server_name":"www.google.com","utls":{"enabled":true,"fingerprint":"chrome"}},"version":3,"type":"shadowtls","domain_strategy":"","tag":"shadowtls"},{"tag":"direct","type":"direct"},{"tag":"bypass","type":"direct"},{"tag":"block","type":"block"},{"tag":"dns-out","type":"dns"}],"route":{"auto_detect_interface":true,"rule_set":[],"rules":[{"outbound":"dns-out","port":[53]},{"inbound":["dns-in"],"outbound":"dns-out"},{"ip_cidr":["224.0.0.0/3","ff00::/8"],"outbound":"block","source_ip_cidr":["224.0.0.0/3","ff00::/8"]}]}}
-
-{"dns":{"independent_cache":true,"rules":[{"domain":["dns.google"],"server":"dns-direct"}],"servers":[{"address":"https://dns.google/dns-query","address_resolver":"dns-direct","strategy":"ipv4_only","tag":"dns-remote"},{"address":"local","address_resolver":"dns-local","detour":"direct","strategy":"ipv4_only","tag":"dns-direct"},{"address":"local","detour":"direct","tag":"dns-local"},{"address":"rcode://success","tag":"dns-block"}]},"inbounds":[{"listen":"127.0.0.1","listen_port":6450,"override_address":"8.8.8.8","override_port":53,"tag":"dns-in","type":"direct"},{"domain_strategy":"","endpoint_independent_nat":true,"inet4_address":["172.19.0.1/28"],"mtu":9000,"sniff":true,"sniff_override_destination":false,"stack":"mixed","tag":"tun-in","auto_route":true,"type":"tun"},{"domain_strategy":"","listen":"127.0.0.1","listen_port":2080,"sniff":true,"sniff_override_destination":false,"tag":"mixed-in","type":"mixed"}],"log":{"level":"warning"},"outbounds":[{"method":"chacha20-ietf-poly1305","password":"1bd9d418-335e-42f0-a83c-257f3917d773","server":"127.0.0.1","server_port":1080,"type":"shadowsocks","udp_over_tcp":true,"domain_strategy":"","tag":"proxy","detour":"shadowtls"},{"password":"1bd9d418-335e-42f0-a83c-257f3917d773","server":"2001:19f0:6c01:29bc:5400:4ff:fef3:f15d","server_port":443,"tls":{"enabled":true,"insecure":false,"server_name":"www.google.com","utls":{"enabled":true,"fingerprint":"chrome"}},"version":3,"type":"shadowtls","domain_strategy":"","tag":"shadowtls"},{"tag":"direct","type":"direct"},{"tag":"bypass","type":"direct"},{"tag":"block","type":"block"},{"tag":"dns-out","type":"dns"}],"route":{"auto_detect_interface":true,"rule_set":[],"rules":[{"outbound":"dns-out","port":[53]},{"inbound":["dns-in"],"outbound":"dns-out"},{"ip_cidr":["224.0.0.0/3","ff00::/8"],"outbound":"block","source_ip_cidr":["224.0.0.0/3","ff00::/8"]}]}}
-
-
-{
-  "outbounds": 
-  [
-    {
-      "type": "wireguard",
-      "tag": "Warp-IR2",
-      "server": "188.114.99.186",
-      "server_port": 5956,
-
-      "local_address": [
-        "172.16.0.2/32",
-        "2606:4700:110:8bfe:9ee3:bc8e:8274:cf86/128"
-      ],
-      "private_key": "eCb5hevZFkPV/S8ppLuwVfiQuBTCPCUKih0hjwM7Rm8=",
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [19,45,7],
-
-      "mtu": 1280,
-      "fake_packets": "5-10"
-    },
-    {
-      "type": "wireguard",
-      "tag": "Warp-Main2",
-      "detour": "Warp-IR2",
-      "server": "188.114.99.186",
-      "server_port": 5956,
-      
-      "local_address": [
-          "172.16.0.2/32",
-          "2606:4700:110:8b89:c914:e1d5:cc98:4a22/128"
-      ],
-      "private_key": "yAaefQJhAvO85aHzEW5tMSpHDBaOTaNnO7GhrzMUenU=",
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [205,184,52],  
-
-      "mtu": 1120
-    },{
-      "type": "wireguard",
-      "tag": "Warp-IR3",
-      "server": "162.159.195.61",
-      "server_port": 946,
-
-      "local_address": [
-        "172.16.0.2/32",
-        "2606:4700:110:8bfe:9ee3:bc8e:8274:cf86/128"
-      ],
-      "private_key": "eCb5hevZFkPV/S8ppLuwVfiQuBTCPCUKih0hjwM7Rm8=",
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [19,45,7],
-
-      "mtu": 1280,
-      "fake_packets": "5-10"
-    },
-    {
-      "type": "wireguard",
-      "tag": "Warp-Main3",
-      "detour": "Warp-IR3",
-      "server": "162.159.195.61",
-      "server_port": 946,
-      
-      "local_address": [
-          "172.16.0.2/32",
-          "2606:4700:110:8b89:c914:e1d5:cc98:4a22/128"
-      ],
-      "private_key": "yAaefQJhAvO85aHzEW5tMSpHDBaOTaNnO7GhrzMUenU=",
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [205,184,52],  
