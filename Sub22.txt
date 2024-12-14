@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+          "allowInsecure": false,
           "serverName": "fRaG1.MaHSAamiNI.cc",
           "alpn": [
             "h2",
@@ -457,12 +458,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8f1c67c52e69169e</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8f1cc6e1b9aa05dd</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">52.159.136.144</span>
+      <span class="hidden" id="cf-footer-ip">20.51.206.101</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -602,4 +603,3 @@ trojan://eyJhZGQiOiJqYW1la2sub3JnIiwiYWlkIjoiMSIsImFscG4iOiIiLCJmcCI6IiIsImhvc3Q
 trojan://bpb-trojan@141.101.114.52:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#Wifi-MCi-%40V2ray_Alpha-12
 trojan://bpb-trojan@190.93.244.202:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#Wifi-MCi-%40V2ray_Alpha-13
 trojan://bpb-trojan@141.101.113.119:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#Wifi-MCi-%40V2ray_Alpha-14
-trojan://f4311364-42a0-4751-a21f-80f2740a59db@www.speedtest.net:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=eg-v2ray-x.pages.dev&fp=firefox&type=ws&sni=pAgeS.dev.#Wifi-MCi-%40V2ray_Alpha-15
