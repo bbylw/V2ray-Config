@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://your_password@35.183.238.42:443?security=tls&sni=aws-ca-central-1.f1rocketnode.com&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://18844%40zxcvbn@49.212.204.123:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3306#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vmess://eyJhZGQiOiIxNjcuOTkuMTc5LjI3IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjljMDUwYTg2LWQ2MTItNDhmMS1lYzMyLWU1NzNkZjA4YTFiNyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjMzODkiLCJwcyI6IvCfkrsgQ2hhbm5lbCDwn4aUIDogQEFsaWVuVlBONDAyIPCfkb0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI0NS44NS4xMTkuMjA3IiwiYWlkIjoiMCIsImhvc3QiOiJkZWxpY2F0ZS1tZWFkb3ctYjcyOC5tYWhkaWhhaml6YWRlMTIzMDgwMDE5NjI0LndvcmtlcnMuZGV2IiwiaWQiOiIyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvS2Fuc2FzLmtvdGljay5zaXRlL3NwZWVkdGVzdCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfkrsgQ2hhbm5lbCDwn4aUIDogQEFsaWVuVlBONDAyIPCfkb0iLCJzY3kiOiJhdXRvIiwic25pIjoiZGVsaWNhdGUtbWVhZG93LWI3MjgubWFoZGloYWppemFkZTEyMzA4MDAxOTYyNC53b3JrZXJzLmRldiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://75035d9c-d1df-4169-86d8-b65c1f697db4@speedtest.org:443?security=tls&sni=Rus.Melov2ray.Shop&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@melov2ray&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vless://eeb1d180-58df-4797-b88f-e94802bcabac@serv3.alpha2.sbs:2083?security=tls&sni=bia2.alpha5.top&fp=chrome&type=grpc&serviceName=@V2ray_Alpha%20@V2ray_Alpha%20@V2ray_Alpha&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vmess://eyJhZGQiOiIxMDQuMTYuOC4zIiwiYWlkIjoiMCIsImhvc3QiOiJzYW5kLmJsYW5rdS5tZSIsImlkIjoiYzhhYmY2NmEtMTkwMy00NjM4LWE0NDgtOWM4NjczM2U0MjU0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzczEzNDgwIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiJzYW5kcC5ibGFua3UubWUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
@@ -312,8 +307,8 @@ vmess://eyJhZGQiOiIxMzYuMC45LjIzIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImQ4ZGVlNDAw
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiNjVhOTNhZWEtMzYyOC00MmUyLWFlZTktNWM4NThhNWM5ZGRkIiwicGFnZV90aW1lIjoxNzM0Mjg5OTk4LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiNTIuMjM0LjMzLjI1MCJ9Cg==";</script>
-<script src="/bdTSOoROi.js"></script>
+<script>window.park = "eyJ1dWlkIjoiNDZiZTg2MzktNjNjMy00MjYyLWFlMmEtOTdlNmM5MmE3ODdhIiwicGFnZV90aW1lIjoxNzM0MjkzOTI1LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiNTIuMjM4LjI0LjE3NiJ9Cg==";</script>
+<script src="/bSkMcQthh.js"></script>
 </body>
 </html>
 
@@ -603,3 +598,8 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80/?type=ws&encryptio
 vless://55b57d47-00b7-4539-ae4a-fc394e53d3d4@104.17.147.22:8880/?type=ws&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://bf852703-3716-43f6-81c6-7f08403a1d55@[2a06:98c1:3122::]:8880/?type=ws&encryption=none&host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&path=%2F%3Fed%3D2048#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:5011/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.16.252.12:8080/?type=ws&encryption=none&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.17.25.45:8080/?type=ws&encryption=none&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://63165b83-9244-465d-b1cf-f4524c28f611@66.235.200.91:2095/?type=ws&encryption=none&host=13.v2.n.www.speedtest.net.dnschecker.one.chanel99.online&path=TelegramChanel%3At.me%2FHTTP_injector99#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443/?type=ws&encryption=none&host=de01.tradex2080.com&path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&security=tls&sni=deefull.tradex2080.com&alpn=http%2F1.1&fp=chrome#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@104.21.7.27:443/?type=ws&encryption=none&host=solid.footballlovernews.com&path=%2Fsolid%3Fed%3DTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&sni=solid.footballlovernews.com#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
