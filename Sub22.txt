@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      a:hover { text-decoration: underline; }
+
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+
+      ul { list-style: none; margin: 25px 0; padding: 0; }
       li { display: table-cell; font-weight: bold; width: 1%; }
 
       .logo { display: inline-block; margin-top: 35px; }
@@ -71,8 +77,8 @@
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiMzZlOGI3MmYtMDBiYy00YzU1LWFmNjAtMDU1ZTBkMzk4MzQ3IiwicGFnZV90aW1lIjoxNzM0MzczNTI3LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiMTcyLjE4My4xMjEuMjIifQo=";</script>
-<script src="/bswigiQBe.js"></script>
+<script>window.park = "eyJ1dWlkIjoiYzA4ZmU2YzAtYTQ1Zi00N2VkLWI2OTktYjk2N2RmODkxNTljIiwicGFnZV90aW1lIjoxNzM0Mzc2NDcwLCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiMjAuMTAyLjQ2LjI0NSJ9Cg==";</script>
+<script src="/brkRvbDNB.js"></script>
 </body>
 </html>
 
@@ -584,7 +590,7 @@ vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:501
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8f30b754bc4922f3 &bull; 2024-12-16 18:25:27 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8f30ff2edd37f27c &bull; 2024-12-16 19:14:30 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -596,10 +602,4 @@ vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:501
           <div class="cf-column">
             <h2 data-translate="what_happened">What happened?</h2>
             <p>You've requested a page on a website (branch.blanku.me) that is on the <a href="https://www.cloudflare.com/5xx-error-landing/" target="_blank">Cloudflare</a> network. An unknown error occurred while rendering the page.</p>
-          </div>
-
-          
-          <div class="cf-column">
-            <h2 data-translate="what_can_i_do">What can I do?</h2>
-            <p><strong>If you are the owner of this website:</strong><br />you should <a href="https://www.cloudflare.com/login?utm_source=error_100x" target="_blank">login to Cloudflare</a> and check the error logs for branch.blanku.me.</p>
           </div>
