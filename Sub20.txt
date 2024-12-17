@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBcz1RZTBKVnZI@150.241.95.62:57263#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+150.241.95.62-57263+%7C+94.89ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+89.23.103.125-42090+%7C+93.07ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#AE%F0%9F%87%A6%F0%9F%87%AA+%7C+series-a2-mec.varzesh360.co-443+%7C+270.59ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#AE%F0%9F%87%A6%F0%9F%87%AA+%7C+series-a2-mec.samanehha.co-443+%7C+339ms
@@ -603,3 +602,4 @@ vless://827f5549-1527-4abe-8a57-755ca5063aa2@159.69.108.202:29210?security=reali
 vless://860a363e-2537-4186-b60a-bfe5b6b14ca3@45.133.247.232:2053?security=tls&sni=online.alphav.top&type=grpc&serviceName=@V2ray_Alpha%20@V2ray_Alpha%20@V2ray_Alpha&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vless://15d1ff46-1f26-4f10-e234-303500b016e3@49.13.150.83:8080?security=reality&sni=www.speedtest.net&fp=chrome&pbk=4OTfR6IQ_6Z-5EiAi08sSfUjZtC30c2x6jl9BE9KFwg&sid=356dc0&type=grpc&serviceName=@LIGHTNING6&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vless://ef3c0e94-f92d-4558-92d2-31f7d02c3a50@91.107.200.134:2087?security=reality&sni=dash.cloudflare.com&fp=firefox&pbk=GicA8fPbS9LksttApqa8gzOstomRFncKNoYGLCOqQF8&sid=fc805835&type=grpc&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.38.58:443?security=tls&sni=pjp5.pqjc.buzz&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
