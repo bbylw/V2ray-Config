@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://telegram-id-privatevpns@54.217.232.179:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
-trojan://26e159d2-ec3a-4005-97c7-eb480bab096d@aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27101?security=tls&amp;sni=q08m.vgraxiw73s.hasyaf.cn&amp;type=tcp&amp;headerType=none#%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9%40mftizi
-trojan://telegram-id-privatevpns@15.236.3.23:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
-trojan://45d5c2fa-58f7-4f2a-811b-c44cc51e8668@190.93.247.155:443?path=%2F&amp;security=tls&amp;host=is2.trojanvpn.xyz&amp;type=ws&amp;sni=is2.trojanvpn.xyz#%40hopev2ray%F0%9F%A6%8B
 trojan://telegram-id-directvpn@13.39.116.93:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
 trojan://telegram-id-privatevpns@13.50.211.85:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
 trojan://telegram-id-privatevpns@13.50.205.252:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
@@ -603,3 +599,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#t.m
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#t.me%2Fpeterjest
 trojan://blue2024@162.159.44.207:443?security=tls&sni=tb.promote.icu&type=ws&host=tb.promote.icu&path=%2F#t.me%2Fpeterjest
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.111:8000#t.me%2Fpeterjest
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5600#t.me%2Fpeterjest
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376#t.me%2Fpeterjest
+vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?encryption=none&security=tls&sni=005188006073.sec1org.com&type=tcp&headerType=none#t.me%2Fpeterjest
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#t.me%2Fpeterjest
