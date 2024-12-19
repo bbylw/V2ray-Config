@@ -3,603 +3,123 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - DOMAIN-SUFFIX,news.docer.com,🍃 应用净化
-  - DOMAIN-SUFFIX,notify.wps.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,pc.uf.ksosoft.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pcfg.wps.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,pixiu.shangshufang.ksosoft.com,🍃 应用净化
-  - DOMAIN-SUFFIX,push.wps.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,rating6.kingsoft-office-service.com,🍃 应用净化
-  - DOMAIN-SUFFIX,up.wps.kingsoft.com,🍃 应用净化
-  - DOMAIN-SUFFIX,wpsweb-dc.wps.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,c.51y5.net,🍃 应用净化
-  - DOMAIN-SUFFIX,cdsget.51y5.net,🍃 应用净化
-  - DOMAIN-SUFFIX,news-imgpb.51y5.net,🍃 应用净化
-  - DOMAIN-SUFFIX,wifiapidd.51y5.net,🍃 应用净化
-  - DOMAIN-SUFFIX,wkanc.51y5.net,🍃 应用净化
-  - DOMAIN-SUFFIX,adse.ximalaya.com,🍃 应用净化
-  - DOMAIN-SUFFIX,linkeye.ximalaya.com,🍃 应用净化
-  - DOMAIN-SUFFIX,location.ximalaya.com,🍃 应用净化
-  - DOMAIN-SUFFIX,xdcs-collector.ximalaya.com,🍃 应用净化
-  - DOMAIN-SUFFIX,biz5.kankan.com,🍃 应用净化
-  - DOMAIN-SUFFIX,float.kankan.com,🍃 应用净化
-  - DOMAIN-SUFFIX,hub5btmain.sandai.net,🍃 应用净化
-  - DOMAIN-SUFFIX,hub5emu.sandai.net,🍃 应用净化
-  - DOMAIN-SUFFIX,logic.cpm.cm.kankan.com,🍃 应用净化
-  - DOMAIN-SUFFIX,upgrade.xl9.xunlei.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.wretch.cc,🍃 应用净化
-  - DOMAIN-SUFFIX,ads.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adserver.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adss.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,analytics.query.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,analytics.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ane.yahoo.co.jp,🍃 应用净化
-  - DOMAIN-SUFFIX,ard.yahoo.co.jp,🍃 应用净化
-  - DOMAIN-SUFFIX,beap-bc.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,clicks.beap.bc.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,comet.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,doubleplay-conf-yql.media.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,flurry.com,🍃 应用净化
-  - DOMAIN-SUFFIX,gemini.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,geo.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,js-apac-ss.ysm.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,locdrop.query.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,onepush.query.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,p3p.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,partnerads.ysm.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ws.progrss.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,yads.yahoo.co.jp,🍃 应用净化
-  - DOMAIN-SUFFIX,ybp.yahoo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,shrek.6.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,simba.6.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,union.6.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,logger.baofeng.com,🍃 应用净化
-  - DOMAIN-SUFFIX,xs.houyi.baofeng.net,🍃 应用净化
-  - DOMAIN-SUFFIX,dotcounter.douyutv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,api.newad.ifeng.com,🍃 应用净化
-  - DOMAIN-SUFFIX,exp.3g.ifeng.com,🍃 应用净化
-  - DOMAIN-SUFFIX,game.ifeng.com,🍃 应用净化
-  - DOMAIN-SUFFIX,iis3g.deliver.ifeng.com,🍃 应用净化
-  - DOMAIN-SUFFIX,mfp.deliver.ifeng.com,🍃 应用净化
-  - DOMAIN-SUFFIX,stadig.ifeng.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adm.funshion.com,🍃 应用净化
-  - DOMAIN-SUFFIX,jobsfe.funshion.com,🍃 应用净化
-  - DOMAIN-SUFFIX,po.funshion.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pub.funshion.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pv.funshion.com,🍃 应用净化
-  - DOMAIN-SUFFIX,stat.funshion.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.m.iqiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,afp.iqiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,c.uaa.iqiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,cloudpush.iqiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,cm.passport.iqiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,cupid.iqiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,emoticon.sns.iqiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,gamecenter.iqiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ifacelog.iqiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,mbdlog.iqiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,meta.video.qiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,msg.71.am,🍃 应用净化
-  - DOMAIN-SUFFIX,msg1.video.qiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,msg2.video.qiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,paopao.iqiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,paopaod.qiyipic.com,🍃 应用净化
-  - DOMAIN-SUFFIX,policy.video.iqiyi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,yuedu.iqiyi.com,🍃 应用净化
-  - IP-CIDR,101.227.200.0/24,🍃 应用净化,no-resolve
-  - IP-CIDR,101.227.200.11/32,🍃 应用净化,no-resolve
-  - IP-CIDR,101.227.200.28/32,🍃 应用净化,no-resolve
-  - IP-CIDR,101.227.97.240/32,🍃 应用净化,no-resolve
-  - IP-CIDR,124.192.153.42/32,🍃 应用净化,no-resolve
-  - DOMAIN-SUFFIX,gug.ku6cdn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pq.stat.ku6.com,🍃 应用净化
-  - DOMAIN-SUFFIX,st.vq.ku6.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,static.ku6.com,🍃 应用净化
-  - DOMAIN-SUFFIX,1.letvlive.com,🍃 应用净化
-  - DOMAIN-SUFFIX,2.letvlive.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ark.letv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,dc.letv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,fz.letv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,g3.letv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,game.letvstore.com,🍃 应用净化
-  - DOMAIN-SUFFIX,i0.letvimg.com,🍃 应用净化
-  - DOMAIN-SUFFIX,i3.letvimg.com,🍃 应用净化
-  - DOMAIN-SUFFIX,minisite.letv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,n.mark.letv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pro.hoye.letv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pro.letv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,stat.letv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,static.app.m.letv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,click.hunantv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,da.hunantv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,da.mgtv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,log.hunantv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,log.v2.hunantv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,p2.hunantv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,res.hunantv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,888.tv.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adnet.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ads.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,aty.hd.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,aty.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,bd.hd.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,click.hd.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,click2.hd.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ctr.hd.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,epro.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,epro.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,go.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,golden1.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,golden1.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,hui.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,inte.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,inte.sogoucdn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,inte.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,lm.tv.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,lu.sogoucdn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pb.hd.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,push.tv.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pv.hd.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pv.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pv.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,theta.sogoucdn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,um.hd.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,uranus.sogou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,uranus.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,wan.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,wl.hd.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,yule.sohu.com,🍃 应用净化
-  - DOMAIN-SUFFIX,afp.pplive.com,🍃 应用净化
-  - DOMAIN-SUFFIX,app.aplus.pptv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,as.aplus.pptv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,asimgs.pplive.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,de.as.pptv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,jp.as.pptv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pp2.pptv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,stat.pptv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,btrace.video.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,c.l.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,dp3.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,livep.l.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,lives.l.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,livew.l.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,mcgi.v.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,mdevstat.qqlive.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,omgmta1.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,p.l.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,rcgi.video.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,t.l.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,u.l.qq.com,🍃 应用净化
-  - DOMAIN-SUFFIX,a-dxk.play.api.3g.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,actives.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.api.3g.tudou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.api.3g.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.api.mobile.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.mobile.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adcontrol.tudou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adplay.tudou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,b.smartvideo.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,c.yes.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,dev-push.m.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,dl.g.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,dmapp.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,e.stat.ykimg.com,🍃 应用净化
-  - DOMAIN-SUFFIX,gamex.mobile.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,goods.tudou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,hudong.pl.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,hz.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,iwstat.tudou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,iyes.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,l.ykimg.com,🍃 应用净化
-  - DOMAIN-SUFFIX,l.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,lstat.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,lvip.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,mobilemsg.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,msg.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,myes.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,nstat.tudou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,p-log.ykimg.com,🍃 应用净化
-  - DOMAIN-SUFFIX,p.l.ykimg.com,🍃 应用净化
-  - DOMAIN-SUFFIX,p.l.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,passport-log.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,push.m.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,r.l.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,s.p.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,sdk.m.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,stat.tudou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,stat.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,stats.tudou.com,🍃 应用净化
-  - DOMAIN-SUFFIX,store.tv.api.3g.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,store.xl.api.3g.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,tdrec.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,test.ott.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,v.l.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,val.api.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,wan.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ykatr.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ykrec.youku.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ykrectab.youku.com,🍃 应用净化
-  - IP-CIDR,117.177.248.17/32,🍃 应用净化,no-resolve
-  - IP-CIDR,117.177.248.41/32,🍃 应用净化,no-resolve
-  - IP-CIDR,223.87.176.139/32,🍃 应用净化,no-resolve
-  - IP-CIDR,223.87.176.176/32,🍃 应用净化,no-resolve
-  - IP-CIDR,223.87.177.180/32,🍃 应用净化,no-resolve
-  - IP-CIDR,223.87.177.182/32,🍃 应用净化,no-resolve
-  - IP-CIDR,223.87.177.184/32,🍃 应用净化,no-resolve
-  - IP-CIDR,223.87.177.43/32,🍃 应用净化,no-resolve
-  - IP-CIDR,223.87.177.47/32,🍃 应用净化,no-resolve
-  - IP-CIDR,223.87.177.80/32,🍃 应用净化,no-resolve
-  - IP-CIDR,223.87.182.101/32,🍃 应用净化,no-resolve
-  - IP-CIDR,223.87.182.102/32,🍃 应用净化,no-resolve
-  - IP-CIDR,223.87.182.11/32,🍃 应用净化,no-resolve
-  - IP-CIDR,223.87.182.52/32,🍃 应用净化,no-resolve
-  - DOMAIN-SUFFIX,azabu-u.ac.jp,🍃 应用净化
-  - DOMAIN-SUFFIX,couchcoaster.jp,🍃 应用净化
-  - DOMAIN-SUFFIX,delivery.dmkt-sp.jp,🍃 应用净化
-  - DOMAIN-SUFFIX,ehg-youtube.hitbox.com,🍃 应用净化
-  - DOMAIN-SUFFIX,nichibenren.or.jp,🍃 应用净化
-  - DOMAIN-SUFFIX,nicorette.co.kr,🍃 应用净化
-  - DOMAIN-SUFFIX,ssl-youtube.2cnt.net,🍃 应用净化
-  - DOMAIN-SUFFIX,youtube.112.2o7.net,🍃 应用净化
-  - DOMAIN-SUFFIX,youtube.2cnt.net,🍃 应用净化
-  - DOMAIN-SUFFIX,acsystem.wasu.tv,🍃 应用净化
-  - DOMAIN-SUFFIX,ads.cdn.tvb.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ads.wasu.tv,🍃 应用净化
-  - DOMAIN-SUFFIX,afp.wasu.tv,🍃 应用净化
-  - DOMAIN-SUFFIX,c.algovid.com,🍃 应用净化
-  - DOMAIN-SUFFIX,gg.jtertp.com,🍃 应用净化
-  - DOMAIN-SUFFIX,gridsum-vd.cntv.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,kwflvcdn.000dn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,logstat.t.sfht.com,🍃 应用净化
-  - DOMAIN-SUFFIX,match.rtbidder.net,🍃 应用净化
-  - DOMAIN-SUFFIX,n-st.vip.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pop.uusee.com,🍃 应用净化
-  - DOMAIN-SUFFIX,static.duoshuo.com,🍃 应用净化
-  - DOMAIN-SUFFIX,t.cr-nielsen.com,🍃 应用净化
-  - DOMAIN-SUFFIX,terren.cntv.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,1.win7china.com,🍃 应用净化
-  - DOMAIN-SUFFIX,168.it168.com,🍃 应用净化
-  - DOMAIN-SUFFIX,2.win7china.com,🍃 应用净化
-  - DOMAIN-SUFFIX,801.tianya.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,801.tianyaui.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,803.tianya.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,803.tianyaui.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,806.tianya.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,806.tianyaui.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,808.tianya.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,808.tianyaui.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,92x.tumblr.com,🍃 应用净化
-  - DOMAIN-SUFFIX,a1.itc.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,ad-channel.wikawika.xyz,🍃 应用净化
-  - DOMAIN-SUFFIX,ad-display.wikawika.xyz,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.12306.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.3.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.95306.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.caiyunapp.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.cctv.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.cmvideo.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.csdn.net,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.ganji.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.house365.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.thepaper.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,ad.unimhk.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adadmin.house365.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adhome.1fangchan.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adm.10jqka.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,ads.csdn.net,🍃 应用净化
-  - DOMAIN-SUFFIX,ads.feedly.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ads.genieessp.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ads.house365.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ads.linkedin.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adshownew.it168.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adv.ccb.com,🍃 应用净化
-  - DOMAIN-SUFFIX,advert.api.thejoyrun.com,🍃 应用净化
-  - DOMAIN-SUFFIX,analytics.ganji.com,🍃 应用净化
-  - DOMAIN-SUFFIX,api-deal.kechenggezi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,api-z.weidian.com,🍃 应用净化
-  - DOMAIN-SUFFIX,app-monitor.ele.me,🍃 应用净化
-  - DOMAIN-SUFFIX,bat.bing.com,🍃 应用净化
-  - DOMAIN-SUFFIX,bd1.52che.com,🍃 应用净化
-  - DOMAIN-SUFFIX,bd2.52che.com,🍃 应用净化
-  - DOMAIN-SUFFIX,bdj.tianya.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,bdj.tianyaui.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,beacon.tingyun.com,🍃 应用净化
-  - DOMAIN-SUFFIX,cdn.jiuzhilan.com,🍃 应用净化
-  - DOMAIN-SUFFIX,click.cheshi-img.com,🍃 应用净化
-  - DOMAIN-SUFFIX,click.cheshi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,click.ganji.com,🍃 应用净化
-  - DOMAIN-SUFFIX,click.tianya.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,click.tianyaui.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,client-api.ele.me,🍃 应用净化
-  - DOMAIN-SUFFIX,collector.githubapp.com,🍃 应用净化
-  - DOMAIN-SUFFIX,counter.csdn.net,🍃 应用净化
-  - DOMAIN-SUFFIX,d0.xcar.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,de.soquair.com,🍃 应用净化
-  - DOMAIN-SUFFIX,dol.tianya.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,dol.tianyaui.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,dw.xcar.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,e.nexac.com,🍃 应用净化
-  - DOMAIN-SUFFIX,eq.10jqka.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,exp.17wo.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,game.51yund.com,🍃 应用净化
-  - DOMAIN-SUFFIX,ganjituiguang.ganji.com,🍃 应用净化
-  - DOMAIN-SUFFIX,grand.ele.me,🍃 应用净化
-  - DOMAIN-SUFFIX,hosting.miarroba.info,🍃 应用净化
-  - DOMAIN-SUFFIX,iadsdk.apple.com,🍃 应用净化
-  - DOMAIN-SUFFIX,image.gentags.com,🍃 应用净化
-  - DOMAIN-SUFFIX,its-dori.tumblr.com,🍃 应用净化
-  - DOMAIN-SUFFIX,log.outbrain.com,🍃 应用净化
-  - DOMAIN-SUFFIX,m.12306media.com,🍃 应用净化
-  - DOMAIN-SUFFIX,media.cheshi-img.com,🍃 应用净化
-  - DOMAIN-SUFFIX,media.cheshi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,mobile-pubt.ele.me,🍃 应用净化
-  - DOMAIN-SUFFIX,mobileads.msn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,n.cosbot.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,newton-api.ele.me,🍃 应用净化
-  - DOMAIN-SUFFIX,ozone.10jqka.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,pdl.gionee.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pica-juicy.picacomic.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pixel.wp.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pub.mop.com,🍃 应用净化
-  - DOMAIN-SUFFIX,push.wandoujia.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pv.cheshi-img.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pv.cheshi.com,🍃 应用净化
-  - DOMAIN-SUFFIX,pv.xcar.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,qdp.qidian.com,🍃 应用净化
-  - DOMAIN-SUFFIX,res.gwifi.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,ssp.kssws.ks-cdn.com,🍃 应用净化
-  - DOMAIN-SUFFIX,sta.ganji.com,🍃 应用净化
-  - DOMAIN-SUFFIX,stat.10jqka.com.cn,🍃 应用净化
-  - DOMAIN-SUFFIX,stat.it168.com,🍃 应用净化
-  - DOMAIN-SUFFIX,stats.chinaz.com,🍃 应用净化
-  - DOMAIN-SUFFIX,stats.developingperspective.com,🍃 应用净化
-  - DOMAIN-SUFFIX,track.hujiang.com,🍃 应用净化
-  - DOMAIN-SUFFIX,tracker.yhd.com,🍃 应用净化
-  - DOMAIN-SUFFIX,tralog.ganji.com,🍃 应用净化
-  - DOMAIN-SUFFIX,up.qingdaonews.com,🍃 应用净化
-  - DOMAIN-SUFFIX,vaserviece.10jqka.com.cn,🍃 应用净化
-# Google China
-#DOMAIN-SUFFIX,translate.googleapis.com
-  - DOMAIN-SUFFIX,265.com,🎯 全球直连
-  - DOMAIN-SUFFIX,2mdn.net,🎯 全球直连
-  - DOMAIN-SUFFIX,alt1-mtalk.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,alt2-mtalk.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,alt3-mtalk.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,alt4-mtalk.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,alt5-mtalk.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,alt6-mtalk.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,alt7-mtalk.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,alt8-mtalk.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,app-measurement.com,🎯 全球直连
-  - DOMAIN-SUFFIX,c.android.clients.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,cache.pack.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,clickserve.dartsearch.net,🎯 全球直连
-  - DOMAIN-SUFFIX,clientservices.googleapis.com,🎯 全球直连
-  - DOMAIN-SUFFIX,crl.pki.goog,🎯 全球直连
-  - DOMAIN-SUFFIX,dl.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,dl.l.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,fonts.googleapis.com,🎯 全球直连
-  - DOMAIN-SUFFIX,fonts.gstatic.com,🎯 全球直连
-  - DOMAIN-SUFFIX,googletagmanager.com,🎯 全球直连
-  - DOMAIN-SUFFIX,googletagservices.com,🎯 全球直连
-  - DOMAIN-SUFFIX,gtm.oasisfeng.com,🎯 全球直连
-  - DOMAIN-SUFFIX,imasdk.googleapis.com,🎯 全球直连
-  - DOMAIN-SUFFIX,mtalk.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,ocsp.pki.goog,🎯 全球直连
-  - DOMAIN-SUFFIX,recaptcha.net,🎯 全球直连
-  - DOMAIN-SUFFIX,safebrowsing-cache.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,safebrowsing.googleapis.com,🎯 全球直连
-  - DOMAIN-SUFFIX,settings.crashlytics.com,🎯 全球直连
-  - DOMAIN-SUFFIX,ssl-google-analytics.l.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,toolbarqueries.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,tools.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,tools.l.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,update.googleapis.com,🎯 全球直连
-  - DOMAIN-SUFFIX,www-googletagmanager.l.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,www.gstatic.com,🎯 全球直连
-# 内容：SteamCN
-# 数量：15条
-  - DOMAIN,csgo.wmsj.cn,🎯 全球直连
-  - DOMAIN,dl.steam.clngaa.com,🎯 全球直连
-  - DOMAIN,dl.steam.ksyna.com,🎯 全球直连
-  - DOMAIN,dota2.wmsj.cn,🎯 全球直连
-  - DOMAIN,st.dl.bscstorage.net,🎯 全球直连
-  - DOMAIN,st.dl.eccdnx.com,🎯 全球直连
-  - DOMAIN,st.dl.pinyuncloud.com,🎯 全球直连
-  - DOMAIN,steampipe.steamcontent.tnkjmec.com,🎯 全球直连
-  - DOMAIN,steampowered.com.8686c.com,🎯 全球直连
-  - DOMAIN,steamstatic.com.8686c.com,🎯 全球直连
-  - DOMAIN,wmsjsteam.com,🎯 全球直连
-  - DOMAIN-SUFFIX,cm.steampowered.com,🎯 全球直连
-  - DOMAIN-SUFFIX,steamchina.com,🎯 全球直连
-  - DOMAIN-SUFFIX,steamcontent.com,🎯 全球直连
-  - DOMAIN-SUFFIX,steamusercontent.com,🎯 全球直连
-# Microsoft Services
-# optimized from https://gist.github.com/TTTPOB/ce93fb3b04ba2f21880b09427442d831
-# source: https://docs.microsoft.com/en-us/office365/enterprise/urls-and-ip-address-ranges
-  - DOMAIN-KEYWORD,1drv,Ⓜ️ 微软服务
-  - DOMAIN-KEYWORD,microsoft,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,aadrm.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,acompli.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,acompli.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,aka.ms,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,akadns.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,aspnetcdn.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,assets-yammer.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,azure.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,azure.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,azureedge.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,azurerms.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,bing.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,cloudapp.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,cloudappsecurity.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,edgesuite.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,gfx.ms,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,hotmail.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,live.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,live.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,lync.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,msappproxy.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,msauth.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,msauthimages.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,msecnd.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,msedge.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,msft.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,msftauth.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,msftauthimages.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,msftidentity.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,msidentity.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,msn.cn,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,msn.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,msocdn.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,msocsp.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,mstea.ms,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,o365weve.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,oaspapps.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,office.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,office.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,office365.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,officeppe.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,omniroot.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,onedrive.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,onenote.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,onenote.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,onestore.ms,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,outlook.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,outlookmobile.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,phonefactor.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,public-trust.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,sfbassets.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,sfx.ms,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,sharepoint.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,sharepointonline.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,skype.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,skypeassets.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,skypeforbusiness.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,staffhub.ms,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,svc.ms,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,sway-cdn.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,sway-extensions.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,sway.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,trafficmanager.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,uservoice.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,virtualearth.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,visualstudio.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,windows-ppe.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,windows.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,windows.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,windowsazure.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,windowsupdate.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,wunderlist.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,yammer.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,yammerusercontent.com,Ⓜ️ 微软服务
-# Apple
-# 一般国内Apple肯定正常,不需要开代理
-  - DOMAIN,apple.comscoreresearch.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,aaplimg.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,akadns.net,🍎 苹果服务
-  - DOMAIN-SUFFIX,apple-cloudkit.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,apple-mapkit.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,apple.co,🍎 苹果服务
-  - DOMAIN-SUFFIX,apple.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,apple.com.cn,🍎 苹果服务
-  - DOMAIN-SUFFIX,apple.news,🍎 苹果服务
-  - DOMAIN-SUFFIX,appstore.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,cdn-apple.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,crashlytics.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,icloud-content.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,icloud.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,icloud.com.cn,🍎 苹果服务
-  - DOMAIN-SUFFIX,itunes.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,me.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,mzstatic.com,🍎 苹果服务
-  - IP-CIDR,17.0.0.0/8,🍎 苹果服务,no-resolve
-  - IP-CIDR,63.92.224.0/19,🍎 苹果服务,no-resolve
-  - IP-CIDR,65.199.22.0/23,🍎 苹果服务,no-resolve
-  - IP-CIDR,139.178.128.0/18,🍎 苹果服务,no-resolve
-  - IP-CIDR,144.178.0.0/19,🍎 苹果服务,no-resolve
-  - IP-CIDR,144.178.36.0/22,🍎 苹果服务,no-resolve
-  - IP-CIDR,144.178.48.0/20,🍎 苹果服务,no-resolve
-  - IP-CIDR,192.35.50.0/24,🍎 苹果服务,no-resolve
-  - IP-CIDR,198.183.17.0/24,🍎 苹果服务,no-resolve
-  - IP-CIDR,205.180.175.0/24,🍎 苹果服务,no-resolve
-# 内容：国外媒体列表
-# 更新：2023-01-15 22:06:33
-# 数量：330条
-# ABC
-# AbemaTV
-# All4
-# Amazon
-# AppleNews
-# AppleTV
-# BBCiPlayer
-# Bahamut
-# DAZN
-# Deezer
-# DiscoveryPlus
-# DisneyPlus
-# EncoreTVB
-# FoxNow
-# HBO
-# HBO_GO_HKG
-# HWTV
-# Hulu
-# HuluJapan
-# ITV
-# JOOX
-# Japonx
-# KKBOX
-# KKTV
-# LiTV
-# LineTV
-# My5
-# MyTVSuper
-# Netflix
-# Niconico
-# PBS
-# Pandora
-# Pornhub
-# Qobuz
-# SoundCloud
-# Spotify
-# TIDAL
-# TaiWanGood 台湾好
-# TikTok
-# Twitch
-# ViuTV
-# YouTube
-# YouTubeMusic
-  - DOMAIN-SUFFIX,edgedatg.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,go.com,🌍 国外媒体
-#   - USER-AGENT,AbemaTV*,🌍 国外媒体
-  - DOMAIN-KEYWORD,abematv.akamaized.net,🌍 国外媒体
-  - DOMAIN,api-abematv.bucketeer.jp,🌍 国外媒体
-  - DOMAIN-SUFFIX,abema-tv.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,abema.io,🌍 国外媒体
-  - DOMAIN-SUFFIX,abema.tv,🌍 国外媒体
-  - DOMAIN-SUFFIX,ameba.jp,🌍 国外媒体
-  - DOMAIN-SUFFIX,hayabusa.io,🌍 国外媒体
-  - DOMAIN-SUFFIX,hayabusa.media,🌍 国外媒体
-#   - USER-AGENT,All4*,🌍 国外媒体
-  - DOMAIN-SUFFIX,c4assets.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,channel4.com,🌍 国外媒体
-  - DOMAIN-KEYWORD,avoddashs,🌍 国外媒体
-  - DOMAIN,atv-ps.amazon.com,🌍 国外媒体
-  - DOMAIN,avodmp4s3ww-a.akamaihd.net,🌍 国外媒体
-  - DOMAIN,d1v5ir2lpwr8os.cloudfront.net,🌍 国外媒体
-  - DOMAIN,d1xfray82862hr.cloudfront.net,🌍 国外媒体
-  - DOMAIN,d22qjgkvxw22r6.cloudfront.net,🌍 国外媒体
-  - DOMAIN,d25xi40x97liuc.cloudfront.net,🌍 国外媒体
-  - DOMAIN,d27xxe7juh1us6.cloudfront.net,🌍 国外媒体
-  - DOMAIN,d3196yreox78o9.cloudfront.net,🌍 国外媒体
-  - DOMAIN,dmqdd6hw24ucf.cloudfront.net,🌍 国外媒体
-  - DOMAIN,ktpx.amazon.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,aboutamazon.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,aiv-cdn.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,aiv-delivery.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,amazon.jobs,🌍 国外媒体
-  - DOMAIN-SUFFIX,amazonuniversity.jobs,🌍 国外媒体
-  - DOMAIN-SUFFIX,amazonvideo.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,media-amazon.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,pv-cdn.net,🌍 国外媒体
+    integrity="sha384-steVzOSr5DI5VId9YubIjP5piv7RVCSZI7DmaxRj6VrZPzoPUmw/i6YbPCnE5HIi"></script>
+<link
+  title="dark"
+  rel="stylesheet"
+  href="/static/css/dark-style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-y+RMeVK5OKTpmebEnnHyDAEECqdhBkSLfyPKO1b7CokmrpIKDor61jc7Wi7fQR7A"/>
+<link
+  title="light"
+  rel="stylesheet alternate"
+  href="/static/css/style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-h/nZ9blViSRWoEdjXp0507aSEv57qJuD982XXmJDC4pfhDbFs/acexCxPNm6Ogbf"/>
+<script
+  src="/static/js/style.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-zwBoM/SvColCwJ9hm3JZVZgpLWTXKwowuywp+8KnSA2XpcN9SlsUnCt4D0WEXaYY"></script>
+<script
+  defer
+  src="/static/js/navbar.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-OsNHhrFcStlvb1ftG+CsyQVuRliPz3UoK2zgo4aKw1z8qKR460OLsn9X3EHysa7y"></script>
+<script
+  defer
+  src="/static/js/notifications.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-yI6E6wBeIs/7kTFxJ5ZSJSiuDwP7QCjkmK+mnQ7ROOvMq0a6H6pgbZyBEa2+7wws"></script>
+<link rel="icon" sizes="16x16 32x32 48x48 64x64" href="/static/favicons/favicon.ico"/>
+<!--[if IE]><link rel="shortcut icon" href="/static/favicons/favicon.ico"/><![endif]-->
+<link rel="apple-touch-icon-precomposed" href="/static/favicons/favicon-152.png"/>
+<meta name="msapplication-TileColor" content="#FFFFFF"/>
+<meta name="msapplication-TileImage" content="/static/favicons/favicon-144.png"/>
+<meta name="msapplication-square70x70logo" content="/static/favicons/favicon-70.png"/>
+<meta name="msapplication-square150x150logo" content="/static/favicons/favicon-150.png"/>
+<meta name="msapplication-square310x310logo" content="/static/favicons/favicon-310.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/favicons/favicon-152.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/favicons/favicon-144.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/favicons/favicon-120.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/favicons/favicon-114.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/favicons/favicon-72.png"/>
+<link rel="apple-touch-icon-precomposed" href="/static/favicons/favicon-57.png"/></head>
+<body>
+<div class="wrapper">
+  <nav class="navbar">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="&#x2F;">
+        <span class="icon is-small">
+          <svg viewBox="0 0 24 24">
+  <use href="/static/svg/icons.svg?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6#paste"></use>
+</svg>
+        </span>
+        <span>paste.gg</span>
+      </a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="menu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div id="menu" class="navbar-menu">
+      <div class="navbar-start">
+        <a class="navbar-item" href="&#x2F;">
+          New
+        </a>
+      </div>
+      <div class="navbar-end">
+        <a class="navbar-item" href="&#x2F;about">
+          About
+        </a>
+      
+        <div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link" href="&#x2F;login">
+            Log in
+          </a>
+          <div class="navbar-dropdown is-right"><a class="navbar-item" href="&#x2F;register">
+              Register
+            </a>
+            <div class="requires-js">
+              <hr class="navbar-divider"/>
+              <a class="navbar-item" id="swap_theme" href="javascript:void(0)">
+                Swap theme
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <section class="hero is-dark">
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title">
+          404
+        </h1>
+        <h2 class="subtitle">
+          Page not found.
+        </h2>
+      </div>
+    </div>
+    <div class="hero-foot">
+      <div class="container"></div>
+    </div>
+  </section>
+<main class="section">
+    <div class="container">
+We couldn&#x27;t find what you&#x27;re looking for. Sorry!
+
+    </div>
+  </main>
+
+</div>
+<footer class="footer">
+  <nav class="breadcrumb is-centered has-bullet-separator" aria-label="breadcrumbs">
+    <ul>
+      <li><a href="https://github.com/ascclemens/paste">code</a></li>
+      <li><a href="https://github.com/ascclemens/paste/commit/98f6a6a764b8af6ce4bc150d259ea508626434a4">server: ⁨98f6a6a⁩</a></li>
+      <li><a href="https://github.com/ascclemens/paste/commit/01cb6981d6d36376b40a46bdea92bc080fd92ba6">resources: ⁨01cb698⁩</a></li>
+      <li><a href="&#x2F;credits">credits</a></li>
+      <li class="is-active"><a>&copy; 2024</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>
+
