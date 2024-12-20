@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+hysteria2://67d6bf94-9eb9-488b-aeec-baace20433d1@45.140.169.231:8080?insecure=1&sni=www.bing.com#8%7CMci-%40V2ray_Raha-04
+hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@140.238.137.165:30102?insecure=1&sni=du.wish.ml#8%7CMCI-%40V2ray_Alpha-7
+hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@144.22.223.153:30102?insecure=1&sni=br2.wish.ml#8%7CMCI-%40V2ray_Alpha-9
+hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@149.130.210.148:30102?insecure=1&sni=us9.wish.ml#8%7CMCI-%40V2ray_Alpha-5
+hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@193.123.82.241:30102?insecure=1&sni=du.wish.ml#8%7CMCI-%40V2ray_Alpha-4
 hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@207.211.164.255:30102?insecure=1&sni=us11.wish.ml#8%7CMCI-%40V2ray_Alpha-6
 hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@207.211.178.161:30102?insecure=1&sni=us6.wish.ml#8%7CMCI-%40V2ray_Alpha-3
 hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@40.233.76.38:30102?insecure=1&sni=du.wish.ml#8%7CMCI-%40V2ray_Alpha-8
@@ -73,7 +78,7 @@ vless://1aae9657-c653-495d-e8ad-8ca52916cea8@172.67.160.44:443?allowInsecure=1&s
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTZ8ZCoqKioqKioqKmcuY29tXzIiLCAiYWRkIjogIjQyLjIzNi43My43MiIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwNDRmMDE3Ny0wNjc1LTRkY2YtODlkNC04MDRiNjc4OGU1MTgiLCAic25pIjogInd3dy56aXRpYW4uY24ifQ==
 vless://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1&fp=chrome&security=tls#16%7Cd%2A%2A%2A%2A%2A%2A%2A%2A%2Ag.com_6
 trojan://fuck@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1#16%7Cd%2A%2A%2A%2A%2A%2A%2A%2A%2Ag.com_3
-https://VyUyS1.mcsslk.xyz/2edf55fc19641dd7b049362d0db2c20e
+https://oTvLHq.mcsslk.xyz/679336bada9728c51df3f91133c287f4
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%5B%F0%9F%87%A7%F0%9F%87%AD%5Dt.me%2FConfigsHub
 vless://bf55284c-26bc-4398-8731-979a6cbcb908@hajlab.ucdavis.edu:443?encryption=none&security=tls&sni=hajlab.ucdavis.edu&type=ws&host=joinbedemaznettel.ir&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigsHub
@@ -598,8 +603,3 @@ proxy-groups:
       - 201.myhmyhhuang1980.workers.dev_2
       - feng1_2
       - feng2_2
-      - feng3_2
-      - feng4_2
-      - feng5_2
-      - feng6_2
-      - 901.dbodanwi.workers.dev_3
