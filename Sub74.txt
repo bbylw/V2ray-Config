@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - IP-CIDR,162.14.0.0/16,🎯 全球直连,no-resolve
   - IP-CIDR,162.62.0.0/16,🎯 全球直连,no-resolve
   - IP-CIDR,170.106.130.0/24,🎯 全球直连,no-resolve
   - IP-CIDR,182.254.0.0/16,🎯 全球直连,no-resolve
@@ -602,4 +603,3 @@ ss://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;
 ss://22ebc3ad-2e41-4fb3-acdd-c6269ac9bf81@95.85.95.85:443?encryption=none&amp;security=tls&amp;sni=promo.worldofwarships.com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=mamadgamenetcsgoskin2.ir&amp;path=%2F#@v2rayngninja
 ss://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?security=tls&amp;sni=ARCane-ROYAL.Pages.DEV&amp;alpn=http/1.1&amp;type=ws&amp;path=/&amp;host=ARCane-ROYAL.Pages.DEV&amp;encryption=none#Awlix_ir
 ss://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@104.24.139.27:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=lhxt.xiaomi.win&amp;fp=random&amp;type=ws&amp;sni=lhxt.xiaomi.win#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@142.202.49.122:8118#Free+ID%28%40Outline_Vpn%29+2011
