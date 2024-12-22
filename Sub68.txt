@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@47.245.120.119:443?allowInsecure=0&sni=lhxt.xiaomi.win&type=ws&host=lhxt.xiaomi.win&path=/?ed=2560security=tls#15%7CSG_speednode_0012
+vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@8.222.135.109:443?allowInsecure=0&sni=lhxt.xiaomi.win&type=ws&host=lhxt.xiaomi.win&path=/?ed=2560security=tls#15%7CSG_speednode_0013
+vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@8.219.55.76:443?allowInsecure=0&sni=lhxt.xiaomi.win&type=ws&host=lhxt.xiaomi.win&path=/?ed=2560security=tls#15%7CSG_speednode_0014
+vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@8.219.79.144:443?allowInsecure=0&sni=lhxt.xiaomi.win&type=ws&host=lhxt.xiaomi.win&path=/?ed=2560security=tls#15%7CSG_speednode_0015
+vless://1aae9657-c653-495d-e8ad-8ca52916cea8@8.219.129.213:443?allowInsecure=0&sni=de.bolagskontaktstockholm.se&type=ws&host=de.bolagskontaktstockholm.se&path=/wssecurity=tls#15%7CSG_speednode_0016
+vless://1aae9657-c653-495d-e8ad-8ca52916cea8@8.222.239.199:443?allowInsecure=0&sni=de.bolagskontaktstockholm.se&type=ws&host=de.bolagskontaktstockholm.se&path=/wssecurity=tls#15%7CSG_speednode_0017
+vless://1aae9657-c653-495d-e8ad-8ca52916cea8@47.245.87.17:443?allowInsecure=0&sni=de.bolagskontaktstockholm.se&type=ws&host=de.bolagskontaktstockholm.se&path=/wssecurity=tls#15%7CSG_speednode_0018
+vless://1aae9657-c653-495d-e8ad-8ca52916cea8@8.222.247.175:443?allowInsecure=0&sni=de.bolagskontaktstockholm.se&type=ws&host=de.bolagskontaktstockholm.se&path=/wssecurity=tls#15%7CSG_speednode_0019
+vless://1aae9657-c653-495d-e8ad-8ca52916cea8@8.222.222.203:443?allowInsecure=0&sni=de.bolagskontaktstockholm.se&type=ws&host=de.bolagskontaktstockholm.se&path=/wssecurity=tls#15%7CSG_speednode_0020
+vless://1aae9657-c653-495d-e8ad-8ca52916cea8@47.245.126.194:443?allowInsecure=0&sni=de.bolagskontaktstockholm.se&type=ws&host=de.bolagskontaktstockholm.se&path=/wssecurity=tls#15%7CSG_speednode_0021
+vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@104.24.139.27:443?allowInsecure=0&sni=lhxt.xiaomi.win&type=ws&host=lhxt.xiaomi.win&path=/?ed=2560security=tls#15%7CUS_speednode_0022
+vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@172.64.160.120:443?allowInsecure=0&sni=lhxt.xiaomi.win&type=ws&host=lhxt.xiaomi.win&path=/?ed=2560fp=random&security=tls#15%7CUS_speednode_0025
 vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@104.24.186.216:443?allowInsecure=0&sni=lhxt.xiaomi.win&type=ws&host=lhxt.xiaomi.win&path=/?ed=2560fp=random&security=tls#15%7CUS_speednode_0028
 vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@104.24.136.104:443?allowInsecure=0&sni=lhxt.xiaomi.win&type=ws&host=lhxt.xiaomi.win&path=/?ed=2560fp=random&security=tls#15%7CUS_speednode_0029
 vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@104.24.49.64:443?allowInsecure=0&sni=lhxt.xiaomi.win&type=ws&host=lhxt.xiaomi.win&path=/?ed=2560fp=random&security=tls#15%7CUS_speednode_0030
@@ -591,15 +603,3 @@ proxy-groups:
       - 备2_2
       - 201.myhmyhhuang1980.workers.dev_2
       - feng1_2
-      - feng2_2
-      - feng3_2
-      - feng4_2
-      - feng5_2
-      - feng6_2
-      - 901.dbodanwi.workers.dev_3
-      - 302.j4tccyw7.workers.dev_3
-      - 201.58vtg99l.workers.dev_3
-      - 备1_3
-      - 备2_3
-      - 201.myhmyhhuang1980.workers.dev_3
-      - feng1_3
