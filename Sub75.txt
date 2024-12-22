@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - IP-CIDR,47.240.0.0/14,🎯 全球直连,no-resolve
   - IP-CIDR,47.244.0.0/15,🎯 全球直连,no-resolve
   - IP-CIDR,47.246.0.0/16,🎯 全球直连,no-resolve
   - IP-CIDR,47.250.0.0/15,🎯 全球直连,no-resolve
@@ -603,3 +602,4 @@ ss://0e626bc4-44a4-4e24-baa9-604f5387db80@84.47.233.102:20014?security=none&amp;
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.33.127:443?security=tls&amp;sni=mefa.ir&amp;alpn=h2,http/1.1&amp;allowInsecure=1&amp;fp=randomized&amp;type=ws&amp;path=/H?ed%3D2560&amp;host=mefa.ir&amp;encryption=none#Awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%85%D8%A7+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A+V2rayng_Fast%40
 ss://Biaing--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=ncc.ir&amp;type=ws&amp;sni=zmaoz.faculty.ucdavis.edu#%40proxy_kafee%20%7C%20ALL%20%20%28%DA%98%D8%A7%DA%A9%D9%84%DB%8C%D9%86%29
+ss://475429b6-5012-4ede-9cde-a049d5372f7f@151.101.194.228:80?security=none&amp;type=ws&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v25.drlimit.net#@Hope_Net-join-us-on-Telegram

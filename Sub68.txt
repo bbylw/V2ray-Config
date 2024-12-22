@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@172.64.160.120:443?allowInsecure=0&sni=lhxt.xiaomi.win&type=ws&host=lhxt.xiaomi.win&path=/?ed=2560fp=random&security=tls#15%7CUS_speednode_0025
 vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@104.24.186.216:443?allowInsecure=0&sni=lhxt.xiaomi.win&type=ws&host=lhxt.xiaomi.win&path=/?ed=2560fp=random&security=tls#15%7CUS_speednode_0028
 vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@104.24.136.104:443?allowInsecure=0&sni=lhxt.xiaomi.win&type=ws&host=lhxt.xiaomi.win&path=/?ed=2560fp=random&security=tls#15%7CUS_speednode_0029
 vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@104.24.49.64:443?allowInsecure=0&sni=lhxt.xiaomi.win&type=ws&host=lhxt.xiaomi.win&path=/?ed=2560fp=random&security=tls#15%7CUS_speednode_0030
@@ -603,3 +602,4 @@ proxy-groups:
       - 备1_3
       - 备2_3
       - 201.myhmyhhuang1980.workers.dev_3
+      - feng1_3
