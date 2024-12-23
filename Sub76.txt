@@ -3,6 +3,22 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - IP-CIDR,121.36.0.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,121.36.128.0/18,🎯 全球直连,no-resolve
+  - IP-CIDR,121.37.0.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,122.112.128.0/17,🎯 全球直连,no-resolve
+  - IP-CIDR,139.9.0.0/18,🎯 全球直连,no-resolve
+  - IP-CIDR,139.9.64.0/19,🎯 全球直连,no-resolve
+  - IP-CIDR,139.9.100.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,139.9.104.0/21,🎯 全球直连,no-resolve
+  - IP-CIDR,139.9.112.0/20,🎯 全球直连,no-resolve
+  - IP-CIDR,139.9.128.0/18,🎯 全球直连,no-resolve
+  - IP-CIDR,139.9.192.0/19,🎯 全球直连,no-resolve
+  - IP-CIDR,139.9.224.0/20,🎯 全球直连,no-resolve
+  - IP-CIDR,139.9.240.0/21,🎯 全球直连,no-resolve
+  - IP-CIDR,139.9.248.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,139.159.128.0/19,🎯 全球直连,no-resolve
+  - IP-CIDR,139.159.160.0/22,🎯 全球直连,no-resolve
   - IP-CIDR,139.159.164.0/23,🎯 全球直连,no-resolve
   - IP-CIDR,139.159.168.0/21,🎯 全球直连,no-resolve
   - IP-CIDR,139.159.176.0/20,🎯 全球直连,no-resolve
@@ -587,19 +603,3 @@ ss://TELEGRAM-ServerNett@[2a01:4f8:c012:4243::1]:24213?security=none&amp;encrypt
 ss://Biain--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=offch.com&amp;type=ws&amp;sni=zmaoz.faculty.ucdavis.edu#all%206%20%F0%9F%87%B3%F0%9F%87%B1%28%40ZEDMODEON%29%20209
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzMjJWMitrWFE4NVJRanh6RWNSVUJyV3lFeHg3RktlRDhoT1dVR1BBVGxnPQ==@3.v2.a.www.speedtest.net.2.op.jahesh-tolid.website:443#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%85%D8%A7+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A+V2rayng_Fast%40
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%85%D8%A7+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A+Kingofilter
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#%40kingofilter
-ss://35a6f3e8-21c2-4113-86aa-3ecdc1ca9cac@172.66.46.213:443?type=ws&amp;path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy&amp;host=speedtest1.svgspeedtest.net&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=speedtest1.svgspeedtest.net#Ws%20-%20%40Vpnmasi-5wy4t1gm
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#WiFi-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI%3D@205.134.180.150:443#[
-ss://d4906f5b-8e3a-4c06-8bcd-dfd6870573dd@outshop.bestshop10.ir:26745?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#%40mehrosaboran
-ss://8fb7bc37-6a0e-44b0-804e-033b625a3503@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=Tehranc1.Org&amp;type=ws#WS1+%7C+%40ipV2Ray
-ss://6d47d0cf-4ef8-4101-a3b9-9126b6875dc0@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v21.drlimit.net#telegram
-ss://7d3b945d-0f23-4719-9fae-50033251e2fd@www.speedtest.net:443?sni=qwhtnnrgop7cjp05p2q0.khodavakili.buzz&amp;host=dl.khodavakili.buzz&amp;type=ws&amp;security=tls&amp;path=%2Fkos_madar_publisher&amp;encryption=none#[
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%40kingofilter
-ss://cc5b5139-3863-4ce0-ad8d-b4693cbe0c08@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&amp;sni=footlo.argha-v2pedia.monster#%40vpn_go67
-ss://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?security=tls&amp;sni=iSaa1.PAGeS.DeV&amp;alpn=h2,http/1.1&amp;fp=randomized&amp;type=ws&amp;path=/BDwnEtVwG7BS0S9f?ed%3D2560&amp;host=iSAA1.paGEs.DEV&amp;encryption=none#Awlix_ir
-ss://e74aa512-26fa-41ac-8709-77d4248461f1@www.speedtest.net:2082?path=%2Fnazan%2Fpedar%2Fsag&amp;security=none&amp;encryption=none&amp;host=xsv2ray.ir.xs2ray.ir.xsv2ray.ir.xsv2ray.ir.www.speedtest.net.www.zula.ir.cloudflare.com.de2.Meysaam.com.&amp;type=httpupgrade#Telegram+%3A+%40XsV2Ray
-ss://59433cc5-8c4b-4ca6-858d-cbf8eeede020@151.101.128.155:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Tehranc2.Org&amp;type=ws#%40V2RAY1_NG%20kingofilter
-ss://0f7f55fe-262d-5cc6-a59e-8dd512791a98@davidlab.ucdavis.edu:443?path=%2Fvless%3Fed%3D443&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=speedtest.net.ftp.debian.org.1.2.3.j.z.x.jjjjjjjjj.netspeedtest.net.sewzx.iuyal.ir&amp;fp=randomized&amp;type=ws&amp;sni=davidlab.ucdavis.edu#%40mehrosaboran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%40V2ray1_Ng%20MTN%20RTL%20kingofilter
