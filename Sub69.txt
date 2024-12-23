@@ -3,6 +3,20 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://eb0c888c-0b55-4a0b-ba97-cfc6504e8213@ccc.ct.xiaomi-api.xyz:11142?allowInsecure=1#15%7CCN_speednode_0011
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@130.61.23.77:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15%7CDE_speednode_0012
+vless://1aae9657-c653-495d-e8ad-8ca52916cea8@193.122.58.158:443?allowInsecure=0&sni=de.bolagskontaktstockholm.se&type=ws&host=de.bolagskontaktstockholm.se&path=/wssecurity=tls#15%7CDE_speednode_0013
+trojan://e8105dfd24414268b6c7652c63731097@108.61.177.251:443?allowInsecure=1&sni=yournextcareerstep.online#15%7CFR_speednode_0014
+trojan://e8105dfd24414268b6c7652c63731097@yournextcareerstep.online:443?allowInsecure=1#15%7CFR_speednode_0015
+trojan://984e400bf5d541b7b0815913fe0c432a@yournextcareerstep.online:443?allowInsecure=1#15%7CFR_speednode_0016
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@129.151.225.228:8443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15%7CFR_speednode_0017
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@129.151.254.48:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15%7CFR_speednode_0018
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@129.151.225.228:2053?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15%7CFR_speednode_0019
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@141.145.217.226:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15%7CFR_speednode_0020
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@217.163.76.230:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15%7CGB_speednode_0023
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@141.148.203.6:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15%7CIN_speednode_0026
+vless://4c5f4cf8-b30a-4658-84bb-f0145dd123d4@4.189.216.218:443?allowInsecure=0&sni=high.work.lzg.me&type=ws&host=high.work.lzg.me&path=/4c5f4cf8-b30a-4658-84bb-f0145dd123d4fp=chrome&security=tls#15%7CJP_speednode_0027
+vless://1aae9657-c653-495d-e8ad-8ca52916cea8@47.91.29.136:443?allowInsecure=0&sni=de.bolagskontaktstockholm.se&type=ws&host=de.bolagskontaktstockholm.se&path=/wssecurity=tls#15%7CJP_speednode_0028
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@121.174.111.147:10936?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15%7CKR_speednode_0029
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@194.76.18.10:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15%7CKZ_speednode_0030
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@152.70.57.182:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15%7CNL_speednode_0033
@@ -589,17 +603,3 @@ proxy-groups:
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
-      - 🎯 全球直连
-      - 🚀 节点选择
-      - 901.dbodanwi.workers.dev_1
-      - 302.j4tccyw7.workers.dev_1
-      - 201.58vtg99l.workers.dev_1
-      - 备1_1
-      - 备2_1
-      - 201.myhmyhhuang1980.workers.dev_1
-      - feng1_1
-      - feng2_1
-      - feng3_1
-      - feng4_1
-      - feng5_1
-      - feng6_1
