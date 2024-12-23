@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - IP-CIDR,139.9.100.0/22,🎯 全球直连,no-resolve
   - IP-CIDR,139.9.104.0/21,🎯 全球直连,no-resolve
   - IP-CIDR,139.9.112.0/20,🎯 全球直连,no-resolve
   - IP-CIDR,139.9.128.0/18,🎯 全球直连,no-resolve
@@ -602,4 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI%3D@205.134.180.150:443#[
 ss://d4906f5b-8e3a-4c06-8bcd-dfd6870573dd@outshop.bestshop10.ir:26745?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#%40mehrosaboran
-ss://8fb7bc37-6a0e-44b0-804e-033b625a3503@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=Tehranc1.Org&amp;type=ws#WS1+%7C+%40ipV2Ray
