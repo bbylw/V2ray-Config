@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-# Kugou
-# Kuwo
 # Meizu flyme 魅族
 # Meitu
 # Miui 小米
@@ -603,3 +601,5 @@
   - DOMAIN-SUFFIX,pingtcss.qq.com,🍃 应用净化
   - DOMAIN-SUFFIX,report.qq.com,🍃 应用净化
   - DOMAIN-SUFFIX,tajs.qq.com,🍃 应用净化
+  - DOMAIN-SUFFIX,tcss.qq.com,🍃 应用净化
+  - DOMAIN-SUFFIX,uu.qq.com,🍃 应用净化
