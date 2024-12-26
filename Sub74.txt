@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-# source: https://docs.microsoft.com/en-us/office365/enterprise/urls-and-ip-address-ranges
-  - DOMAIN-KEYWORD,1drv,Ⓜ️ 微软服务
-  - DOMAIN-KEYWORD,microsoft,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,aadrm.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,acompli.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,acompli.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,aka.ms,Ⓜ️ 微软服务
   - DOMAIN-SUFFIX,akadns.net,Ⓜ️ 微软服务
   - DOMAIN-SUFFIX,aspnetcdn.com,Ⓜ️ 微软服务
   - DOMAIN-SUFFIX,assets-yammer.com,Ⓜ️ 微软服务
@@ -603,3 +596,10 @@
   - DOMAIN-SUFFIX,aspnetcdn.com,🚀 节点选择
   - DOMAIN-SUFFIX,awsstatic.com,🚀 节点选择
   - DOMAIN-SUFFIX,azureedge.net,🚀 节点选择
+  - DOMAIN-SUFFIX,azurewebsites.net,🚀 节点选择
+  - DOMAIN-SUFFIX,bandwagonhost.com,🚀 节点选择
+  - DOMAIN-SUFFIX,bing.com,🚀 节点选择
+  - DOMAIN-SUFFIX,bkrtx.com,🚀 节点选择
+  - DOMAIN-SUFFIX,blogcdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,blogger.com,🚀 节点选择
+  - DOMAIN-SUFFIX,blogsmithmedia.com,🚀 节点选择
