@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.120:5004#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:5000#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.95:6697#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.120:6697#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.108:7306#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.215.84.62:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Boardman%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.89:5004#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:3306#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Vancouver%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.89:8008#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.5:8882#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
@@ -603,3 +595,11 @@ vless://85b6a216-37d2-40f6-96df-26537fe21653@151.101.2.133:443?encryption=none&s
 vless://cb792820-369f-459c-a35d-0311561b2b62@217.182.105.238:2030?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733&type=grpc&authority=&serviceName=%40%40jet_config-%40jet_config-%40jet_config&mode=gun#%5B%F0%9F%87%AB%F0%9F%87%B7%5Dt.me%2FConfigsHub
 vless://d1a417b2-d144-5560-a802-5d5adc4d888e@lemaylab.ucdavis.edu:443?encryption=none&security=tls&sni=lemaylab.ucdavis.edu&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=speedtest.net.ftp.debian.org.1.2.3.k.j.a.netspeedtest.net.zzzz.ukw.goen.ir&path=%2Fvless%3Fed%3DTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#%5B%F0%9F%87%BA%F0%9F%87%B8%5Dt.me%2FConfigsHub
 trojan://telegram-id-privatevpns@13.37.22.252:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%5B%F0%9F%87%AB%F0%9F%87%B7%5Dt.me%2FConfigsHub
+trojan://telegram-id-directvpn@3.99.96.248:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.231.186.176:22222?encryption=none&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws#%5B%F0%9F%87%BA%F0%9F%87%B8%5Dt.me%2FConfigsHub
+vless://e3998d85-0690-4d39-89c5-75b15f236632@hajlab.ucdavis.edu:443?encryption=none&security=tls&sni=hajlab.ucdavis.edu&alpn=h3%2Ch2&fp=random&allowInsecure=1&type=ws&host=joinbedeee-daily-configs.net&path=%2F%40Daily_Configs--%40Daily_Configs--%40Daily_Configs--%40Daily_Configs--%40Daily_Configs--%40Daily_Configs%3Fed%3D2056#%5B%F0%9F%87%BA%F0%9F%87%B8%5Dt.me%2FConfigsHub
+trojan://Julius@66.59.197.211:443?security=tls&sni=miami.juliusnet.com&allowInsecure=1&type=tcp&headerType=none#%5B%F0%9F%87%BA%F0%9F%87%B8%5Dt.me%2FConfigsHub
+vless://2049c652-a70f-4277-bf6b-e61ce0b1298e@hajlab.ucdavis.edu:443?encryption=none&security=tls&sni=hajlab.ucdavis.edu&type=ws&host=joinshhproxybedeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigsHub
+vless://ea4019ed-aa5f-43eb-a967-f8aaf6ded375@de.fastly80-3.hosting-ip.com:80?encryption=none&security=none&type=ws&host=leader-of-www.com&path=%2F%40custom_config%3Fed%3D2048#%5B%F0%9F%87%BA%F0%9F%87%B8%5Dt.me%2FConfigsHub
+vless://7f72b445-2293-416b-b036-d6cd2fc7fa39@151.101.66.228:443?encryption=none&security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=jbtvtcrcd.com&path=ws%2F%3Fed%3D2048#%5B%F0%9F%87%BA%F0%9F%87%B8%5Dt.me%2FConfigsHub
+vless://e3998d85-0690-4d39-89c5-75b15f236632@167.82.71.119:443?encryption=none&security=tls&alpn=h3%2Ch2&fp=random&allowInsecure=1&type=ws&host=joinbedeee-daily-configs.net&path=%2F%40Daily_Configs--%40Daily_Configs--%40Daily_Configs--%40Daily_Configs--%40Daily_Configs--%40Daily_Configs%3Fed%3D2056#%5B%F0%9F%87%BA%F0%9F%87%B8%5Dt.me%2FConfigsHub
