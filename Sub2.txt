@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://telegram-id-privatevpns@51.21.120.220:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-51.21.120.220-0092
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%F0%9F%87%A8%F0%9F%87%BFCZ-195.181.160.6-4005
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.171-6029
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%F0%9F%87%B5%F0%9F%87%B1PL-45.144.48.63-6584
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.195-3889
@@ -603,3 +601,5 @@ vless://6b9389e5-0dc3-42cb-b1c7-70b21ca0a26f@178.128.236.252:443?security=realit
 vless://e1017ed0-cd20-4bf6-8d96-b2a052e19f0c@45.140.167.94:8443?security=reality&flow=xtls-rprx-vision&sni=104.20.68.118&type=tcp&fp=chrome&pbk=IqnFESYrPnkV7KUaekX8cL8TSRwDZHuUIKmD0N99Fxc&sid=2880ee24bb417d46#🔗 Vauth - 236
 vless://7562048f-6694-43da-a9ba-c80e92808fff@159.69.14.182:2042?security=reality&sni=ftp.debian.org&type=http&host=zula.ir&path=/&fp=random&pbk=0UC5UUU0EMYg1v2rv-clwdnpRYl2b-bfOvEJMXed2nI&sid=ee3caeb997f6#🔗 Vauth - 237
 vless://daded8de-c66e-49e0-d2fb-19ad73569db6@188.245.225.218:443?security=reality&sni=www.cdn77.com&type=grpc&serviceName=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config&fp=qq&pbk=cj94tgjXDkgM-h1YbsI6sr1azoQZ6YRK1WqpM5WJNUw#🔗 Vauth - 238
+vless://590049f6-2546-472c-d49d-0b067f1559e5@95.179.248.39:443?security=reality&sni=indeed.com&type=grpc&fp=firefox&pbk=-05lGlYtr_9Kf8TJYTIzFRAUENehUdhxuE7F8dZorwc#🔗 Vauth - 239
+vless://013d2382-7f11-4323-b04e-798472f1a844@185.121.134.149:8443?security=reality&flow=xtls-rprx-vision&sni=www.motos.tech&type=tcp&fp=chrome&pbk=lEb2BdR3skXuc636VCthUgFuYaXiSM8_S0K5vDz73GQ&sid=a19ff88e052d9ad2#🔗 Vauth - 240
