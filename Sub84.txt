@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://telegram-id-privatevpns@13.36.104.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 33
 trojan://telegram-id-privatevpns@108.129.49.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 32
 trojan://telegram-id-directvpn@63.32.211.25:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@vpnclashfa - 31
 trojan://telegram-id-directvpn@52.47.148.121:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@vpnclashfa - 30
@@ -602,4 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptMkE2eEdTRDEydkJ0cVpVbEtDTk1VVU9iWlh0MFBIdVB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc3@205.134.180.139:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+205.134.180.139-443+%7C+68.85ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+205.134.180.145-443+%7C+68.65ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUlM5dW9NN2dyWVQxOU1YUDBYVDhH@213.176.66.228:24495#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+213.176.66.228-24495+%7C+163.18ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVlEelNHNkszNXM4YjE5b1k0Zkd6@92.118.112.111:18622#US%F0%9F%87%BA%F0%9F%87%B8+%7C+92.118.112.111-18622+%7C+61.68ms
