@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@15.204.87.217:8000#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Hillsboro%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@15.204.87.217:6697#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Hillsboro%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@15.204.87.217:6379#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Hillsboro%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.113:5499#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.103:8881#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.103:5003#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
+vless://67caf0a6-2cab-4f2e-81f5-1664e4813709@172.67.30.171:2096?security=tls&sni=server18.aibox.tv&allowInsecure=1&fp=chrome&type=ws&path=/TG-AiLuMao/&host=server18.aibox.tv&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+vless://58bf942a-02ee-5b50-901d-43f86115a0d6@151.101.66.219:80?security=none&allowInsecure=1&fp=chrome&type=ws&host=ELiV2--ELENA.COM&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Francisco%20%F0%9F%8C%8E%20VL-WS-NONE%204%E2%83%A3
+vless://67caf0a6-2cab-4f2e-81f5-1664e4813709@188.114.98.233:2096?security=tls&sni=server18.aibox.tv&allowInsecure=1&fp=chrome&type=ws&path=/TG-AiLuMao/&host=server18.aibox.tv&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+vless://67caf0a6-2cab-4f2e-81f5-1664e4813709@104.26.13.54:2096?security=tls&sni=server18.aibox.tv&allowInsecure=1&fp=chrome&type=ws&path=/TG-AiLuMao/&host=server18.aibox.tv&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2dAWDBtNTE1@176.124.199.255:30252#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 vless://67caf0a6-2cab-4f2e-81f5-1664e4813709@88.119.175.149:2096?security=tls&sni=server18.aibox.tv&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/TG-AiLuMao/&host=server18.aibox.tv&packetEncoding=xudp&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.166.88.198:3306#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20-%20Zurich%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
@@ -593,13 +603,3 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 901.dbodanwi.workers.dev_1
-      - 302.j4tccyw7.workers.dev_1
-      - 201.58vtg99l.workers.dev_1
-      - 备1_1
-      - 备2_1
-      - 201.myhmyhhuang1980.workers.dev_1
-      - feng1_1
-      - feng2_1
-      - feng3_1
-      - feng4_1
-      - feng5_1
