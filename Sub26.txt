@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://834ceabf-2853-4059-a167-5ffda883115d@104.18.23.235:443?security=tls&sni=server22.aibox.tv&type=ws&host=server22.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#RELAY🚩 | server22.aibox.tv-443 | 9.66ms
-vless://834ceabf-2853-4059-a167-5ffda883115d@104.17.48.63:443?security=tls&sni=server22.aibox.tv&type=ws&host=server22.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#RELAY🚩 | server22.aibox.tv-443 | 2.51ms
-vless://834ceabf-2853-4059-a167-5ffda883115d@104.16.223.254:443?security=tls&sni=server22.aibox.tv&type=ws&host=server22.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#RELAY🚩 | server22.aibox.tv-443 | 2.92ms
-vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@172.66.47.44:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg20.pages.dev&type=ws&sni=pardazeshvpn-tg20.pages.dev#RELAY🚩 | pardazeshvpn-tg20.pages.dev-443 | 24.42ms
 vless://82409acf-abb1-4f97-b4b2-4ebf40e8b507@hajlab.ucdavis.edu:443?path=%2F%40VPNCUSTOMIZE-----%40VPNCUSTOMIZE-----%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE%3Fed%3D2560&security=tls&encryption=none&host=JoinBedee--VPNCUSTOMIZE.ai&fp=randomized&type=ws&sni=hajlab.ucdavis.edu#US🇺🇸 | hajlab.ucdavis.edu-443 | 25.53ms
 vless://81a18719-db6a-4d15-945c-1e3c81099520@89.169.53.222:8880?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪 | 89.169.53.222-8880 | 163.27ms
 vless://819c09e7-b659-4c2e-b1f0-a09ea4603d44@172.67.69.216:2083?security=tls&sni=irani.mobile-irani.ir&type=grpc&serviceName=telegramchannel-%40free_v2rayyy-%40free_v2rayyy-%40free_v2rayyy-%40free_v2rayyy-%40free_v2rayyy#RELAY🚩 | irani.mobile-irani.ir-2083 | 236.43ms
@@ -603,3 +599,7 @@ vless://4ef499ca-f784-4fef-8c76-afa530495644@162.159.134.234:2087?security=tls&s
 vmess://eyJhZGQiOiIxODguMTE0Ljk2LjIiLCJhaWQiOiIxIiwiaG9zdCI6Im9waGVsaWEubW9tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiJvcGhlbGlhLm1vbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vmess://eyJhZGQiOiIyLjU4Ljg1LjQ0IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImFhNjA2YTIzLTU0NTQtNGIzYi1mZWU2LWU0YWI5ODFkZjAzMCIsIm5ldCI6Imh0dHAiLCJwYXRoIjoiIiwicG9ydCI6IjQ0NCIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
+trojan://b3df8f31-da3a-4cda-90b1-b3b777cd48e7@51.255.49.192:443?security=tls&sni=ba24.ir&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+vless://ba3b1bb0-466e-4d7d-92d7-f2eeb4c73e76@172.67.218.115:2086?security=&type=ws&path=/?ed%3D2048&host=de2.vlessx.xyz&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+vless://c17ee8d1-c7a3-4666-83da-d923ae45c31d@104.31.16.32:443?security=tls&sni=oniyx.fun&type=ws&path=/uorpws&host=oniyx.fun&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://1884f180-94eb-11ee-8c46-1239d0255272@104.16.123.175:443?security=tls&sni=de1.test3.net&type=ws&path=/howdy&host=de1.test3.net#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
