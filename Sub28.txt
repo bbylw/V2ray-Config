@@ -3,6 +3,27 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
+
+      .logo { display: inline-block; margin-top: 35px; }
+      .logo-img-2x { display: none; }
+      @media
+      only screen and (-webkit-min-device-pixel-ratio: 2),
+      only screen and (   min--moz-device-pixel-ratio: 2),
+      only screen and (     -o-min-device-pixel-ratio: 2/1),
+      only screen and (        min-device-pixel-ratio: 2),
+      only screen and (                min-resolution: 192dpi),
+      only screen and (                min-resolution: 2dppx) {
+        .logo-img-1x { display: none; }
+        .logo-img-2x { display: inline-block; }
+      }
+
+      #suggestions {
+        margin-top: 35px;
+        color: #ccc;
       }
       #suggestions a {
         color: #666666;
@@ -53,8 +74,8 @@
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiMmJlNWZhYTUtYjIyMy00ZGYwLTgzZmYtMzlhZWY5MjI0MDk0IiwicGFnZV90aW1lIjoxNzM1NTg2MDIzLCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiMjAuNzUuOTUuMTY2In0K";</script>
-<script src="/bMUJnJOMF.js"></script>
+<script>window.park = "eyJ1dWlkIjoiY2VhMmMxYTctYTg4My00ZjA4LWI0NDYtNjU3YjA2YTU2MWMzIiwicGFnZV90aW1lIjoxNzM1NTg5OTMzLCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiMjAuMTcyLjUuNDEifQo=";</script>
+<script src="/byiwhJVdS.js"></script>
 </body>
 </html>
 
@@ -322,7 +343,7 @@ vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:501
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8fa4594b9cf3c985 &bull; 2024-12-30 19:13:44 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8fa4b8c13e8f2abb &bull; 2024-12-30 20:18:54 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -347,12 +368,12 @@ vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:501
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8fa4594b9cf3c985</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8fa4b8c13e8f2abb</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.75.95.166</span>
+      <span class="hidden" id="cf-footer-ip">20.172.5.41</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -419,7 +440,7 @@ hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@54.38.225.47:4380?obfs=salama
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8fa4595bedf90602 &bull; 2024-12-30 19:13:46 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8fa4b8d46d2c14f2 &bull; 2024-12-30 20:18:57 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -444,12 +465,12 @@ hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@54.38.225.47:4380?obfs=salama
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8fa4595bedf90602</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8fa4b8d46d2c14f2</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.75.95.166</span>
+      <span class="hidden" id="cf-footer-ip">20.172.5.41</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -582,24 +603,3 @@ ss://YWVzLTEyOC1nY206NjExMzUzNjEzNWFmNjllNTcyYzY@console.01.aliyun.aq.kunlunaqs.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWUzNzE2MS05OWZmLTQ1YzItYjRkOS05OTMzZTQwMDlhZDY=@223.113.53.141:30001#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWUzNzE2MS05OWZmLTQ1YzItYjRkOS05OTMzZTQwMDlhZDY=@223.113.53.141:30003#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWUzNzE2MS05OWZmLTQ1YzItYjRkOS05OTMzZTQwMDlhZDY=@223.113.53.141:30002#%F0%9F%87%A8%F0%9F%87%B3TW_%40WangCai_8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWUzNzE2MS05OWZmLTQ1YzItYjRkOS05OTMzZTQwMDlhZDY=@171.111.216.155:30001#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWUzNzE2MS05OWZmLTQ1YzItYjRkOS05OTMzZTQwMDlhZDY=@171.111.216.155:30003#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWUzNzE2MS05OWZmLTQ1YzItYjRkOS05OTMzZTQwMDlhZDY=@171.111.216.155:30002#%F0%9F%87%A8%F0%9F%87%B3TW_%40WangCai_8
-ss://YWVzLTEyOC1nY206YjE2Y2IxOGQ4OTkyZjNiODNiN2Q@console.01.aliyun.aq.kunlunaqs.com:45903?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%F0%9F%87%AD%F0%9F%87%B0%20Hongkong%20019
-ss://YWVzLTEyOC1nY206YTY0M2Y2ZjM3MzNjOTk2Mjg1MWQ@console.02.aliyun.aq.kunlunaqs.com:45936?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#to.FlyintPro.om
-ss://YWVzLTEyOC1nY206NzIyYTU0NDE0YWU2ZWU3MDZhYzk@console.02.aliyun.aq.kunlunaqs.com:45572?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2007
-ss://YWVzLTEyOC1nY206Yzg5NjBjYTRhMGFkZDQzNWZjMzQ@console.02.aliyun.aq.kunlunaqs.com:45913?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20029
-ss://YWVzLTEyOC1nY206OTdiNTNiNTcwZGIwOTE3OTM1ZTA@console.02.aliyun.aq.kunlunaqs.com:45939?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20050
-ss://YWVzLTEyOC1nY206OTc5OThhZGQ3YmY0ZmVhODg1ZWY@console.02.aliyun.aq.kunlunaqs.com:45912?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20028
-ss://YWVzLTEyOC1nY206NjAxNGNhYTNhMzIzOTIwYzdmZDA@console.02.aliyun.aq.kunlunaqs.com:45581?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20083
-ss://YWVzLTEyOC1nY206NjlkYzAzMDZmMWJmYjFhZjQ5YTU@console.02.aliyun.aq.kunlunaqs.com:45911?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20027
-ss://YWVzLTEyOC1nY206NDA5MmEwZDMxMDExZTIwNDY2ODc@console.03.aliyun.aq.kunlunaqs.com:45937?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20057
-ss://YWVzLTEyOC1nY206ZjRjZDBhNTU0ZTlkMDU1OGM1ODE@console.03.aliyun.aq.kunlunaqs.com:45917?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20032
-ss://YWVzLTEyOC1nY206MDcyMmJkNDEzN2ZmNTc5ZTY5MTc@console.03.aliyun.aq.kunlunaqs.com:45579?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20078
-ss://YWVzLTEyOC1nY206Yjc0NTE4ZmI0OWJkNjQ1ZTZjZTc@console.03.aliyun.aq.kunlunaqs.com:45913?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%E6%9C%89%E9%97%AE%E9%A2%98%E8%AF%B7%E9%9A%8F%E6%97%B6%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC
-ss://YWVzLTEyOC1nY206Y2ZjNmYzZjc1ZjVlZjdiMjY2NWM@console.03.aliyun.aq.kunlunaqs.com:45916?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20065
-ss://YWVzLTEyOC1nY206Yjc0NTE4ZmI0OWJkNjQ1ZTZjZTc@console.03.aliyun.aq.kunlunaqs.com:45915?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20031
-ss://YWVzLTEyOC1nY206YjI3MGZkNzdkYjJlY2I3YWNiYzg@console.03.aliyun.aq.kunlunaqs.com:45914?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20030
-ss://YWVzLTEyOC1nY206M2UyNmE4Y2ZiMDlmZGEyMTliMzY@console.03.aliyun.aq.kunlunaqs.com:45573?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%F0%9F%87%B9%F0%9F%87%BC%20TaiwanDynamicIP
-ss://YWVzLTEyOC1nY206ZDc1NzdjYTY3MjliYWJlMDc5MGY@console.02.aliyun.aq.kunlunaqs.com:45921?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%F0%9F%87%B0%F0%9F%87%B7%20SouthKorea%20037
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNmRiNzJlOTQxNWU2MGUzNTg5Mg@console.03.aliyun.aq.kunlunaqs.com:45580?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20USA%20084
