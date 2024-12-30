@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@145.239.1.100:6379#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26@67.21.93.242:443?security=tls&sni=upay.com&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vmess://eyJhZGQiOiJ5eXl1bWxvYWxvLnNpdGUiLCJhaWQiOiIwIiwiaG9zdCI6Inl5eXVtbG9hbG8uc2l0ZSIsImlkIjoiNGZhMzVlYTQtNjY4ZS00ZDdiLTliYmMtYjgzNjgxMDYwNjE3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2t3aG12d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
-trojan://f10d81d8-ad4b-300a-825b-f54f515bd06e@us1.jjzgy.live:443?security=tls&sni=us1.jjzgy.live&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@ak1830.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:8888#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://TC64iX8lkokJaa3226ejFj3fgrNhMe5Q@jp1.t.sgateway.link:5223?security=tls&sni=pod-jp-z1.psusercontent.com&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?security=tls&sni=lovehjq.xyz&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://a0514d9b-d109-47fd-b173-1e7f83268f21@104.16.183.101:443?security=tls&sni=tws23.kallepache.store&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vmess://eyJhZGQiOiIxNzIuNjcuMjI5LjEwIiwiYWlkIjoiMCIsImhvc3QiOiJmcjQudjItdGVoLmZ1biIsImlkIjoiNjE3YzliYzQtNDExNi00MWM2LTk5ZTAtYWNlNDlhMzhmY2RiIiwibmV0Ijoid3MiLCJwYXRoIjoiL0pudjhWaVpPVVZnaWpqT2gwcDV1R2pIblhJaVkiLCJwb3J0IjoiMjA5NSIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxMDQuMTcuNDIuMTAiLCJhaWQiOiIwIiwiaG9zdCI6IlRyZWUuQmxhbmt1Lk1lIiwiaWQiOiJjNzY3NjJmNy1hZTNkLTRmZDgtOThiMi05YzNmOTc2N2M4YWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3NzNDk0MDYiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6IlJvY2twLkJsYW5rdS5NZSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -127,8 +120,8 @@ vmess://eyJhZGQiOiIxMzYuMC45LjIzIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImQ4ZGVlNDAw
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiOTQ4OWM3ODAtMmE5MC00YzE0LTljMWUtN2RhYzMzZmQ3NmU5IiwicGFnZV90aW1lIjoxNzM1NTcxODY3LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiMjAuMTYxLjc3LjIwNiJ9Cg==";</script>
-<script src="/bZjuCrAdh.js"></script>
+<script>window.park = "eyJ1dWlkIjoiZDRmYmQ1MjktYTVjYi00NzQxLTk2NWMtMGIwYmUyNTEyMzRjIiwicGFnZV90aW1lIjoxNzM1NTc1Njg3LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiMjAuMTcyLjUuOTIifQo=";</script>
+<script src="/bckhyTpjr.js"></script>
 </body>
 </html>
 
@@ -396,7 +389,7 @@ vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:501
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8fa2ffb14d32c592 &bull; 2024-12-30 15:17:48 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8fa35cf529d11502 &bull; 2024-12-30 16:21:28 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -421,12 +414,12 @@ vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:501
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8fa2ffb14d32c592</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8fa35cf529d11502</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.161.77.206</span>
+      <span class="hidden" id="cf-footer-ip">20.172.5.92</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -493,7 +486,7 @@ hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@54.38.225.47:4380?obfs=salama
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8fa2ffc069d9c9a1 &bull; 2024-12-30 15:17:50 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8fa35d080d7f08e0 &bull; 2024-12-30 16:21:31 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -518,12 +511,12 @@ hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@54.38.225.47:4380?obfs=salama
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8fa2ffc069d9c9a1</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8fa35d080d7f08e0</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.161.77.206</span>
+      <span class="hidden" id="cf-footer-ip">20.172.5.92</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +596,10 @@ vless://cae07bc9-33e8-4689-8b25-c7998bfee63a@185.59.218.48:443?path=/server&secu
 vless://cae07bc9-33e8-4689-8b25-c7998bfee63a@185.59.218.48:443?path=/server&security=tls&encryption=none&alpn=h2,http/1.1&host=join-telegraam-channel-disvpn.pages.dev&fp=randomized&type=ws&sni=join-telegraam-channel-disvpn.pages.dev#👉🆔 @v2ray_configs_pool
 vless://e8ec9c2a-2fd6-4689-b922-c2a396f011e5@gama.ir:443?mode=gun&security=tls&encryption=none&authority=xn--mgbUg7c2Am63G.joBfiNex.ir.&type=grpc&serviceName=%2F%40custom_config%3Fed%3D2056&sni=xn--mgbUg7c2aM63g.jObfineX.ir.#👉🆔 @v2ray_configs_pool
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#👉🆔 @v2ray_configs_pool
+vless://telegram-id-ArV2ray@185.146.173.94:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2056&security=none&encryption=none&host=13.V2ray.wn.speedtest.net.parspack.com.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.Store.&type=ws#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprbWRmOTN6UGtCZVlmelFEcmRrQlhZ@138.68.182.23:2248/?outline=1#👉🆔 @v2ray_configs_pool
+vless://5461c9d2-ac6a-4ba8-bae1-ca3acb214dd3@LIGHTNING6-joinbede.filj.top:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%2F%40LIGHTNING6-TEL%40LIGHTNING6-TEL%40LIGHTNING6-TEL%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL%40LIGHTNING6-%40LiV2ray&sni=liV2raya.lightningv.ir#👉🆔 @v2ray_configs_pool
+vless://883042f4-e94b-40f3-bdd0-80d2bee1b3ba@LIGHTNING6-joinbed.filj.top:8880?path=%2F%40LIGHTNING6-TEL%40LIGHTNING6-TEL%40LIGHTNING6-TEL%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL%40LIGHTNING6-%40LiV2ray%3Fed%3D1024&security=none&encryption=none&host=xnv2ray-qhantayawia-mwxzc08arba93xpvac79043ht5ia.xnv2-gn1d638jbjx.xyz.&type=ws#👉🆔 @v2ray_configs_pool
+vless://883042f4-e94b-40f3-bdd0-80d2bee1b3ba@LIGHTNING6-joinbed.filj.top:8880?path=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray%3Fed%3D1024&security=none&encryption=none&host=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.&type=ws#👉🆔 @v2ray_configs_pool
+vless://5461c9d2-ac6a-4ba8-bae1-ca3acb214dd3@LIGHTNING6-joinbede.filj.top:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray&sni=liV2raya.lightningv.ir#👉🆔 @v2ray_configs_pool

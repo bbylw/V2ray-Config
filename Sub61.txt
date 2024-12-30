@@ -3,6 +3,21 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://e383f3b0-25a8-492d-babe-3e434fe77448@77.221.143.183:33000?security=reality&sni=www.speedtest.net&allowInsecure=1&fp=chrome&pbk=JrN7nZEbUeBJFHTAKwtz5Dmd10SGgA8UCHEMLA2xOg0&sid=be7f13dd&type=grpc&serviceName=b&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%F0%9F%8C%8D%20VL-GRPC-RLT%204%E2%83%A3
+vless://e383f3b0-25a8-492d-babe-3e434fe77448@77.221.143.183:33000?security=reality&sni=www.speedtest.net&alpn=h2,http/1.1&allowInsecure=1&fp=chrome&pbk=JrN7nZEbUeBJFHTAKwtz5Dmd10SGgA8UCHEMLA2xOg0&sid=be7f13dd&type=grpc&serviceName=b&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%F0%9F%8C%8D%20VL-GRPC-RLT%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.23:8388#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
+trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=none&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-NONE%204%E2%83%A3
+trojan://bedae0a3-a7dc-4ff0-9013-be459839b5b7@15.235.197.5:80?security=none&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-NONE%204%E2%83%A3
+trojan://97fdf760-7bbf-11eb-8e14-1239d0255272@103.253.24.216:443?security=none&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-NONE%204%E2%83%A3
+trojan://f1a23bf0-1c92-11ed-b6d8-1239d0255272@103.253.24.248:443?security=none&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-NONE%204%E2%83%A3
+trojan://4c7985e0-79e8-11eb-b8d3-1239d0255272@103.253.24.216:443?security=none&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-NONE%204%E2%83%A3
+trojan://55aab750-8d44-11ee-a289-1239d0255272@103.253.24.216:443?security=tls&sni=sg3-trojan.bonds.id&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://313c9950-7a03-11ee-8b1a-1239d0255272@103.253.24.216:443?security=tls&sni=sg3-trojan.bonds.id&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://KNUeu77hRDzYEb0pEIccDQ@152.42.250.151:443?security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://4c7985e0-79e8-11eb-b8d3-1239d0255272@103.253.24.216:443?security=tls&sni=sg3-trojan.bonds.id&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://97fdf760-7bbf-11eb-8e14-1239d0255272@103.253.24.216:443?security=tls&sni=sg3-trojan.bonds.id&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.213.67.37:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.77.239.64:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.1.79.116:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.215.172.89:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
@@ -588,18 +603,3 @@ trojan://wkmY1R4EcP@45.63.59.167:443?security=tls&sni=z-v2-002809.kailib.com&all
 vless://47f50770-e3a5-459d-8163-193f035ac71d@154.40.40.63:443?security=tls&sni=izmaogtw.top&allowInsecure=1&fp=chrome&type=http&path=/8b99ec2f/&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20VL-HTTP-TLS%204%E2%83%A3
 vless://fcfaa054-71e8-4c70-b722-af44d51d36b3@142.171.192.168:56773?security=reality&sni=www.amd.com&allowInsecure=1&fp=chrome&pbk=Fgq1CYwj4NqAHWLEImDuL5d2bzztDMM1-FfaeR3I00k&sid=b5e4a8100b8754&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20VL-TCP-RLT%204%E2%83%A3
 vless://08e9220b-a099-4628-a0ff-26885421642f@23.187.72.90:49510?security=reality&sni=addons.mozilla.org&allowInsecure=1&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20VL-TCP-RLT%204%E2%83%A3
-vless://aadf2956-77ef-472f-bcc5-ca601876e5e3@193.188.22.36:443?security=reality&sni=yahoo.com&allowInsecure=1&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20VL-TCP-RLT%204%E2%83%A3
-vless://c0a863a0-e9fa-43c3-8328-5387a00aa1e0@74.48.100.195:54157?security=reality&sni=sega.com&allowInsecure=1&fp=chrome&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20VL-TCP-RLT%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.110.1.252:6697#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.110.1.252:8119#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.110.1.17:8009#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.110.1.105:9101#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.12:8888#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.105:8000#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.110.1.252:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.252:3389#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.105:8080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.252:9090#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.110.1.103:8882#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.110.1.46:7001#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.110.1.3:7002#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Miami%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
