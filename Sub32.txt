@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vmess://ewogICAgImFkZCI6ICI2OS41MC45My45MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e68J+HuFVTLTY5LjUwLjkzLjkwLTA4OCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-vmess://ewogICAgImFkZCI6ICIzOC45MS4xMDcuMzYiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIzOC45MS4xMDcuMzYiLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HuvCfh7hVUy0zOC45MS4xMDcuMzYtMDg3IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 trojan://telegram-id-directvpn@3.16.175.245:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-3.16.175.245-086
 trojan://telegram-id-directvpn@3.97.199.230:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA-3.97.199.230-084
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.80-110
@@ -603,3 +601,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@144.24.85.158:443?encryption=none&s
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@63.141.128.219:443?encryption=none&security=tls&sni=vz.ylks.xyz&type=ws&host=vz.ylks.xyz&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io#%E7%BE%8E%E5%9B%BD_%E5%A5%A7%E6%96%AF%E6%B1%80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@131.186.60.210:443?encryption=none&security=tls&sni=hz.ylks.xyz&type=ws&host=hz.ylks.xyz&path=%2Fblue#%E6%97%A5%E6%9C%AC_%E4%B8%9C%E4%BA%AC
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@64.110.104.30:443?encryption=none&security=tls&sni=vz.ylks.xyz&type=ws&host=vz.ylks.xyz&path=%2Fpai6buclahf9cxx3%3Fed%3D2560#%E6%97%A5%E6%9C%AC_Osaka
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@138.2.18.184:80?encryption=none&security=none&sni=hz.ylks.xyz&type=ws&host=hz.ylks.xyz&path=%2Fblue#%E6%97%A5%E6%9C%AC_%E4%B8%9C%E4%BA%AC
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@150.230.209.239:51272?encryption=none&security=tls&sni=kz.ylks.xyz&type=ws&host=kz.ylks.xyz&path=%2F%3Fproxyip%3Dproxyip.jp.fxxk.dedyn.io#%E6%97%A5%E6%9C%AC_%E4%B8%9C%E4%BA%AC
