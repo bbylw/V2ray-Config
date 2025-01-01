@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://faa47bdc-8581-4e47-a557-35caa72681bd@104.16.173.114:80?security=none&type=ws&host=delicate-feather-dc36-ppal03.shah-beck.workers.dev&path=%2F%3Fed%3D2560#🇸🇬[openproxylist.com]
-vless://c8e6e9d4-4339-4ee2-830b-8ece0f78f46b@172.67.142.142:443?security=tls&sni=selincselincselincselincselincselincselincselinc.selincselinc.workers.dev&type=ws&host=selincselincselincselincselincselincselincselinc.selincselinc.workers.dev&path=%2F%3Fed%3D2048#🇸🇬[openproxylist.com]
-vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.64.80.35:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🇸🇬[openproxylist.com]
-vless://0d710c53-876d-401f-97f0-6bd1a8db941a@172.67.135.195:2052?security=none&type=ws&host=sWEeT-DIsK-b69d.TUdTudtrUHtRU.wOrkERS.dev&path=%2FJ61hhknxUXEwJZLq%2FMTU5LjY5LjE1My4xMTQ%3D%3Fed%3D2560#🇸🇬[openproxylist.com]
-vless://1ef91e6f-7522-4ded-84ea-4523dd2a15d6@172.67.154.6:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.gijih70892.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.gijih70892.workers.dev&path=%2F#🇸🇬[openproxylist.com]
 vless://d51963a2-cd73-4564-894c-bdbb91775900@104.18.14.19:2052?type=ws&host=wz1226.9si685h0.workers.dev&path=%2F%3Fed%3D2560#🇨🇦[openproxylist.com]
 vless://ea040230-e7f4-4a54-8eed-7b02956b66b9@104.18.202.232:2053?security=tls&sni=irn-vpn-irn-vpn.veboril990.workers.Dev&type=ws&host=irn-vpn-irn-vpn.veboril990.workers.Dev&path=%2F@IRN_VPN#🇸🇬[openproxylist.com]
 vless://dfdd966d-db72-44a3-be06-dfc1ded1cbae@104.21.64.1:443?security=tls&sni=steep-fog-3f46.panelsanaii2.workers.dev&type=ws&host=steep-fog-3f46.panelsanaii2.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🇸🇬[openproxylist.com]
@@ -603,3 +598,8 @@ vless://626e5631-2928-4725-8d74-8eef698aabb1@yahoocomgooglecomsof98varzesh3com3.
 vless://d77906a1-59fd-4222-ba9e-3de834bb33e2@vpn442telegram.wucwej.workers.dev:443?encryption=none&security=tls&sni=vpn442telegram.wucwej.workers.Dev&type=ws&path=%2F#VL-1003-007
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@s1.jeayargote.my:2198?encryption=none&security=none&type=tcp&headerType=none#VL-1009-022
 vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@freedom14.geraxex389.workers.dev:443?encryption=none&security=tls&sni=freedom14.geraxex389.workers.dev&type=ws&path=%2F#VL-0919-007
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlZNLTA5MjYtMDAyIiwNCiAgImFkZCI6ICJmMi5tYXJ5YW0xOTAwLmNvbSIsDQogICJwb3J0IjogIjg0NDMiLA0KICAiaWQiOiAiYWZlNTc1NTctZGYyNC00M2U1LTljZWEtNWQyYWNjMmNhZDA4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJncnBjIiwNCiAgInR5cGUiOiAiZ3VuIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@s2.jeayargote.my:2198?encryption=none&security=none&type=tcp&headerType=none#VL-1012-044
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@s1.baybalan.my:2198?encryption=none&security=none&type=tcp&headerType=none#VL-1012-041
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@s2.baybalan.my:2198?encryption=none&security=none&type=tcp&headerType=none#VL-1009-007
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlZNLTEwMDktMDA0IiwNCiAgImFkZCI6ICJpcC5zYiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI5ZmM3N2U1Yy03NjIxLTQwM2QtOGJkMi05NTllYWExMTY3ZTgiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogIm5vbmUiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIjAwLm9yYW5nZWxpZ2h0eW8udXMua2ciLA0KICAicGF0aCI6ICIvc2VydjAwP2VkPTIwNDgiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiMDAub3JhbmdlbGlnaHR5by51cy5rZyIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
