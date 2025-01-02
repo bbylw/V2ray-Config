@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-    
-  </p>
-  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div><!-- /.error-footer -->
-
-
     </div><!-- /#cf-error-details -->
   </div><!-- /#cf-wrapper -->
 
@@ -59,7 +53,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8fb9a7595a068849 &bull; 2025-01-02 09:17:02 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8fb9ff98187b15b0 &bull; 2025-01-02 10:17:16 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -84,12 +78,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8fb9a7595a068849</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8fb9ff98187b15b0</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.51.206.103</span>
+      <span class="hidden" id="cf-footer-ip">52.234.36.10</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +597,9 @@ ss://d51963a2-cd73-4564-894c-bdbb91775900@104.18.14.19:2082?type=ws&host=wz1226.
 ss://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsImFkZCI6IjQ2LjI5LjE2MS4xNSIsInBvcnQiOiI2ODE0IiwidHlwZSI6Im5vbmUiLCJpZCI6ImViMzM1Y2YwLWM1MzQtNDBiMi04MGQ1LTA3YjVhNWRhNjExOSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==```
 ss://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsImFkZCI6IjQ2LjI5LjE2MS4xNSIsInBvcnQiOiI2ODE0IiwidHlwZSI6Im5vbmUiLCJpZCI6ImRkNDNmYTRkLWI4MDUtNDljNy05NWU2LWFiMTVjNDY1OTBhMSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==```
 ss://62a49d41-e231-4a6b-af26-cec86ef64001@172.67.205.138:443?security=tls&sni=1403.stopt7307.workers.dev&type=ws&host=1403.stopt7307.workers.dev&path=%2F#🇸🇬[openproxylist.com]
+ss://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsImFkZCI6IjQ2LjI5LjE2MS4xNSIsInBvcnQiOiI2ODE0IiwidHlwZSI6Im5vbmUiLCJpZCI6ImY2YTlhOWUwLTIyNGYtNDE0MC05NGRkLWVjMDgzMDI5MmRiNSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==```
+ss://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsImFkZCI6IjQ2LjI5LjE2MS4xNSIsInBvcnQiOiI2ODE0IiwidHlwZSI6Im5vbmUiLCJpZCI6ImZjMDVjOTJjLTFiYWUtNDgzYS05ZmY1LTFkYjc5Yzc0ZTE4YyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==```
+ss://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsImFkZCI6IjQ2LjI5LjE2MS4xNSIsInBvcnQiOiI2ODE0IiwidHlwZSI6Im5vbmUiLCJpZCI6IjRkZjcyZGIxLWJlMDEtNGJkYi04OGY4LTM2ODRkNDVjNmE2NCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==```
+ss://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsImFkZCI6IjQ2LjI5LjE2MS4xNSIsInBvcnQiOiI2ODE0IiwidHlwZSI6Im5vbmUiLCJpZCI6IjBhYTcyZTI5LWExZmUtNDc3MC1hNDYzLTBiZmE5N2U3ZGQzMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==```
+ss://54c5f9f1-1f0d-4d61-9eb8-db65a1f62d56@104.17.177.51:443?security=tls&sni=salad.1945157171.workers.dev&type=ws&host=salad.1945157171.workers.dev&path=%2F#🇸🇬[openproxylist.com]
+ss://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsImFkZCI6IjQ2LjI5LjE2MS4xNSIsInBvcnQiOiI2ODE0IiwidHlwZSI6Im5vbmUiLCJpZCI6IjJiOTJkN2Y2LWY1NjQtNGY3My05MDBjLWUwNzlkOGNiZjM0NyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==```
