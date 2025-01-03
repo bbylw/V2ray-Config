@@ -3,6 +3,33 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      a:hover { text-decoration: underline; }
+
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
+
+      .logo { display: inline-block; margin-top: 35px; }
+      .logo-img-2x { display: none; }
+      @media
+      only screen and (-webkit-min-device-pixel-ratio: 2),
+      only screen and (   min--moz-device-pixel-ratio: 2),
+      only screen and (     -o-min-device-pixel-ratio: 2/1),
+      only screen and (        min-device-pixel-ratio: 2),
+      only screen and (                min-resolution: 192dpi),
+      only screen and (                min-resolution: 2dppx) {
+        .logo-img-1x { display: none; }
+        .logo-img-2x { display: inline-block; }
+      }
+
+      #suggestions {
+        margin-top: 35px;
+        color: #ccc;
+      }
+      #suggestions a {
+        color: #666666;
         font-weight: 200;
         font-size: 14px;
         margin: 0 10px;
@@ -50,8 +77,8 @@
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiYTRjMjRjYmItNDIyOC00YTViLWI0ZTAtYzUyMzlkMDY4NTExIiwicGFnZV90aW1lIjoxNzM1ODg4NTM0LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiMTMuODMuMTIzLjExOCJ9Cg==";</script>
-<script src="/bLubTGDrC.js"></script>
+<script>window.park = "eyJ1dWlkIjoiN2Y1ZDNlMjUtNjI4NS00OWI0LWI4ZjMtYjJjNjVjZmU4YTA3IiwicGFnZV90aW1lIjoxNzM1ODkyNDQ5LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiMjAuODEuMTU5Ljc5In0K";</script>
+<script src="/bcMZYOXVh.js"></script>
 </body>
 </html>
 
@@ -65,8 +92,8 @@
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiZTRkNTZmOWQtZjI5YS00YmRkLTg3ZTQtZWFkNDU4Mjk3ZTgzIiwicGFnZV90aW1lIjoxNzM1ODg4NTM0LCJwYWdlX3VybCI6Imh0dHBzOi8vbWluZXIuaXNoZXJ2LmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6Im1pbmVyLmlzaGVydi5pbiIsImlwIjoiMTMuODMuMTIzLjExOCJ9Cg==";</script>
-<script src="/bMYqzLsTd.js"></script>
+<script>window.park = "eyJ1dWlkIjoiMTA2YTgyOTgtMGRkNy00ZWE5LThkOTAtZjlkMjU3MmI4MDY2IiwicGFnZV90aW1lIjoxNzM1ODkyNDQ5LCJwYWdlX3VybCI6Imh0dHBzOi8vbWluZXIuaXNoZXJ2LmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6Im1pbmVyLmlzaGVydi5pbiIsImlwIjoiMjAuODEuMTU5Ljc5In0K";</script>
+<script src="/bEGSyuIIn.js"></script>
 </body>
 </html>
 
@@ -319,7 +346,7 @@ vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:501
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8fc132cf9f79ce54 &bull; 2025-01-03 07:15:35 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8fc192639b392093 &bull; 2025-01-03 08:20:49 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -344,12 +371,12 @@ vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:501
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8fc132cf9f79ce54</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8fc192639b392093</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">13.83.123.118</span>
+      <span class="hidden" id="cf-footer-ip">20.81.159.79</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -416,7 +443,7 @@ hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@54.38.225.47:4380?obfs=salama
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8fc132df6f5ef953 &bull; 2025-01-03 07:15:37 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8fc19271bc04ef64 &bull; 2025-01-03 08:20:52 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -441,12 +468,12 @@ hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@54.38.225.47:4380?obfs=salama
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8fc132df6f5ef953</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8fc19271bc04ef64</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">13.83.123.118</span>
+      <span class="hidden" id="cf-footer-ip">20.81.159.79</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -576,30 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZjZhODVlNi00YWQzLTQ2YjgtOWM2YS05NDk4NzhhMTA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDY0Mzg4Ni05YjZlLTQ1YjktYTAyNy1iMDlmZmIzNGZhY2Q=@223.113.53.141:30002#%F0%9F%87%A8%F0%9F%87%B3TW_%40WangCai_8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZjZhODVlNi00YWQzLTQ2YjgtOWM2YS05NDk4NzhhMTA0NmY=@223.113.53.141:30002#%F0%9F%87%A8%F0%9F%87%B3TW_%40WangCai_8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZjZhODVlNi00YWQzLTQ2YjgtOWM2YS05NDk4NzhhMTA0NmY=@223.113.53.141:30003#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDY0Mzg4Ni05YjZlLTQ1YjktYTAyNy1iMDlmZmIzNGZhY2Q=@223.113.53.141:30003#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZjZhODVlNi00YWQzLTQ2YjgtOWM2YS05NDk4NzhhMTA0NmY=@223.113.53.141:30001#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZjZhODVlNi00YWQzLTQ2YjgtOWM2YS05NDk4NzhhMTA0NmY=@171.111.216.155:30003#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDY0Mzg4Ni05YjZlLTQ1YjktYTAyNy1iMDlmZmIzNGZhY2Q=@171.111.216.155:30003#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDY0Mzg4Ni05YjZlLTQ1YjktYTAyNy1iMDlmZmIzNGZhY2Q=@223.113.53.141:30001#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ0M2ZkMi00ZjZmLTQ3MzYtYWY0NS03N2Y1MDdhNDA2NWE=@171.111.216.155:30002#%F0%9F%87%A8%F0%9F%87%B3TW_%40WangCai_8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ0M2ZkMi00ZjZmLTQ3MzYtYWY0NS03N2Y1MDdhNDA2NWE=@171.111.216.155:30001#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ0M2ZkMi00ZjZmLTQ3MzYtYWY0NS03N2Y1MDdhNDA2NWE=@223.113.53.141:30003#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ0M2ZkMi00ZjZmLTQ3MzYtYWY0NS03N2Y1MDdhNDA2NWE=@223.113.53.141:30001#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ0M2ZkMi00ZjZmLTQ3MzYtYWY0NS03N2Y1MDdhNDA2NWE=@223.113.53.141:30002#%F0%9F%87%A8%F0%9F%87%B3TW_%40WangCai_8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ0M2ZkMi00ZjZmLTQ3MzYtYWY0NS03N2Y1MDdhNDA2NWE=@171.111.216.155:30003#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
-
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
-<title>Attention Required! | Cloudflare</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
-<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
-<style>body{margin:0;padding:0}</style>
