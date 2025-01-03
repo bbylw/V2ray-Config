@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://a3168dd7-0fd8-4458-8eb3-a78a85a4175d@91.194.11.168:443?security=tls&sni=ca-full.privateip.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
+trojan://99c63d3a-4499-4a5b-aad6-826a6851f304@91.194.11.168:443?security=tls&sni=ca-full.privateip.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
+trojan://o53RruPksU@146.19.106.162:33852?security=tls&sni=v.qq.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
+trojan://5612c06f-d0c1-4c86-aacf-10e1bfaa4254@137.184.173.48:443?security=tls&sni=vietnamobile.com.vn&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
+trojan://f0eb8c92ce8946aaba856569cff1a16b@134.195.196.138:443?security=tls&sni=avianrecruit.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
+trojan://dba20dcb635e430fa4d3bfc303a149d2@134.195.196.138:443?security=tls&sni=avianrecruit.com&allowInsecure=1&fp=chrome&type=ws&path=6b777a91&host=avianrecruit.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%20%F0%9F%8C%8E%20TR-WS-TLS%204%E2%83%A3
+trojan://4aec4e7f8cf8454ea4613659822e1a61@134.195.196.138:443?security=tls&sni=avianrecruit.com&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=6b777a91&host=avianrecruit.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%20%F0%9F%8C%8E%20TR-WS-TLS%204%E2%83%A3
 trojan://dba20dcb635e430fa4d3bfc303a149d2@134.195.196.138:443?security=tls&sni=avianrecruit.com&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=6b777a91&host=avianrecruit.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%20%F0%9F%8C%8E%20TR-WS-TLS%204%E2%83%A3
 trojan://2cba4104747d49d18319e5ade1b93ab5@134.195.196.138:443?security=tls&sni=avianrecruit.com&allowInsecure=1&fp=chrome&type=ws&path=6b777a91&host=avianrecruit.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%20%F0%9F%8C%8E%20TR-WS-TLS%204%E2%83%A3
 trojan://4aec4e7f8cf8454ea4613659822e1a61@134.195.196.138:443?security=tls&sni=avianrecruit.com&allowInsecure=1&fp=chrome&type=ws&path=6b777a91&host=avianrecruit.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%20%F0%9F%8C%8E%20TR-WS-TLS%204%E2%83%A3
@@ -596,10 +603,3 @@ trojan://44c47535-2d1b-4afa-8c56-6bf39f7b03ad@74.226.136.204:443?security=tls&sn
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@74.226.136.204:443?security=tls&sni=us01.trojanyyds.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://0cdc54e5-c8e1-4350-a7b2-047e5f4c02f9@74.226.156.85:443?security=tls&sni=ar.mjt000.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@74.226.136.204:443?security=tls&sni=tw01.trojanyyds.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://44c47535-2d1b-4afa-8c56-6bf39f7b03ad@74.226.136.204:443?security=tls&sni=my01.trojanyyds.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://ee20db28-0e13-4936-96b1-37bfa5244854@74.226.136.204:443?security=tls&sni=my01.trojanyyds.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@74.226.136.204:443?security=tls&sni=my01.trojanyyds.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://c8fb9d20-d89b-4f20-93f6-acd04aeb586b@20.210.220.4:443?security=tls&sni=static.jaaar.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://331365d8-3ce5-484d-a226-33312bcc3217@74.226.136.204:443?security=tls&sni=hk04.trojanyyds.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://969ade8a-94fc-4a5a-b448-70a8154fb47b@74.226.136.204:443?security=tls&sni=my01.trojanyyds.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://a6bebbb9-c6bc-42af-9ea2-434a2164a978@74.226.136.204:443?security=tls&sni=hk03.trojanyyds.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
