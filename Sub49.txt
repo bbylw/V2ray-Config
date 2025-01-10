@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'">
+    <title>Site not found &middot; GitHub Pages</title>
+    <style type="text/css" media="screen">
+      body {
+        background-color: #f1f1f1;
+        margin: 0;
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
       }
 
@@ -83,8 +93,8 @@
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiZDEzOGYxYzktMzQwYi00ODJhLWEyNjItMmUxOTYzODc0ZDlmIiwicGFnZV90aW1lIjoxNzM2NDkzMzY0LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiMTcyLjE5MC4xMTEuMjQifQo=";</script>
-<script src="/bAhujpyGl.js"></script>
+<script>window.park = "eyJ1dWlkIjoiODMxZjJlNzYtOGY3Ny00YjUwLWFkNGYtZWE2ZmQxYWNhZjI4IiwicGFnZV90aW1lIjoxNzM2NDk3MjgxLCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiMjAuMjQ2Ljc4LjIzIn0K";</script>
+<script src="/bLJzpwyYU.js"></script>
 </body>
 </html>
 
@@ -593,13 +603,3 @@ vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:501
     <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
     <div id="cf-error-details" class="cf-error-details-wrapper">
       <div class="cf-wrapper cf-header cf-error-overview">
-        <h1>
-          <span class="cf-error-type" data-translate="error">Error</span>
-          <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8ffae12a5bf30628 &bull; 2025-01-10 07:16:04 UTC</small>
-        </h1>
-        <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
-      </div><!-- /.header -->
-
-      <section></section><!-- spacer -->
-
