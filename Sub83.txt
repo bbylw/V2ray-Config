@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@27.50.49.242:8443?allowInsecure=0&sni=ssvv.esslh.filegear-sg.me&type=ws&host=ssvv.esslh.filegear-sg.me&path=/?ed=2560security=tls#15%7CSG_speednode_0092
-vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@206.238.237.212:443?allowInsecure=0&sni=ssvv.esslh.filegear-sg.me&type=ws&host=ssvv.esslh.filegear-sg.me&path=/?ed=2560security=tls#15%7CSG_speednode_0093
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@8.222.158.140:443?allowInsecure=0&sni=147135010103.sec19org.com&security=tls#15%7CSG_speednode_0094
 vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@92.243.74.2:8443?allowInsecure=0&sni=ssvv.esslh.filegear-sg.me&type=ws&host=ssvv.esslh.filegear-sg.me&path=/?ed=2560security=tls#15%7CSG_speednode_0095
 vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@206.238.236.253:8443?allowInsecure=0&sni=ssvv.esslh.filegear-sg.me&type=ws&host=ssvv.esslh.filegear-sg.me&path=/?ed=2560security=tls#15%7CSG_speednode_0096
@@ -603,3 +601,5 @@ proxy-groups:
       - 备2_2
       - 201.myhmyhhuang1980.workers.dev_2
       - feng1_2
+      - feng2_2
+      - feng3_2

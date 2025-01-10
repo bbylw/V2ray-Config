@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://bc827d67-f095-4c65-9327-33039decb888@mbt.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#13-bit-clean-mbt
-vless://bc827d67-f095-4c65-9327-33039decb888@ask.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#14-bit-clean-ask
-vless://bc827d67-f095-4c65-9327-33039decb888@rsp.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#15-bit-clean-rsp
-vless://bc827d67-f095-4c65-9327-33039decb888@afn.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#16-bit-clean-afn
-vless://bc827d67-f095-4c65-9327-33039decb888@psm.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#17-bit-clean-psm
-vless://bc827d67-f095-4c65-9327-33039decb888@arx.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#18-bit-clean-arx
 vless://bc827d67-f095-4c65-9327-33039decb888@smt.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#19-bit-clean-smt
 vless://bc827d67-f095-4c65-9327-33039decb888@shm.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#20-bit-clean-shm
 vless://bc827d67-f095-4c65-9327-33039decb888@fnv.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#21-bit-clean-fnv
@@ -603,3 +597,9 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.197:5003#🔒 SS-TCP-NA 🇺�
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.120:443#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:443
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.77:5500#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.77:5500
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#🔒 SS-TCP-NA 🇨🇭 CH-156.146.62.161:443
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7002#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:7002
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.2:8080#🔒 SS-TCP-NA 🇫🇷 FR-45.158.171.2:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMGxneHk0bWI1MkNJSjhVVWNFZ3Rz@51.13.182.231:3089#🔒 SS-TCP-NA 🇳🇴 NO-51.13.182.231:3089
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.37.12.70:7306#🔒 SS-TCP-NA 🇫🇷 FR-54.37.12.70:7306
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.36.174.181:6379#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:6379
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.111.114.114:8118#🔒 SS-TCP-NA 🇨🇦 CA-38.111.114.114:8118
