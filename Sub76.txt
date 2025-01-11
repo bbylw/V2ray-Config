@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,discord.co,🚀 节点选择
+  - DOMAIN-SUFFIX,discord.com,🚀 节点选择
+  - DOMAIN-SUFFIX,discord.gg,🚀 节点选择
+  - DOMAIN-SUFFIX,discord.media,🚀 节点选择
+  - DOMAIN-SUFFIX,discordapp.com,🚀 节点选择
   - DOMAIN-SUFFIX,discordapp.net,🚀 节点选择
   - DOMAIN-SUFFIX,facebook.com,🚀 节点选择
   - DOMAIN-SUFFIX,fb.com,🚀 节点选择
@@ -598,8 +603,3 @@
   - DOMAIN-KEYWORD,announce,🎯 全球直连
   - DOMAIN-KEYWORD,torrent,🎯 全球直连
   - DOMAIN-KEYWORD,tracker,🎯 全球直连
-  - DOMAIN-SUFFIX,animebytes.tv,🎯 全球直连
-  - DOMAIN-SUFFIX,animetorrents.me,🎯 全球直连
-  - DOMAIN-SUFFIX,awesome-hd.me,🎯 全球直连
-  - DOMAIN-SUFFIX,beitai.pt,🎯 全球直连
-  - DOMAIN-SUFFIX,bittorrent.com,🎯 全球直连
