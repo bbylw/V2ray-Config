@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@104.26.12.255:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V04.SiMansaNaT.Ir.#AKB 🕊️ 241
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@104.26.12.255:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V07.SiMansaNaT.Ir.#AKB 🕊️ 233
-vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443?hiddify=1&sni=de-02.tradex2080.com&type=grpc&alpn=h2&path=gPGhgE3kwHBXqebAryGsQ&host=de-02.tradex2080.com&serviceName=gPGhgE3kwHBXqebAryGsQ&mode=gun&encryption=none&fp=chrome&headerType=None&security=tls#AKB 🕊️ 987
-vless://7c7af2de-bb97-429f-ac3c-8ef849717491@172.66.40.175:443?path=%2FBQV6vAwQzmCFpMcdx&security=tls&encryption=none&alpn=http/1.1&host=tr2.tradex2080.com&fp=chrome&type=httpupgrade&sni=tr2.tradex2080.com#AKB 🕊️ 929
-vless://d2c6ddc0-891a-4435-ac0a-4a5cdb78cb7d@104.16.4.103:443?hiddify=1&sni=fl1.tradex2080.com&type=ws&alpn=http/1.1&path=/uy4vb8KcMmQqnkXOdFN4WJ&host=fl1.tradex2080.com&encryption=none&fp=chrome&headerType=None&security=tls#AKB 🕊️ 765
-vless://f533e37c-9da5-4955-a218-a7886e5719b6@172.66.213.38:443?path=%2FpURR7fXWnkIMyATWmx5f6MblN&security=tls&encryption=none&alpn=http/1.1&host=nl88.tradex2080.com&fp=chrome&type=ws&sni=nl88.tradex2080.com#AKB 🕊️ 425
-vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@172.67.77.67:443?path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&security=tls&encryption=none&alpn=h2&host=de01.tradex2080.com&fp=chrome&type=ws&sni=de01.tradex2080.com#AKB 🕊️ 632
-vless://f533e37c-9da5-4955-a218-a7886e5719b6@104.26.9.103:443?path=%2FpURR7fXWnkIMyATWmx5f6MblN&security=tls&encryption=none&alpn=http/1.1&host=nl88.tradex2080.com&fp=chrome&type=ws&sni=nl88.tradex2080.com#AKB 🕊️ 992
 vless://7c7af2de-bb97-429f-ac3c-8ef849717491@tr1.tradex2080.com:443?security=reality&encryption=none&alpn=http/1.1&pbk=jSuIvIWLecUXhjia1bHBwo5sHiYkKsdtdy0x6N-4A1s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.upci.org&sid=ee46#AKB 🕊️ 25
 vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443?path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&security=tls&encryption=none&alpn=http/1.1&host=de01.tradex2080.com&fp=chrome&type=ws&sni=deefull.tradex2080.com#AKB 🕊️ 575
 vless://4c1983a8-1802-46f1-8837-aaf33958ed46@185.148.105.52:443?path=%2FMgFwdcE2Hs2cgQYI0W&security=tls&encryption=none&alpn=http/1.1&host=fln1.novinping.com&fp=chrome&type=ws&sni=fln1.novinping.com#AKB 🕊️ 44
@@ -394,6 +386,8 @@ vless://38ace213-5184-477b-ac3e-d800d0cf3cd9@104.31.16.65:2095?security=&type=ws
 vmess://ewogICJhZGQiOiAidzIuc3Rhci1vbmUuY2ZkIiwKICAiYWlkIjogIjAiLAogICJob3N0IjogIncyLnN0YXItb25lLmNmZCIsCiAgImlkIjogImIzODc2NjE1LTcxNTAtNDU3OC04OGFiLWI3NjRlOTQ5MjI5ZCIsCiAgIm5ldCI6ICJ3cyIsCiAgInBhdGgiOiAiL2ZvcndhcmR2MnJheSIsCiAgInBvcnQiOiAiODAiLAogICJwcyI6ICJcdTI3MDVcdTI3MDVAVlBOR2F0ZV9DaGFubmVsXHUyNzA1XHUyNzA1IiwKICAic2N5IjogImF1dG8iLAogICJzbmkiOiAiIiwKICAidGxzIjogIiIsCiAgInR5cGUiOiAiYXV0byIsCiAgInYiOiAiMiIKfQ==
 vmess://ewogICJhZGQiOiAieDQuc3Rhci1vbmUuY2ZkIiwKICAiYWlkIjogIjAiLAogICJob3N0IjogIng0LnN0YXItb25lLmNmZCIsCiAgImlkIjogIjI2ZmZjOTRhLWUxMzgtNDk1YS04MTk2LTcwNDcyOTM0ZTAzMyIsCiAgIm5ldCI6ICJ3cyIsCiAgInBhdGgiOiAiL2ZvcndhcmR2MnJheSIsCiAgInBvcnQiOiAiMjA5NSIsCiAgInBzIjogIlx1MjcwNVx1MjcwNUBWUE5HYXRlX0NoYW5uZWxcdTI3MDVcdTI3MDUiLAogICJzY3kiOiAiYXV0byIsCiAgInNuaSI6ICIiLAogICJ0bHMiOiAiIiwKICAidHlwZSI6ICJhdXRvIiwKICAidiI6ICIyIgp9
 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogInMxLmRiLWxpbmswMS50b3AiLCAicG9ydCI6ICIyMDg2IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjE3LjE1NC4yMjMiLCAiaG9zdCI6ICIxMDAtNDgtMjAyLTE0My5zMS5kYi1saW5rMDEudG9wIiwgInRscyI6ICIifQ==
+vless://fcc65a17-2587-4af5-98ad-f1ea0471ac0f@151.101.130.228:80?security=none&type=ws&host=SeyyedMTtelegramChannel.net#@Hope_Net-join-us-on-Telegram
 vless://c680de5c-d743-4888-d094-9dfd465b46da@tify-binex-join.espikernajafi.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy#%40V2RAYROZ`
 vless://8bca284c-d2f2-4367-999c-5f490a872c2d@hajlab.ucdavis.edu:80?path=%2Fseyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmtxmplus%3Fed%3D1024&security=none&encryption=none&host=SeyyedMTtelegramChannel.net&type=ws#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG``
 vless://41bb7247-c37a-48ab-8421-c9f76f4ed570@ns4.esfahansiman.com:443/?type=ws&encryption=none&host=WWW.pegAh-Esfahan.De.&security=tls&sni=WWW.pegAh-Esfahan.De.&alpn=h2%2Chttp%2F1.1&fp=chrome#@meli_proxyy
@@ -603,3 +597,9 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#%F0%9F%87%A8%F0%9F%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.112.59.15:443#%F0%9F%87%A6%F0%9F%87%AA%20KITKAT%C2%B9%E2%81%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.172.206:443#%F0%9F%87%A6%F0%9F%87%AA%20KITKAT%C2%B9%E2%81%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.239.125:443#%F0%9F%87%A7%F0%9F%87%AD%20KITKAT%C2%B9%E2%81%B9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#%F0%9F%87%A6%F0%9F%87%B9%20KITKAT%C2%B2%E2%81%B0
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@104.192.226.106:989#premium-us
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@104.192.225.26:989#premium-us%20%281%29
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#premium-gb
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.113:989#premium-gb%20%281%29
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.23.63:989#premium-TOR
