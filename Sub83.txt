@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://bc827d67-f095-4c65-9327-33039decb888@prs.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#12-bit-clean-prs
+vless://bc827d67-f095-4c65-9327-33039decb888@mbt.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#13-bit-clean-mbt
 vless://bc827d67-f095-4c65-9327-33039decb888@ask.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#14-bit-clean-ask
 vless://bc827d67-f095-4c65-9327-33039decb888@rsp.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#15-bit-clean-rsp
 vless://bc827d67-f095-4c65-9327-33039decb888@afn.giga-downloader.com:443?encryption=none&security=tls&sni=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&alpn=http%2F1.1&fp=random&type=ws&host=123456789_123456789_123456789_123456789_123456789_123456789_000.giga-downloader.com&path=%2Fws5%2F8082#16-bit-clean-afn
@@ -83,7 +85,7 @@ vless://bc827d67-f095-4c65-9327-33039decb888@123456789_123456789_123456789_12345
                 <div>
                     <h2 class="h5" id="wat">Access Code Required</h2>
                     <p>To access the raw version of this page, a valid access code must be set in the metadata: SECRET_RAW_ACCESS_CODE.</p>
-                    <p>You may request an access code by emailing <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4c3f393c3c233e380c3e2922383e35622f23">[email&#160;protected]</a></p>
+                    <p>You may request an access code by emailing <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b2c1c7c2c2ddc0c6f2c0d7dcc6c0cb9cd1dd">[email&#160;protected]</a></p>
                     <p>An access code may be used on any number of pages.</p>
                     <p>You may also use this access code as a header in your request, which will give you access to any post's /raw/ page.</p>
                     <p>This system was a necessary addition due to extensive misuse by bad actors posting malware snippets and getting us into a lot of trouble with our web hosts and domain registrars.</p>
@@ -112,7 +114,7 @@ vless://bc827d67-f095-4c65-9327-33039decb888@123456789_123456789_123456789_12345
         <script src="/static/js/bootstrap.min.js?vsson=28"></script>
         
     </div>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9017b5ba18d2876c',t:'MTczNjc5NTY3Mi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'901814676ef1dda4',t:'MTczNjc5OTU1MC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 
 </html>
 
@@ -179,7 +181,7 @@ vless://bc827d67-f095-4c65-9327-33039decb888@123456789_123456789_123456789_12345
                 <div>
                     <h2 class="h5" id="wat">Access Code Required</h2>
                     <p>To access the raw version of this page, a valid access code must be set in the metadata: SECRET_RAW_ACCESS_CODE.</p>
-                    <p>You may request an access code by emailing <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0c7f797c7c637e784c7e6962787e75226f63">[email&#160;protected]</a></p>
+                    <p>You may request an access code by emailing <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8cfff9fcfce3fef8ccfee9e2f8fef5a2efe3">[email&#160;protected]</a></p>
                     <p>An access code may be used on any number of pages.</p>
                     <p>You may also use this access code as a header in your request, which will give you access to any post's /raw/ page.</p>
                     <p>This system was a necessary addition due to extensive misuse by bad actors posting malware snippets and getting us into a lot of trouble with our web hosts and domain registrars.</p>
@@ -208,7 +210,7 @@ vless://bc827d67-f095-4c65-9327-33039decb888@123456789_123456789_123456789_12345
         <script src="/static/js/bootstrap.min.js?vsson=28"></script>
         
     </div>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9017b5bb3c98eaf0',t:'MTczNjc5NTY3Mi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'90181468acf00833',t:'MTczNjc5OTU1MS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 
 </html>
 
@@ -601,5 +603,3 @@ trojan://telegram-id-directvpn@15.237.18.231:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@15.237.166.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 67
 trojan://telegram-id-directvpn@15.236.166.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 66
 trojan://telegram-id-directvpn@15.222.171.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 65
-trojan://telegram-id-directvpn@15.222.136.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 64
-trojan://telegram-id-directvpn@15.222.123.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 63
