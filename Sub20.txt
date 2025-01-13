@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://SSorg@5.182.85.28:443?security=tls&sni=ssjj.esslh.filegear-sg.me&type=ws&host=ssjj.esslh.filegear-sg.mehttp%2F1.1&path=%2F%3Fed#🔒 TR-WS-TLS 🇷🇺 RU-5.182.85.28:443
-trojan://blue2024@108.165.216.212:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇺🇸 US-108.165.216.212:443
 trojan://c95a5a3a-5a4c-4ee5-b11a-96f72cf80661@104.26.2.3:443?security=tls&sni=4cbba020.fastpurnet3.pages.dev&type=ws&host=4cbba020.fastpurnet3.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.2.3:443
 trojan://NISHIKUITAN111@172.67.234.222:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.234.222:443
 trojan://blue2024@104.24.28.137:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.24.28.137:443
@@ -603,3 +601,5 @@ vless://c43cf30c-18f1-4e20-bd88-73b1288c5202@172.67.216.94:443?security=tls&sni=
 vless://0954c6d7-f4a7-44ff-9a78-1939f9ba43d4@172.64.32.201:443?security=tls&sni=server20.aibox.tv&type=ws&host=server20.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.32.201:443
 vless://2ffe29ef-258c-43f5-b63d-5017048950c2@104.21.78.204:443?security=tls&sni=paPl03.jamanI-KInsler.worKErS.DeV&type=ws&host=papl03.JaMANI-kINsLEr.WOrKers.dEV&path=%2FwYfl4PFuz10T98k7%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.204:443
 vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2052?security=none&type=ws&host=21tg.459tj345.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.32.69:2052
+vless://c8e8e02a-462a-4eaf-9cfa-d3d97fdcc891@104.17.147.22:443?security=tls&sni=ssdsdsdsdf.pages.dev&type=ws&host=ssdsdsdsdf.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.147.22:443
+vless://531bf100-1477-487c-a979-6adebf8f105f@160.79.105.205:443?security=tls&sni=vdb.bgm2024.us.kg&type=ws&host=vdb.bgm2024.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.205:443
