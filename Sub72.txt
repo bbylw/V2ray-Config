@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://e201ad10-d73c-4d59-8c72-5dc1fedb0847@37.27.15.167:2052?encryption=none&security=reality&type=tcp&headerType=none#%5B%F0%9F%87%AB%F0%9F%87%AE%5Dt.me%2FConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.146:8080#%F0%9F%91%89%F0%9F%86%94%40m3hdio1
-vless://219ee52a-0e91-4f36-93a5-3e28a4830a7a@ru.srv.flexiblenet.org:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bunny.net&fp=chrome&pbk=os2QbCQyqdqE4vr-vVWTQMBiqxFXEDSLhMncRy5RIwg&sid=f8d8d12585198cb5&type=tcp&headerType=none#%F0%9F%93%A476%40oneclickvpnkeys
-vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?encryption=none&security=tls&sni=005188006073.sec1org.com&fp=chrome&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40m3hdio1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.193.42:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40m3hdio1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%5B%F0%9F%87%AC%F0%9F%87%A7%5Dt.me%2FConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#%5B%F0%9F%8F%81%5Dt.me%2FConfigsHub
-vless://2e7cfdb7-44c7-4992-8d1c-3cab70088a2e@pronk.moderplus.com:51841?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%91%89%F0%9F%86%94%40m3hdio1
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REVFMVx1RkUwRjgwQG9uZWNsaWNrdnBua2V5cyIsDQogICJhZGQiOiAiYmV5b25kZGJjLnNicyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI4ZDkwYzEyOS00MTU2LTRkNmMtOTExNS0yNGRmMjVmMjZhMDIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImJleW9uZGRiYy5zYnMiLA0KICAicGF0aCI6ICIvbGlua3dzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImJleW9uZGRiYy5zYnMiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vless://8487c972-b2a2-456a-abe3-65d96de3c3f7@159.65.45.215:443?encryption=none&security=reality&sni=zula.ir&fp=chrome&pbk=iE26KZ1KskUW7fC3qtWxDhj5vF9QgaZypDv78NS0vE4&sid=26bde4&spx=%2F&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40m3hdio1
 vless://41c644db-0903-5366-8abb-2e03767112d3@94.131.8.32:80?encryption=none&security=none&type=ws&host=vpnAndroid2.vpnAndroid2.vpnAndroid2.vpnAndroid2.zula.ir.gr2.vless.sitespeedtest.net.&path=%2Fvless.%40vpnAndroid2.%40vpnAndroid2.%40vpnAndroid2.%40vpnAndroid2#%F0%9F%AB%A723%40oneclickvpnkeys
@@ -603,3 +595,11 @@ proxy-groups:
       - 备1_5
       - 备2_5
       - 201.myhmyhhuang1980.workers.dev_5
+      - feng1_5
+      - feng2_5
+      - feng3_5
+      - feng4_5
+      - feng5_5
+      - feng6_5
+  - name: 🎯 全球直连
+    type: select
