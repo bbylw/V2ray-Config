@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://011eb011-c68e-4f92-80eb-f9bbef707bef@13.248.252.114:80?security=none&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20TR-TCP-NONE%204%E2%83%A3
+trojan://b640d791-ff83-4300-b509-c2a02f97f167@13.248.252.114:80?security=none&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20TR-TCP-NONE%204%E2%83%A3
+trojan://L0vzPZwI7M@99.83.138.213:443?security=none&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20TR-TCP-NONE%204%E2%83%A3
+trojan://2f254511-6563-4e3a-a5c9-56bfb66d9186@199.59.243.227:443?security=tls&sni=zi.you.usdtvfk.top&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
 trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@18.65.190.65:443?security=tls&sni=wel-jp.optage.moe&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
 trojan://Julius@104.219.41.229:443?security=tls&sni=miami.juliusnet.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
 trojan://6bca9bf0-6c8a-42a3-a04a-cd8554ac1c9c@13.248.252.114:443?security=tls&sni=t2.teslacdn2.live&alpn=http/1.1&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
@@ -599,7 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#%F
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.86.135.117:6379#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Washington%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.117:5500#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Washington%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.86.135.117:2375#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Washington%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@103.173.254.205:443?security=none&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20-%20Hanoi%20%F0%9F%8C%8F%20TR-TCP-NONE%204%E2%83%A3
-trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@103.173.254.205:443?security=none&fp=chrome&type=tcp#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20-%20Hanoi%20%F0%9F%8C%8F%20TR-TCP-NONE%204%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20-%20NA%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
-trojan://057177db-f003-40dc-a14b-488e8ceefcaa@103.74.102.192:443?security=tls&sni=dl.kgvn.garenanow.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
