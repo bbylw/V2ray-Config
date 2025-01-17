@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://3a0b4b0a-0c0f-4378-9275-725f1a9d454a@172.67.75.178:443?security=tls&sni=Sauron.Melkore.ir&type=ws&host=Sauron.Melkore.ir&path=%2FUngoliant3%2F&fp=randomized&alpn=http%2F1.1%2Ch2%2Ch3#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.75.178:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.3.188:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.3.188:80
 vless://18cd7434-d639-11ee-aaa8-00505603e70d@104.26.11.137:443?security=tls&sni=st-gb-1.brocdn.com&type=ws&host=st-gb-1.brocdn.com&path=%2Fwebsocket&alpn=null#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.11.137:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@173.245.49.1:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.49.1:443
@@ -603,3 +602,4 @@ trojan://blue2024@162.159.135.218:443?security=tls&sni=ta.promote.icu&type=ws&ho
 trojan://NISHIKUITAN111@45.159.219.89:443?#🔒 TR-TCP-NA 🇺🇸 US-45.159.219.89:443
 trojan://NISHIKUITAN111@104.22.59.104:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.22.59.104:443
 trojan://NISHIKUITAN111@45.149.12.23:443?#🔒 TR-TCP-NA 🇳🇱 NL-45.149.12.23:443
+trojan://SSorg@108.165.152.131:443?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-108.165.152.131:443

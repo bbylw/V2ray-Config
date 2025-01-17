@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.220.155:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&host=lw.kpcloud.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.220.155:443
 vless://49a7a7b7-655d-4034-9037-da4cb67dd698@104.17.147.22:2087?security=tls&sni=media-content.tp5383.com&type=grpc&serviceName=2087vless#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.147.22:2087
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.219:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.219:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.12.31:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.31:443
@@ -603,3 +602,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.9:443?security=tls&sni=dd
 vless://bb736fb5-22b2-40a1-8d9b-aeea3551d8bf@104.21.234.10:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.234.10:443
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@154.92.9.95:80?security=none&type=ws&host=csgo.mozilla.5.0.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.127.0.0.1.offlinespeedtest.netdown.user.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.0.2.1.xn--j9h1028mqmaoytii00aha21hfjrd.xn--m39h.tor.rubika.cloudns.ch.&path=%2Fxmlrpc.php%3Fed%3D1080%26id%3Ddfc1a9ab-6241-4b73-92f7-b299fc6b7751#🔒 VL-WS-NONE 🇨🇾 CY-154.92.9.95:80
 vless://e5dd37d6-4fd0-4027-90b2-c445333f63d6@190.93.247.155:80?security=none&type=ws&host=1.www.speedtest.net.zula.ir.zemestanil.iR.#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.155:80
+vless://3a0b4b0a-0c0f-4378-9275-725f1a9d454a@172.67.75.178:443?security=tls&sni=Sauron.Melkore.ir&type=ws&host=Sauron.Melkore.ir&path=%2FUngoliant3%2F&fp=randomized&alpn=http%2F1.1%2Ch2%2Ch3#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.75.178:443
