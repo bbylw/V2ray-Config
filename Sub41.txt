@@ -3,6 +3,67 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+          "dialerProxy": "fragment",
+          "tcpKeepAliveIdle": 100,
+          "mark": 255,
+          "tcpNoDelay": true
+        }
+      }
+    },
+    {
+      "tag": "fragment",
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "AsIs",
+        "fragment": {
+          "packets": "tlshello",
+          "length": "10-20",
+          "interval": "1-3"
+        }
+      },
+      "streamSettings": {
+        "sockopt": {
+          "tcpNoDelay": true,
+          "tcpKeepAliveIdle": 100
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom",
+      "settings": {}
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      }
+    }
+  ],
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "type": "field",
+        "inboundTag": [
+          "api"
+        ],
+        "outboundTag": "api",
+        "enabled": true
+      },
+      {
+        "id": "5627785659655799759",
+        "type": "field",
+        "port": "0-65535",
+        "outboundTag": "proxy",
+        "enabled": true
+      }
+    ]
+  }
+}
 
 {"dns":{"independent_cache":true,"rules":[{"domain":["dns.google"],"server":"dns-direct"}],"servers":[{"address":"https://dns.google/dns-query","address_resolver":"dns-direct","strategy":"ipv4_only","tag":"dns-remote"},{"address":"local","address_resolver":"dns-local","detour":"direct","strategy":"ipv4_only","tag":"dns-direct"},{"address":"local","detour":"direct","tag":"dns-local"},{"address":"rcode://success","tag":"dns-block"}]},"inbounds":[{"listen":"127.0.0.1","listen_port":6450,"override_address":"8.8.8.8","override_port":53,"tag":"dns-in","type":"direct"},{"domain_strategy":"","endpoint_independent_nat":true,"inet4_address":["172.19.0.1/28"],"mtu":9000,"sniff":true,"sniff_override_destination":false,"stack":"mixed","tag":"tun-in","auto_route":true,"type":"tun"},{"domain_strategy":"","listen":"127.0.0.1","listen_port":2080,"sniff":true,"sniff_override_destination":false,"tag":"mixed-in","type":"mixed"}],"log":{"level":"warning"},"outbounds":[{"method":"chacha20-ietf-poly1305","password":"1bd9d418-335e-42f0-a83c-257f3917d773","server":"127.0.0.1","server_port":1080,"type":"shadowsocks","udp_over_tcp":true,"domain_strategy":"","tag":"proxy","detour":"shadowtls"},{"password":"1bd9d418-335e-42f0-a83c-257f3917d773","server":"hys10.afsharidempire.uk","server_port":443,"tls":{"enabled":true,"insecure":false,"server_name":"www.google.com","utls":{"enabled":true,"fingerprint":"chrome"}},"version":3,"type":"shadowtls","domain_strategy":"","tag":"shadowtls"},{"tag":"direct","type":"direct"},{"tag":"bypass","type":"direct"},{"tag":"block","type":"block"},{"tag":"dns-out","type":"dns"}],"route":{"auto_detect_interface":true,"rule_set":[],"rules":[{"outbound":"dns-out","port":[53]},{"inbound":["dns-in"],"outbound":"dns-out"},{"ip_cidr":["224.0.0.0/3","ff00::/8"],"outbound":"block","source_ip_cidr":["224.0.0.0/3","ff00::/8"]}]}}
 
@@ -352,7 +413,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 90333438eafc114e &bull; 2025-01-17 03:19:29 UTC</small>
+          <small class="heading-ray-id">Ray ID: 90338e8729350852 &bull; 2025-01-17 04:21:08 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -377,12 +438,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">90333438eafc114e</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">90338e8729350852</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.25.192.58</span>
+      <span class="hidden" id="cf-footer-ip">172.200.183.182</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -542,64 +603,3 @@ vless://85355ea4-4752-4889-a60e-95f3cbbec92f@hajlab.ucdavis.edu:443?security=tls
 vless://945d83e0-bdd0-4d58-9d1b-9fe16f46f3b2@64.176.68.154:8080?type=ws&security=none&path=%2F#telegram☔DailyV2ry
 vless://a324cb38-6465-4cca-b856-dc1887f4ec50@cash.ns.cloudflare.com:443?encryption=none&security=tls&sni=vydtpd.adresstime.com&type=ws&alpn=http/1.1&host=vydtpd.adresstime.com&path=/wss#telegram🚀DailyV2ry
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@144.24.200.164:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F#🇫🇷[openproxylist.com]
-vless://c1cae13d-7fab-474a-89e2-4b0f67f2a3f7@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Pizza-nufilter.com&type=ws#@meli_proxyy
-vless://787f51d8-18bb-4b94-b5fd-50da629ed05a@172.64.34.232:443?security=tls&sni=ygwg4a.isfshzist.com&type=ws&host=ygwg4a.isfshzist.com&path=/wss&alpn=http/1.1#@Hope_Net-join-us-on-Telegram`
-vless://d9985d17-37fd-4936-cdf3-b975141cce75@xpnteam-chanell-join.jaricopen.sbs:2083?type=grpc&serviceName=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam&authority=&security=reality&pbk=Kp2e60emPrdsWbng-ZULg00gstRkHr-I2QjoJyKHpho&fp=randomized&sni=refersion.com&sid=&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%94%A5%20(XPNTEAM%20-%20FAST)-yol1kak10```
-vless://d4317213-4c8b-4af6-b8ee-fb6ceba4a3b3@xpnteam-chanell-join.jaricopen.sbs:8443?type=ws&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam%3Fed%3D2048&host=Upload.ir&security=none#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%94%A5%20(XPNTEAM%20-%20FAST)-reqi95cqz```
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.178.61.147:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.39.170:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
-vless://ed35d48f-f16b-4d2d-93e9-10675a3e966c@tify-binex-join.espikernajafi.ir:2053?path=telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&type=ws#%40V2RAYROZ`
-vless://8ab3562d-c86d-551b-b4c7-f252c6e706ef@151.101.130.133:443?security=tls&sni=live.skornorth.com&type=ws&host=MOSIV2.CC&fp=qq&allowInsecure=1#@Hope_Net-join-us-on-Telegram
-vless://8ab3562d-c86d-551b-b4c7-f252c6e706ef@151.101.66.133:443?security=tls&sni=live.skornorth.com&type=ws&host=MOSIV2.CC&fp=qq&allowInsecure=1#@Hope_Net-join-us-on-Telegram`
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=edge.validbv3528.ir&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-vless://ccef0b82-5d7e-41e0-ba1d-05cece210264@free-ipv6.onlinernet.ir:2025?security=none&encryption=none&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-vless://d028d7ab-4d81-4be8-838b-fd081bb1a5ba@lactation.ucdavis.edu:443?path=%2Fvless&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=speedtest.net.ftp.debian.org.1.2.3.a.s.m.kkkkkkk.netspeedtest.net.ukwa.njsdl.ir&fp=randomized&type=ws&sni=lactation.ucdavis.edu#%40IRAN_V2RAY1
-vless://050ed187-5887-4ca2-8b59-cf81283392ca@151.101.3.8:80?path=%2F%40VpnWedbaz-----%40VpnWedbaz%3Fed%3D2560&security=none&encryption=none&host=VpnWedbaz-VpnWedbaz.SS&type=ws#%40IRAN_V2RAY1
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.195.137.231:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
-vless://18758238-2625-2730-3689-f157ae275ad4@198.41.205.124:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=random&type=grpc&serviceName=grpc&sni=etmryqth.mnteslas.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6`
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.250.246.200:8080?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AA%F0%9F%87%B8`
-vless://e5553e69-e0dc-452d-8d27-db5da04632fb@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#🇩🇪@V2ray_official
-vless://55223442-9c37-4ed9-aab6-8a22f15f1424@hajlab.ucdavis.edu:443?path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2560&security=tls&encryption=none&host=loye.ir&type=ws&sni=hajlab.ucdavis.edu#🇩🇪@V2ray_official
-vless://110cd506-4e49-4760-8d74-ca971e26070b@hajlab.ucdavis.edu:443?path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&security=tls&encryption=none&host=joinbedemaznettel.ir&type=ws&sni=hajlab.ucdavis.edu#🇩🇪@V2ray_official
-vless://714eba7d-6bef-406b-aabc-724fd323b17a@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#🇷🇺@V2ray_official
-vless://faadda04-9d9b-53d9-90cb-9405a58179fa@89.221.224.12:2052?security=none&type=ws&path=%2Fvless%23Telegram%40V2ray_Alpha%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.99.254.90:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.75.117.55:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
-vless://63640de1-e9ae-4483-9e22-21eda9c1a507@151.101.66.228:443?security=tls&allowInsecure=1&host=Bia2.Channel-ELiV2RaY.ir&fp=chrome&type=ws&sni=Bia2.Channel-ELiV2RaY.ir#@meli_proxyy
-vless://63640de1-e9ae-4483-9e22-21eda9c1a507@fishlab.ucdavis.edu:443?security=tls&fp=firefox&host=Bia2.Channel-ELiV2RaY.ir&type=ws&sni=fishlab.ucdavis.edu#@meli_proxyy`
-vless://b2705a86-7b78-4f59-9205-3a16062b8018@46.8.233.216:45908?security=tls&sni=tunnel-pro.yoooka.lol&type=tcp&host=m-net.speedtestcustom.com&headerType=http&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🇫🇮[openproxylist.com]
-vless://2cab13fd-c8f1-4c91-87a5-4506c3ab0434@python.org:80?security=&type=ws&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&encryption=none#@UnlimitedDev-Link1
-vless://2cab13fd-c8f1-4c91-87a5-4506c3ab0434@fishlab.ucdavis.edu:443?type=ws&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&security=tls&fp=randomized&sni=fishlab.ucdavis.edu#@UnlimitedDev-Link2`
-vless://ec442af6-d565-4032-a37c-b60c7d4f3048@104.248.100.191:1286?type=tcp&host=speedtest.net&headerType=http#@Hope_Net-join-us-on-Telegram
-vless://0102767f-6335-41c5-a9cc-52266eecf325@78.39.47.254:11040?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
-vless://35cf8ff2-47c9-48af-8d21-ce1a74a98fe8@151.101.194.165:80?security=none&type=ws&host=Germany2-1nufilter.coM&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080#@Hope_Net-join-us-on-Telegram
-vless://77f680d1-1881-4b16-9eac-b8882c05fe62@ns4.esfahansiman.com:443/?type=ws&encryption=none&host=WWW.pegAh-Esfahan.De.&security=tls&sni=WWW.pegAh-Esfahan.De.&alpn=h2%2Chttp%2F1.1&fp=chrome#@meli_proxyy
-vless://77f680d1-1881-4b16-9eac-b8882c05fe62@cloud2.xmsvx.com:80/?type=ws&encryption=none&host=jetservices55.ir&path=%2F%3Fed%3D2560#@meli_proxyy`
-vless://0c9be1ab-de8b-46f7-8471-6739a1e3d289@free.fastly80.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=holad2vpnforvip.ir&type=ws#%40V2ray1_Ng
-vless://bca312f3-afc4-540f-a174-ac90596a3bbc@5.252.23.173:80/?type=grpc&encryption=none&serviceName=vless-grpc#%F0%9F%96%B2%EF%B8%8F89%40oneclickvpnkeys
-ss://ffe6ffea-d8df-4efd-9fb1-ab093d6d0a2d@188.114.96.3:443?path=%2FXDibuDFmB3fiURk1%3Fed%3D2560&security=tls&encryption=none&host=PPaL03.tAveN-rYDan.WorKERS.DeV&type=ws&sni=PpAl03.TavEn-rYDAn.WORkerS.DEv#All-%40V2ray_Alpha-4
-ss://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2086?path=%2F%3Fed%3D2560&security=none&encryption=none&host=21tg.459tj345.workers.dev&type=ws#All-%40V2ray_Alpha-5
-ss://1185a1af-2ad7-5abe-90fb-ca183a3abd96@speedtest.net:80?path=%2Fl%3Fed%3D443ed%3D2560&security=none&encryption=none&host=ELiV2RAY-0.iR.&type=ws#All-%40V2ray_Alpha-6
-ss://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2095?path=%2F%3Fed%3D2560&security=none&encryption=none&host=21tg.459tj345.workers.dev&type=ws#All-%40V2ray_Alpha-7
-ss://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2052?path=%2F%3Fed%3D2560&security=none&encryption=none&host=21tg.459tj345.workers.dev&type=ws#All-%40V2ray_Alpha-8
-ss://b5e3d701-3b7e-4fc6-a107-5c82a3f8b414@v5.vixsm.ir:443?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#All-%40V2ray_Alpha-9
-ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.232.244.5:2198?security=none&encryption=none&headerType=none&type=tcp#All-%40V2ray_Alpha-10
-ss://d44053e7-adce-4c86-a67e-264db5662e01@zmaoz.faculty.ucdavis.edu:443?path=%2Folem%2Fws%3Fed%3D4096&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=fonmelo.com&fp=edge&type=ws&sni=zmaoz.faculty.ucdavis.edu.#All-%40V2ray_Alpha-11
-ss://eyJhZGQiOiIxMDQuMjEuMzIuMSIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6InJhbmRvbWl6ZWQiLCJob3N0IjoiZXpvLmpoYnFtdHd0bS5jb20iLCJpZCI6ImRmZGI0ZmFkLTUzNWUtNDQwOC1hNzRiLTdjM2NlMTE4YmQ0MiIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IkFsbC1AVjJyYXlfQWxwaGEtMTIiLCJzY3kiOiJhdXRvIiwic25pIjoiZXpvLmpoYnFtdHd0bS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-ss://eyJhZGQiOiIxMDQuMjEuNjkuNDQiLCJhaWQiOiIwIiwiYWxwbiI6ImgyIiwiZnAiOiJjaHJvbWUiLCJob3N0Ijoic3RoLmhhcHB5Z3JvdW5kLmlyIiwiaWQiOiI2MTcyMTNjMS0yZjQ3LTQyZTQtOGE1Ni04Zjc3MGJmYmUxNjIiLCJuZXQiOiJncnBjIiwicGF0aCI6IjZtSHdxSTFIU1NWdFh4Q3hzaGNWIiwicG9ydCI6IjQ0MyIsInBzIjoiQWxsLUBWMnJheV9BbHBoYS0xMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJzdGguaGFwcHlncm91bmQuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==♾نامحدود
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@23.154.136.176:5500#WiFi-%40V2ray_Alpha-1
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.134.94.168:3389#WiFi-%40V2ray_Alpha-2
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@67.220.95.102:5498#WiFi-%40V2ray_Alpha-3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#WiFi-%40V2ray_Alpha-4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#WiFi-%40V2ray_Alpha-5
-ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.144.29.246:2198?security=none&encryption=none&headerType=none&type=tcp#WiFi-%40V2ray_Alpha-6
-ss://06cd4260-bd81-4bdd-900d-37fb0af80d01@64.176.71.35:45203?security=none&encryption=none&headerType=none&type=tcp#WiFi-%40V2ray_Alpha-7
-ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@77.91.122.176:2198?security=none&encryption=none&headerType=none&type=tcp#WiFi-%40V2ray_Alpha-8
-ss://7cc88852-6c8c-4ddc-9211-5628824b223d@79.127.70.106:45147?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#WiFi-%40V2ray_Alpha-9
-ss://d927916a-7dca-4466-9c5e-e70c0a6879b5@91.134.61.207:18764?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#WiFi-%40V2ray_Alpha-11
-ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.131.112.54:2198?security=none&encryption=none&headerType=none&type=tcp#WiFi-%40V2ray_Alpha-12
-ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.3.165:2198?security=none&encryption=none&headerType=none&type=tcp#WiFi-%40V2ray_Alpha-13
-ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.85:2198?security=none&encryption=none&headerType=none&type=tcp#WiFi-%40V2ray_Alpha-14
-ss://677a41e5-dbe6-429b-8f91-cc014b1ae1bd@146.190.16.108:23701?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#WiFi-%40V2ray_Alpha-16
-ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.195:2198?security=none&encryption=none&headerType=none&type=tcp#WiFi-%40V2ray_Alpha-17
-ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.176:2198?security=none&encryption=none&headerType=none&type=tcp#WiFi-%40V2ray_Alpha-18
