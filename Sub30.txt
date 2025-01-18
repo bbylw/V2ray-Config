@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://ee62291f-97e6-4b8f-ad61-5b150b227003@212.183.88.129:2087?security=tls&sni=g4.ferdowsi.shop&type=grpc&serviceName=👨‍🚀Free👨‍🚀#🔒 VL-GRPC-TLS 🇦🇹 AT-212.183.88.129:2087
-vless://9a2680ff-c5d5-410a-9108-8d6b10e4ea1e@104.24.37.192:80?security=none&type=ws&host=ppal03.dolobe7975.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.37.192:80
 vless://67caf0a6-2cab-4f2e-81f5-1664e4813709@104.22.36.243:2096?security=tls&sni=server18.aibox.tv&type=ws&host=server18.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.36.243:2096
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@154.92.9.30:80?security=none&type=ws&host=csgo.mozilla.5.0.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.127.0.0.1.offlinespeedtest.netdown.user.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.0.2.1.xn--j9h1028mqmaoytii00aha21hfjrd.xn--m39h.tor.rubika.cloudns.ch.&path=%2Fxmlrpc.php%3Fed%3D1080%26id%3Ddfc1a9ab-6241-4b73-92f7-b299fc6b7751#🔒 VL-WS-NONE 🇨🇾 CY-154.92.9.30:80
 vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@104.17.199.238:443?security=tls&sni=dalinceshi.icu&type=ws&host=dalinceshi.icu&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.199.238:443
@@ -603,3 +601,5 @@ trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?security=tls&sni=bang
 trojan://bpb-trojan@185.176.24.2:443?security=tls&sni=403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2Ftr9vfP2lflALkJrNsQ%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🇷🇺 RU-185.176.24.2:443
 trojan://bpb-trojan@190.93.244.202:443?security=tls&sni=fcspring.ggff.net&type=ws&host=fcspring.ggff.net&path=%2Ftr%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-190.93.244.202:443
 trojan://ypDt8RkT7J@89.187.181.172:43118?security=tls&sni=egcmi.phooeyunfold.com&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-89.187.181.172:43118
+trojan://NISHIKUITAN111@162.159.133.112:443?allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.133.112:443
+trojan://NISHIKUITAN111@108.162.193.9:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-108.162.193.9:443
