@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://blue2024@104.25.119.110:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.119.110:443
-trojan://blue2024@172.67.30.171:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.30.171:443
-trojan://SSorg@27.50.49.74:2087?security=tls&sni=ssjj.esslh.filegear-sg.me&type=ws&host=ssjj.esslh.filegear-sg.mehttp%2F1.1&path=%2F%3Fed#🔒 TR-WS-TLS 🇸🇬 SG-27.50.49.74:2087
-trojan://blue2024@172.67.243.218:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.243.218:443
-trojan://blue2024@172.67.77.244:443?security=tls&sni=td.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.77.244:443
-trojan://bpb-trojan@185.238.228.210:443?sni=bpb.my79801.com#🔒 TR-TCP-NA 🇪🇸 ES-185.238.228.210:443
 trojan://NISHIKUITAN222@141.101.120.208:443?security=tls&sni=in.ylks.xyz&type=ws&host=in.ylks.xyz&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-141.101.120.208:443
 trojan://blue2024@104.16.214.5:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.214.5:443
 trojan://blue2024@172.67.75.172:443?sni=tc.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.75.172:443
@@ -603,3 +597,9 @@ vless://1ca49f11-82f3-42a2-9f58-ac10f8dfe2eb@104.26.15.85:2083?security=tls&sni=
 vless://cd24511a-c6d9-4147-8ae4-9b355e0729a8@104.21.69.44:80?security=none&type=httpupgrade&host=FySuMyYk3.aMirsiTesos.sItE.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.69.44:80
 vless://7b840a59-1086-4d1b-bd7a-a4511500393c@92.38.145.145:80?security=none&type=httpupgrade&host=oipm.org&path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-92.38.145.145:80
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@198.62.62.220:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.220:443
+vless://a520cac9-f99b-4d70-aa3e-02155a5c6b2c@104.21.48.1:80?security=none&type=ws&host=icy-recipe-a01e-esaa.o5sp7omnxkeh6xg4we.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.48.1:80
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.18.102:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.18.102:443
+vless://50dcb59d-fc2c-4dd2-a34a-3eec2918eb47@3.68.62.122:443?security=tls&sni=sa.bgm2024.us.kg&type=ws&host=sa.bgm2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇩🇪 DE-3.68.62.122:443
+vless://0b973691-d6a1-4829-aa24-25a1f40c10e8@188.114.96.4:443?security=tls&sni=PpAL03.YIcAMo8969.wOrkERs.dEv&type=ws&host=pPaL03.yiCaMO8969.WORkeRS.Dev&path=%2FkkuSkxJRaP6MzLKq%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.4:443
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.46:443?security=tls&sni=sB-1u6.Pages.DEV&type=ws&path=%2Fif1pdmbi6sinplj2%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.46:443
+vless://eebcdbce-4a2a-437e-9b30-f9d24793ebb1@190.93.246.160:443?security=tls&sni=vbbb.lii2010.us.kg&type=ws&host=vbbb.lii2010.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.246.160:443
