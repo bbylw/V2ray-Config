@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5600#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:5600
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.106.228.132:989#🔒 SS-TCP-NA 🇯🇵 JP-103.106.228.132:989
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZldaYnh0WG5QWDZzU0ZfbjlieXh3@62.133.63.226:2222#🔒 SS-TCP-NA 🇹🇷 TR-62.133.63.226:2222
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@217.182.198.219:443#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:443
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@217.182.198.219:5003#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:5003
 ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@80.92.204.106:9027#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9027
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.217.232:990#🔒 SS-TCP-NA 🇱🇻 LV-46.183.217.232:990
@@ -599,7 +603,3 @@ vless://a034f973-9a9c-4dfa-897e-e10647ac7109@81.31.245.106:443?type=tcp&encrypti
 vless://config--BLUEV2RAYNG--chaneel15@89.208.107.133:80?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2FChaneel-BLUETOWVRAYNG%3Fed%3D2048&ed=2048&eh=Sec-Websocket-Protocol#RU🇷🇺 | vkvd127.mycdn.me-80 | 123.65ms
 vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:80?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2FL7rg6DtGQXTjd07ui73LZgwx8s&ed=2048&eh=Sec-Websocket-Protocol#RU🇷🇺 | vkvd127.mycdn.me-80 | 123.93ms
 vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=partner.g2.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#REALITY|NO🇳🇴 | 185.125.171.13-443 | 100.93ms
-vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:8443?type=grpc&encryption=none&serviceName=g2com&sni=partner.g2.com&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#REALITY|NO🇳🇴 | 185.125.171.13-8443 | 100.4ms
-vless://c845e5bd-49e7-4952-a69f-6c384799a9a1@speedtest.net:443?type=ws&encryption=none&host=parsvds.ir&path=%2FFreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop%3Fed%3D2096&ed=2096&eh=Sec-Websocket-Protocol&security=tls&sni=speedtest.net&alpn=http%2F1.1&fp=chrome#US🇺🇸 | speedtest.net-443 | 2.49ms
-vless://c845e5bd-49e7-4952-a69f-6c384799a9a1@154.205.148.148:80?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2FFreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop%3Fed%3D2096&ed=2096&eh=Sec-Websocket-Protocol#RU🇷🇺 | vkvd127.mycdn.me-80 | 249.64ms
-vless://941bea09-5f14-44d8-ced9-31a6dcb25dd0@5.161.223.122:80?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#RU🇷🇺 | vkvd127.mycdn.me-80 | 128.13ms

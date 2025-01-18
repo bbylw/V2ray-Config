@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  <script>
+  window._cf_translation = {};
+  
+  
 </script>
 
 </body>
@@ -599,7 +603,3 @@ vless://ce3cd1c7-cf29-4164-f0c5-cb0525b3e692@datalabs.ae:2083?encryption=none&se
     {
       "type": "wireguard",
       "tag": "Warp-Main9",
-      "detour": "Warp-IR9",
-      "server": "162.159.192.18",
-      "server_port": 946,
-      
