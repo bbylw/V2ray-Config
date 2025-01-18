@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://55aab750-8d44-11ee-a289-1239d0255272@103.253.24.216:443?security=tls&sni=sg3-trojan.bonds.id&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://pjdnqv@188.114.97.0:443?security=tls&sni=aws-ca-central-1.f1cflined.com&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/f1rocket&host=aws-ca-central-1.f1cflined.com#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
+trojan://wkmY1R4EcP@45.63.59.167:443?security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
+trojan://pjdnqv@188.114.97.3:443?security=tls&sni=aws-us-dallas-1.f1cflined.com&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/f1rocket&host=aws-us-dallas-1.f1cflined.com#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
+trojan://pjdnqv@188.114.96.9:443?security=tls&sni=aws-ca-central-1.f1cflined.com&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/f1rocket&host=aws-ca-central-1.f1cflined.com#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
+trojan://your_password@43.205.109.9:443?security=tls&sni=aws-in-mumbai-1.f1rocketnode.com&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/f1rocket&host=aws-in-mumbai-1.f1rocketnode.com#%F0%9F%87%AE%F0%9F%87%B3%20India%20-%20Mumbai%20%F0%9F%8C%8F%20TR-WS-TLS%204%E2%83%A3
+trojan://mnk8fd@188.114.96.9:443?security=tls&sni=aws-ca-central-1.f1cflined.com&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/f1rocket&host=aws-ca-central-1.f1cflined.com#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
+trojan://wkmY1R4EcP@45.63.59.167:443?security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
 trojan://fa9a512a-eab5-4cdf-b559-14922eb3948e@43.198.250.182:443?security=tls&sni=cdn-65135431546231.78321.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20Hong%20Kong%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://mnk8fd@188.114.96.0:443?security=tls&sni=aws-ca-central-1.f1cflined.com&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/f1rocket&host=aws-ca-central-1.f1cflined.com#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://pjdnqv@104.18.10.128:443?security=tls&sni=aws-us-nyc-1.f1cflined.com&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/f1rocket&host=aws-us-nyc-1.f1cflined.com#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
@@ -595,11 +603,3 @@ ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.86.135.117:6379#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.49.84:6679#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Ashburn%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.117:5001#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Washington%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.86.135.117:2375#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Washington%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.117:3389#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Washington%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.91.100.211:2375#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20New%20York%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Washington%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.84:5001#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Ashburn%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.117:8118#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Washington%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.211:8080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Washington%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
-hy2://9bb452b106ffc217@207.148.22.93:443?obfs=salamander&obfs-password=cd29099d&insecure=1&sni=207.148.22.93#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Piscataway%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.105:5004#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Newark%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
