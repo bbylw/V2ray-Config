@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      "tag": "Warp-IR2",
+      "server": "188.114.99.186",
       "server_port": 5956,
 
       "local_address": [
@@ -339,7 +341,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 904cfbb9cc13e17c &bull; 2025-01-20 06:24:45 UTC</small>
+          <small class="heading-ray-id">Ray ID: 904d48299fb90654 &bull; 2025-01-20 07:16:55 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -364,12 +366,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">904cfbb9cc13e17c</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">904d48299fb90654</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.183.159.64</span>
+      <span class="hidden" id="cf-footer-ip">20.246.78.31</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -601,5 +603,3 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344749214.amsterdam-blk-dra.i
 ss://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.47:80?path=%2Fvless-ws%2F%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=teleirani.ir&type=ws#👉🆔@v2ray_configs_pool`
 ss://ccef0b82-5d7e-41e0-ba1d-05cece210264@free-ipv6.onlinernet.ir:2025?security=none&encryption=none&headerType=http&type=tcp#👉🆔@v2ray_configs_pool`
 ss://35aa4cf8-c13c-58db-bd62-9de92225030f@95.164.38.6:2052?path=%2Fvless%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=www-domain.no1.v2vless.sitespeedtest.net&type=ws#👉🆔@v2ray_configs_pool`
-ss://550f4b49-fa81-4753-b08c-08b63bd192c8@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔@v2ray_configs_pool`
-ss://f2394031-5dcc-57ea-beb9-8d875ea43804@91.242.229.69:2052?path=%2Fvless%23Telegram%40V2ray_Alpha&security=none&encryption=none&type=ws#👉🆔@v2ray_configs_pool`
