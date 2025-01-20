@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - DOMAIN-SUFFIX,wan.sohu.com,🍃 应用净化
+  - DOMAIN-SUFFIX,wl.hd.sohu.com,🍃 应用净化
+  - DOMAIN-SUFFIX,yule.sohu.com,🍃 应用净化
+  - DOMAIN-SUFFIX,afp.pplive.com,🍃 应用净化
+  - DOMAIN-SUFFIX,app.aplus.pptv.com,🍃 应用净化
   - DOMAIN-SUFFIX,as.aplus.pptv.com,🍃 应用净化
   - DOMAIN-SUFFIX,asimgs.pplive.cn,🍃 应用净化
   - DOMAIN-SUFFIX,de.as.pptv.com,🍃 应用净化
@@ -598,8 +603,3 @@
   - DOMAIN-SUFFIX,kkbox.com,🌍 国外媒体
   - DOMAIN-SUFFIX,kkbox.com.tw,🌍 国外媒体
 #   - USER-AGENT,KKTV*,🌍 国外媒体
-#   - USER-AGENT,com.kktv.ios.kktv*,🌍 国外媒体
-  - DOMAIN,kktv-theater.kk.stream,🌍 国外媒体
-  - DOMAIN,theater-kktv.cdn.hinet.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,kktv.com.tw,🌍 国外媒体
-  - DOMAIN-SUFFIX,kktv.me,🌍 国外媒体
