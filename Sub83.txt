@@ -3,21 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  - IP-CIDR,59.111.128.0/17,🎯 全球直连,no-resolve
-  - IP-CIDR,103.71.120.0/21,🎯 全球直连,no-resolve
-  - IP-CIDR,103.71.128.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,103.71.196.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,103.71.200.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,103.72.12.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,103.72.18.0/23,🎯 全球直连,no-resolve
-  - IP-CIDR,103.72.24.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,103.72.28.0/23,🎯 全球直连,no-resolve
-  - IP-CIDR,103.72.38.0/23,🎯 全球直连,no-resolve
-  - IP-CIDR,103.72.40.0/23,🎯 全球直连,no-resolve
-  - IP-CIDR,103.72.44.0/22,🎯 全球直连,no-resolve
-  - IP-CIDR,103.72.48.0/21,🎯 全球直连,no-resolve
-  - IP-CIDR,103.72.128.0/21,🎯 全球直连,no-resolve
-  - IP-CIDR,103.74.24.0/21,🎯 全球直连,no-resolve
   - IP-CIDR,103.74.48.0/22,🎯 全球直连,no-resolve
   - IP-CIDR,103.126.92.0/22,🎯 全球直连,no-resolve
   - IP-CIDR,103.129.252.0/22,🎯 全球直连,no-resolve
@@ -603,3 +588,18 @@ ss://85785498-b9f6-4607-bf25-31d849fb86eb@hajlab.ucdavis.edu:443?path=%2F@XvProx
 ss://Parsashonam-146@185.146.173.39:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#@Parsashonam
 ss://3c040157-b103-423e-89ac-23c768dea8a7@18.217.107.68:443?type=tcp&amp;security=reality&amp;pbk=HG9t2HhmBcU3u63xzmV227fg0O2ka5BLcKeYA74Lah4&amp;fp=chrome&amp;sni=www.openstreetmap.org&amp;sid=a45eed54009e54de&amp;spx=%2F#telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40Vpn_Tehran+%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+ss://7e312855-48a7-4efc-8646-94732a04e922@cash.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=vtmzwg.allgums.com&amp;type=ws&amp;alpn=http/1.1&amp;host=vtmzwg.allgums.com&amp;path=/wss#telegram
+ss://07ba7aaf-f180-413d-9e62-fded2788e9ce@168.119.101.219:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=168.119.101.219&amp;type=ws#%40kingofilter
+ss://2737560d-1867-47fa-aa80-351c36d771c7@172.67.41.167:2052?type=ws&amp;host=0118.kznyoum2.workers.dev&amp;path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+ss://a1dbc314-a6b8-4bbc-9e55-d66cf6379082@199.247.10.245:8080?type=ws&amp;security=none&amp;path=%2F#telegram
+ss://e94d344c-1583-46dd-bfed-4c37d4dbc8b4@172.66.47.146:80?path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=join-daily-configs.broken-dreams.ir&amp;type=ws#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%40vless_vmess
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig80.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%AC%F0%9F%87%A7
+ss://2dcb48d2-a32a-5a42-a076-9392cacdbfd1@speedtest.net:80?security=none&amp;encryption=none&amp;host=0-MO-SI-V2.COM&amp;type=ws#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
+ss://Biain--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=ndmo.ir&amp;type=ws&amp;sni=zmaoz.faculty.ucdavis.edu#all%20%F0%9F%87%AB%F0%9F%87%B7%20%28%40ZEDMODEON%29%2048
+ss://TELEGRAM-NUFiLTER-60eea589e2e6@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=Doogh-nufilter.com&amp;type=ws#%40flyv2ray
+ss://530c46d1-a9f1-4847-b989-546390729427@outshop.bestshop10.ir:26745?type=tcp&amp;headerType=http&amp;host=speedtest.net#@fnet00
+ss://3bf06e05-7b54-4c13-9b0b-660bd3e9d67f@95.179.139.70:8080?type=ws&amp;security=none&amp;path=%2F#telegram
+ss://Parsashonam-145@[2a01:4f8:1c1b:26eb::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Parsashonam
+ss://3c040157-b103-423e-89ac-23c768dea8a7@54.187.42.63:443?type=tcp&amp;security=reality&amp;pbk=HG9t2HhmBcU3u63xzmV227fg0O2ka5BLcKeYA74Lah4&amp;fp=chrome&amp;sni=www.openstreetmap.org&amp;sid=a45eed54009e54de&amp;spx=%2F#telegram
+ss://7d4e9491-4eb4-42da-926c-2c7c201e99e2@UK.IPCLOUD.SHOP:443?path=%2Fnet%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=uk-cdn.pop-up-pool.xyz&amp;type=ws&amp;sni=uk-cdn.pop-up-pool.xyz#FreeForAll
+ss://a83b52bd-8a99-4df5-a4c9-c82c043c1f8d@frad.webshecan.cloud:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=&amp;sni=france.webshecan.cloud#%40WebShecan-With%E2%9D%A4%EF%B8%8F
