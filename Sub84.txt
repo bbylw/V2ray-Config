@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  - IP-CIDR,103.196.64.0/22,🎯 全球直连,no-resolve
+  - IP-CIDR,106.2.32.0/19,🎯 全球直连,no-resolve
   - IP-CIDR,106.2.64.0/18,🎯 全球直连,no-resolve
   - IP-CIDR,114.113.196.0/22,🎯 全球直连,no-resolve
   - IP-CIDR,114.113.200.0/22,🎯 全球直连,no-resolve
@@ -601,5 +603,3 @@ ss://Parsashonam-149@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3
 ss://fffa635a-174a-4d68-b9c6-9b8d87020f47@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Berim3arekar.net&amp;type=ws#vless_vmess
 ss://24ffb13b-fbbc-466e-c2b4-d65b9d37264c@70.34.194.96:8080?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@V2ray1_Ng
 ss://77540057-4504-43f7-b229-765f9b7bf35d@game.wlftest.xyz:443?type=tcp&amp;security=reality&amp;pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&amp;fp=ios&amp;sni=game&amp;sid=ce&amp;spx=%2F&amp;flow=xtls-rprx-vision#%40WomanLifeFreedomVPN
-ss://telegram-id-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=8.v.v.v-_-_-v2ray-_-_-v.v.zula.ir.speedtest.net.bahrane.Ir.&amp;type=ws#WS8-Hamrah-@ArV2ray
-ss://3c040157-b103-423e-89ac-23c768dea8a7@44.244.253.122:443?type=tcp&amp;security=reality&amp;pbk=HG9t2HhmBcU3u63xzmV227fg0O2ka5BLcKeYA74Lah4&amp;fp=chrome&amp;sni=www.openstreetmap.org&amp;sid=a45eed54009e54de&amp;spx=%2F#telegram
