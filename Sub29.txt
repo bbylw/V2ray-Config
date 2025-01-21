@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.242.142:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.242.142:80
+vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@188.114.97.1:2053?security=tls&sni=FREEDOM31.Pages.DEV&type=ws&host=FREEDOM31.Pages.DEV&path=%2F&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.1:2053
+vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.48:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.199.48:443
+vless://b0a63ba3-6cb0-48de-a19d-12babdb0ba4d@141.101.122.35:2082?security=none&type=ws&host=23tg.fh19yh0z.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-141.101.122.35:2082
+vless://55520747-311e-4015-83ce-be46e2060ce3@129.80.177.42:443?security=tls&sni=uxb.vs2024.us.kg&type=ws&host=uxb.vs2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-129.80.177.42:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@162.159.207.150:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.207.150:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.224.60:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.224.60:80
 vless://2c79b667-b103-4d22-86d0-5ef23f303c06@103.116.7.83:80?security=tls&sni=japan.freenods-8d6.workers.dev&type=ws&host=japan.freenods-8d6.workers.dev&path=telegram@wangcai2/?ed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-103.116.7.83:80
@@ -598,8 +603,3 @@ vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.19:443?security=tls&sni=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.50.198:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.50.198:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.248.226:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.248.226:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.83.140:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.83.140:80
-vless://f054f66b-6cda-44c9-cf32-d7cea51c971f@104.17.147.22:8080?security=none&type=ws&host=d7aef6d199db21b23b5d47452aed6555ekxnkxn.degrmeto.site.&path=%2F%3Fed%3D8880#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:8080
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.101:3237?security=none&type=tcp#🔒 VL-TCP-NONE 🇨🇾 CY-185.153.183.101:3237
-vless://ff072857-d08f-4fc9-a52e-30946d0926cd@172.67.70.92:2087?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.92:2087
-vless://07bb719d-a300-4e08-acc3-fdebec273425@188.114.98.243:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.243:443
-vless://c1d22711-2adf-4ffa-a5d8-439e665bb951@45.131.6.236:80?security=tls&sni=656654647567245851483768538765962936476541237567854816545176587.11feea65a1d70a.workers.dev&type=ws&host=656654647567245851483768538765962936476541237567854816545176587.11feea65a1d70a.workers.dev&path=telegram@wangcai2/?ed%3D2048#🔒 VL-WS-TLS 🇳🇱 NL-45.131.6.236:80
