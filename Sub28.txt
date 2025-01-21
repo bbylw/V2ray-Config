@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://e7a4e3eb-c317-4c4e-a7f7-a1a019f1f8bd@212.113.106.207:2052?security=none&type=httpupgrade&host=gr1m.mimarketshop.INFO.&path=%2Fwww.speedtest.net.Xiaomi%3Fed%3D80#🔒 VL-HTTPUPGRADE-NONE 🇦🇹 AT-212.113.106.207:2052
+vless://62357561-a129-4b9e-9614-ce2578020866@59.3.3.161:443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇰🇷 KR-59.3.3.161:443
 vless://e56a9c60-30d7-4d5c-b2ea-22d72c22d7ea@91.134.102.128:22671?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-91.134.102.128:22671
 vless://50dcb59d-fc2c-4dd2-a34a-3eec2918eb47@104.16.143.237:443?security=tls&sni=sa.bgm2024.us.kg&type=ws&host=sa.bgm2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.143.237:443
 vless://04a6d9ad-15d1-5391-a47f-10c8a6ff3d94@172.67.186.159:8443?security=tls&sni=id-tel-vpnkenzo-1.bvxvgih.WOrkeRs.dEv&type=ws&host=id-tel-vpnkenzo-1.bvxvgih.WOrkeRs.dEv&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.186.159:8443
@@ -601,5 +603,3 @@ vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.138.70:2082?type=ws&host=011
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.236.135:443?security=tls&sni=dse.bgm2024.us.kg&type=ws&host=dse.bgm2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.135:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.24.4:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.24.4:80
 vless://813e1424-c68d-4e96-ac5f-e7b6dfe79605@151.101.129.46:80?security=none&type=ws&host=vpngaming.ir&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-151.101.129.46:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.31.49:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.31.49:80
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.105.140:80?type=ws#🔒 VL-WS-NA 🇺🇸 US-167.82.105.140:80
