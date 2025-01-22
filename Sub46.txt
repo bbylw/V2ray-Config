@@ -3,6 +3,41 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+
+      "mtu": 1280,
+      "fake_packets": "5-10"
+    },
+    {
+      "type": "wireguard",
+      "tag": "Warp-Main8",
+      "detour": "Warp-IR8",
+      "server": "188.114.98.241",
+      "server_port": 5956,
+      
+      "local_address": [
+          "172.16.0.2/32",
+          "2606:4700:110:8b89:c914:e1d5:cc98:4a22/128"
+      ],
+      "private_key": "yAaefQJhAvO85aHzEW5tMSpHDBaOTaNnO7GhrzMUenU=",
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": [205,184,52],  
+
+      "mtu": 1120
+    },{
+      "type": "wireguard",
+      "tag": "Warp-IR9",
+      "server": "162.159.192.18",
+      "server_port": 946,
+
+      "local_address": [
+        "172.16.0.2/32",
+        "2606:4700:110:8bfe:9ee3:bc8e:8274:cf86/128"
+      ],
+      "private_key": "eCb5hevZFkPV/S8ppLuwVfiQuBTCPCUKih0hjwM7Rm8=",
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": [19,45,7],
+
+      "mtu": 1280,
       "fake_packets": "5-10"
     },
     {
@@ -97,7 +132,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 90608459de825a57 &bull; 2025-01-22 15:18:30 UTC</small>
+          <small class="heading-ray-id">Ray ID: 9060e1e4dd547ac7 &bull; 2025-01-22 16:22:22 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -122,12 +157,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">90608459de825a57</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9060e1e4dd547ac7</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">68.154.30.147</span>
+      <span class="hidden" id="cf-footer-ip">52.234.38.112</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -568,38 +603,3 @@ trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?security=tls
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlZNLTA5MjYtMDAyIiwNCiAgImFkZCI6ICJmMi5tYXJ5YW0xOTAwLmNvbSIsDQogICJwb3J0IjogIjg0NDMiLA0KICAiaWQiOiAiYWZlNTc1NTctZGYyNC00M2U1LTljZWEtNWQyYWNjMmNhZDA4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJncnBjIiwNCiAgInR5cGUiOiAiZ3VuIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.21.181:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F#VL-1101-038
 vless://c327472a-936d-4600-bc97-3a95fc674080@151.101.128.155:80?encryption=none&security=none&type=ws&host=jetservices55.ir&path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config#VL-1103-009
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.138.178:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#VL-1026-44
-vless://bf2434c2-2200-4c3e-a5dc-6f9aadd4fcd4@138.124.53.161:443?encryption=none&security=tls&sni=dd4.trackid.ir&type=ws&host=dd4.trackid.ir&path=%2F#VL-1101-029
-vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.124.80:443?encryption=none&security=tls&sni=147135010103.sec19org.com&type=tcp&headerType=none#VL-1103-012
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.247.119:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#VL-1101-034
-vless://c4354105-93a5-5577-998e-a6e3fc29e41f@45.133.216.209:2082?encryption=none&security=none&type=grpc&authority=&serviceName=vless-grpc&mode=gun#VL-1103-014
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.51.114:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#VL-1103-015
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.132:3237?encryption=none&security=none&type=tcp&headerType=none#VL-1103-016
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.64.154.211:443?encryption=none&security=tls&sni=fatwith.us.kg&type=ws&host=fatwith.us.kg&path=%3Fed%3D2560#VL-1103-017
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.221:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#VL-1103-018
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.30.125:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#VL-1103-019
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.49.114:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F#VL-1101-032
-trojan://auto@104.21.48.61:443?security=tls&sni=nameless-term-9c25.vpnconnect202020.workers.dev&type=ws&host=nameless-term-9c25.vpnconnect202020.workers.dev&path=%2F%3Fed%3D2560#VL-1026-57
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.40.151:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#VL-1019-042
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.21:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%40icv2ray%2C%40icv2ray%2C%40icv2ray%2C%40icv2ray%2C%40icv2ray%2C%40icv2ray%2C%40icv2ray%2C%40icv2ray%2C%40icv2ray%2C%40icv2ray%2C%40icv2ray%2C%40icv2ray%3Fed%3D2560#VL-1026-42
-vless://41abecd9-8096-4142-a75c-4e1d36d990bd@46.254.92.33:443?encryption=none&security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#VL-1101-036
-vless://57b195c6-5b14-4740-84dd-4eac9fa496dd@188.114.96.0:443?encryption=none&security=tls&sni=4fi0bned6rskd4f4x8b53lhibpjrrz7ppzbyhrqv99yf0i9riuwzp79gu5lahbt.1td780.workers.Dev&type=ws&host=4fi0bned6rskd4f4x8b53lhibpjrrz7ppzbyhrqv99yf0i9riuwzp79gu5lahbt.1td780.workers.Dev&path=%2F#VL-1103-025
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.65:3237?encryption=none&security=none&type=tcp&headerType=none#VL-1103-026
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.7.40:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#VL-1103-027
-vless://ba2def0c-37cc-417b-89fc-a15daeff639f@188.114.97.3:443?encryption=none&security=tls&sni=nobn4mmes6ngtz69omncgukgspsgyd9wfuwabmsuup4h29wpba6dfefdfsfdsfd.uicd7i4r.workers.Dev&type=ws&host=nobn4mmes6ngtz69omncgukgspsgyd9wfuwabmsuup4h29wpba6dfefdfsfdsfd.uicd7i4r.workers.Dev&path=Telegram%20channel%20%3A%20%40pandavpntc#VL-1101-031
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.61.49:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#VL-1103-029
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@5.2.73.137:7000?encryption=none&security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#VL-1103-030
-vless://3f0fe596-2a98-4724-bee1-72ba87403cd0@2.56.126.163:8880?encryption=none&security=none&type=grpc#VL-1103-031
-vless://7df38868-d9a9-5606-a221-524df4f25b0f@77.91.102.85:2052?encryption=none&security=none&sni=pl1.vless.site&type=grpc&authority=&serviceName=vless-grpc&mode=gun#VL-1103-032
-vless://3363185d-ee02-44ac-a127-1c65fc02ada8@188.114.96.1:443?encryption=none&security=tls&sni=td3j8gpbytxy7ob7l5yz3wywgmytsssx0xwjyr2gbbydpcd8bs3acqj4yr2i4z3.kck8tlk.workers.Dev&type=ws&host=td3j8gpbytxy7ob7l5yz3wywgmytsssx0xwjyr2gbbydpcd8bs3acqj4yr2i4z3.kck8tlk.workers.Dev&path=%2F#VL-1101-024
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.33.45:443?encryption=none&security=tls&sni=fatwith.us.kg&type=ws&host=fatwith.us.kg&path=%3Fed%3D2560#VL-1103-033
-vless://f9f52055-ff98-4f3c-baa4-869864503e1e@104.25.140.153:443?encryption=none&security=tls&sni=BPB-pANEL-En-1O0.pAges.DEV&type=ws&host=BPB-pANEL-En-1O0.pAges.DEV&path=%2F#VL-1101-050
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.9.236:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#VL-1101-016
-vless://1dddb054-1d6d-4f33-831e-ea3a0cd3ebe8@172.67.157.34:443?encryption=none&security=tls&sni=dce3fsg3hho43e4bxvbowf6jtnu2bhdewpvfysrzgv4pw7gqrtkgbuslfdsfsfs.aeh4d7u.workers.Dev&type=ws&host=dce3fsg3hho43e4bxvbowf6jtnu2bhdewpvfysrzgv4pw7gqrtkgbuslfdsfsfs.aeh4d7u.workers.Dev&path=Telegram%20channel%20%3A%20%40pandavpntc#VL-1103-037
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.103:3237?encryption=none&security=none&type=tcp&headerType=none#VL-1103-038
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.76:3237?encryption=none&security=none&type=tcp&headerType=none#VL-1103-039
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.94.31.109:1001?encryption=none&security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#VL-1101-035
-vless://161fa2ac-9618-4a3c-bc9b-5420ecc1826e@104.21.47.6:443?encryption=none&security=tls&sni=v2ray-vmess-free.irnoen.workers.dev&type=ws&host=v2ray-vmess-free.irnoen.workers.dev&path=%2F%3F%40VPN_ROOM------%40VPN_ROOM#VL-1101-019
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.158.1:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#VL-1026-28
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.145:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#VL-1103-043
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.147.22:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi#VL-1026-31
