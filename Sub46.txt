@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-
-      "mtu": 1280,
-      "fake_packets": "5-10"
-    },
-    {
       "type": "wireguard",
       "tag": "Warp-Main8",
       "detour": "Warp-IR8",
@@ -132,7 +127,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 9060e1e4dd547ac7 &bull; 2025-01-22 16:22:22 UTC</small>
+          <small class="heading-ray-id">Ray ID: 90613150b9337fed &bull; 2025-01-22 17:16:35 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -157,12 +152,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9060e1e4dd547ac7</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">90613150b9337fed</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">52.234.38.112</span>
+      <span class="hidden" id="cf-footer-ip">20.42.17.63</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +598,8 @@ trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?security=tls
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlZNLTA5MjYtMDAyIiwNCiAgImFkZCI6ICJmMi5tYXJ5YW0xOTAwLmNvbSIsDQogICJwb3J0IjogIjg0NDMiLA0KICAiaWQiOiAiYWZlNTc1NTctZGYyNC00M2U1LTljZWEtNWQyYWNjMmNhZDA4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJncnBjIiwNCiAgInR5cGUiOiAiZ3VuIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.21.181:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F#VL-1101-038
 vless://c327472a-936d-4600-bc97-3a95fc674080@151.101.128.155:80?encryption=none&security=none&type=ws&host=jetservices55.ir&path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config#VL-1103-009
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.138.178:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#VL-1026-44
+vless://bf2434c2-2200-4c3e-a5dc-6f9aadd4fcd4@138.124.53.161:443?encryption=none&security=tls&sni=dd4.trackid.ir&type=ws&host=dd4.trackid.ir&path=%2F#VL-1101-029
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.124.80:443?encryption=none&security=tls&sni=147135010103.sec19org.com&type=tcp&headerType=none#VL-1103-012
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.247.119:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#VL-1101-034
+vless://c4354105-93a5-5577-998e-a6e3fc29e41f@45.133.216.209:2082?encryption=none&security=none&type=grpc&authority=&serviceName=vless-grpc&mode=gun#VL-1103-014
