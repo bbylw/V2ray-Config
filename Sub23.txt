@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?security=tls&sni=iSaa1.PAGeS.DeV&type=ws&host=iSAA1.paGEs.DEV&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.5.250:443
-trojan://bpb-trojan@172.67.153.198:2083?security=tls&sni=102.DJr999998.Eu.oRG&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.153.198:2083
-trojan://Aimer@172.64.33.144:443?security=tls&sni=acepo.ambercc.filegear-sg.me&type=ws&host=acepo.ambercc.filegear-sg.mehttp%2F1.1&path=%2F%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.33.144:443
-trojan://telegram-id-privatevpns@35.159.181.183:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-35.159.181.183:22222
-trojan://NISHIKUITAN111@104.16.130.216:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.130.216:443
-trojan://NISHIKUITAN111@104.20.116.38:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.116.38:443
 trojan://SSorg@104.19.239.137:2087?sni=ssjj.esslh.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.239.137:2087
 trojan://blue2024@104.20.73.186:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.20.73.186:443
 trojan://blue2024@104.16.45.220:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.45.220:443
@@ -603,3 +597,9 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@206.238.237.185:443?security=tls&sn
 vless://9cbdc595-1d8d-4443-af07-99149153d025@172.64.150.28:443?security=tls&sni=55208eac587242828bed.voso-ahadi.info&type=ws&host=55208eac587242828bed.voso-ahadi.info&path=%2FVArDAnZws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.150.28:443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@162.159.153.99:2083?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.99:2083
 vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@172.67.153.74:2086?security=none&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.153.74:2086
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@185.251.83.50:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇪🇸 ES-185.251.83.50:443
+vless://dad060e4-bfdc-438e-8400-05c15cfec3ba@173.245.59.100:80?security=none&type=httpupgrade&host=ger1.nanowaash-shop.ir#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.59.100:80
+vless://68d0af06-b182-4d8d-affd-ef35be838483@151.101.128.155:80?security=none&type=ws&host=game.baziha0098.ir#🔒 VL-WS-NONE 🇺🇸 US-151.101.128.155:80
+vless://a164e41f-9046-4928-9bc0-9d6388b7ca5e@172.67.204.84:80?security=none&type=ws&host=ch1.dontbow.store.&path=/melo/is/needed#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.30.16:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.30.16:80
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@103.106.2.221:2198?type=tcp#🔒 VL-TCP-NA 🇳🇱 NL-103.106.2.221:2198
