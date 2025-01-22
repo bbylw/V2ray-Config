@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://blue2024@162.159.44.161:443?security=tls&sni=tc.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.44.161:443
+trojan://NISHIKUITAN222@173.245.49.110:443?security=tls&sni=im.ylks.xyz&type=ws&host=im.ylks.xyz&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.49.110:443
+trojan://blue2024@104.17.27.142:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.27.142:443
+trojan://NISHIKUITAN111@104.20.65.198:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.65.198:443
+trojan://blue2024@104.24.92.234:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu#🔒 TR-WS-TLS 🏴‍☠️ NA-104.24.92.234:443
+trojan://blue2024@172.67.135.57:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.135.57:443
 trojan://ypDt8RkT7J@89.187.181.172:43118?security=tls&sni=egcmi.phooeyunfold.com&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-89.187.181.172:43118
 trojan://yaml777@104.21.61.73:443?security=tls&sni=yaml7.ggff.net&type=ws&host=yaml7.ggff.net&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.61.73:443
 trojan://DC%26%26buj17.%23donz*@104.17.147.22:2096?security=tls&sni=Sue-suppoRT.pAgeS.dEV&type=ws&host=sue-support.pages.dev&path=%2FtrjFapI0BLfN3cT9v4%2FMTYyLjE1OC4yMDEuODI%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.22:2096
@@ -597,9 +603,3 @@ vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443?security=tls&sni=
 vless://18305d47-d7eb-5bba-a7a9-2e914ddc1469@95.164.8.106:2052?type=ws&path=/vless%23@V2RAY%5C_SPATIAL,#🔒 VL-WS-NA 🇪🇪 EE-95.164.8.106:2052
 vless://ddc5365f-6e70-408d-b4c1-1ba2ac0a7b35@104.21.54.238:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.54.238:443
 vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@190.93.247.130:443?security=tls&sni=vpn.restia.love&type=ws&host=vpn.restia.love#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.130:443
-vless://e016b7d6-f779-4bd4-a28b-de599b01be70@172.64.203.36:443?security=tls&sni=z.softmeto.site&type=xhttp#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.64.203.36:443
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.101:3237?security=none&type=tcp#🔒 VL-TCP-NONE 🇨🇾 CY-185.153.183.101:3237
-vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?security=tls&sni=ARCane-ROYAL.Pages.DEV&type=ws&host=ARCane-ROYAL.Pages.DEV&path=/&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.14.99:443
-vless://0859b63e-cb81-4c01-bf5a-739f90e72f92@104.21.73.45:2095?security=none&type=ws&host=v2ray-_-_-_-_-_-vpn.frev2ray.kellekcollection.myname.houselife.IR.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.73.45:2095
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@77.91.122.176:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-77.91.122.176:2198
-vless://dba910a2-845a-4e63-8a88-098d6fd79a30@79.127.70.67:8822?security=none&type=tcp&host=archlinux.org&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.127.70.67:8822
