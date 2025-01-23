@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      "mtu": 1280,
+      "fake_packets": "5-10"
     },
     {
       "type": "wireguard",
@@ -261,7 +263,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 9069d0a099e05aec &bull; 2025-01-23 18:23:26 UTC</small>
+          <small class="heading-ray-id">Ray ID: 906a1ae57b723992 &bull; 2025-01-23 19:14:08 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -286,12 +288,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9069d0a099e05aec</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">906a1ae57b723992</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.206.108.70</span>
+      <span class="hidden" id="cf-footer-ip">20.57.44.206</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -601,5 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowN0xrRHR4NkF3cm1rTE1iZWhySUFo@51.13.183.76:6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%F0%9F%87%A8%F0%9F%87%A6CA-142.4.216.225-179
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#%F0%9F%87%AC%F0%9F%87%A7GB-141.98.101.180-156
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#%F0%9F%87%A8%F0%9F%87%A6CA-142.4.216.225-169
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.176.29:989#%F0%9F%87%A6%F0%9F%87%B7AR-190.103.176.29-206
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.113:989#%F0%9F%87%AC%F0%9F%87%A7GB-77.72.5.113-056
