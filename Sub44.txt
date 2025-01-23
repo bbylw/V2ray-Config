@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      - feng1_3
+      - feng2_3
       - feng3_3
       - feng4_3
       - feng5_3
@@ -601,5 +603,3 @@ rules:
   - DOMAIN-SUFFIX,qucaigg.com,🛑 全球拦截
   - DOMAIN-SUFFIX,qumi.com,🛑 全球拦截
   - DOMAIN-SUFFIX,qxxys.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,reachmax.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,responsys.net,🛑 全球拦截
